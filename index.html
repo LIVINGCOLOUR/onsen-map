@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>生源泉マップ</title>
+    <meta name="description" content="日帰りで入れる源泉かけ流しの温泉を、塩素とサウナで分けた地図（関東・福島・熊本）" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>♨️</text></svg>" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+      :root {
+        --bg: #0b1114;
+        --panel: #131c21;
+        --panel2: #1a262c;
+        --txt: #eaf3f5;
+        --mut: #93a9b0;
+        --line: #26363d;
+        --accent: #2ec4b6;
+        --none: #3ddc97;
+        --unknown: #9aa5ab;
+        --yes: #ff6b6b;
+        --warn: #ffd166;
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; height: 100%; background: var(--bg); }
+      body {
+        font-family: system-ui, -apple-system, "Hiragino Kaku Gothic ProN", sans-serif;
+        color: var(--txt); display: flex; flex-direction: column;
+      }
+      a { color: var(--accent); }
+      button { font-family: inherit; cursor: pointer; }
+      .topbar {
+        display: flex; align-items: center; gap: 8px 14px; flex-wrap: wrap;
+        padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel);
+      }
+      .brand { font-weight: 800; font-size: 17px; }
+      .rule { font-size: 11px; color: var(--mut); line-height: 1.5; }
+      .rule details { display: inline; }
+      .rule summary { display: inline; cursor: pointer; color: var(--accent); }
+      .rule .more { display: block; margin-top: 4px; max-width: 760px; }
+      .chips { margin-left: auto; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+      .chips .lbl { font-size: 11px; color: var(--mut); }
+      .chip {
+        border: 1px solid var(--line); background: var(--bg); color: var(--mut);
+        border-radius: 999px; padding: 4px 11px; font-size: 12px; font-weight: 700;
+        display: inline-flex; align-items: center; gap: 6px;
+      }
+      .chip i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+      .chip i.sq { border-radius: 2px; background: var(--mut); }
+      .chip.on { color: var(--txt); border-color: var(--mut); background: var(--panel2); }
+      .chip:not(.on) i { opacity: .3; }
+      .search {
+        border: 1px solid var(--line); background: var(--bg); color: var(--txt);
+        border-radius: 999px; padding: 4px 11px; font-size: 12px; width: 150px;
+      }
+      .main { flex: 1; display: flex; min-height: 0; }
+      #map { flex: 1; min-height: 320px; }
+      .side {
+        width: 380px; overflow-y: auto; border-left: 1px solid var(--line);
+        background: var(--bg); padding: 12px; display: flex; flex-direction: column; gap: 10px;
+      }
+      .count { font-size: 11px; color: var(--mut); }
+      .card {
+        border: 1px solid var(--line); border-left: 4px solid var(--unknown); background: var(--panel);
+        border-radius: 10px; padding: 10px 12px; cursor: pointer;
+      }
+      .card.none { border-left-color: var(--none); }
+      .card.yes { border-left-color: var(--yes); }
+      .card.on { border-color: var(--accent); box-shadow: 0 0 0 1px rgba(46,196,182,.4); }
+      .card h3 { margin: 0 0 4px; font-size: 14px; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+      .tag { font-size: 10px; font-weight: 700; border-radius: 999px; padding: 2px 7px; white-space: nowrap; }
+      .tag.none { background: rgba(61,220,151,.15); color: var(--none); }
+      .tag.unknown { background: rgba(154,165,171,.18); color: var(--unknown); }
+      .tag.yes { background: rgba(255,107,107,.15); color: var(--yes); }
+      .tag.sauna { background: rgba(255,255,255,.1); color: var(--txt); }
+      .meta { font-size: 12px; color: var(--mut); line-height: 1.6; overflow-wrap: anywhere; }
+      .meta b { color: var(--txt); font-weight: 600; }
+      .caveat { font-size: 11px; color: var(--warn); margin-top: 6px; line-height: 1.5; }
+      .detail { display: none; margin-top: 8px; font-size: 12px; color: var(--mut); line-height: 1.6; overflow-wrap: anywhere; }
+      .card.open .detail { display: block; }
+      .detail ul { margin: 4px 0 0; padding-left: 18px; }
+      .detail h4 { margin: 8px 0 2px; font-size: 11px; color: var(--txt); }
+      .actions { margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
+      .actions button, .actions a {
+        font-size: 11px; border: 1px solid var(--line); background: var(--panel2); color: var(--txt);
+        border-radius: 8px; padding: 4px 10px; text-decoration: none;
+      }
+      .empty { color: var(--mut); font-size: 13px; padding: 20px 6px; line-height: 1.7; }
+      .err { color: #fca5a5; padding: 16px; font-size: 13px; }
+      .pin { border-radius: 50%; border: 2px solid #0b1114; box-shadow: 0 0 0 2px rgba(255,255,255,.75); }
+      .pin.sauna {
+        border-radius: 4px; color: #0b1114; font: 800 11px/1 system-ui, sans-serif;
+        display: flex; align-items: center; justify-content: center;
+      }
+      .leaflet-popup-content { font-size: 12px; line-height: 1.6; }
+      .leaflet-popup-content b { font-size: 13px; }
+      @media (max-width: 760px) {
+        .topbar { padding: 10px 16px; }
+        .main { flex-direction: column; }
+        #map { flex: none; height: 50vh; }
+        .side { width: 100%; border-left: 0; border-top: 1px solid var(--line); overflow: visible; }
+        body { height: auto; }
+        html, body { height: auto; }
+        .rule, .chips { width: 100%; min-width: 0; }
+        .chips { margin-left: 0; }
+        .search { width: 100%; }
+        .side { min-width: 0; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="topbar">
+      <div class="brand">♨️ 生源泉マップ</div>
+      <div class="rule">
+        日帰りで入れる源泉かけ流し（加水・加温は可）を、塩素とサウナで分けた地図。色＝塩素、四角＝サウナあり。
+        <details><summary>基準</summary><span class="more">
+          循環ろ過の浴槽が1つでもある施設は入れていません。塩素は「なし（公式）」が公式サイト・浴室の掲示・純温泉協会の認定、「なし（口コミ）」が口コミやブログの記述で、「不明」は根拠が見つからないか割れているものです。
+          情報は確認日時点のもので、変わっていることがあります。行く前に施設に確かめてください。<span id="updated"></span>
+        </span></details>
+      </div>
+      <div class="chips" id="chips"></div>
+    </div>
+    <div class="main">
+      <div id="map"></div>
+      <div class="side" id="side"></div>
+    </div>
+    <script>
+      const CL = [
+        { key: "none", label: "塩素なし", color: "var(--none)" },
+        { key: "unknown", label: "塩素不明", color: "var(--unknown)" },
+        { key: "yes", label: "塩素あり", color: "var(--yes)" },
+      ];
+      const SA = [
+        { key: "あり", label: "サウナあり" },
+        { key: "なし", label: "サウナなし" },
+      ];
+      const AREAS = [
+        { key: "east", label: "関東・福島" },
+        { key: "kumamoto", label: "熊本" },
+      ];
+      const PREFS = ["茨城", "栃木", "群馬", "埼玉", "千葉", "東京", "神奈川", "福島", "熊本"];
+      const side = document.getElementById("side");
+      const chips = document.getElementById("chips");
+      const shownCl = new Set(CL.map((t) => t.key));
+      const shownSa = new Set(SA.map((t) => t.key));
+      let records = [];
+      let markers = new Map();
+      let selected = null;
+      let fitted = false;
+      let area = new URLSearchParams(location.search).get("area") === "kumamoto" ? "kumamoto" : "east";
+      let q = "";
+
+      const map = L.map("map").setView([36.37, 140.25], 8);
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 18,
+        attribution: "&copy; OpenStreetMap contributors",
+      }).addTo(map);
+
+      const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+      const md = (s) => esc(s).replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+      const mdList = (s) => {
+        const lines = String(s ?? "").split("\n").map((l) => l.trim()).filter(Boolean);
+        return "<ul>" + lines.map((l) => "<li>" + md(l.replace(/^- /, "")) + "</li>").join("") + "</ul>";
+      };
+      const clOf = (r) => (r.chlorine === "あり" ? "yes" : r.chlorine === "不明" ? "unknown" : "none");
+      const clDef = (r) => CL.find((t) => t.key === clOf(r));
+      const sauna = (r) => r.hasSauna === "あり";
+      const areaOf = (r) => (r.prefecture === "熊本" ? "kumamoto" : "east");
+      const route = (r) => "https://www.google.com/maps/dir/?api=1&destination=" + r.lat + "," + r.lng;
+
+      function renderChips() {
+        const cnt = (f) => records.filter((r) => areaOf(r) === area && f(r)).length;
+        chips.innerHTML =
+          AREAS.map((t) => '<button class="chip' + (area === t.key ? " on" : "") + '" data-area="' + t.key + '">' + t.label + " " + records.filter((r) => areaOf(r) === t.key).length + "</button>").join("") +
+          '<span class="lbl">｜</span>' +
+          CL.map((t) => '<button class="chip' + (shownCl.has(t.key) ? " on" : "") + '" data-cl="' + t.key + '"><i style="background:' + t.color + '"></i>' + t.label + " " + cnt((r) => clOf(r) === t.key) + "</button>").join("") +
+          '<span class="lbl">｜</span>' +
+          SA.map((t) => '<button class="chip' + (shownSa.has(t.key) ? " on" : "") + '" data-sa="' + t.key + '"><i class="' + (t.key === "あり" ? "sq" : "") + '" style="' + (t.key === "あり" ? "" : "background:var(--mut)") + '"></i>' + t.label + " " + cnt((r) => r.hasSauna === t.key) + "</button>").join("") +
+          '<input class="search" id="search" type="search" placeholder="名前・地名で絞る" value="' + esc(q) + '">';
+      }
+      chips.addEventListener("click", (e) => {
+        const a = e.target.closest("[data-area]");
+        const c = e.target.closest("[data-cl]");
+        const sbtn = e.target.closest("[data-sa]");
+        if (a) {
+          if (area === a.dataset.area) return;
+          area = a.dataset.area; fitted = false;
+          history.replaceState(null, "", area === "kumamoto" ? "?area=kumamoto" : location.pathname);
+        }
+        else if (c) { const k = c.dataset.cl; shownCl.has(k) ? shownCl.delete(k) : shownCl.add(k); }
+        else if (sbtn) { const k = sbtn.dataset.sa; shownSa.has(k) ? shownSa.delete(k) : shownSa.add(k); }
+        else return;
+        render();
+      });
+      chips.addEventListener("input", (e) => {
+        if (e.target.id !== "search") return;
+        q = e.target.value;
+        render();
+        const el = document.getElementById("search");
+        el.focus();
+        el.setSelectionRange(q.length, q.length);
+      });
+
+      function matches(r, s) {
+        return [r.name, r.prefecture, r.address, r.sauna, r.kakenagashi].some((x) => String(x ?? "").toLowerCase().includes(s));
+      }
+
+      function popupHtml(r) {
+        const t = clDef(r);
+        return (
+          "<b>" + esc(r.name) + "</b><br>" +
+          '<span style="color:' + t.color + '">●</span> 塩素: ' + esc(r.chlorine) + "<br>" +
+          "サウナ: " + esc(r.hasSauna) + (r.sauna ? "（" + esc(r.sauna) + "）" : "") + "<br>" +
+          (r.price ? "料金: " + esc(r.price.slice(0, 60)) + "<br>" : "") +
+          (r.url ? '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">サイト</a> · ' : "") +
+          '<a href="' + route(r) + '" target="_blank" rel="noopener">経路</a>'
+        );
+      }
+
+      function select(id, pan) {
+        selected = id;
+        const r = records.find((x) => x.id === id);
+        const m = markers.get(id);
+        if (r && m && pan) {
+          map.setView([r.lat, r.lng], Math.max(map.getZoom(), 11));
+          m.openPopup();
+          if (window.matchMedia("(max-width: 760px)").matches) window.scrollTo({ top: 0, behavior: "smooth" });
+        }
+        document.querySelectorAll(".card").forEach((c) => c.classList.toggle("on", c.dataset.id === id));
+        if (r && !pan) {
+          const card = document.querySelector('.card[data-id="' + CSS.escape(id) + '"]');
+          if (card) card.scrollIntoView({ behavior: "smooth", block: "nearest" });
+        }
+      }
+
+      function render() {
+        renderChips();
+        const s = q.trim().toLowerCase();
+        const order = { none: 0, unknown: 1, yes: 2 };
+        const rank = (r) => (sauna(r) ? 0 : 3) + order[clOf(r)];
+        const hits = records
+          .filter((r) => areaOf(r) === area && shownCl.has(clOf(r)) && shownSa.has(r.hasSauna))
+          .filter((r) => !s || matches(r, s))
+          .sort((a, b) => rank(a) - rank(b) || PREFS.indexOf(a.prefecture) - PREFS.indexOf(b.prefecture) || a.name.localeCompare(b.name, "ja"));
+
+        markers.forEach((m) => m.remove());
+        markers = new Map();
+        for (const r of [...hits].reverse()) {
+          const t = clDef(r);
+          const size = sauna(r) ? 18 : clOf(r) === "unknown" ? 11 : 14;
+          const m = L.marker([r.lat, r.lng], {
+            icon: L.divIcon({
+              className: "",
+              html: '<div class="pin' + (sauna(r) ? " sauna" : "") + '" style="width:' + size + "px;height:" + size + "px;background:" + t.color + '">' + (sauna(r) ? "S" : "") + "</div>",
+              iconSize: [size, size],
+              iconAnchor: [size / 2, size / 2],
+            }),
+            zIndexOffset: (6 - rank(r)) * 200,
+          }).addTo(map).bindPopup(popupHtml(r));
+          m.on("click", () => select(r.id, false));
+          markers.set(r.id, m);
+        }
+
+        if (!hits.length) {
+          side.innerHTML = '<div class="empty">' + (s ? "検索に合う施設がありません。" : "表示する区分を選んでください（塩素とサウナで1つ以上ずつ）。") + "</div>";
+          return;
+        }
+        side.innerHTML = '<div class="count">' + hits.length + " 件（サウナあり→なし、塩素なし→不明→ありの順）</div>" + hits.map((r) => {
+          const t = clDef(r);
+          return (
+            '<div class="card ' + t.key + (r.id === selected ? " on" : "") + '" data-id="' + esc(r.id) + '">' +
+              "<h3>" + esc(r.name) +
+                ' <span class="tag ' + t.key + '">塩素' + esc(r.chlorine) + "</span>" +
+                (sauna(r) ? ' <span class="tag sauna">サウナあり</span>' : "") +
+              "</h3>" +
+              '<div class="meta">' +
+                "<b>" + esc(r.prefecture) + "</b> · " + esc(r.address) + "<br>" +
+                "かけ流し: " + esc(r.kakenagashi) + "<br>" +
+                (r.kasuiKaon ? "加水・加温: " + esc(r.kasuiKaon) + "<br>" : "") +
+                (r.sauna ? "サウナ: " + esc(r.sauna) + "<br>" : "") +
+                (r.mizuburo ? "水風呂: " + esc(r.mizuburo) + "<br>" : "") +
+                (r.hours ? "営業: " + esc(r.hours.slice(0, 60)) + "<br>" : "") +
+                (r.price ? "料金: " + esc(r.price.slice(0, 80)) : "") +
+              "</div>" +
+              (r.caveats ? '<div class="caveat">' + esc(r.caveats).replace(/\n/g, "<br>") + "</div>" : "") +
+              '<div class="detail">' +
+                (r.closed ? "<h4>定休日</h4>" + esc(r.closed) : "") +
+                (r.price && r.price.length > 80 ? "<h4>料金</h4>" + esc(r.price) : "") +
+                (r.evidence ? "<h4>根拠</h4>" + mdList(r.evidence) : "") +
+                (r.checkedAt ? "<h4>確認日</h4>" + esc(r.checkedAt) : "") +
+              "</div>" +
+              '<div class="actions">' +
+                '<button data-detail="1">根拠・詳細</button>' +
+                (r.url ? '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">サイト</a>' : "") +
+                (r.tel ? '<a href="tel:' + esc(r.tel.replace(/[^0-9+]/g, "")) + '">電話</a>' : "") +
+                '<a href="' + route(r) + '" target="_blank" rel="noopener">経路</a>' +
+              "</div>" +
+            "</div>"
+          );
+        }).join("");
+
+        if (!fitted) {
+          map.fitBounds(hits.map((r) => [r.lat, r.lng]), { padding: [30, 30], maxZoom: 10 });
+          fitted = true;
+        }
+      }
+
+      side.addEventListener("click", (e) => {
+        const card = e.target.closest(".card");
+        if (!card) return;
+        if (e.target.closest("[data-detail]")) { card.classList.toggle("open"); return; }
+        if (e.target.closest("a")) return;
+        select(card.dataset.id, true);
+      });
+
+      fetch("data.json")
+        .then((res) => { if (!res.ok) throw new Error("読み込み失敗 (" + res.status + ")"); return res.json(); })
+        .then((data) => {
+          records = data.items.filter((r) => typeof r.lat === "number" && typeof r.lng === "number");
+          document.getElementById("updated").textContent = "（データ更新 " + data.updated + "）";
+          render();
+        })
+        .catch((err) => { side.innerHTML = '<div class="err">' + esc(err.message) + "</div>"; });
+    </script>
+  </body>
+</html>
