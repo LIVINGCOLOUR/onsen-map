@@ -93,19 +93,46 @@
         border-radius: 4px; color: #0b1114; font: 800 11px/1 system-ui, sans-serif;
         display: flex; align-items: center; justify-content: center;
       }
+      .tabs { display: none; background: var(--panel); border-bottom: 1px solid var(--line); }
+      .tabs button {
+        flex: 1; padding: 9px 0; background: none; border: 0; border-bottom: 2px solid transparent;
+        color: var(--mut); font-size: 13px; font-weight: 700;
+      }
+      .tabs button.on { color: var(--txt); border-bottom-color: var(--accent); }
+      .sheet {
+        display: none; position: absolute; left: 8px; right: 8px; bottom: 8px; z-index: 1100;
+        max-height: 45%; overflow-y: auto; overscroll-behavior: contain;
+        background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--unknown);
+        border-radius: 14px; padding: 12px 14px; box-shadow: 0 6px 24px rgba(0,0,0,.5);
+      }
+      .sheet.none { border-left-color: var(--none); }
+      .sheet.yes { border-left-color: var(--yes); }
+      .sheet.open { max-height: 80%; }
+      .sheet h3 { margin: 0 32px 4px 0; font-size: 15px; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+      .sheet .x {
+        position: absolute; top: 6px; right: 6px; width: 32px; height: 32px; border: 0; border-radius: 50%;
+        background: var(--panel2); color: var(--txt); font-size: 18px; line-height: 1;
+      }
+      .sheet .more { display: none; }
+      .sheet.open .more { display: block; }
+      .sheet .actions button, .sheet .actions a { font-size: 13px; padding: 7px 12px; }
       .leaflet-popup-content { font-size: 12px; line-height: 1.6; }
       .leaflet-popup-content b { font-size: 13px; }
+      /* スマホ: 地図と一覧をタブで切り替え、ピンを押したら地図の下に概要を重ねて出す */
       @media (max-width: 760px) {
-        .topbar { padding: 10px 16px; }
-        .main { flex-direction: column; }
-        #map { flex: none; height: 50vh; }
-        .side { width: 100%; border-left: 0; border-top: 1px solid var(--line); overflow: visible; }
-        body { height: auto; }
-        html, body { height: auto; }
-        .rule, .chips { width: 100%; min-width: 0; }
-        .chips { margin-left: 0; }
-        .search { width: 100%; }
-        .side { min-width: 0; }
+        body { height: 100dvh; overflow: hidden; }
+        .topbar { padding: 8px 12px; gap: 6px; }
+        .rule { width: 100%; }
+        .chips { width: 100%; min-width: 0; margin-left: 0; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+        .chips::-webkit-scrollbar { display: none; }
+        .chip { flex: none; }
+        .search { flex: none; width: 150px; }
+        .tabs { display: flex; }
+        .main { position: relative; }
+        #map { min-height: 0; }
+        .side { position: absolute; inset: 0; width: auto; z-index: 1200; border-left: 0; }
+        body:not(.list) .side { display: none; }
+        .sheet.show { display: block; }
       }
     </style>
   </head>
@@ -121,8 +148,13 @@
       </div>
       <div class="chips" id="chips"></div>
     </div>
+    <div class="tabs" id="tabs">
+      <button class="on" data-view="map">地図</button>
+      <button data-view="list">一覧</button>
+    </div>
     <div class="main">
       <div id="map"></div>
+      <div class="sheet" id="sheet"></div>
       <div class="side" id="side"></div>
     </div>
     <script>
@@ -142,6 +174,8 @@
       const PREFS = ["茨城", "栃木", "群馬", "埼玉", "千葉", "東京", "神奈川", "福島", "熊本"];
       const side = document.getElementById("side");
       const chips = document.getElementById("chips");
+      const sheet = document.getElementById("sheet");
+      const tabs = document.getElementById("tabs");
       const shownCl = new Set(CL.map((t) => t.key));
       const shownSa = new Set(SA.map((t) => t.key));
       let records = [];
@@ -167,6 +201,7 @@
       const clDef = (r) => CL.find((t) => t.key === clOf(r));
       const sauna = (r) => r.hasSauna === "あり";
       const areaOf = (r) => (r.prefecture === "熊本" ? "kumamoto" : "east");
+      const mobile = () => window.matchMedia("(max-width: 760px)").matches;
       const route = (r) => "https://www.google.com/maps/dir/?api=1&destination=" + r.lat + "," + r.lng;
 
       function renderChips() {
@@ -218,17 +253,80 @@
         );
       }
 
+      function actionsHtml(r, detailLabel) {
+        return (
+          '<div class="actions">' +
+            '<button data-detail="1">' + detailLabel + "</button>" +
+            (r.url ? '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">サイト</a>' : "") +
+            (r.tel ? '<a href="tel:' + esc(r.tel.replace(/[^0-9+]/g, "")) + '">電話</a>' : "") +
+            '<a href="' + route(r) + '" target="_blank" rel="noopener">経路</a>' +
+          "</div>"
+        );
+      }
+
+      function sheetHtml(r) {
+        const t = clDef(r);
+        return (
+          '<button class="x" data-close="1" aria-label="閉じる">×</button>' +
+          "<h3>" + esc(r.name) +
+            ' <span class="tag ' + t.key + '">塩素' + esc(r.chlorine) + "</span>" +
+            (sauna(r) ? ' <span class="tag sauna">サウナあり</span>' : "") +
+          "</h3>" +
+          '<div class="meta">' +
+            "<b>" + esc(r.prefecture) + "</b> · " + esc(r.address) + "<br>" +
+            "かけ流し: " + esc(r.kakenagashi) + "<br>" +
+            (r.sauna ? "サウナ: " + esc(r.sauna) + "<br>" : "") +
+            (r.price ? "料金: " + esc(r.price.slice(0, 60)) : "") +
+          "</div>" +
+          actionsHtml(r, "詳細を見る") +
+          '<div class="more">' +
+            '<div class="meta" style="margin-top:8px">' +
+              (r.kasuiKaon ? "加水・加温: " + esc(r.kasuiKaon) + "<br>" : "") +
+              (r.mizuburo ? "水風呂: " + esc(r.mizuburo) + "<br>" : "") +
+              (r.hours ? "営業: " + esc(r.hours) + "<br>" : "") +
+              (r.price && r.price.length > 60 ? "料金: " + esc(r.price) : "") +
+            "</div>" +
+            (r.caveats ? '<div class="caveat">' + esc(r.caveats).replace(/\n/g, "<br>") + "</div>" : "") +
+            '<div class="detail" style="display:block">' +
+              (r.closed ? "<h4>定休日</h4>" + esc(r.closed) : "") +
+              (r.evidence ? "<h4>根拠</h4>" + mdList(r.evidence) : "") +
+              (r.checkedAt ? "<h4>確認日</h4>" + esc(r.checkedAt) : "") +
+            "</div>" +
+          "</div>"
+        );
+      }
+
+      function closeSheet() {
+        sheet.className = "sheet";
+        sheet.innerHTML = "";
+      }
+
+      function setView(v) {
+        document.body.classList.toggle("list", v === "list");
+        tabs.querySelectorAll("[data-view]").forEach((b) => b.classList.toggle("on", b.dataset.view === v));
+        if (v === "map") map.invalidateSize();
+      }
+
       function select(id, pan) {
         selected = id;
         const r = records.find((x) => x.id === id);
-        const m = markers.get(id);
-        if (r && m && pan) {
-          map.setView([r.lat, r.lng], Math.max(map.getZoom(), 11));
-          m.openPopup();
-          if (window.matchMedia("(max-width: 760px)").matches) window.scrollTo({ top: 0, behavior: "smooth" });
-        }
         document.querySelectorAll(".card").forEach((c) => c.classList.toggle("on", c.dataset.id === id));
-        if (r && !pan) {
+        if (!r) return;
+        if (mobile()) {
+          setView("map");
+          if (pan) map.setView([r.lat, r.lng], Math.max(map.getZoom(), 11), { animate: false });
+          sheet.className = "sheet show " + clOf(r);
+          sheet.innerHTML = sheetHtml(r);
+          sheet.scrollTop = 0;
+          // 概要に隠れるピンは上へずらす
+          const y = map.latLngToContainerPoint([r.lat, r.lng]).y;
+          const limit = map.getSize().y - sheet.offsetHeight - 30;
+          if (y > limit) map.panBy([0, y - limit]);
+          return;
+        }
+        if (pan) map.setView([r.lat, r.lng], Math.max(map.getZoom(), 11));
+        L.popup().setLatLng([r.lat, r.lng]).setContent(popupHtml(r)).openOn(map);
+        if (!pan) {
           const card = document.querySelector('.card[data-id="' + CSS.escape(id) + '"]');
           if (card) card.scrollIntoView({ behavior: "smooth", block: "nearest" });
         }
@@ -257,11 +355,12 @@
               iconAnchor: [size / 2, size / 2],
             }),
             zIndexOffset: (6 - rank(r)) * 200,
-          }).addTo(map).bindPopup(popupHtml(r));
+          }).addTo(map);
           m.on("click", () => select(r.id, false));
           markers.set(r.id, m);
         }
 
+        tabs.querySelector('[data-view="list"]').textContent = "一覧 " + hits.length + " 件";
         if (!hits.length) {
           side.innerHTML = '<div class="empty">' + (s ? "検索に合う施設がありません。" : "表示する区分を選んでください（塩素とサウナで1つ以上ずつ）。") + "</div>";
           return;
@@ -290,12 +389,7 @@
                 (r.evidence ? "<h4>根拠</h4>" + mdList(r.evidence) : "") +
                 (r.checkedAt ? "<h4>確認日</h4>" + esc(r.checkedAt) : "") +
               "</div>" +
-              '<div class="actions">' +
-                '<button data-detail="1">根拠・詳細</button>' +
-                (r.url ? '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">サイト</a>' : "") +
-                (r.tel ? '<a href="tel:' + esc(r.tel.replace(/[^0-9+]/g, "")) + '">電話</a>' : "") +
-                '<a href="' + route(r) + '" target="_blank" rel="noopener">経路</a>' +
-              "</div>" +
+              actionsHtml(r, "根拠・詳細") +
             "</div>"
           );
         }).join("");
@@ -312,6 +406,19 @@
         if (e.target.closest("[data-detail]")) { card.classList.toggle("open"); return; }
         if (e.target.closest("a")) return;
         select(card.dataset.id, true);
+      });
+
+      sheet.addEventListener("click", (e) => {
+        if (e.target.closest("[data-close]")) { closeSheet(); return; }
+        const b = e.target.closest("[data-detail]");
+        if (!b) return;
+        b.textContent = sheet.classList.toggle("open") ? "概要に戻す" : "詳細を見る";
+        sheet.scrollTop = 0;
+      });
+      map.on("click", closeSheet);
+      tabs.addEventListener("click", (e) => {
+        const b = e.target.closest("[data-view]");
+        if (b) setView(b.dataset.view);
       });
 
       fetch("data.json")
