@@ -1,0 +1,250 @@
+[
+ {
+  "name": "かもと湯（河内温泉）",
+  "address": "熊本県熊本市西区河内町船津2712-1",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=56511",
+   "熊日 https://kumanichi.com/articles/1468903",
+   "くまにちすぱいす https://spice.kumanichi.com/outing/outing-feature/201075/"
+  ],
+  "verdict": "保留",
+  "reason": "河内温泉の公衆温泉。2024年5月にNPO法人オレンジワークの会が再開（熊日2024-06-30）。すぱいす（2024-11-15）に「35度とちょいぬるめの源泉掛け流し。熱めの沸かし湯の湯船もあり」。沸かし湯の浴槽が温泉の加温かけ流しか循環か不明。13〜20時・火日休・400円。令和8年熊本地震後の営業は未確認（ゆる～とには掲載が続く）",
+  "id": "kamotoyu-kawachi",
+  "tel": "096-276-1831"
+ },
+ {
+  "name": "KAWACHI BASE -龍栄荘-（河内温泉）",
+  "address": "熊本県熊本市西区河内町船津2709-2",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=57727",
+   "温泉巡り旅の醍醐味（2017） https://purewater.hatenablog.com/entry/kawachi-onsen_ryueiso",
+   "オリコン等（2026-07）"
+  ],
+  "verdict": "保留",
+  "reason": "旧龍栄荘を改装し2025年に再開業した旅館。日帰りは家族湯60分3,300円（11〜15時）。地震後7/31〜8/15に家族湯を被災者へ無料開放しており営業中。2017年の入浴記では「加温・掛け流し循環併用」。改装後のかけ流しの根拠なし（循環が残っていれば除外）",
+  "id": "kawachibase-ryueiso",
+  "tel": "096-276-0121"
+ },
+ {
+  "name": "有明オレンジ園（足湯）",
+  "address": "熊本県熊本市西区河内町船津2685-2",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=35515"
+  ],
+  "verdict": "除外",
+  "reason": "漁船を使った足湯のみ（入園料）",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "植木温泉 龍泉閣",
+  "address": "熊本県熊本市北区植木町米塚11",
+  "source": [
+   "温泉巡り旅の醍醐味（2017） https://purewater.hatenablog.com/entry/ueki-onsen_ryusenkaku"
+  ],
+  "verdict": "保留",
+  "reason": "2016年の入浴記に「全ての浴槽で100％源泉掛け流し」、立ち寄り400円。現在はニフティ・ゆる～と・YUASOBIのどれにも載っておらず、営業しているか確認できない（閉業の可能性が高い）",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "玉名市 岱明ふれあい健康センター",
+  "address": "熊本県玉名市岱明町中土1022",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=44853"
+  ],
+  "verdict": "保留",
+  "reason": "28.2℃の低温泉で加温が必要。かけ流しの根拠なし。口コミに「令和9年3月で閉鎖」",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "玉名市鍋松原海岸 しおまちパーク潮湯",
+  "address": "熊本県玉名市岱明町鍋3188",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=21044"
+  ],
+  "verdict": "除外",
+  "reason": "温泉ではない（海水と真水の湯）",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "四季の里 旭志",
+  "address": "熊本県菊池市旭志麓2934-10",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=1135",
+   "letsleisure https://letsleisure.info/onsen/private-bath/kumamoto-private-bath/yamagacity-private-bath/1144",
+   "tuuutotamana https://tuuutotamana.com/sikinosato/"
+  ],
+  "verdict": "除外",
+  "reason": "大浴場・家族湯とも老朽化で休止中（宿泊者はシャワーのみ）。ロコナビはかけ流し×",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "益城町 町民憩いの家",
+  "address": "熊本県上益城郡益城町",
+  "source": [
+   "WebSearch（ゆる～と旧掲載・益城町資料）"
+  ],
+  "verdict": "除外",
+  "reason": "町の資料に3月末で閉鎖の告知。ゆる～とのページも削除済み",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "道の駅きくすい 菊水ロマン館",
+  "address": "熊本県玉名郡和水町",
+  "source": [
+   "デイ温泉ドットコム http://www.day-onsen.com/sisetu/3/sisetu3762_home.html"
+  ],
+  "verdict": "除外",
+  "reason": "休業（デイ温泉ドットコム表記）",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "菊池老人福祉センター",
+  "address": "熊本県菊池市隈府432-1",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=56907"
+  ],
+  "verdict": "除外",
+  "reason": "高齢者向け福祉施設。温泉かけ流しの根拠なし",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "七城老人福祉センター 七城ふれあいプラザ",
+  "address": "熊本県菊池市七城町流川394-1",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=56894"
+  ],
+  "verdict": "除外",
+  "reason": "概ね市内60歳以上向けの福祉施設。温泉かけ流しの根拠なし",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "泗水地域福祉センター",
+  "address": "熊本県菊池市泗水町吉富2900",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=56895"
+  ],
+  "verdict": "除外",
+  "reason": "福祉施設（要予約）。温泉かけ流しの根拠なし",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "菊池市旭志老人憩の家",
+  "address": "熊本県菊池市旭志伊萩269",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=56908"
+  ],
+  "verdict": "除外",
+  "reason": "福祉施設（要予約）。温泉の根拠なし",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "西里老人福祉センター",
+  "address": "熊本県熊本市北区徳王町870",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=55235"
+  ],
+  "verdict": "除外",
+  "reason": "高齢者向け福祉施設（地元専用）。温泉の根拠なし",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "天明老人福祉センター",
+  "address": "熊本県熊本市南区銭塘町2172",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=55234"
+  ],
+  "verdict": "除外",
+  "reason": "高齢者向け福祉施設（地元専用）。温泉の根拠なし",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "玉名市福祉センター",
+  "address": "熊本県玉名市岩崎88-4",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=57730"
+  ],
+  "verdict": "除外",
+  "reason": "福祉施設（8:30〜16:00）。温泉の根拠なし",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "余熱利用施設 熊本市西部交流センター",
+  "address": "熊本県熊本市西区2丁目7-50（ゆる～と表記のまま）",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=51774"
+  ],
+  "verdict": "除外",
+  "reason": "ごみ焼却の余熱利用の浴場で温泉ではない",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "熊本市総合体育館 青年会館",
+  "address": "熊本県熊本市中央区出水2-7-1",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=51729"
+  ],
+  "verdict": "除外",
+  "reason": "体育館の浴場で温泉の根拠なし",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "ベッセルホテル熊本空港",
+  "address": "熊本県菊池郡大津町室949",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=54507"
+  ],
+  "verdict": "除外",
+  "reason": "ホテルの大浴場。日帰り・温泉・かけ流しの根拠なし",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "足湯（菊池温泉足湯・きくちの足湯・横町ポケットパーク・清流荘足湯・ややの湯足湯・熊本市東部/西部交流センター足湯）",
+  "address": "熊本県菊池市・熊本市",
+  "source": [
+   "ゆる～と"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "サウナ施設（DEEP RELAX VIEW 草枕展望サウナ・ハコサウナ玉名店・OUTDOOR SAUNA CoCo・トトノウバイ・菊池みらいベース・マザーネイチャーきらり・平等寺サウナ極楽・田迎サウナ・SAUNA OOO・joka SAUNA・岩盤浴 天照の癒・ゴールドジム）",
+  "address": "熊本県熊本市・玉名市・菊池市・山鹿市・益城町",
+  "source": [
+   "ゆる～と"
+  ],
+  "verdict": "除外",
+  "reason": "サウナ・岩盤浴・ジムで温泉浴槽ではない",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "レストラン ボアロゼ 足湯カフェ 森の雫",
+  "address": "熊本県山鹿市菊鹿町松尾509-1",
+  "source": [
+   "ゆる～と https://yuru-to.net/detail.php?oid=52767"
+  ],
+  "verdict": "除外",
+  "reason": "足湯カフェ",
+  "id": "",
+  "tel": ""
+ }
+]

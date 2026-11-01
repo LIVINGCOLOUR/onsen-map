@@ -1,0 +1,7546 @@
+[
+ {
+  "name": "成田の命泉 大和の湯",
+  "address": "千葉県成田市大竹1630",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen001377",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen001377/)",
+  "tel": "0476-28-8111"
+ },
+ {
+  "name": "三日月シーパークホテル勝浦 絶景スパ アクアパレス",
+  "address": "千葉県勝浦市墨名820",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環: 口コミ「循環濾過加温加水です」",
+  "id": "onsen001378",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen001378/) / [口コミ](https://onsen.nifty.com/kamogawa-onsen/onsen001378/kuchikomi/)",
+  "tel": "0470-73-1115"
+ },
+ {
+  "name": "夢みさき",
+  "address": "千葉県南房総市千倉町瀬戸3137",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素: 口コミ「おそらく循環式で、少々塩素のにおい」",
+  "id": "onsen001379",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen001379/) / [口コミ](https://onsen.nifty.com/chikura-onsen/onsen001379/kuchikomi/)",
+  "tel": "0470-44-2000"
+ },
+ {
+  "name": "元祖養老館",
+  "address": "千葉県夷隅郡大多喜町葛藤7",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001380",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen001380/)",
+  "tel": "0470-85-0111"
+ },
+ {
+  "name": "鴨川ヒルズリゾートホテル",
+  "address": "千葉県鴨川市天津3164-7",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen001381",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen001381/)",
+  "tel": "04-7094-2535"
+ },
+ {
+  "name": "鴨川トロン保健センター",
+  "address": "千葉県鴨川市西町1179",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001383",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen001383/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "人参湯",
+  "address": "千葉県木更津市中央3-4-39",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001384",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen001384/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "ガーデン滝の郷",
+  "address": "千葉県夷隅郡大多喜町小沢又1007-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen001385",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen001385/)",
+  "tel": "0470-85-0608"
+ },
+ {
+  "name": "和楽の郷",
+  "address": "千葉県長生郡長柄町皿木16",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001387",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen001387/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "長生郡市温水センター スポーツプラザイースト（ちょうせいぐんし）",
+  "address": "千葉県茂原市下永吉1815",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen001388",
+  "evidence": "[ニフティ](https://onsen.nifty.com/mobara-onsen/onsen001388/)",
+  "tel": "0475-25-2181"
+ },
+ {
+  "name": "御宿の湯 クアハウス",
+  "address": "千葉県夷隅郡御宿町浜2143-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "前回の千葉調査で除外済み（判定済みのため深追いしない）",
+  "id": "onsen001389",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen001389/) / [口コミ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen001389/kuchikomi/)",
+  "tel": "0470-68-5598"
+ },
+ {
+  "name": "マリンリゾートIN銚子 イトマンスイミングスクール",
+  "address": "千葉県銚子市三崎町3-52",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001390",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen001390/)",
+  "tel": "0479-23-0001"
+ },
+ {
+  "name": "安房自然村 不老山薬師温泉",
+  "address": "千葉県館山市布良600",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001391",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen001391/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "龍宮城スパ ホテル三日月",
+  "address": "千葉県木更津市北浜町1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen001392",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen001392/)",
+  "tel": "0438-41-8111"
+ },
+ {
+  "name": "天然温泉みのりの湯",
+  "address": "千葉県柏市十余二249",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001394",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen001394/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "矢指ヶ浦温泉館",
+  "address": "千葉県旭市足川3918",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "既収録",
+  "reason": "data.json に収録済み",
+  "id": "onsen001396",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen001396/)",
+  "tel": "0479-64-2218（10:30 ～ 21:00 ）"
+ },
+ {
+  "name": "犬吠埼ホテル",
+  "address": "千葉県銚子市犬吠埼9574-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しは一部浴槽のみ: 口コミ（2023年）「内湯は大きな湯船を沸かし湯としているのか…ジェット水流とバイブラ」「ホーローの湯船が…源泉掛け流し」",
+  "id": "onsen001397",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen001397/) / [口コミ](https://onsen.nifty.com/choushi-onsen/onsen001397/kuchikomi/)",
+  "tel": "0479-22-8111"
+ },
+ {
+  "name": "亀の井ホテル 九十九里",
+  "address": "千葉県旭市仁玉2280-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen001398",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen001398/)",
+  "tel": "0479-63-2161"
+ },
+ {
+  "name": "ホテルジャングルパレス",
+  "address": "千葉県南房総市白浜町根本1337-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001399",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen001399/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "ロマンの森共和国 白壁の湯",
+  "address": "千葉県君津市豊英659-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001400",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen001400/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "湯の郷 かずさ",
+  "address": "千葉県木更津市潮見5-7-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001401",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen001401/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "網元の宿 ろくや",
+  "address": "千葉県南房総市久枝494",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: 宿泊のみ（ニフティ・温泉ライフとも日帰りの案内なし）。浴場は7つの貸切風呂でかけ流しの根拠もなし",
+  "id": "onsen001402",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen001402/) / [口コミ](https://onsen.nifty.com/chikura-onsen/onsen001402/kuchikomi/) / [温泉ライフ](https://onsen-life.com/facility/rokuya-a-fishing-inn)",
+  "tel": "0470-57-2011"
+ },
+ {
+  "name": "スーパー銭湯「四季彩の湯」(閉館しました）",
+  "address": "千葉県千葉市中央区東千葉2-8-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001403",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen001403/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "ゆーPLAZA",
+  "address": "千葉県市川市若宮3-35-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen001405",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen001405/)",
+  "tel": "047-332-8088"
+ },
+ {
+  "name": "野田の湯 湯食館",
+  "address": "千葉県野田市蕃昌55-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001406",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen001406/)",
+  "tel": "04-7129-1126"
+ },
+ {
+  "name": "笑がおの湯 千葉寒川店",
+  "address": "千葉県千葉市中央区寒川町2-147-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001407",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen001407/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "犬吠埼観光ホテル",
+  "address": "千葉県銚子市犬吠埼10293",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しは一部浴槽のみ: 口コミ「源泉加温掛け流しという湯船の方で」（他の浴槽と区別）。サウナ・複数浴槽あり",
+  "id": "onsen001408",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen001408/) / [口コミ](https://onsen.nifty.com/choushi-onsen/onsen001408/kuchikomi/)",
+  "tel": "0479-23-5111"
+ },
+ {
+  "name": "鴨川グランドホテル",
+  "address": "千葉県鴨川市広場820",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素・人工温泉: 口コミ「湯船の多くは人工温泉」「循環・消毒も…」「結構塩素臭い」",
+  "id": "onsen001410",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen001410/) / [口コミ](https://onsen.nifty.com/kamogawa-onsen/onsen001410/kuchikomi/)",
+  "tel": "04-7092-2111"
+ },
+ {
+  "name": "曽呂温泉",
+  "address": "千葉県鴨川市仲町90",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001411",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen001411/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "松の家",
+  "address": "千葉県勝浦市勝浦30",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen001412",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen001412/)",
+  "tel": "0470-73-0047"
+ },
+ {
+  "name": "臨海荘",
+  "address": "千葉県勝浦市串浜1253-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen001413",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen001413/)",
+  "tel": "0470-73-1234"
+ },
+ {
+  "name": "民宿 宮川丸",
+  "address": "千葉県勝浦市新官76",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen001414",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen001414/)",
+  "tel": "0470-73-1285"
+ },
+ {
+  "name": "旅館むろやま",
+  "address": "千葉県勝浦市興津2515",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001415",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen001415/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "ホテル ニュー・カネイ",
+  "address": "千葉県長生郡白子町中里4442",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen001416",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen001416/)",
+  "tel": "0475-33-2511"
+ },
+ {
+  "name": "秘湯の宿 滝見苑",
+  "address": "千葉県夷隅郡大多喜町粟又5",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素: 口コミ（2008年）「循環、塩素消毒の湯」、（2009年）「塩素臭がかなりきつい」",
+  "id": "onsen001417",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen001417/) / [口コミ](https://onsen.nifty.com/ichihara-onsen/onsen001417/kuchikomi/)",
+  "tel": "0470-85-0101"
+ },
+ {
+  "name": "勝浦つるんつるん温泉",
+  "address": "千葉県勝浦市松野1143",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "保留",
+  "reason": "口コミ（2007年）「１９度の加温かけ流し…バルブを操作すると熱い源泉と水を別個に出す」。ただし内湯1つで「湯船にお湯が注がれていない」とも書かれ、13:30～14:30に清掃（公式）。給排湯の方式と塩素が確定できない。電話（0470-77-0311）で「浴槽は加温した源泉をかけ流しているか、循環ろ過・塩素消毒はあるか」を聞く",
+  "id": "onsen001418",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen001418/) / [口コミ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen001418/kuchikomi/) / [公式](http://katuuraonsen.com/)",
+  "tel": "0470-77-0311"
+ },
+ {
+  "name": "古原屋の湯",
+  "address": "千葉県館山市香191-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001419",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen001419/)",
+  "tel": "0470-29-0935"
+ },
+ {
+  "name": "スーパー銭湯 君津の湯",
+  "address": "千葉県君津市外箕輪154",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉でない: 口コミ「地下700mから湧出する地下水の沸かし湯」",
+  "id": "onsen001420",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen001420/) / [口コミ](https://onsen.nifty.com/kisaradu-onsen/onsen001420/kuchikomi/)",
+  "tel": "0439-57-2641"
+ },
+ {
+  "name": "かずさのお風呂屋さん",
+  "address": "千葉県木更津市清見台南5-1-40",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen001421",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen001421/)",
+  "tel": "0438-97-2683"
+ },
+ {
+  "name": "休暇村館山 花海の湯",
+  "address": "千葉県館山市見物725",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen001422",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen001422/)",
+  "tel": "0470-29-0211"
+ },
+ {
+  "name": "市原天然温泉江戸遊",
+  "address": "千葉県市原市松ヶ島西1-3-43",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen001423",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen001423/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "是空",
+  "address": "千葉県鴨川市太海浜24-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "塩素: 口コミ（2023年）「塩素臭がありました」、（2008年）「露天も内湯も塩素が強烈」",
+  "id": "onsen001424",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen001424/) / [口コミ](https://onsen.nifty.com/kamogawa-onsen/onsen001424/kuchikomi/)",
+  "tel": "04-7092-1143"
+ },
+ {
+  "name": "柏天然温泉 白金の湯 ゆの華",
+  "address": "千葉県柏市柏6-10-15",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen004968",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen004968/)",
+  "tel": "04-7162-4126"
+ },
+ {
+  "name": "天然温泉 白井の湯",
+  "address": "千葉県白井市中149-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen004970",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen004970/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "岩婦温泉 伏姫荘",
+  "address": "千葉県南房総市高崎117",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen005451",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen005451/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "岩婦温泉 岩婦館",
+  "address": "千葉県南房総市高崎584",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen005452",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen005452/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "鴨川ユニバースホテル",
+  "address": "千葉県鴨川市前原69",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen005474",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen005474/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "潮騒リゾート鴨川",
+  "address": "千葉県鴨川市太海浜73-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen005475",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen005475/)",
+  "tel": "0470-92-1341"
+ },
+ {
+  "name": "鴨川シーワールドホテル",
+  "address": "千葉県鴨川市東町1464-18",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen005476",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen005476/)",
+  "tel": "0470-92-2121"
+ },
+ {
+  "name": "鴨川館",
+  "address": "千葉県鴨川市西町1179",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen005578",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen005578/)",
+  "tel": "0470-93-4111"
+ },
+ {
+  "name": "七里川温泉 いろりの宿（しちりがわ）",
+  "address": "千葉県君津市黄和田畑921-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "既収録",
+  "reason": "data.json に収録済み",
+  "id": "onsen005605",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen005605/)",
+  "tel": "0439-39-3211"
+ },
+ {
+  "name": "極楽湯 柏店",
+  "address": "千葉県柏市大山台1-18",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen005644",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen005644/)",
+  "tel": "04-7134-6223"
+ },
+ {
+  "name": "安房温泉 紀伊乃国屋",
+  "address": "千葉県安房郡鋸南町竜島970-6",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環: 口コミ（2009年）「循環ですが、まったく感じません」「かけ流しではなかったのですが、塩素臭はありませんでした」",
+  "id": "onsen005710",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen005710/) / [口コミ](https://onsen.nifty.com/futtsu-onsen/onsen005710/kuchikomi/)",
+  "tel": "0470-55-1571"
+ },
+ {
+  "name": "粟斗温泉",
+  "address": "千葉県鴨川市粟斗1070",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素: 口コミ（2015年）「循環濾過あり」、（2007年）「加温、循環、塩素消毒」",
+  "id": "onsen005718",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen005718/) / [口コミ](https://onsen.nifty.com/kamogawa-onsen/onsen005718/kuchikomi/)",
+  "tel": "0470-92-1451"
+ },
+ {
+  "name": "南増尾 健美の湯（けんびのゆ）",
+  "address": "千葉県柏市南増尾1-1-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen005741",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen005741/)",
+  "tel": "04-7172-4126"
+ },
+ {
+  "name": "養老温泉 新川【閉館】",
+  "address": "千葉県夷隅郡大多喜町小田代55",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen005746",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen005746/)",
+  "tel": "0470-85-0123"
+ },
+ {
+  "name": "湯楽の里 松戸店（ゆらのさと）",
+  "address": "千葉県松戸市和名ケ谷947-3",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen005749",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen005749/)",
+  "tel": "047-303-4126"
+ },
+ {
+  "name": "市原温泉 湯楽の里（ゆらのさと）",
+  "address": "千葉県市原市古市場329-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen005755",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen005755/)",
+  "tel": "0436-40-4126"
+ },
+ {
+  "name": "喜楽里 流山豊四季店",
+  "address": "千葉県流山市野々下5丁目1062-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen005758",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen005758/)",
+  "tel": "0471-40-1526"
+ },
+ {
+  "name": "湘南喜彩 湯乃市 千葉鎌ヶ谷店",
+  "address": "千葉県鎌ケ谷市鎌ヶ谷9-1-13",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen005761",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen005761/)",
+  "tel": "047-441-1126"
+ },
+ {
+  "name": "仙人風呂",
+  "address": "千葉県習志野市本大久保1-5-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen005762",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen005762/)",
+  "tel": "047-478-1126"
+ },
+ {
+  "name": "天然温泉 八千代ほっこり湯",
+  "address": "千葉県八千代市八千代台南1-8-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen005999",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sakura-onsen/onsen005999/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "鷺沼温泉",
+  "address": "千葉県習志野市鷺沼1-14-15",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006090",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen006090/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "犬吠埼ロイヤルホテル しおさいの湯",
+  "address": "千葉県銚子市犬吠埼9575",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006123",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen006123/)",
+  "tel": "0479-25-1331"
+ },
+ {
+  "name": "崋の湯（はなのゆ）",
+  "address": "千葉県成田市公津の杜2-40-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen006143",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen006143/)",
+  "tel": "0476-28-2444"
+ },
+ {
+  "name": "七光台温泉",
+  "address": "千葉県野田市七光台4-2（イオンタウン内）",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006232",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen006232/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "鴨川ホテル三日月",
+  "address": "千葉県鴨川市内浦2781",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen006241",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen006241/)",
+  "tel": "04-7095-3115"
+ },
+ {
+  "name": "スパ＆リゾート九十九里 太陽の里",
+  "address": "千葉県長生郡長生村一松3445",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "消毒: 口コミ「内湯は消毒臭がありました」。ジェットバス等あり",
+  "id": "onsen006249",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen006249/) / [口コミ](https://onsen.nifty.com/kujuukuri-onsen/onsen006249/kuchikomi/)",
+  "tel": "0475-32-5550"
+ },
+ {
+  "name": "しおさい",
+  "address": "千葉県館山市船形1295-52",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen006250",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen006250/)",
+  "tel": "0470-27-3030"
+ },
+ {
+  "name": "金谷ステーション",
+  "address": "千葉県富津市金谷2175",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり: 口コミ（2015年）「ジェット水流も出ています。循環濾過ありながら、塩素臭なし」、（2007年）「加温循環かけ流し併用」。2016年に営業していなかったとの口コミも",
+  "id": "onsen006251",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen006251/) / [口コミ](https://onsen.nifty.com/futtsu-onsen/onsen006251/kuchikomi/)",
+  "tel": "0439-29-7755"
+ },
+ {
+  "name": "ラドン温泉 湯るり松戸",
+  "address": "千葉県松戸市和名ヶ谷823",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006255",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen006255/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "みきの湯",
+  "address": "千葉県東金市山田1155-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "人工温泉・塩素: 口コミ「準天然温泉トゴール湯…つまりは人工温泉」「塩素臭い」",
+  "id": "onsen006260",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tougane-onsen/onsen006260/) / [口コミ](https://onsen.nifty.com/tougane-onsen/onsen006260/kuchikomi/)",
+  "tel": "0475-54-5526"
+ },
+ {
+  "name": "天然温泉 真名井の湯 千葉ニュータウン店",
+  "address": "千葉県印西市中央南2-3-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006297",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen006297/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "滝の湯",
+  "address": "千葉県船橋市本中山2-3-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen006332",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen006332/)",
+  "tel": "047-334-4984"
+ },
+ {
+  "name": "亀山温泉ホテル",
+  "address": "千葉県君津市豊田旧菅間田65",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "前回の千葉調査で除外済み（判定済みのため深追いしない）。口コミに循環・塩素の記載あり",
+  "id": "onsen006364",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen006364/) / [口コミ](https://onsen.nifty.com/kisaradu-onsen/onsen006364/kuchikomi/)",
+  "tel": "0439-39-2121"
+ },
+ {
+  "name": "青堀温泉 ホテル静養園",
+  "address": "千葉県富津市大堀1528",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006365",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen006365/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "保田漁協直営 ばんやの湯（休業中）",
+  "address": "千葉県安房郡鋸南町吉浜99-5",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006368",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen006368/)",
+  "tel": "0470-50-1126"
+ },
+ {
+  "name": "山中温泉 陽気の湯",
+  "address": "千葉県富津市山中字向田526-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006369",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen006369/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "天然温泉 人魚の湯 旅館 海紅豆（かいこうず）",
+  "address": "千葉県館山市大賀85-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen006408",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen006408/)",
+  "tel": "0470-23-1212"
+ },
+ {
+  "name": "鵜原館（うばらかん）",
+  "address": "千葉県勝浦市鵜原998",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環: 口コミ「お湯も循環で温泉って感じがしなく」",
+  "id": "onsen006422",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen006422/) / [口コミ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen006422/kuchikomi/)",
+  "tel": "0470-76-0521"
+ },
+ {
+  "name": "天然温泉 黄金の里",
+  "address": "千葉県富里市七栄298-7",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006436",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen006436/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "犬吠埼温泉 ぎょうけい館",
+  "address": "千葉県銚子市犬吠埼10293",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006482",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen006482/)",
+  "tel": "0479-22-3600"
+ },
+ {
+  "name": "湯の郷ほのか 千葉蘇我店",
+  "address": "千葉県千葉市中央区川崎町51-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen006610",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen006610/)",
+  "tel": "043-265-1726"
+ },
+ {
+  "name": "南総城山温泉 里見の湯",
+  "address": "千葉県館山市下真倉305-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素: 口コミ「循環ありで、塩素臭がします」「塩素臭もしっかり」",
+  "id": "onsen006611",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen006611/) / [口コミ](https://onsen.nifty.com/tateyama-onsen/onsen006611/kuchikomi/)",
+  "tel": "0470-25-1126"
+ },
+ {
+  "name": "ホテルエミオン 東京ベイ ほほえみの湯",
+  "address": "千葉県浦安市日の出3",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen006640",
+  "evidence": "[ニフティ](https://onsen.nifty.com/urayasu-onsen/onsen006640/)",
+  "tel": "047-304-2727"
+ },
+ {
+  "name": "船橋温泉 湯楽の里",
+  "address": "千葉県船橋市山手3-4-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen006685",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen006685/)",
+  "tel": "047-495-2626"
+ },
+ {
+  "name": "紅梅湯",
+  "address": "千葉県船橋市南本町8-21",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen006704",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen006704/)",
+  "tel": "047-431-5033"
+ },
+ {
+  "name": "第二一の湯",
+  "address": "千葉県船橋市南本町22-10",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006736",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen006736/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "お宿ひるた",
+  "address": "千葉県安房郡鋸南町竜島973",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen006765",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen006765/)",
+  "tel": "0470-55-3522"
+ },
+ {
+  "name": "楽天地天然温泉 法典の湯",
+  "address": "千葉県市川市柏井町1-1520-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen006855",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen006855/)",
+  "tel": "047-338-4126"
+ },
+ {
+  "name": "天然温泉 柏湯元",
+  "address": "千葉県柏市青葉台2-24-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen006920",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen006920/)",
+  "tel": "04-7171-4126"
+ },
+ {
+  "name": "濃溝温泉 千寿の湯（のうみぞおんせん）",
+  "address": "千葉県君津市笹1954-17",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "既収録",
+  "reason": "data.json に収録済み",
+  "id": "onsen006962",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen006962/)",
+  "tel": "0439-39-3791"
+ },
+ {
+  "name": "スーパー銭湯 白旗（しらはた）",
+  "address": "千葉県千葉市中央区白旗2-12-10",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007024",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen007024/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "船橋健康センター ゆとろぎの湯",
+  "address": "千葉県船橋市夏見3-28-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007097",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen007097/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "スパ＆ホテル 舞浜ユーラシア",
+  "address": "千葉県浦安市千鳥13-20",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen007419",
+  "evidence": "[ニフティ](https://onsen.nifty.com/urayasu-onsen/onsen007419/)",
+  "tel": "047-351-4126"
+ },
+ {
+  "name": "野天風呂 湯の郷",
+  "address": "千葉県野田市山崎貝塚町5-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen007427",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen007427/)",
+  "tel": "04-7121-4126"
+ },
+ {
+  "name": "さくらマンダリン",
+  "address": "千葉県佐倉市表町3-26-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen007457",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sakura-onsen/onsen007457/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "館山温泉 ホテル川端",
+  "address": "千葉県館山市西川名855",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen007466",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen007466/)",
+  "tel": "0470-29-0341"
+ },
+ {
+  "name": "楽水",
+  "address": "千葉県君津市根本972-14",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007483",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen007483/)",
+  "tel": "0439-32-2617"
+ },
+ {
+  "name": "天然温泉 満天の湯",
+  "address": "千葉県柏市箕輪新田68-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen007522",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen007522/)",
+  "tel": "04-7191-4126"
+ },
+ {
+  "name": "白浜温泉 林景荘",
+  "address": "千葉県南房総市白浜町滝口2524",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007536",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen007536/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "常盤湯(閉館しました）",
+  "address": "千葉県船橋市本町3-20-12",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007685",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen007685/)",
+  "tel": "0474-22-4632"
+ },
+ {
+  "name": "笑がおの湯 松戸矢切店",
+  "address": "千葉県松戸市下矢切115",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen007692",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen007692/)",
+  "tel": "047-312-4126"
+ },
+ {
+  "name": "平助旅館",
+  "address": "千葉県南房総市白浜町乙浜471",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007818",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen007818/)",
+  "tel": "0470-38-2888"
+ },
+ {
+  "name": "クリーンスパ市川",
+  "address": "千葉県市川市上妙典1554番地",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen007850",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen007850/)",
+  "tel": "047-329-6711"
+ },
+ {
+  "name": "犬吠埼グランドホテル磯屋",
+  "address": "千葉県銚子市犬吠埼10292",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007859",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen007859/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "那須塩原源泉 舞姫の湯",
+  "address": "千葉県印西市舞姫1-5-9",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007860",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen007860/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "大謙館",
+  "address": "千葉県南房総市久枝745",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen007873",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen007873/)",
+  "tel": "0470-57-3231"
+ },
+ {
+  "name": "若葉の湯",
+  "address": "千葉県千葉市若葉区東寺山町433-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007963",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen007963/)",
+  "tel": "043-206-4126"
+ },
+ {
+  "name": "アクア・ユーカリ",
+  "address": "千葉県佐倉市ユーカリが丘3-2-１",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen007967",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sakura-onsen/onsen007967/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "カプセルランド柏泉",
+  "address": "千葉県柏市柏3-4-25",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008076",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen008076/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "滝見苑 けんこう村 ごりやくの湯",
+  "address": "千葉県夷隅郡大多喜町粟又字ヤシウ176",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "塩素: 口コミ（2021年）「塩素臭が強い」、（2010年）「プール並の塩素臭」",
+  "id": "onsen008097",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen008097/) / [口コミ](https://onsen.nifty.com/ichihara-onsen/onsen008097/kuchikomi/)",
+  "tel": "0470-85-0056"
+ },
+ {
+  "name": "薬石浴 月光山 市川北国分店",
+  "address": "千葉県市川市堀之内3丁目",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008162",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008162/)",
+  "tel": "047-375-2641"
+ },
+ {
+  "name": "さわやかプラザ軽井沢",
+  "address": "千葉県鎌ヶ谷市軽井沢2106-6",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008204",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008204/)",
+  "tel": "047-442-6150"
+ },
+ {
+  "name": "リフレッシュプラザ柏（かしわ）",
+  "address": "千葉県柏市南増尾58-3",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008205",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen008205/)",
+  "tel": "04-7173-5900"
+ },
+ {
+  "name": "湯パーク南柏（ゆパークみなみかしわ）",
+  "address": "千葉県柏市南柏2-4-17",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008206",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen008206/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "松戸ヘルスランド",
+  "address": "千葉県松戸市松戸新田580-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008266",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008266/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "クアパレス",
+  "address": "千葉県船橋市薬円台4-20-9",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008310",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008310/)",
+  "tel": "047-466-3313"
+ },
+ {
+  "name": "旭湯（あさひゆ）【閉館しました】",
+  "address": "千葉県柏市柏1-5-4",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008384",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen008384/)",
+  "tel": "04-7167-2473"
+ },
+ {
+  "name": "江戸川湯",
+  "address": "千葉県流山市江戸川台東3丁目4",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008385",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen008385/)",
+  "tel": "04-7152-4719"
+ },
+ {
+  "name": "力湯",
+  "address": "千葉県柏市光ケ丘2丁目21-19",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008386",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen008386/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "小金バスランド",
+  "address": "千葉県松戸市小金きよしケ丘2-9-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008387",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008387/)",
+  "tel": "047-341-1126"
+ },
+ {
+  "name": "清志湯",
+  "address": "千葉県松戸市小金清志町2-37-7",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008388",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008388/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "馬橋湯（馬橋バスセンター）",
+  "address": "千葉県松戸市馬橋95",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008389",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008389/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "ニューだるま温泉",
+  "address": "千葉県松戸市栄町4-222",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008390",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008390/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "宮前湯",
+  "address": "千葉県松戸市松戸1766",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008391",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008391/)",
+  "tel": "047-362-2819"
+ },
+ {
+  "name": "仲の湯",
+  "address": "千葉県松戸市仲井町1-75",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008393",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008393/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "平和湯ランド",
+  "address": "千葉県松戸市五香西1-12-12",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008394",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008394/)",
+  "tel": "047-387-2044"
+ },
+ {
+  "name": "サウナ・カプセルインクレスト松戸",
+  "address": "千葉県松戸市本町19-18",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen008395",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008395/)",
+  "tel": "047-367-2681"
+ },
+ {
+  "name": "湖水亭 嵯峨和",
+  "address": "千葉県君津市笹614",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環: 口コミ「加温・循環濾過・消毒あり、加水なし」",
+  "id": "onsen008396",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen008396/) / [口コミ](https://onsen.nifty.com/kisaradu-onsen/onsen008396/kuchikomi/)",
+  "tel": "0439-39-3222"
+ },
+ {
+  "name": "ニコニコ湯",
+  "address": "千葉県鎌ヶ谷市東道野辺7丁目20-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008417",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008417/)",
+  "tel": "047-438-4485"
+ },
+ {
+  "name": "鎌ヶ谷浴場",
+  "address": "千葉県鎌ヶ谷市富岡1丁目8-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008418",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen008418/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "湯あそびひろば 石の湯",
+  "address": "千葉県千葉市中央区寒川町2-16",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008423",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008423/)",
+  "tel": "043-261-4400"
+ },
+ {
+  "name": "天然温泉 みどりの湯 都賀店",
+  "address": "千葉県千葉市若葉区若松町545-20",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008424",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008424/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "朝日湯",
+  "address": "千葉県市川市市川2-21-7",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008480",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008480/)",
+  "tel": "047-322-1024"
+ },
+ {
+  "name": "若松湯",
+  "address": "千葉県市川市市川2-28-16",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008481",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008481/)",
+  "tel": "047-322-4583"
+ },
+ {
+  "name": "石乃湯",
+  "address": "千葉県市川市国分2-2-21",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008482",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008482/)",
+  "tel": "047-372-4919"
+ },
+ {
+  "name": "市川湯【閉館しました】",
+  "address": "千葉県市川市市川南3-7-20",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008483",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008483/)",
+  "tel": "047-324-2547"
+ },
+ {
+  "name": "恵比寿湯",
+  "address": "千葉県市川市新田3-19-16",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008484",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008484/)",
+  "tel": "047-378-0396"
+ },
+ {
+  "name": "重の湯",
+  "address": "千葉県市川市新田3-9-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008485",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008485/)",
+  "tel": "047-378-0263"
+ },
+ {
+  "name": "若宮松の湯",
+  "address": "千葉県市川市若宮3-1-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008486",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008486/)",
+  "tel": "047-335-1296"
+ },
+ {
+  "name": "市力湯【閉館しました】",
+  "address": "千葉県市川市若宮2-12-4",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008487",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008487/)",
+  "tel": "047-334-2960"
+ },
+ {
+  "name": "國見湯",
+  "address": "千葉県市川市中山4-14-21",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008488",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008488/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "月の湯",
+  "address": "千葉県市川市菅野5-2-6",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008489",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008489/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "菅の湯",
+  "address": "千葉県市川市東菅野1-4-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008490",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008490/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "八幡湯",
+  "address": "千葉県市川市大和田4-2-5",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008491",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008491/)",
+  "tel": "047-370-3788"
+ },
+ {
+  "name": "柳湯",
+  "address": "千葉県市川市南八幡1-11-5",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen008492",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008492/)",
+  "tel": "047-378-4657"
+ },
+ {
+  "name": "宝湯",
+  "address": "千葉県市川市南八幡2-6-5",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008493",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008493/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "九十九里浜 一宮館",
+  "address": "千葉県長生郡一宮町一宮9241",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008506",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen008506/)",
+  "tel": "0475-42-2127"
+ },
+ {
+  "name": "薬湯市原店",
+  "address": "千葉県市原市八幡973-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008508",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen008508/)",
+  "tel": "0436-42-1126"
+ },
+ {
+  "name": "白岩温泉 白岩館（しらいわ）",
+  "address": "千葉県君津市黄和田畑1279",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴終了: ニフティの施設紹介「日帰り入浴の営業は行っておりません。現在はお食事処のみの営業」、口コミ（2023年5月）「温泉はやっておらず、食堂のみ」",
+  "id": "onsen008526",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen008526/) / [口コミ](https://onsen.nifty.com/kisaradu-onsen/onsen008526/kuchikomi/)",
+  "tel": "0439-39-2666"
+ },
+ {
+  "name": "湊湯",
+  "address": "千葉県船橋市湊町3-21-6",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008535",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008535/)",
+  "tel": "047-431-3120"
+ },
+ {
+  "name": "浜町浴場",
+  "address": "千葉県船橋市浜町1-31-21",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008536",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008536/)",
+  "tel": "047-431-5817"
+ },
+ {
+  "name": "鹿島湯",
+  "address": "千葉県船橋市宮本4-7-5",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008537",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008537/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "多丸湯",
+  "address": "千葉県船橋市湊町1-20-17",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008538",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008538/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "松竹湯【閉館しました】",
+  "address": "千葉県船橋市本中山2-20-4",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008539",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008539/)",
+  "tel": "047-334-7413"
+ },
+ {
+  "name": "湯～トピア西船",
+  "address": "千葉県船橋市西船6-6－27",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008540",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008540/)",
+  "tel": "047-334-3637"
+ },
+ {
+  "name": "桔梗湯",
+  "address": "千葉県船橋市本中山3-14-10",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008541",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008541/)",
+  "tel": "047-334-2922"
+ },
+ {
+  "name": "寿湯",
+  "address": "千葉県船橋市本中山4-23-11",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008542",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008542/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "多津の湯",
+  "address": "千葉県船橋市海神6-26-17",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008543",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008543/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "稲荷湯",
+  "address": "千葉県船橋市海神1-22-4",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008544",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008544/)",
+  "tel": "047-431-3431"
+ },
+ {
+  "name": "湊町 松の湯",
+  "address": "千葉県船橋市本町3-24-17",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen008545",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008545/)",
+  "tel": "047-424-3005"
+ },
+ {
+  "name": "宮の湯",
+  "address": "千葉県船橋市宮本6-10-20",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008546",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008546/)",
+  "tel": "047-422-8937"
+ },
+ {
+  "name": "船橋アリーナ",
+  "address": "千葉県船橋市習志野台7-5-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen008547",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008547/)",
+  "tel": "047-461-5611"
+ },
+ {
+  "name": "亀の湯",
+  "address": "千葉県千葉市中央区本町3-3-10",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008601",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008601/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "養老渓谷 嵯峨和",
+  "address": "千葉県夷隅郡大多喜町葛藤20",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "循環・日帰り不可: 温泉ライフ「黒湯の養老温泉を、加温・循環ろ過した内湯」「宿泊者専用（日帰り入浴なし）」",
+  "id": "onsen008618",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen008618/) / [口コミ](https://onsen.nifty.com/ichihara-onsen/onsen008618/kuchikomi/) / [温泉ライフ](https://onsen-life.com/facility/sagawa-ryokan-main-branch)",
+  "tel": "0470-85-0321"
+ },
+ {
+  "name": "いいおか潮騒ホテル",
+  "address": "千葉県旭市萩園1437",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "既収録",
+  "reason": "data.json に収録済み",
+  "id": "onsen008735",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen008735/)",
+  "tel": "0479-85-6677"
+ },
+ {
+  "name": "極楽湯 千葉稲毛店",
+  "address": "千葉県千葉市稲毛区園生町380-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen008751",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen008751/)",
+  "tel": "：043-207-0678"
+ },
+ {
+  "name": "御宿天然温泉 元湯",
+  "address": "千葉県夷隅郡御宿町浜152",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen008752",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen008752/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "みどりの湯 田喜野井店",
+  "address": "千葉県船橋市田喜野井6-24-10",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen009034",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen009034/)",
+  "tel": "047-464-4126"
+ },
+ {
+  "name": "天然温泉 海辺の湯（うみべのゆ）",
+  "address": "千葉県富津市金谷525-17",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen009457",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen009457/)",
+  "tel": "0439-69-8500"
+ },
+ {
+  "name": "ホテル月美",
+  "address": "千葉県銚子市犬吠埼10292-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: 温泉ライフ（ホテル&スパ月美 太陽の里）「宿泊者専用（日帰り入浴なし）」",
+  "id": "onsen009533",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen009533/) / [口コミ](https://onsen.nifty.com/choushi-onsen/onsen009533/kuchikomi/) / [温泉ライフ](https://onsen-life.com/facility/hotel-spa-tsukimi-taiyo-no-sato)",
+  "tel": "0479-21-6300"
+ },
+ {
+  "name": "千倉温泉 旅館 銀鱗荘 ことぶき",
+  "address": "千葉県南房総市千倉町平舘684",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen009651",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen009651/)",
+  "tel": "0470-44-2527"
+ },
+ {
+  "name": "旅館 弁天鉱泉",
+  "address": "千葉県南房総市小浦487",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "前回の千葉調査で除外済み（宿泊客向けの客室露天、日帰りの案内なし）",
+  "id": "onsen009789",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen009789/) / [口コミ](https://onsen.nifty.com/chikura-onsen/onsen009789/kuchikomi/)",
+  "tel": "0470-57-2528"
+ },
+ {
+  "name": "海の湯宿 花しぶき",
+  "address": "千葉県館山市塩見233-4",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素: 口コミ（2022年）「内風呂は…凄く塩素の匂い」、（2016年）「循環湯のようだ」",
+  "id": "onsen010380",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen010380/) / [口コミ](https://onsen.nifty.com/tateyama-onsen/onsen010380/kuchikomi/)",
+  "tel": "0470-29-0236"
+ },
+ {
+  "name": "温泉旅館 川の家",
+  "address": "千葉県夷隅郡大多喜町葛藤９３２",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし: 公式は「自噴する天然の源泉を引いております」のみ",
+  "id": "onsen010566",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen010566/) / [口コミ](https://onsen.nifty.com/ichihara-onsen/onsen010566/kuchikomi/) / [公式](http://www.kawanoya.net/index.html)",
+  "tel": "0470-85-0021"
+ },
+ {
+  "name": "天然温泉 旭の湯",
+  "address": "千葉県千葉県旭市東足洗字浜方2778番地4",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しは露天の一部: 口コミ（2018年）「露天風呂は源泉掛け流し…露天風呂以外は普通のスーパー銭湯」、別の口コミ「オーバーフローさせていないので、循環しているのかも」",
+  "id": "onsen010801",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen010801/) / [口コミ](https://onsen.nifty.com/choushi-onsen/onsen010801/kuchikomi/)",
+  "tel": "0479-62-1126"
+ },
+ {
+  "name": "アパホテル＆リゾート〈東京ベイ幕張〉",
+  "address": "千葉県千葉市美浜区ひび野2-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen011074",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen011074/)",
+  "tel": "043-296-1111"
+ },
+ {
+  "name": "アパホテル〈京成成田駅前〉",
+  "address": "千葉県成田市花崎町９０６",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen011075",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen011075/)",
+  "tel": "0476-20-3111"
+ },
+ {
+  "name": "アパホテル 千葉八千代緑が丘",
+  "address": "千葉県八千代市緑が丘1-2-30",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen011168",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sakura-onsen/onsen011168/)",
+  "tel": "047-458-8111"
+ },
+ {
+  "name": "天然温泉リゾート美人の湯 カーニバルヒルズ",
+  "address": "千葉県香取市沢13-7",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環・消毒: 口コミ「１７度の鉱泉を加温し、循環、消毒アリ」、「木曜は源泉掛け流し日らしい」",
+  "id": "onsen011288",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sawara-onsen/onsen011288/) / [口コミ](https://onsen.nifty.com/sawara-onsen/onsen011288/kuchikomi/)",
+  "tel": "0478-70-5400"
+ },
+ {
+  "name": "武蔵湯",
+  "address": "千葉県松戸市稔台1月5日",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen011300",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen011300/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "正木温泉",
+  "address": "千葉県館山市正木3027",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen011660",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen011660/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "豊明殿",
+  "address": "千葉県鴨川市内浦14",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen011663",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen011663/)",
+  "tel": "04-7095-2334"
+ },
+ {
+  "name": "元湯天然温泉 吉祥",
+  "address": "千葉県館山市大神宮335-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen011664",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen011664/)",
+  "tel": "0470-28-5517"
+ },
+ {
+  "name": "魚眠庵 マルキ本館",
+  "address": "千葉県鴨川市横渚543",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen011666",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen011666/)",
+  "tel": "04-7099-1919"
+ },
+ {
+  "name": "潮の香の湯宿 浜紫",
+  "address": "千葉県長生郡白子町中里4370-14",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen011668",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen011668/)",
+  "tel": "0475-33-3115"
+ },
+ {
+  "name": "魚彩和みの宿 三水",
+  "address": "千葉県鴨川市小湊182-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環併用: 口コミ「加水あり、循環・かけ流し併用。毎日車で配給している」（運び湯）",
+  "id": "onsen011669",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen011669/) / [口コミ](https://onsen.nifty.com/kamogawa-onsen/onsen011669/kuchikomi/)",
+  "tel": "04-7095-3333"
+ },
+ {
+  "name": "ホテル洲の崎風の抄",
+  "address": "千葉県館山市洲崎198-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen011904",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen011904/)",
+  "tel": "0470-29-0301"
+ },
+ {
+  "name": "旬彩の宿緑水亭",
+  "address": "千葉県鴨川市内浦1385",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen011920",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen011920/)",
+  "tel": "04-7095-3030"
+ },
+ {
+  "name": "鏡ヶ浦温泉ｒｏｋｕｚａ",
+  "address": "千葉県館山市那古1672-88",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen012004",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen012004/)",
+  "tel": "0470-20-5693"
+ },
+ {
+  "name": "Spa Resort 菜々の湯",
+  "address": "千葉県習志野市本大久保1-1-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen012013",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen012013/)",
+  "tel": "047-470-4126"
+ },
+ {
+  "name": "酒々井温泉 湯楽の里(ゆらのさと）",
+  "address": "千葉県印旛郡酒々井町飯積1-1-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen012078",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sakura-onsen/onsen012078/)",
+  "tel": "043-312-0026"
+ },
+ {
+  "name": "たてやま温泉 千里の風",
+  "address": "千葉県館山市藤原1495-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen012222",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen012222/)",
+  "tel": "0470-28-2211"
+ },
+ {
+  "name": "グランビュー岩井",
+  "address": "千葉県南房総市久枝527-16",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen012224",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen012224/)",
+  "tel": "0470-57-3311"
+ },
+ {
+  "name": "白浜オーシャンリゾート",
+  "address": "千葉県南房総市白浜町白浜2784",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen012265",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen012265/)",
+  "tel": "0470-38-2511"
+ },
+ {
+  "name": "美楽温泉 SPA-HERBS（スパハーブス）",
+  "address": "埼玉県さいたま市北区植竹町1-816-8",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen012278",
+  "evidence": "[ニフティ](https://onsen.nifty.com/saitamashi-onsen/onsen012278/)",
+  "tel": "048-669-6626"
+ },
+ {
+  "name": "末広湯",
+  "address": "千葉県浦安市堀江3-4-6",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen012303",
+  "evidence": "[ニフティ](https://onsen.nifty.com/urayasu-onsen/onsen012303/)",
+  "tel": "047-351-2333"
+ },
+ {
+  "name": "九十九里ヴィラそとぼう",
+  "address": "千葉県いすみ市岬町和泉4427-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen012313",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen012313/)",
+  "tel": "0470-87-7111"
+ },
+ {
+  "name": "梅開湯（休業中）",
+  "address": "千葉県千葉市中央区寒川町3-17",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen012340",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen012340/)",
+  "tel": "043-261-6093"
+ },
+ {
+  "name": "アートホテル成田 成田温泉 美湯",
+  "address": "千葉県成田市小菅700",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen012347",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen012347/)",
+  "tel": "0476-32-1111"
+ },
+ {
+  "name": "松の湯",
+  "address": "千葉県浦安市猫実4-21-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen012348",
+  "evidence": "[ニフティ](https://onsen.nifty.com/urayasu-onsen/onsen012348/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "柳湯",
+  "address": "千葉県香取市佐原イ471",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen012370",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sawara-onsen/onsen012370/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "松の湯（金平浴場）",
+  "address": "千葉県香取市佐原イ622",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen012371",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sawara-onsen/onsen012371/)",
+  "tel": "0478-52-3547"
+ },
+ {
+  "name": "のだ温泉 ほのか",
+  "address": "千葉県野田市花井1-1-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen012403",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen012403/)",
+  "tel": "04-7123-4126"
+ },
+ {
+  "name": "佐倉天然温泉 澄流（すみれ）",
+  "address": "千葉県佐倉市染井野4-7-3",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen012409",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sakura-onsen/onsen012409/)",
+  "tel": "043-497-2625"
+ },
+ {
+  "name": "笑楽の湯（わらくのゆ）",
+  "address": "千葉県安房郡鋸南町上佐久間66",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen012460",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen012460/)",
+  "tel": "0470-55-8830"
+ },
+ {
+  "name": "ふなばしメグスパ",
+  "address": "千葉県船橋市大神保町1356-3",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen012487",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen012487/)",
+  "tel": "047-457-5151"
+ },
+ {
+  "name": "湯けむり 天然秘湯 龍泉の湯",
+  "address": "千葉県成田市松崎1249",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen012495",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen012495/)",
+  "tel": "0476-28-4126"
+ },
+ {
+  "name": "ホテル スワンレイク長柄 光明神々温泉（こうみょうこうごうおんせん）",
+  "address": "千葉県長生郡長柄町皿木16-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen012499",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen012499/)",
+  "tel": "0120-03-6014"
+ },
+ {
+  "name": "梅の湯",
+  "address": "千葉県千葉市花見川区検見川町2-481",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen012552",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen012552/)",
+  "tel": "043-273-8080"
+ },
+ {
+  "name": "【女性専用】石の癒 千葉いすみ店",
+  "address": "千葉県いすみ市岬町江場土1783-5",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen012624",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen012624/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "【女性専用】石の癒 成田店",
+  "address": "千葉県成田市ウイング土屋159",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen012625",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen012625/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "ビジネスホテル五井温泉",
+  "address": "千葉県市原市五井5918-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen012892",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen012892/)",
+  "tel": "0436-23-2617"
+ },
+ {
+  "name": "ホテル里杏",
+  "address": "千葉県勝浦市貝掛362",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen012950",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen012950/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "満ちてくる心の宿 吉夢",
+  "address": "千葉県鴨川市小湊182-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013014",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013014/)",
+  "tel": "04-7095-2111"
+ },
+ {
+  "name": "蓮沼シーサイドイン小川荘",
+  "address": "千葉県山武市蓮沼ホの601",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen013044",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen013044/)",
+  "tel": "0475-86-3315"
+ },
+ {
+  "name": "天津小湊温泉 城崎の源泉の湯 宿中屋",
+  "address": "千葉県鴨川市天津3287",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: 温泉ライフ「入浴は宿泊者専用で、日帰り入浴はできません」、公式にも日帰りの案内なし",
+  "id": "onsen013098",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013098/) / [口コミ](https://onsen.nifty.com/kamogawa-onsen/onsen013098/kuchikomi/) / [温泉ライフ](https://onsen-life.com/facility/nakaya-inn)",
+  "tel": "04-7094-1111"
+ },
+ {
+  "name": "館山リゾートホテル",
+  "address": "千葉県館山市小沼352",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen013256",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen013256/)",
+  "tel": "0470-29-2100"
+ },
+ {
+  "name": "ドッグホテル わん楽",
+  "address": "千葉県館山市坂足381",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen013296",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen013296/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "青堀温泉 ホテル喜楽館",
+  "address": "千葉県富津市大堀1571番地",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen013318",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen013318/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "月影の丘ホテル ヴィラ勝山アヴェール",
+  "address": "千葉県安房郡鋸南町大六247-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen013393",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen013393/)",
+  "tel": "0470-55-3464"
+ },
+ {
+  "name": "鴨川温泉 画家ゆかりの宿江澤館",
+  "address": "千葉県鴨川市太海浜153",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013398",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013398/)",
+  "tel": "047-092-2270"
+ },
+ {
+  "name": "民宿・旅館 日吉屋",
+  "address": "千葉県勝浦市鵜原771-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013416",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen013416/)",
+  "tel": "0470-76-2077"
+ },
+ {
+  "name": "ホテルベルセルバ",
+  "address": "千葉県市原市平蔵2579-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen013421",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen013421/)",
+  "tel": "0436-89-3333"
+ },
+ {
+  "name": "岬ペンション ガジュマル",
+  "address": "千葉県いすみ市岬町中原129-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen013446",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen013446/)",
+  "tel": "0470-80-3131"
+ },
+ {
+  "name": "貸別荘バーネットビレッジ(自家源泉 ひかり潮の湯)",
+  "address": "千葉県山武郡横芝光町木戸5143-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013450",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen013450/)",
+  "tel": "0479-84-3450（電話受付9:00～18:00）"
+ },
+ {
+  "name": "千倉温泉 千倉館",
+  "address": "千葉県南房総市千倉町南朝夷1045",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "保留",
+  "reason": "ニフティで「源泉かけ流し」（含硫黄泉）に分類、口コミ0件。公式サイトは確認時500エラー、ニフティは宿泊のみ。電話（0470-44-3211）で「日帰り入浴はできるか」「全浴槽かけ流しか、塩素の有無」を聞く",
+  "id": "onsen013466",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen013466/) / [口コミ](https://onsen.nifty.com/chikura-onsen/onsen013466/kuchikomi/)",
+  "tel": "0470-44-3211"
+ },
+ {
+  "name": "鴨川温泉 海辺の宿 恵比寿",
+  "address": "千葉県鴨川市太海2345",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013531",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013531/)",
+  "tel": "0470-92-2226"
+ },
+ {
+  "name": "木更津富士屋季眺",
+  "address": "千葉県木更津市富士見3-7-35",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen013589",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen013589/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "亀の井ホテル 鴨川",
+  "address": "千葉県鴨川市西町1137",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミに循環・塩素臭などの記載あり",
+  "id": "onsen013599",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013599/)",
+  "tel": "04-7092-1231"
+ },
+ {
+  "name": "飯岡温泉 グロリア九十九里浜",
+  "address": "千葉県旭市下永井809-67",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen013639",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen013639/)",
+  "tel": "050-3491-7147"
+ },
+ {
+  "name": "Ｄｏｇサバトリーのある宿 ご・遊庭",
+  "address": "千葉県鴨川市西町1179",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen013652",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013652/)",
+  "tel": "04-7093-5710"
+ },
+ {
+  "name": "グランドホテル太陽",
+  "address": "千葉県南房総市白浜町白浜3535-5",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013656",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen013656/)",
+  "tel": "0470-38-3331"
+ },
+ {
+  "name": "白子温泉 グリーン向井",
+  "address": "千葉県長生郡白子町中里4428-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen013663",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen013663/)",
+  "tel": "0475-33-2203"
+ },
+ {
+  "name": "旅の宿 浜よし",
+  "address": "千葉県夷隅郡御宿町岩和田716-8",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen013707",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen013707/)",
+  "tel": "0470-68-3415"
+ },
+ {
+  "name": "平砂浦ビーチホテル",
+  "address": "千葉県館山市伊戸1535",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013737",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen013737/)",
+  "tel": "0470-29-1100"
+ },
+ {
+  "name": "小湊実入温泉 ホテルグリーンプラザ鴨川",
+  "address": "千葉県鴨川市天津3289-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen013740",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013740/)",
+  "tel": "0570-071-489"
+ },
+ {
+  "name": "ホテル白洋",
+  "address": "千葉県長生郡白子町幸治2866",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013779",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen013779/)",
+  "tel": "0475-33-7511"
+ },
+ {
+  "name": "千倉海底温泉 海辺の温泉料理宿 ホテル千倉",
+  "address": "千葉県南房総市千倉町瀬戸2980-12",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013788",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen013788/)",
+  "tel": "0470-44-3111"
+ },
+ {
+  "name": "鴨川温泉 ホテル中村",
+  "address": "千葉県鴨川市横渚843",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013815",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013815/)",
+  "tel": "04-7092-2258"
+ },
+ {
+  "name": "蓬莱屋旅館",
+  "address": "千葉県鴨川市天津1376",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013856",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013856/)",
+  "tel": "04-7094-0029"
+ },
+ {
+  "name": "南国ホテル（伊東園グループ）",
+  "address": "千葉県南房総市白浜町白浜2544-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013913",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen013913/)",
+  "tel": "0470-38-5759"
+ },
+ {
+  "name": "九十九里中里海岸 白子温泉 ホテル 城之内荘",
+  "address": "千葉県長生郡白子町中里4442-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013976",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen013976/)",
+  "tel": "0475-33-2325"
+ },
+ {
+  "name": "ホテルカアナパリ",
+  "address": "千葉県長生郡白子町中里4519",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen013988",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen013988/)",
+  "tel": "0475-33-2045"
+ },
+ {
+  "name": "安房鴨川 海辺の名湯ミネラル温泉 ホテル海光苑",
+  "address": "千葉県鴨川市太海110",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen013999",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen013999/)",
+  "tel": "04-7092-2131"
+ },
+ {
+  "name": "勝浦ヒルトップホテル＆レジデンス",
+  "address": "千葉県勝浦市沢倉441-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: 公式FAQ「温泉のみのご利用は承っておりません」（大浴場はかけ流しとFAQに記載）",
+  "id": "onsen014067",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen014067/) / [口コミ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen014067/kuchikomi/) / [公式FAQ](http://www.kgh.ne.jp/12/faq/)",
+  "tel": "0470-73-6000"
+ },
+ {
+  "name": "養老渓谷温泉郷 旅館 喜代元",
+  "address": "千葉県市原市戸面397-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: 温泉ライフ「入浴は宿泊者専用」、公式も宿泊のみの案内",
+  "id": "onsen014100",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen014100/) / [口コミ](https://onsen.nifty.com/ichihara-onsen/onsen014100/kuchikomi/) / [温泉ライフ](https://onsen-life.com/facility/yoro-valley-hot-springs-kuroyu-no-yado-kiyomoto)",
+  "tel": "0436-96-0345"
+ },
+ {
+  "name": "妊婦さんにも赤ちゃんにも優しい宿 南房総白浜 季粋の宿 紋屋",
+  "address": "千葉県南房総市白浜町白浜232",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen014286",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen014286/)",
+  "tel": "0470-38-3151"
+ },
+ {
+  "name": "味覚と眺望の宿 ホテル南海荘",
+  "address": "千葉県南房総市白浜町白浜623-13",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen014333",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen014333/)",
+  "tel": "0470-38-3500"
+ },
+ {
+  "name": "海鮮問屋の宿 くろしお",
+  "address": "千葉県鴨川市小湊196",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen014368",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen014368/)",
+  "tel": "04-7095-3455"
+ },
+ {
+  "name": "白子・サンライズオーツカ",
+  "address": "千葉県長生郡白子町中里4408-18",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen014371",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen014371/)",
+  "tel": "0475-30-2221"
+ },
+ {
+  "name": "シーサイドホテル九十九里",
+  "address": "千葉県山武市本須賀3701",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen014652",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen014652/)",
+  "tel": "0475-80-3111"
+ },
+ {
+  "name": "ホテル一宮シーサイドオーツカ",
+  "address": "千葉県長生郡一宮町一宮10000",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen014654",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen014654/)",
+  "tel": "0475-42-6411"
+ },
+ {
+  "name": "白子温泉 サンシャイン・白子",
+  "address": "千葉県長生郡白子町中里4507-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen014804",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen014804/)",
+  "tel": "0475-33-2121"
+ },
+ {
+  "name": "館山温泉 おさしみの宿 たろべ",
+  "address": "千葉県館山市塩見225",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen014889",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen014889/)",
+  "tel": "0470-29-1188"
+ },
+ {
+  "name": "たてやま鏡ヶ浦温泉 館山シーサイドホテル",
+  "address": "千葉県館山市八幡822",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen014892",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen014892/)",
+  "tel": "0470-22-0151"
+ },
+ {
+  "name": "養老渓谷温泉郷 小さな旅の宿 天龍荘",
+  "address": "千葉県夷隅郡大多喜町葛藤163",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: 温泉ライフ「宿泊者専用（日帰り入浴なし）」",
+  "id": "onsen014900",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen014900/) / [口コミ](https://onsen.nifty.com/ichihara-onsen/onsen014900/kuchikomi/) / [温泉ライフ](https://onsen-life.com/facility/yoro-valley-hot-springs-resort-tenryusou)",
+  "tel": "0470-85-0311"
+ },
+ {
+  "name": "伊勢えび・あわびが専門の宿 大野荘",
+  "address": "千葉県夷隅郡御宿町新町775",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen014911",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen014911/)",
+  "tel": "0470-68-5511"
+ },
+ {
+  "name": "養老渓谷温泉郷 鶴乃家",
+  "address": "千葉県市原市戸面327",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: 温泉ライフ「宿泊者専用（日帰り入浴なし）」",
+  "id": "onsen014945",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen014945/) / [口コミ](https://onsen.nifty.com/ichihara-onsen/onsen014945/kuchikomi/) / [温泉ライフ](https://onsen-life.com/facility/eating-hot-spring-inn-tsurunoya)",
+  "tel": "0436-96-0500"
+ },
+ {
+  "name": "こみなと漁師料理 海の庭",
+  "address": "千葉県鴨川市小湊169",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen014972",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen014972/)",
+  "tel": "04-7095-2611"
+ },
+ {
+  "name": "別邸 海と森",
+  "address": "千葉県銚子市犬吠埼10292-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen014973",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen014973/)",
+  "tel": "0479-21-6300"
+ },
+ {
+  "name": "白子温泉 白子ホワイトパレス",
+  "address": "千葉県長生郡白子町中里4481",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen015003",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen015003/)",
+  "tel": "0475-33-3005"
+ },
+ {
+  "name": "矢原荘",
+  "address": "千葉県南房総市千倉町瀬戸3291",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen015317",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen015317/)",
+  "tel": "0470-44-1761"
+ },
+ {
+  "name": "三井ガーデンホテル柏の葉",
+  "address": "千葉県柏市若柴178-4 柏の葉キャンパス148街区2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen015364",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen015364/)",
+  "tel": "04-7134-3131"
+ },
+ {
+  "name": "吉岡旅館",
+  "address": "千葉県鴨川市太海2356",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen015387",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen015387/)",
+  "tel": "04-7092-0656"
+ },
+ {
+  "name": "房総白浜ウミサトホテル",
+  "address": "千葉県南房総市白浜町白浜7034",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen015429",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen015429/)",
+  "tel": "0470-38-5121"
+ },
+ {
+  "name": "白子温泉 白子ニューシーサイドホテル",
+  "address": "千葉県長生郡白子町中里4482",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen015553",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen015553/)",
+  "tel": "0475-30-3555"
+ },
+ {
+  "name": "温泉民宿 しあわせ荘",
+  "address": "千葉県南房総市千倉町川口68",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen015657",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen015657/)",
+  "tel": "0470-43-1244"
+ },
+ {
+  "name": "青松庭 白砂",
+  "address": "千葉県長生郡白子町古所3291",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen015717",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen015717/)",
+  "tel": "0475-33-3523"
+ },
+ {
+  "name": "渓流の宿 福水",
+  "address": "千葉県夷隅郡大多喜町小田代589-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen016006",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen016006/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "緑水亭 勝浦別館 翠海(すいか)",
+  "address": "千葉県勝浦市興津久保山台1990",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen016037",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen016037/)",
+  "tel": "0470-64-6811"
+ },
+ {
+  "name": "スーパーホテル千葉・市原",
+  "address": "千葉県市原市姉崎994-9",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen016059",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen016059/)",
+  "tel": "0436-60-9000"
+ },
+ {
+  "name": "房総 四季の蔵 四季の湯",
+  "address": "千葉県君津市三直170-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen016200",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen016200/)",
+  "tel": "0439-57-7011"
+ },
+ {
+  "name": "spa resort 蘭々の湯",
+  "address": "千葉県千葉市稲毛区園生町445-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen016210",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016210/)",
+  "tel": "043-206-1126"
+ },
+ {
+  "name": "温どこ",
+  "address": "千葉県船橋市南三咲3-15-5",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen016325",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016325/)",
+  "tel": "047-494-9989"
+ },
+ {
+  "name": "長柄町福祉センター",
+  "address": "千葉県長生郡長柄町桜谷７１２",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "循環: 口コミ「成分表には、資源節約のため循環とあります」",
+  "id": "onsen016340",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen016340/) / [口コミ](https://onsen.nifty.com/ichihara-onsen/onsen016340/kuchikomi/)",
+  "tel": "0475-30-7200"
+ },
+ {
+  "name": "割烹旅館玉川",
+  "address": "千葉県船橋市湊町2-6-25",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen016358",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016358/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "BEST STYLE FITNESS 海浜幕張（SPA-HERBS 海浜幕張）",
+  "address": "千葉県千葉市美浜区ひび野1-7 かねたやROOM DECO1F",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen016360",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016360/)",
+  "tel": "043-307-1063"
+ },
+ {
+  "name": "渓谷別邸 もちの木",
+  "address": "千葉県夷隅郡大多喜町大田代105-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen016373",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen016373/)",
+  "tel": "0470-80-9000"
+ },
+ {
+  "name": "こはら荘",
+  "address": "千葉県鴨川市太海2288",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen016380",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen016380/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "たてやま温泉 夕日海岸 昇鶴",
+  "address": "千葉県館山市八幡822",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen016388",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen016388/)",
+  "tel": "0470-23-8111"
+ },
+ {
+  "name": "Beachside Onsen Resort ゆうみ",
+  "address": "千葉県安房郡鋸南町元名442",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen016393",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen016393/)",
+  "tel": "0470-55-0123"
+ },
+ {
+  "name": "キャメルゴルフ＆ホテルリゾート",
+  "address": "千葉県夷隅郡御宿町上布施3360",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen016404",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen016404/)",
+  "tel": "0470－68－6061"
+ },
+ {
+  "name": "小糸川温泉",
+  "address": "千葉県君津市日渡根206",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "収録",
+  "reason": "口コミ（2024年12月・2020年）で「冷鉱泉を加熱して掛け流している」「嫌な消毒臭などは一切ない」。男女別内湯1つずつ。金～月の10～16時営業",
+  "id": "onsen016407",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen016407/) / [口コミ](https://onsen.nifty.com/kisaradu-onsen/onsen016407/kuchikomi/)",
+  "tel": "0439-37-2108"
+ },
+ {
+  "name": "天然温泉 湯～ねる",
+  "address": "千葉県習志野市茜浜2丁目2-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen016421",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016421/)",
+  "tel": "047-409-3726"
+ },
+ {
+  "name": "サウナ＆カプセルホテルレインボー本八幡店",
+  "address": "千葉県市川市南八幡4-1-12パインズビル２Ｆ",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen016427",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016427/)",
+  "tel": "047-379-7201"
+ },
+ {
+  "name": "大江戸温泉物語 君津の森",
+  "address": "千葉県君津市法木384-119",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen016446",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen016446/)",
+  "tel": "0570-011264"
+ },
+ {
+  "name": "小谷流温泉 森の湯",
+  "address": "千葉県八街市小谷流616",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen016474",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016474/)",
+  "tel": "043-312-7726"
+ },
+ {
+  "name": "東京湯楽城",
+  "address": "千葉県富里市七栄650-35",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen016503",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen016503/)",
+  "tel": "0476-91-6866"
+ },
+ {
+  "name": "道の駅 保田小学校 里の小湯",
+  "address": "千葉県安房郡鋸南町保田724",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen016514",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen016514/)",
+  "tel": "0470-29-5530"
+ },
+ {
+  "name": "旭の郷天空の湯",
+  "address": "千葉県千葉県旭市イ2676-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen016528",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen016528/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "むつざわ温泉つどいの湯",
+  "address": "千葉県長生郡睦沢町森2番1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "循環浴槽あり: 口コミ「内湯に源泉掛け流し浴槽と、それがオーバーフローした循環湯の２つ」",
+  "id": "onsen016530",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen016530/) / [口コミ](https://onsen.nifty.com/ichihara-onsen/onsen016530/kuchikomi/)",
+  "tel": "0475-36-7400"
+ },
+ {
+  "name": "櫻湯",
+  "address": "千葉県茂原市茂原４６１",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen016531",
+  "evidence": "[ニフティ](https://onsen.nifty.com/mobara-onsen/onsen016531/)",
+  "tel": "0475-22-4864"
+ },
+ {
+  "name": "ジートピア",
+  "address": "千葉県船橋市本町5-18-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen016544",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016544/)",
+  "tel": "047-422-4141"
+ },
+ {
+  "name": "成田空港温泉 空の湯",
+  "address": "千葉県山武郡芝山町香山新田27-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen016550",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen016550/)",
+  "tel": "0479-78-2615"
+ },
+ {
+  "name": "船橋グランドサウナ",
+  "address": "千葉県船橋市本町4-5-27",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen016591",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016591/)",
+  "tel": "047-422-2266"
+ },
+ {
+  "name": "神門コミュニティセンター",
+  "address": "千葉県君津市人見1462-41",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen016607",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen016607/)",
+  "tel": "0439-87-1958"
+ },
+ {
+  "name": "かぢや旅館",
+  "address": "千葉県富津市金谷3887",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし: 日帰り「ちちんぷいぷいの湯」800円（公式）だが、公式・温泉ライフにかけ流し・循環の記載がない",
+  "id": "onsen016610",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen016610/) / [口コミ](https://onsen.nifty.com/futtsu-onsen/onsen016610/kuchikomi/) / [公式](https://www.kajiyaryokan.com/) / [温泉ライフ](https://onsen-life.com/facility/boso-daifuku-onsen-chichinpuipui-no-yu)",
+  "tel": "0439-69-2411"
+ },
+ {
+  "name": "JFA夢フィールド 幕張温泉 湯楽の里",
+  "address": "千葉県千葉市美浜区美浜26（JFA夢フィールド内）",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen016626",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen016626/)",
+  "tel": "043-205-4126"
+ },
+ {
+  "name": "さざね",
+  "address": "千葉県安房郡鋸南町竜島972-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen016630",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen016630/)",
+  "tel": "0470-55-3333"
+ },
+ {
+  "name": "青の洞窟",
+  "address": "千葉県印西市鹿黒南5-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen016634",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen016634/)",
+  "tel": "0563-56-0933（株式会社KANコーポレーション）"
+ },
+ {
+  "name": "天然温泉湯舞音袖ケ浦店",
+  "address": "千葉県袖ヶ浦市袖ヶ浦駅前1-39-15ゆりまち袖ヶ浦駅前モール内",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen016725",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen016725/)",
+  "tel": "0438-38-6168"
+ },
+ {
+  "name": "南柏天然温泉すみれ",
+  "address": "千葉県流山市向小金1-272-8",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "都市型の日帰り施設で、ニフティの「源泉かけ流し」は一部浴槽のみ（炭酸泉・ジェット・寝湯など循環浴槽あり）",
+  "id": "onsen016736",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen016736/)",
+  "tel": "04-7197-5226"
+ },
+ {
+  "name": "SOLA SPA 牧の原モア温泉",
+  "address": "千葉県印西市牧の原1-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen016768",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen016768/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "和海の宿 ささ游",
+  "address": "千葉県長生郡白子町中里4429-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen017026",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen017026/)",
+  "tel": "0475-36-2233"
+ },
+ {
+  "name": "シーサイドテラス千葉鴨川",
+  "address": "千葉県鴨川市江見太夫崎300",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen017042",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen017042/)",
+  "tel": "050-3198-5846 [平日10:00~18:00]"
+ },
+ {
+  "name": "スパメッツァおおたか 竜泉寺の湯",
+  "address": "千葉県流山市おおたかの森西1-15-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen017050",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen017050/)",
+  "tel": "04-7178-3726"
+ },
+ {
+  "name": "おふろcafe かりんの湯",
+  "address": "千葉県香取市西田部1-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen017056",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sawara-onsen/onsen017056/)",
+  "tel": "ザファーム総合案内 057-00-11831"
+ },
+ {
+  "name": "鳥居崎倶楽部HOTEL＆SEAFOODS",
+  "address": "千葉県木更津市富士見3-5-11",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen017108",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen017108/)",
+  "tel": "0438-97-6300"
+ },
+ {
+  "name": "Sea Sauna Shack（シー・サウナ・シャック）",
+  "address": "千葉県館山市波左間1063-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen017146",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen017146/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "eden restaurant＆spa",
+  "address": "千葉県勝浦市吉尾272勝浦海中公園内",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen017258",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen017258/)",
+  "tel": "0470-64-6377（スパ） 0470-64-6370（レストラン）"
+ },
+ {
+  "name": "森と空と家",
+  "address": "千葉県山武市武勝419",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen017276",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen017276/)",
+  "tel": "03-6417-1088"
+ },
+ {
+  "name": "ゆうみ Sauna Cafe",
+  "address": "千葉県安房郡鋸南町元名４３５",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen017277",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen017277/)",
+  "tel": "0470-55-1333"
+ },
+ {
+  "name": "ホテル ニュー大新（休館中）",
+  "address": "千葉県銚子市犬吠埼10292-22",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen017314",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen017314/)",
+  "tel": "0479-22-5024"
+ },
+ {
+  "name": "雫花",
+  "address": "千葉県館山市塩見249-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen017325",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen017325/)",
+  "tel": "0470-29-0236 【花しぶき】090-1870-3098 【雫花】"
+ },
+ {
+  "name": "鴨川温泉 璃庵",
+  "address": "千葉県鴨川市天面442",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen017453",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen017453/)",
+  "tel": "04-7096-6900"
+ },
+ {
+  "name": "Re：PRIVATE SAUNA",
+  "address": "千葉県船橋市本町1-7-6 ドリーム船橋ビル 7F",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen017867",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen017867/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "【男性専用】カプセルホテルふらる",
+  "address": "千葉県千葉市中央区栄町3-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen017921",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen017921/)",
+  "tel": "043-304-6258"
+ },
+ {
+  "name": "カプセルホテル ザ・イン",
+  "address": "千葉県千葉市中央区新宿2-6-6",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen017926",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen017926/)",
+  "tel": "043-246-8555"
+ },
+ {
+  "name": "カプセルホテル ファミー【男性専用】",
+  "address": "千葉県船橋市前原西2-15-1 ファミービル5階",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen017932",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen017932/)",
+  "tel": "047-472-3333"
+ },
+ {
+  "name": "レオ癒カプセルホテル西船橋店",
+  "address": "千葉県船橋市葛飾町2-412 西船橋レジデンス1階",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen017983",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen017983/)",
+  "tel": "047-404-2500"
+ },
+ {
+  "name": "Camp & Sauna UUSi（ウーシ）",
+  "address": "千葉県鴨川市内浦1480",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018037",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen018037/)",
+  "tel": "090-3199-8414"
+ },
+ {
+  "name": "五氣里（いつきり）",
+  "address": "千葉県いすみ市下布施2891",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018195",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen018195/)",
+  "tel": "0470-60-6090"
+ },
+ {
+  "name": "サウナイン中山店",
+  "address": "千葉県船橋市本中山2-15-10 EPガーデン本中山 2F",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen018344",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen018344/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "飯岡福祉センター",
+  "address": "千葉県旭市横根3520",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし: 口コミ（2024年）「詳細な分析表が掲示されていないので、加温・加水・循環・殺菌等の事が判りません」",
+  "id": "onsen018361",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen018361/) / [口コミ](https://onsen.nifty.com/choushi-onsen/onsen018361/kuchikomi/)",
+  "tel": "0479-57-5577"
+ },
+ {
+  "name": "プライベートオーシャンヴィラ 藍水",
+  "address": "千葉県鴨川市江見青木395",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018408",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen018408/)",
+  "tel": "050-3085-6198"
+ },
+ {
+  "name": "ととのい整作所",
+  "address": "千葉県浦安市北栄1-14-1 西友浦安店 Part? 2F",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018452",
+  "evidence": "[ニフティ](https://onsen.nifty.com/urayasu-onsen/onsen018452/)",
+  "tel": "047-712-8111"
+ },
+ {
+  "name": "民宿 さかや",
+  "address": "千葉県夷隅郡大多喜町葛藤143",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018493",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen018493/)",
+  "tel": "0470-85-0252"
+ },
+ {
+  "name": "天然温泉湯舞音 市原ちはら台店",
+  "address": "千葉県市原市ちはら台南2丁目32-10 もりまちちはら台モール内",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen018533",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen018533/)",
+  "tel": "0436-63-3273"
+ },
+ {
+  "name": "ホテル・トリフィート柏の葉",
+  "address": "千葉県柏市若柴264-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018542",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen018542/)",
+  "tel": "04-7137-2644"
+ },
+ {
+  "name": "桜スカイホテル柏",
+  "address": "千葉県柏市小青田1-2-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018543",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen018543/)",
+  "tel": "04-7137-1166"
+ },
+ {
+  "name": "ホテルルミエールグランデ流山おおたかの森",
+  "address": "千葉県流山市おおたかの森北1-2-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018546",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen018546/)",
+  "tel": "04-7152-2700"
+ },
+ {
+  "name": "THE SHINRA 森羅",
+  "address": "千葉県館山市塩見284-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018556",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen018556/)",
+  "tel": "0470-29-1233"
+ },
+ {
+  "name": "サニーインむかい",
+  "address": "千葉県長生郡白子町中里４３６９",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018606",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen018606/)",
+  "tel": "0475-33-2133"
+ },
+ {
+  "name": "グランドメルキュール南房総リゾート＆スパ",
+  "address": "千葉県南房総市富浦町多田良1212",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018622",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen018622/)",
+  "tel": "0470-33-3811"
+ },
+ {
+  "name": "FAMILY SAUNA KASHIWA（ファミリーサウナカシワ）",
+  "address": "千葉県柏市若柴185番地6 中央311街区5（柏の葉かけだし横丁D棟）",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen018631",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen018631/)",
+  "tel": "04-7197-6886"
+ },
+ {
+  "name": "大根の森(Onenomori)",
+  "address": "千葉県香取市大根1283-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen018642",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sawara-onsen/onsen018642/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "POOL HOUSE（オーシャンリゾート館山）",
+  "address": "千葉県館山市正木1256-7",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018652",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen018652/)",
+  "tel": "03-4212-8283"
+ },
+ {
+  "name": "BBQ HOUSE（オーシャンリゾート館山）",
+  "address": "千葉県館山市正木1159-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018653",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen018653/)",
+  "tel": "03-4212-8283"
+ },
+ {
+  "name": "K HOUSE（オーシャンリゾート館山）",
+  "address": "千葉県館山市船形297-67",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018654",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen018654/)",
+  "tel": "03-4212-8283"
+ },
+ {
+  "name": "A HOUSE（オーシャンリゾート館山）",
+  "address": "千葉県館山市正木1256-142",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018655",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen018655/)",
+  "tel": "03-4212-8283"
+ },
+ {
+  "name": "オーシャンリゾート館山 T HOUSE",
+  "address": "千葉県館山市正木1256-109",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018656",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen018656/)",
+  "tel": "03-4212-8283"
+ },
+ {
+  "name": "袖ケ浦健康づくり支援センター ガウランド",
+  "address": "千葉県袖ヶ浦市三つ作1862-12",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018706",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen018706/)",
+  "tel": "0438-64-3200"
+ },
+ {
+  "name": "Sport & Do Resort リソルの森「紅葉乃湯」",
+  "address": "千葉県長生郡長柄町上野521-4",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018707",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen018707/)",
+  "tel": "0475-35-3333"
+ },
+ {
+  "name": "松の湯",
+  "address": "千葉県東金市東金1407",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen018716",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tougane-onsen/onsen018716/)",
+  "tel": "0475-52-2634"
+ },
+ {
+  "name": "天然温泉「旅人の湯」ホテルルートイン市原",
+  "address": "千葉県市原市五井6879-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018789",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen018789/)",
+  "tel": "050-5576-8103"
+ },
+ {
+  "name": "犬吠埼温泉 黒潮の湯 ホテルルートイン銚子駅西",
+  "address": "千葉県銚子市三軒町16-13",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018797",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen018797/)",
+  "tel": "050-5211-5810"
+ },
+ {
+  "name": "南房総白浜 割烹旅館 清都（きよと）",
+  "address": "千葉県南房総市白浜町滝口6241",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018875",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen018875/)",
+  "tel": "0470-30-5030"
+ },
+ {
+  "name": "New WestPeninsula Hotel(ニューウェストペニンシュラホテル)",
+  "address": "千葉県館山市波左間588",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018934",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen018934/)",
+  "tel": "0470-29-5558"
+ },
+ {
+  "name": "銚子グランドホテル",
+  "address": "千葉県銚子市犬吠埼10292",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen018955",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen018955/)",
+  "tel": "0479-24-1111"
+ },
+ {
+  "name": "DANQOO (ダンクー)",
+  "address": "千葉県南房総市市久枝778-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018966",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen018966/)",
+  "tel": "0470-55-1888"
+ },
+ {
+  "name": "愛犬と楽しむ宿 じゃぱり館山",
+  "address": "千葉県館山市浜田188",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018970",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen018970/)",
+  "tel": "0470-29-3915"
+ },
+ {
+  "name": "鳩山荘 松庵",
+  "address": "千葉県館山市見物787-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018990",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen018990/)",
+  "tel": "0470-29-2311"
+ },
+ {
+  "name": "ちくらつなぐホテル",
+  "address": "千葉県南房総市千倉町北朝夷2967",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen018996",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chikura-onsen/onsen018996/)",
+  "tel": "0470-29-7370"
+ },
+ {
+  "name": "海鮮の宿 舟付",
+  "address": "千葉県鴨川市江見青木65",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen019005",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen019005/)",
+  "tel": "04-7096-1200"
+ },
+ {
+  "name": "鴨川温泉 別邸 ラ・松廬 -La･Shoro-",
+  "address": "千葉県鴨川市西町1179",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可・客室露天のみ: ヴィラ5室の客室露天（宿泊のみ）",
+  "id": "onsen019081",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen019081/) / [口コミ](https://onsen.nifty.com/kamogawa-onsen/onsen019081/kuchikomi/)",
+  "tel": "04-7093-5855"
+ },
+ {
+  "name": "亀山湖 湖畔の宿 つばきもと",
+  "address": "千葉県君津市草川原863",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen019091",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen019091/)",
+  "tel": "0439-39-2110"
+ },
+ {
+  "name": "ニュー山中荘",
+  "address": "千葉県長生郡白子町中里4370-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen019121",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen019121/)",
+  "tel": "0475-33-3226"
+ },
+ {
+  "name": "ホテル東海荘",
+  "address": "千葉県長生郡白子町中里4437-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen019161",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen019161/)",
+  "tel": "0475-33-2061"
+ },
+ {
+  "name": "鴨川温泉高鶴山荘",
+  "address": "千葉県鴨川市上531-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen019336",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen019336/)",
+  "tel": "0470-92-9271"
+ },
+ {
+  "name": "あさひ健康福祉センター",
+  "address": "千葉県旭市中谷里8340番地53",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen019595",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen019595/)",
+  "tel": "0479-62-0686"
+ },
+ {
+  "name": "ロマンの森共和国 ホテルシルクヴィラ＆コテージ",
+  "address": "千葉県君津市豊英659-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen019765",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen019765/)",
+  "tel": "0439-38-2211"
+ },
+ {
+  "name": "Render Fika Sammu",
+  "address": "千葉県山武市麻生新田112-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen019770",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen019770/)",
+  "tel": "0475 78 3050"
+ },
+ {
+  "name": "ホテルマイステイズプレミア成田",
+  "address": "千葉県成田市大山31",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen019876",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen019876/)",
+  "tel": "0476-33-1661"
+ },
+ {
+  "name": "三井ガーデンホテル プラナ東京ベイ",
+  "address": "千葉県浦安市明海6-2-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen019886",
+  "evidence": "[ニフティ](https://onsen.nifty.com/urayasu-onsen/onsen019886/)",
+  "tel": "047-382-3331"
+ },
+ {
+  "name": "舞浜ビューホテル by HULIC",
+  "address": "千葉県浦安市舞浜1-34",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen019899",
+  "evidence": "[ニフティ](https://onsen.nifty.com/urayasu-onsen/onsen019899/)",
+  "tel": "047-355-1222"
+ },
+ {
+  "name": "ホテルルートイン千葉浜野－東京湾岸道－",
+  "address": "千葉県千葉市中央区浜野町1025-110",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen019945",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen019945/)",
+  "tel": "050-5576-7800"
+ },
+ {
+  "name": "ザキューブホテル千葉",
+  "address": "千葉県千葉市中央区問屋町1-45 千葉ポートスクエア",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen019986",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen019986/)",
+  "tel": "043-246-1888"
+ },
+ {
+  "name": "ホテルルートイン千葉ニュータウン中央駅前－成田空港アクセス線－",
+  "address": "千葉県印西市中央北1-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen020031",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen020031/)",
+  "tel": "050-5576-7780"
+ },
+ {
+  "name": "ホテルシュランザ MAKUHARI BAY",
+  "address": "千葉県千葉市美浜区ひび野2-7-4",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen020046",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen020046/)",
+  "tel": "043-307-4441"
+ },
+ {
+  "name": "ホテルルートイン柏南－国道１６号沿－",
+  "address": "千葉県柏市大島田1-4-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020101",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen020101/)",
+  "tel": "050-5576-7773"
+ },
+ {
+  "name": "ホテルルートイン野田 －国道１６号沿－",
+  "address": "千葉県野田市鶴奉14-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020163",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen020163/)",
+  "tel": "050-5576-8013"
+ },
+ {
+  "name": "ホテルルートイン木更津",
+  "address": "千葉県木更津市清見台2丁目29-11",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020222",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen020222/)",
+  "tel": "050-5837-7660"
+ },
+ {
+  "name": "小谷流の里 ドギーズアイランド",
+  "address": "千葉県八街市小谷流624",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020227",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen020227/)",
+  "tel": "043-312-1110"
+ },
+ {
+  "name": "クロス・ウェーブ船橋",
+  "address": "千葉県船橋市本町2-9-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen020282",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen020282/)",
+  "tel": "047-436-0116"
+ },
+ {
+  "name": "ベッセルイン千葉駅前",
+  "address": "千葉県千葉市中央区富士見1-12-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020286",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen020286/)",
+  "tel": "043-306-1181"
+ },
+ {
+  "name": "展望の湯 ホテルクラウンヒルズ君津（ＢＢＨホテルグループ）",
+  "address": "千葉県君津市東坂田4-1-11",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020292",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen020292/)",
+  "tel": "0439-50-3135"
+ },
+ {
+  "name": "ホテルルートイン香取佐原駅前",
+  "address": "千葉県香取市佐原イ92-6",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020308",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sawara-onsen/onsen020308/)",
+  "tel": "050-5576-7703"
+ },
+ {
+  "name": "ミートイン成田",
+  "address": "千葉県成田市花崎町904",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020377",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen020377/)",
+  "tel": "0476-23-1113"
+ },
+ {
+  "name": "ホテルマークワンＣＮＴ",
+  "address": "千葉県印西市中央南1-10",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020382",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen020382/)",
+  "tel": "0476-48-4141"
+ },
+ {
+  "name": "天然温泉 びわの湯 スーパーホテル千葉駅前",
+  "address": "千葉県千葉市中央区弁天1-15-10",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen020474",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen020474/)",
+  "tel": "043-255-9000"
+ },
+ {
+  "name": "グランパークホテルパネックス君津",
+  "address": "千葉県君津市東坂田2-3-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020501",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen020501/)",
+  "tel": "0439-57-0311"
+ },
+ {
+  "name": "トーセイホテル＆セミナー幕張",
+  "address": "千葉県習志野市茜浜2-3-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020511",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen020511/)",
+  "tel": "047-452-0670"
+ },
+ {
+  "name": "ＡＢホテル木更津",
+  "address": "千葉県木更津市金田東6-47-30",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020582",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen020582/)",
+  "tel": "0438-41-3811"
+ },
+ {
+  "name": "クリアビューゴルフクラブ＆ホテル",
+  "address": "千葉県野田市瀬戸548",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020598",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen020598/)",
+  "tel": "04-7138-2111"
+ },
+ {
+  "name": "グランパークホテル ザ・ルクソー南柏",
+  "address": "千葉県柏市南柏中央8-8",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen020680",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen020680/)",
+  "tel": "04-7128-6111"
+ },
+ {
+  "name": "ビジネスホテル タカザワ",
+  "address": "千葉県市原市姉崎700-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020701",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen020701/)",
+  "tel": "0436-62-2255"
+ },
+ {
+  "name": "天然温泉 そが浜の湯 ドーミーイン千葉Ｃｉｔｙ Ｓｏｇａ",
+  "address": "千葉県千葉市中央区南町2-15-4",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen020733",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen020733/)",
+  "tel": "043-261-2590"
+ },
+ {
+  "name": "ホテルマークワンアビコ",
+  "address": "千葉県我孫子市柴崎台1-9-14",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020825",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen020825/)",
+  "tel": "04-7186-1717"
+ },
+ {
+  "name": "ＨＯＴＥＬ ＨＯＵＳＥＮ ホテル朋泉＜千葉県＞",
+  "address": "千葉県香取市佐原ホ1199",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020848",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sawara-onsen/onsen020848/)",
+  "tel": "0478-52-5015"
+ },
+ {
+  "name": "ホテル市原クラブ 姉崎店",
+  "address": "千葉県市原市姉崎854-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020849",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen020849/)",
+  "tel": "0436-61-0598"
+ },
+ {
+  "name": "ホテルハーヴェスト勝浦",
+  "address": "千葉県勝浦市中島590-9",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020871",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen020871/)",
+  "tel": "0470-76-4101"
+ },
+ {
+  "name": "ビジネス旅館 布佐",
+  "address": "千葉県我孫子市布佐2281-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020888",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen020888/)",
+  "tel": "04-7189-2196"
+ },
+ {
+  "name": "ホテルサンオーク柏の葉",
+  "address": "千葉県柏市若柴281-104",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020889",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen020889/)",
+  "tel": "04-7135-3009"
+ },
+ {
+  "name": "オークラ千葉ホテル",
+  "address": "千葉県千葉市中央区中央港1-13-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020962",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen020962/)",
+  "tel": "043-248-1111"
+ },
+ {
+  "name": "ＨＯＴＥＬ ＰＡＲＭＡＮ",
+  "address": "千葉県千葉市中央区栄町26-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen020994",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen020994/)",
+  "tel": "043-216-3500"
+ },
+ {
+  "name": "成田ＡＩＣエアポートホテル",
+  "address": "千葉県成田市三里塚光ケ丘1-409",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021017",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen021017/)",
+  "tel": "0476-36-8857"
+ },
+ {
+  "name": "ホテルシュランザＣＨＩＢＡ",
+  "address": "千葉県千葉市中央区新宿2-6-18",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021026",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen021026/)",
+  "tel": "043-216-2201"
+ },
+ {
+  "name": "ホテルかずさ",
+  "address": "千葉県君津市中野4-9-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021027",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen021027/)",
+  "tel": "0439-52-1020"
+ },
+ {
+  "name": "グランパークホテルパネックス千葉",
+  "address": "千葉県千葉市若葉区殿台町123-4",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021039",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen021039/)",
+  "tel": "043-251-4123"
+ },
+ {
+  "name": "土善旅館",
+  "address": "千葉県香取郡東庄町笹川い624",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021096",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen021096/)",
+  "tel": "0478-86-1155"
+ },
+ {
+  "name": "農園リゾート THE FARM",
+  "address": "千葉県香取市西田部1200-1他",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021181",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sawara-onsen/onsen021181/)",
+  "tel": "0478-79-0666"
+ },
+ {
+  "name": "アルビンスポーツパーク",
+  "address": "千葉県長生郡長柄町長柄山522",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021224",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen021224/)",
+  "tel": "0475-35-2511"
+ },
+ {
+  "name": "ホテル市原クラブ八幡北町店",
+  "address": "千葉県市原市八幡北町3-1-13",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021270",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen021270/)",
+  "tel": "0436-40-1133"
+ },
+ {
+  "name": "ビジネスホテル竹屋",
+  "address": "千葉県匝瑳市八日市場イ2955",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021275",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen021275/)",
+  "tel": "0479-72-0027"
+ },
+ {
+  "name": "備長炭の湯 ホテル君津ヒルズ（ＢＢＨホテルグループ）",
+  "address": "千葉県君津市人見2-21-41",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021344",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen021344/)",
+  "tel": "0439-54-7280"
+ },
+ {
+  "name": "エンヂ荘",
+  "address": "千葉県大網白里市南今泉4644",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021348",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen021348/)",
+  "tel": "0475-77-2848"
+ },
+ {
+  "name": "ホテル バレンシア",
+  "address": "千葉県銚子市諸持町861",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021440",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen021440/)",
+  "tel": "0479-33-2121"
+ },
+ {
+  "name": "鴨川グランドタワー",
+  "address": "千葉県鴨川市広場834",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen021441",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen021441/)",
+  "tel": "04-7093-6111"
+ },
+ {
+  "name": "ホテルグリーンヒル 大多喜",
+  "address": "千葉県夷隅郡大多喜町沢山1-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021442",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen021442/)",
+  "tel": "0470-82-5311"
+ },
+ {
+  "name": "民宿旅館 藤井荘",
+  "address": "千葉県夷隅郡御宿町新町776",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021485",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen021485/)",
+  "tel": "0470-68-3521"
+ },
+ {
+  "name": "ホテルニューいなばん",
+  "address": "千葉県千葉市美浜区新港150-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021522",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen021522/)",
+  "tel": "043-242-2937"
+ },
+ {
+  "name": "ホテル ニューオーツカ",
+  "address": "千葉県長生郡白子町驚1014",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021538",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen021538/)",
+  "tel": "0475-33-2363"
+ },
+ {
+  "name": "ホテル市原クラブ 千葉店 （ビジネスホテル平成）",
+  "address": "千葉県千葉市美浜区新港93-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021539",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen021539/)",
+  "tel": "043-245-2221"
+ },
+ {
+  "name": "かずさリゾート 鹿野山ビューホテル",
+  "address": "千葉県君津市鹿野山319",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021540",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen021540/)",
+  "tel": "0439-37-3411"
+ },
+ {
+  "name": "ベイサイドイン ごんべえ",
+  "address": "千葉県南房総市久枝769",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021541",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen021541/)",
+  "tel": "0470-57-2153"
+ },
+ {
+  "name": "オーシャンビューリゾート サンライズ九十九里",
+  "address": "千葉県山武郡九十九里町真亀4908",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021543",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen021543/)",
+  "tel": "0475-76-4151"
+ },
+ {
+  "name": "Ｒａｋｕｔｅｎ ＳＴＡＹ ＭＯＴＥＬ 九十九里浜片貝",
+  "address": "千葉県山武郡九十九里町片貝6928-418",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021581",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen021581/)",
+  "tel": "050-1754-3992"
+ },
+ {
+  "name": "ホテルファミリーオ館山＜JR東日本ホテルズ＞",
+  "address": "千葉県館山市大賀81-17",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021602",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen021602/)",
+  "tel": "0470-22-8861"
+ },
+ {
+  "name": "鴨川カントリーホテル",
+  "address": "千葉県鴨川市和泉2607",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021642",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen021642/)",
+  "tel": "04-7093-4567"
+ },
+ {
+  "name": "ＴＨＥ ＯＮＪＵＫＵ ｔｅｒｒａｃｅ（旧サヤン・テラス ＨＯＴＥＬ＆ＲＥＳＯＲＴ）",
+  "address": "千葉県夷隅郡御宿町浜2163",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021643",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen021643/)",
+  "tel": "0470-68-7711"
+ },
+ {
+  "name": "大新旅館＜千葉県＞",
+  "address": "千葉県銚子市中央町10-27",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021795",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen021795/)",
+  "tel": "0479-22-4190"
+ },
+ {
+  "name": "ファミーＩＮＮ幕張",
+  "address": "千葉県千葉市花見川区幕張本郷1-33-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021815",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen021815/)",
+  "tel": "043-271-5555"
+ },
+ {
+  "name": "蓮沼ガーデンハウス マリーノ",
+  "address": "千葉県山武市蓮沼ホ311",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021878",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen021878/)",
+  "tel": "0475-86-2511"
+ },
+ {
+  "name": "ＩＷＡＩ・ＢＥＡＣＨ 小池荘",
+  "address": "千葉県南房総市久枝730",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021884",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen021884/)",
+  "tel": "0470-57-2148"
+ },
+ {
+  "name": "和空 成田山門前",
+  "address": "千葉県成田市仲町379－1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021953",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen021953/)",
+  "tel": "0476-37-8177"
+ },
+ {
+  "name": "いしい荘",
+  "address": "千葉県夷隅郡御宿町浜2164",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen021970",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen021970/)",
+  "tel": "0470-68-2021"
+ },
+ {
+  "name": "ゆたか旅館駅前館",
+  "address": "千葉県袖ケ浦市蔵波24-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022007",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen022007/)",
+  "tel": "0438-63-2311"
+ },
+ {
+  "name": "しおさいキャンプフィールド",
+  "address": "千葉県南房総市白子2792",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022034",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen022034/)",
+  "tel": "0470-46-4633"
+ },
+ {
+  "name": "ゆたか旅館奈良輪館",
+  "address": "千葉県袖ケ浦市奈良輪313-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022043",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen022043/)",
+  "tel": "0438-64-1151"
+ },
+ {
+  "name": "ビジネスホテル タカザワ 長浦駅前店",
+  "address": "千葉県袖ケ浦市蔵波24-5",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022059",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen022059/)",
+  "tel": "0438-62-5551"
+ },
+ {
+  "name": "ゆたか旅館本館",
+  "address": "千葉県袖ケ浦市蔵波1940",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022101",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen022101/)",
+  "tel": "0438-62-8940"
+ },
+ {
+  "name": "Ｔａｂｉｓｔ 浜戸屋旅館（男性専用）",
+  "address": "千葉県袖ケ浦市蔵波1983",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022126",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen022126/)",
+  "tel": "0438-62-2607"
+ },
+ {
+  "name": "ビジネス 亀寿し旅館",
+  "address": "千葉県袖ケ浦市久保田3260-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022144",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen022144/)",
+  "tel": "0438-62-2650"
+ },
+ {
+  "name": "ＩＳＵＭＩ Ｇｌａｍｐｉｎｇ Ｒｅｓｏｒｔ ＆ Ｓｐａ ＳＯＬＡＳ",
+  "address": "千葉県いすみ市釈迦谷1610-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022148",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen022148/)",
+  "tel": "0470-62-5151"
+ },
+ {
+  "name": "銚子スポーツタウン",
+  "address": "千葉県銚子市野尻町1600",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022181",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen022181/)",
+  "tel": "0479-30-1800"
+ },
+ {
+  "name": "成田山門前 旅館 若松本店",
+  "address": "千葉県成田市本町355",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022221",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen022221/)",
+  "tel": "0476-22-1136"
+ },
+ {
+  "name": "サンセットブリーズ保田",
+  "address": "千葉県安房郡鋸南町大六1032",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022222",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen022222/)",
+  "tel": "0470-55-3707"
+ },
+ {
+  "name": "海辺の宿 ごんたや",
+  "address": "千葉県長生郡白子町古所3373",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022247",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen022247/)",
+  "tel": "0475-33-5111"
+ },
+ {
+  "name": "郷金旅館",
+  "address": "千葉県旭市ニ-2101",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022287",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen022287/)",
+  "tel": "0479-62-0007"
+ },
+ {
+  "name": "MIRADOR ミラドール（旧アンティークホテル ら・みらどーる（La mirador)）",
+  "address": "千葉県鴨川市太海314-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022312",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen022312/)",
+  "tel": "04-7093-5444"
+ },
+ {
+  "name": "民宿 きらく",
+  "address": "千葉県館山市北条2882",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022360",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen022360/)",
+  "tel": "0470-22-2657"
+ },
+ {
+  "name": "コテージ＆ペンション ＮＡＮＪＡ ＭＯＮＪＡ",
+  "address": "千葉県山武郡横芝光町木戸8549-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen022392",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen022392/)",
+  "tel": "0479-84-0317"
+ },
+ {
+  "name": "かわな館",
+  "address": "千葉県南房総市高崎1366",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022413",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen022413/)",
+  "tel": "0470-57-2365"
+ },
+ {
+  "name": "お魚料理の宿 魚拓荘 鈴木屋",
+  "address": "千葉県南房総市千倉町北朝夷2801",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen022488",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen022488/)",
+  "tel": "0470-44-2811"
+ },
+ {
+  "name": "不老山薬師温泉 安房自然村",
+  "address": "千葉県館山市布良600",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen022490",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen022490/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "南房総君津 燦美の宿 旅館かわな",
+  "address": "千葉県君津市人見915",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022623",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen022623/)",
+  "tel": "0439-52-1318"
+ },
+ {
+  "name": "Ｎａｋａｄａｋｉ Ａｒｔ Ｖｉｌｌａｇｅ",
+  "address": "千葉県いすみ市岬町中滝2080",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022625",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen022625/)",
+  "tel": "0470-87-2141"
+ },
+ {
+  "name": "すずき旅館",
+  "address": "千葉県市原市五所1500",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022721",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen022721/)",
+  "tel": "0436-41-1632"
+ },
+ {
+  "name": "御宿 海楽",
+  "address": "千葉県夷隅郡御宿町新町539",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022792",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen022792/)",
+  "tel": "0470-68-3231"
+ },
+ {
+  "name": "漁師民宿 まきの",
+  "address": "千葉県南房総市白浜町滝口7209-4",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022815",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen022815/)",
+  "tel": "0470-38-3896"
+ },
+ {
+  "name": "民宿みなみ荘",
+  "address": "千葉県南房総市高崎1450",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022856",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen022856/)",
+  "tel": "0470-57-4173"
+ },
+ {
+  "name": "オーベルジュすなだ",
+  "address": "千葉県南房総市高崎1298-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022911",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen022911/)",
+  "tel": "0470-57-2378"
+ },
+ {
+  "name": "民宿 魚赤",
+  "address": "千葉県南房総市高崎1309",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022915",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen022915/)",
+  "tel": "0470-57-2042"
+ },
+ {
+  "name": "森の宿せせらぎ",
+  "address": "千葉県鴨川市内浦3228",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022945",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen022945/)",
+  "tel": "0470-95-2821"
+ },
+ {
+  "name": "御宿海岸 海辺の宿 ちょうしちとんＩＮＮ",
+  "address": "千葉県夷隅郡御宿町岩和田908-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen022985",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen022985/)",
+  "tel": "0470-68-2339"
+ },
+ {
+  "name": "旅館 あしか荘",
+  "address": "千葉県銚子市海鹿島町5290",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen022995",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen022995/)",
+  "tel": "0479-22-8165"
+ },
+ {
+  "name": "さざ波館（さゞ波館）",
+  "address": "千葉県富津市小久保2868",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen023056",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen023056/)",
+  "tel": "0439-65-3373"
+ },
+ {
+  "name": "ペンション キャッチボール",
+  "address": "千葉県館山市布沼1207-50",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023057",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen023057/)",
+  "tel": "0470-28-2409"
+ },
+ {
+  "name": "料亭旅館 松濤軒",
+  "address": "千葉県長生郡一宮町一宮2824",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023092",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen023092/)",
+  "tel": "0475-42-2067"
+ },
+ {
+  "name": "南房総 鴨川温泉 よしのや旅館",
+  "address": "千葉県鴨川市太海浜193",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen023116",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen023116/)",
+  "tel": "0470-92-1167"
+ },
+ {
+  "name": "旅館 鈴木屋",
+  "address": "千葉県茂原市茂原133",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen023133",
+  "evidence": "[ニフティ](https://onsen.nifty.com/mobara-onsen/onsen023133/)",
+  "tel": "0475-24-2151"
+ },
+ {
+  "name": "割烹旅館 水明荘",
+  "address": "千葉県野田市瀬戸835",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023306",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen023306/)",
+  "tel": "04-7138-0234"
+ },
+ {
+  "name": "勝浦リゾートインＢ＆Ｂ",
+  "address": "千葉県勝浦市勝浦120",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen023341",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen023341/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "御宿天然温泉 元湯",
+  "address": "千葉県夷隅郡御宿町浜152",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "閉館・閉店（ニフティの施設名に表示）",
+  "id": "onsen023359",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen023359/)",
+  "tel": "0470-68-4126"
+ },
+ {
+  "name": "ＧＬＡＭＰＲＯＯＫ富津ブリストルヒル（グランルーク）",
+  "address": "千葉県富津市亀沢619",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023435",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen023435/)",
+  "tel": "0439-29-5605"
+ },
+ {
+  "name": "ビジネスあすか旅館",
+  "address": "千葉県茂原市高師町3-6-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023438",
+  "evidence": "[ニフティ](https://onsen.nifty.com/mobara-onsen/onsen023438/)",
+  "tel": "0475-23-6806"
+ },
+ {
+  "name": "ペンション インディアン サマー",
+  "address": "千葉県鴨川市貝渚2492-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023481",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen023481/)",
+  "tel": "04-7099-2103"
+ },
+ {
+  "name": "あかつきの宿 大徳",
+  "address": "千葉県銚子市海鹿島町5250",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023635",
+  "evidence": "[ニフティ](https://onsen.nifty.com/choushi-onsen/onsen023635/)",
+  "tel": "0479-22-0209"
+ },
+ {
+  "name": "アラビアンアートホテル",
+  "address": "千葉県鴨川市太海西乙3-332-7",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023637",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen023637/)",
+  "tel": "04-7098-2100"
+ },
+ {
+  "name": "年間民宿 ニュー日の丸",
+  "address": "千葉県夷隅郡御宿町須賀339",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023687",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen023687/)",
+  "tel": "0470-68-2522"
+ },
+ {
+  "name": "年間民宿 むさし丸",
+  "address": "千葉県夷隅郡御宿町岩和田946",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023744",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen023744/)",
+  "tel": "0470-68-2269"
+ },
+ {
+  "name": "ペンション かめやま園",
+  "address": "千葉県君津市豊田旧菅間田33",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen023753",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen023753/)",
+  "tel": "0439-39-2336"
+ },
+ {
+  "name": "ペットと泊る宿 ペンション サンデッキ",
+  "address": "千葉県鴨川市内浦1166-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023803",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen023803/)",
+  "tel": "04-7095-3085"
+ },
+ {
+  "name": "日の出旅館 ＜千葉県＞",
+  "address": "千葉県八千代市八千代台東4-5-8",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023804",
+  "evidence": "[ニフティ](https://onsen.nifty.com/sakura-onsen/onsen023804/)",
+  "tel": "047-482-5931"
+ },
+ {
+  "name": "料理の宿 ニュー太洋",
+  "address": "千葉県山武市本須賀3841-72",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023855",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen023855/)",
+  "tel": "0475-84-1129"
+ },
+ {
+  "name": "海と夕日の展望風呂の宿 おしなや",
+  "address": "千葉県安房郡鋸南町勝山413-10",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023856",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen023856/)",
+  "tel": "0470-55-0426"
+ },
+ {
+  "name": "館詰め鴨川",
+  "address": "千葉県鴨川市東1385-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023857",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen023857/)",
+  "tel": "04-7096-5577"
+ },
+ {
+  "name": "鴨川ステーションホテル－ＨＡＮＡＹＡ 和み館－",
+  "address": "千葉県鴨川市横渚671-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023858",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kamogawa-onsen/onsen023858/)",
+  "tel": "0470-92-2253"
+ },
+ {
+  "name": "徳寿司旅館",
+  "address": "千葉県鎌ケ谷市東初富5-20-83",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023932",
+  "evidence": "[ニフティ](https://onsen.nifty.com/matsudo-onsen/onsen023932/)",
+  "tel": "047-445-5550"
+ },
+ {
+  "name": "第一渚ガーデン",
+  "address": "千葉県館山市正木1206-12",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen023995",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen023995/)",
+  "tel": "0470-27-5917"
+ },
+ {
+  "name": "ペンション ビーチハウス",
+  "address": "千葉県南房総市千倉町瀬戸2961-1",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024024",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen024024/)",
+  "tel": "0470-44-4334"
+ },
+ {
+  "name": "ホテル＆グランピング ＡＣＴ ＦＵＴＴＳＵ",
+  "address": "千葉県富津市千種新田750-25",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024025",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen024025/)",
+  "tel": "0439-29-5607"
+ },
+ {
+  "name": "野の花の宿 あさゆまの木",
+  "address": "千葉県南房総市久枝763",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024026",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen024026/)",
+  "tel": "0470-57-3906"
+ },
+ {
+  "name": "ニューかわぜん",
+  "address": "千葉県南房総市千倉町瀬戸2944",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024056",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen024056/)",
+  "tel": "0470-44-1517"
+ },
+ {
+  "name": "ペンション マーメイド",
+  "address": "千葉県館山市布沼1207",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen024121",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen024121/)",
+  "tel": "0470-28-1517"
+ },
+ {
+  "name": "民宿 瀬波荘",
+  "address": "千葉県夷隅郡御宿町新町771",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024126",
+  "evidence": "[ニフティ](https://onsen.nifty.com/katsuura-chiba-onsen/onsen024126/)",
+  "tel": "0470-68-4154"
+ },
+ {
+  "name": "宮本旅館 ＜千葉県＞",
+  "address": "千葉県成田市伊能2058",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024157",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen024157/)",
+  "tel": "0476-73-2511"
+ },
+ {
+  "name": "Asian Garden Villa 白浜",
+  "address": "千葉県南房総市白浜町滝口5786-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024196",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen024196/)",
+  "tel": "0470-38-2129"
+ },
+ {
+  "name": "Ｔｈｅ ｇａｒｄｅｎ ｈｏｔｅｌ",
+  "address": "千葉県長生郡一宮町一宮10110-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024197",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen024197/)",
+  "tel": "0475-44-6699"
+ },
+ {
+  "name": "白浜フローラルホール",
+  "address": "千葉県南房総市白浜町滝口6767-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024262",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen024262/)",
+  "tel": "0470-28-5101"
+ },
+ {
+  "name": "太陽と星が輝く宿 季楽～ＫＩＲＡ～",
+  "address": "千葉県いすみ市岬町谷上2572-7",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024263",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen024263/)",
+  "tel": "0470-62-5803"
+ },
+ {
+  "name": "パームヴィレッジ",
+  "address": "千葉県南房総市倉町白間津1554",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024311",
+  "evidence": "[ニフティ](https://onsen.nifty.com/shirahama-chiba-onsen/onsen024311/)",
+  "tel": "0470-40-3090"
+ },
+ {
+  "name": "SUNQサウナ",
+  "address": "千葉県 長生郡一宮町東浪見7436-4",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024422",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kujuukuri-onsen/onsen024422/)",
+  "tel": "090-8871-4493"
+ },
+ {
+  "name": "オールドルーキーサウナホテル木更津金田",
+  "address": "千葉県木更津市江川1347",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024451",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kisaradu-onsen/onsen024451/)",
+  "tel": "050 1722 4083"
+ },
+ {
+  "name": "ZUTTO道場",
+  "address": "千葉県茂原市町保12‐54",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024546",
+  "evidence": "[ニフティ](https://onsen.nifty.com/mobara-onsen/onsen024546/)",
+  "tel": "0475‐36‐6218"
+ },
+ {
+  "name": "グランドーム千葉富津",
+  "address": "千葉県富津市湊1660-3",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen024552",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen024552/)",
+  "tel": "050-3174-7253 （受付時間：10:00～18:00）"
+ },
+ {
+  "name": "SATOYAMA TERRACE（サトヤマテラス）",
+  "address": "千葉県富津市田原898-1",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024565",
+  "evidence": "[ニフティ](https://onsen.nifty.com/futtsu-onsen/onsen024565/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "和っさうな",
+  "address": "千葉県山武郡芝山町大里2448番地",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024597",
+  "evidence": "[ニフティ](https://onsen.nifty.com/narita-onsen/onsen024597/)",
+  "tel": "090-4224-9356"
+ },
+ {
+  "name": "SHINRA YORO VALLEY",
+  "address": "千葉県夷隅郡大多喜町小田代589-2",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の情報なし（ニフティは宿泊のみ）。かけ流しの根拠もなし",
+  "id": "onsen024672",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen024672/)",
+  "tel": "0470-85-0116"
+ },
+ {
+  "name": "かのほてる＆CABIN 千葉蘇我",
+  "address": "千葉県千葉市中央区川崎町51−1 フェスティバルウォーク蘇我内",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024727",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen024727/)",
+  "tel": "043-488-6420"
+ },
+ {
+  "name": "毎日サウナ東京 幕張店",
+  "address": "千葉県千葉市美浜区幕張西2丁目1-4",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（ニフティの分類・紹介文・口コミに記載がない）",
+  "id": "onsen024799",
+  "evidence": "[ニフティ](https://onsen.nifty.com/chiba-onsen/onsen024799/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "sauna en / サウナエン",
+  "address": "千葉県夷隅郡大多喜町中野５７５",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024804",
+  "evidence": "[ニフティ](https://onsen.nifty.com/ichihara-onsen/onsen024804/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "男性専用 sauna KOHAKU",
+  "address": "千葉県柏市中央1丁目2-27-2",
+  "source": [
+   "ニフティ温泉",
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024825",
+  "evidence": "[ニフティ](https://onsen.nifty.com/kashiwa-onsen/onsen024825/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "GRAND MONday Resort 東京ベイ舞浜",
+  "address": "千葉県浦安市千鳥15-9",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024875",
+  "evidence": "[ニフティ](https://onsen.nifty.com/urayasu-onsen/onsen024875/)",
+  "tel": "047-353-2525"
+ },
+ {
+  "name": "THE THIRD PLACE tatéyama 楼",
+  "address": "千葉県館山市坂田448",
+  "source": [
+   "ニフティ温泉"
+  ],
+  "verdict": "除外",
+  "reason": "ニフティに泉質・天然温泉の記載がなく、かけ流しの根拠もない（サウナ・人工温泉・宿泊施設など）",
+  "id": "onsen024897",
+  "evidence": "[ニフティ](https://onsen.nifty.com/tateyama-onsen/onsen024897/)",
+  "tel": "電話の情報を追加する"
+ },
+ {
+  "name": "glampark 亀山温泉",
+  "address": "千葉県君津市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/glampark-kameyama-onsen)",
+  "tel": ""
+ },
+ {
+  "name": "Zekkei stay ISUMI Cabin",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/zekkei-stayed-at-isumi-cabin)",
+  "tel": ""
+ },
+ {
+  "name": "River Side Village Loa",
+  "address": "千葉県長生村",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/river-side-village-loa)",
+  "tel": ""
+ },
+ {
+  "name": "イノセンスリゾート～in千葉レゾール～",
+  "address": "千葉県山武市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/innocence-resort-in-chiba-resol)",
+  "tel": ""
+ },
+ {
+  "name": "THE LAKOTAN",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: ヴィラの専用露天風呂（宿泊のみ）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/the-lakotan)",
+  "tel": ""
+ },
+ {
+  "name": "amane",
+  "address": "千葉県鋸南町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/four)",
+  "tel": ""
+ },
+ {
+  "name": "Pleasure Point Ichinomiya プレジャーポイント一宮",
+  "address": "千葉県一宮町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/pleasure-point-ichinomiya)",
+  "tel": ""
+ },
+ {
+  "name": "HOTEL R9 The Yard いすみ",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hotel-r9-the-yard-isumi)",
+  "tel": ""
+ },
+ {
+  "name": "THE CHIKURA UMI BASE CAMP",
+  "address": "千葉県南房総市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/the-chikura-umi-base-camp)",
+  "tel": ""
+ },
+ {
+  "name": "BOTANICAL POOL CLUB",
+  "address": "千葉県鋸南町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/botanical-pool-club)",
+  "tel": ""
+ },
+ {
+  "name": "Secret Break Isumi（シークレットブレイクイスミ）",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/secret-break-isumi)",
+  "tel": ""
+ },
+ {
+  "name": "SIDE-BY-SIDE DOGCOTTAGE千葉一宮",
+  "address": "千葉県一宮町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/side-by-side-dogcottage-chiba-ichinomiya)",
+  "tel": ""
+ },
+ {
+  "name": "いすみガーデンリトリート&トーテムの家 〜1日1組様限定！異世界宿家＆撮影会～",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/isumi-garden-retreat-totem-house-limited-to-one-group-per-day-otherworldly-lodge-photo-session)",
+  "tel": ""
+ },
+ {
+  "name": "Rakuten STAY VILLA 鴨川",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/rakuten-stay-villa-kamogawa)",
+  "tel": ""
+ },
+ {
+  "name": "small planet CAMP&GRILL",
+  "address": "千葉県千葉市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/small-planet-campgrill-in-inage-seaside-park)",
+  "tel": ""
+ },
+ {
+  "name": "Lost Cabin",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/lost-cabin)",
+  "tel": ""
+ },
+ {
+  "name": "TENT一宮グランピングリゾート",
+  "address": "千葉県一宮町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/tent-ichinomiya-glamping-resort)",
+  "tel": ""
+ },
+ {
+  "name": "GLAMPROOK FUTTSU BRISTOL HILL（グランルーク富津ブリストルヒル）",
+  "address": "千葉県富津市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/glamprook-futtsu-bristol-hill)",
+  "tel": ""
+ },
+ {
+  "name": "Solana九十九里",
+  "address": "千葉県九十九里町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/solana-kujukuri)",
+  "tel": ""
+ },
+ {
+  "name": "HOTEL R9 九十九里",
+  "address": "千葉県一宮町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hotel-r9-kujukuri-formerly-casual-resort-coff-ichinomiya)",
+  "tel": ""
+ },
+ {
+  "name": "＆WAN九十九里 (アンドワン) 愛犬と泊まるオーベルジュ",
+  "address": "千葉県山武市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/wan-kujukuri-and-one-auberge-where-you-can-stay-with-your-pet-dog)",
+  "tel": ""
+ },
+ {
+  "name": "Beach Resort ~CHIKURA~",
+  "address": "千葉県南房総市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/beach-resort-chikura)",
+  "tel": ""
+ },
+ {
+  "name": "Solana鴨川",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/solana-kamogawa)",
+  "tel": ""
+ },
+ {
+  "name": "Grand Mercure Minamiboso Resort & Spa",
+  "address": "千葉県南房総市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/grand-mercure-minamiboso-resort-spa)",
+  "tel": ""
+ },
+ {
+  "name": "WILDBEACH 木更津｜ワイルドビーチ",
+  "address": "千葉県木更津市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/wildbeach-kisarazu-wild-beach-chiba-glamping-bbq)",
+  "tel": ""
+ },
+ {
+  "name": "お宿やまもと",
+  "address": "千葉県館山市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/yamamoto-inn)",
+  "tel": ""
+ },
+ {
+  "name": "ハレラターガス",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hallera-targus)",
+  "tel": ""
+ },
+ {
+  "name": "ビバークランド",
+  "address": "千葉県千葉市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/bivouacland)",
+  "tel": ""
+ },
+ {
+  "name": "ナインアワーズ成田空港",
+  "address": "千葉県成田市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/nine-hours-narita-airport)",
+  "tel": ""
+ },
+ {
+  "name": "エリアスガーデン",
+  "address": "千葉県一宮町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/elias-garden)",
+  "tel": ""
+ },
+ {
+  "name": "ドギーズサウス",
+  "address": "千葉県八街市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/south-wing-oyaru-no-sato-doggys-island)",
+  "tel": ""
+ },
+ {
+  "name": "ながら温泉",
+  "address": "千葉県長柄町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "長柄町福祉センター（onsen016340と同じ）。口コミで成分表に循環の記載",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/nagara-onsen)",
+  "tel": ""
+ },
+ {
+  "name": "ドッグヴィラ千葉南房総",
+  "address": "千葉県南房総市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/dog-villa-chiba-minamiboso)",
+  "tel": ""
+ },
+ {
+  "name": "おふろcafé かりんの湯",
+  "address": "千葉県香取市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/ofuro-caf-karin-no-yu)",
+  "tel": ""
+ },
+ {
+  "name": "ザファーム グランピング",
+  "address": "千葉県香取市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/the-farm-glamping)",
+  "tel": ""
+ },
+ {
+  "name": "サヤン・テラスHOTEL＆RESORT",
+  "address": "千葉県御宿町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/sayan-terrace-hotel-resort)",
+  "tel": ""
+ },
+ {
+  "name": "ひだまりINN",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hidamari-inn)",
+  "tel": ""
+ },
+ {
+  "name": "サンダンス・リゾート御宿",
+  "address": "千葉県御宿町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/sundance-resort-onjuku)",
+  "tel": ""
+ },
+ {
+  "name": "クリーンセンター入浴施設",
+  "address": "千葉県東金市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/clean-center-bathing-facilities)",
+  "tel": ""
+ },
+ {
+  "name": "インターナショナルリゾートホテル湯楽城 千葉",
+  "address": "千葉県富里市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/international-resort-hotel-yurakujo-chiba)",
+  "tel": ""
+ },
+ {
+  "name": "ビーチサイド温泉リゾート ゆうみ",
+  "address": "千葉県鋸南町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/beachside-hot-spring-resort-yuumi)",
+  "tel": ""
+ },
+ {
+  "name": "いろりの宿 七里川温泉",
+  "address": "千葉県君津市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "既収録",
+  "reason": "七里川温泉（onsen005605）として data.json に収録済み",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/irori-no-yado-shichirigawa-onsen)",
+  "tel": ""
+ },
+ {
+  "name": "ホテル Sakura邸",
+  "address": "千葉県長生村",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hotel-sakuratei)",
+  "tel": ""
+ },
+ {
+  "name": "一棟貸し古民家の宿 ほりのみせ",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/horino-mise-a-traditional-japanese-house-for-rent)",
+  "tel": ""
+ },
+ {
+  "name": "プライベートグランピング&サウナ〜秘境〜 木更津",
+  "address": "千葉県鋸南町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/private-glamping-sauna-hidden-land-kisarazu)",
+  "tel": ""
+ },
+ {
+  "name": "みささ",
+  "address": "千葉県鋸南町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/misasa)",
+  "tel": ""
+ },
+ {
+  "name": "ホテルトリニティ書斎",
+  "address": "千葉県長柄町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hotel-trinity-study)",
+  "tel": ""
+ },
+ {
+  "name": "ホタビーチ",
+  "address": "千葉県鋸南町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hota-beach)",
+  "tel": ""
+ },
+ {
+  "name": "ホテル千倉",
+  "address": "千葉県南房総市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hotel-chikura)",
+  "tel": ""
+ },
+ {
+  "name": "ホテル川端",
+  "address": "千葉県館山市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hotel-kawabata)",
+  "tel": ""
+ },
+ {
+  "name": "一棟貸し里山古民家宿 和信庵",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/rent-a-whole-house-at-this-traditional-satoyama-inn-washinan)",
+  "tel": ""
+ },
+ {
+  "name": "リソルの森 テラスハウス",
+  "address": "千葉県長柄町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/risol-forest-terrace-house)",
+  "tel": ""
+ },
+ {
+  "name": "一棟貸し古民家宿 緑邸 〜OHTAKI〜",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/rental-old-style-house-midoritei-ohtaki)",
+  "tel": ""
+ },
+ {
+  "name": "一棟貸し古民家の宿 まるがやつ萱-KAYA-",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/marugayatsukayatsu-kaya-a-traditional-japanese-house-for-rent)",
+  "tel": ""
+ },
+ {
+  "name": "ホテル＆スパ月美 太陽の里",
+  "address": "千葉県銚子市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: 温泉ライフ「宿泊者専用（日帰り入浴なし）」",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hotel-spa-tsukimi-taiyo-no-sato)",
+  "tel": ""
+ },
+ {
+  "name": "プライベートガーデン",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/private-garden)",
+  "tel": ""
+ },
+ {
+  "name": "伊勢海老旅館 伝九郎",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/lobster-inn-denkuro)",
+  "tel": ""
+ },
+ {
+  "name": "紀伊乃国屋 別亭",
+  "address": "千葉県鋸南町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/kinokuniya-annex)",
+  "tel": ""
+ },
+ {
+  "name": "喜代の湯",
+  "address": "千葉県千葉市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/kiyo-no-yu)",
+  "tel": ""
+ },
+ {
+  "name": "鴨川プライベートヴィラうら庭",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/kamogawa-private-villa-back-garden)",
+  "tel": ""
+ },
+ {
+  "name": "完全貸切 / 隠れ家リゾート / ハーミットいちのみや",
+  "address": "千葉県一宮町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/fully-reserved-hidden-resort-hermit-ichinomiya)",
+  "tel": ""
+ },
+ {
+  "name": "鎌田屋旅館",
+  "address": "千葉県君津市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可: 温泉ライフ「宿泊者専用（日帰り入浴なし）」",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/kamataya-ryokan)",
+  "tel": ""
+ },
+ {
+  "name": "金平湯",
+  "address": "千葉県香取市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/kinpeiyu)",
+  "tel": ""
+ },
+ {
+  "name": "吉夢",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/auspicious-dream)",
+  "tel": ""
+ },
+ {
+  "name": "鴨川温泉 なぎさの湯 足湯",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/kamogawa-onsen-nagisa-no-yu-footbath)",
+  "tel": ""
+ },
+ {
+  "name": "花山水",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/flower-landscape)",
+  "tel": ""
+ },
+ {
+  "name": "亀山温泉リトリート",
+  "address": "千葉県君津市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "亀山温泉ホテルの運営（亀山温泉ホテルは前回除外済み）。かけ流しの根拠なし",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/kameyama-onsen-retreat)",
+  "tel": ""
+ },
+ {
+  "name": "古民家サウナ&宿泊｜バーベキュー/キャンプ/カフェ/ピザ/ TK亭",
+  "address": "千葉県市原市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/traditional-japanese-house-sauna-lodging-bbqcampingcafepizza-tk-tei)",
+  "tel": ""
+ },
+ {
+  "name": "若紫の湯",
+  "address": "千葉県千葉市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/young-purple-bath)",
+  "tel": ""
+ },
+ {
+  "name": "嵯峨和旅館本店",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "養老渓谷 嵯峨和（onsen008618と同じ）。加温・循環ろ過、宿泊者専用",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/sagawa-ryokan-main-branch)",
+  "tel": ""
+ },
+ {
+  "name": "三日月シーパークホテル安房鴨川",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/mikazuki-sea-park-hotel-awa-kamogawa)",
+  "tel": ""
+ },
+ {
+  "name": "御宿の湯 クアライフ御宿",
+  "address": "千葉県御宿町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "御宿の湯（前回除外済み）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/onjuku-no-yu-kualife-onjuku)",
+  "tel": ""
+ },
+ {
+  "name": "古民家宿るうふ 波之家",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/old-style-house-lodging-naminoie)",
+  "tel": ""
+ },
+ {
+  "name": "桜湯",
+  "address": "千葉県茂原市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/sakurayu-10120167)",
+  "tel": ""
+ },
+ {
+  "name": "舟付",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/boat)",
+  "tel": ""
+ },
+ {
+  "name": "豪快漁師料理の宿 浜紫",
+  "address": "千葉県白子町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/hearty-fishermans-cuisine-inn-hamamurasaki)",
+  "tel": ""
+ },
+ {
+  "name": "三水別邸",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/sansui-villa)",
+  "tel": ""
+ },
+ {
+  "name": "宿 中屋",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "宿中屋（onsen013098と同じ）。日帰り入浴不可",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/nakaya-inn)",
+  "tel": ""
+ },
+ {
+  "name": "市原市憩の家",
+  "address": "千葉県市原市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉でない: ごみ焼却余熱を利用した浴場（温泉ライフ）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/ichihara-city-ikoi-house)",
+  "tel": ""
+ },
+ {
+  "name": "神河鉱泉",
+  "address": "千葉県館山市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし: 冷鉱泉の銭湯（館山市正木）。紹介記事にかけ流し・循環の記載なし",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/kamikawa-mineral-springs)",
+  "tel": ""
+ },
+ {
+  "name": "足湯やすらぎ",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/relaxing-foot-bath)",
+  "tel": ""
+ },
+ {
+  "name": "神明湯",
+  "address": "千葉県千葉市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/shinmeiyu)",
+  "tel": ""
+ },
+ {
+  "name": "蘇我 大和湯",
+  "address": "千葉県千葉市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/soga-yamatoyu)",
+  "tel": ""
+ },
+ {
+  "name": "食べる温泉宿 鶴乃家",
+  "address": "千葉県市原市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "鶴乃家（onsen014945と同じ）。宿泊者専用",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/eating-hot-spring-inn-tsurunoya)",
+  "tel": ""
+ },
+ {
+  "name": "千葉一宮グランピング〜釣ヶ崎グランピングリゾート",
+  "address": "千葉県一宮町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/chiba-ichinomiya-glamping-tsurigasaki-glamping-resort)",
+  "tel": ""
+ },
+ {
+  "name": "千葉鴨川 プライベートオーシャンビューヴィラ VILLA 藍水-ransui-",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/chiba-kamogawa-private-ocean-view-villa-villa-ransui)",
+  "tel": ""
+ },
+ {
+  "name": "甚五郎",
+  "address": "千葉県南房総市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/jingoro)",
+  "tel": ""
+ },
+ {
+  "name": "静森荘",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/shizumori-sou)",
+  "tel": ""
+ },
+ {
+  "name": "庄屋の里 古民家たなか",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/village-of-the-villager-tanaka-old-house)",
+  "tel": ""
+ },
+ {
+  "name": "銭湯ゆープラザ",
+  "address": "千葉県市川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/public-bath-yu-plaza)",
+  "tel": ""
+ },
+ {
+  "name": "貸別荘 シークレットブレイクヘバラ",
+  "address": "千葉県勝浦市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/holiday-home-secret-break-hebara)",
+  "tel": ""
+ },
+ {
+  "name": "発酵浴 湯らら",
+  "address": "千葉県君津市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/fermentation-bath-yurara)",
+  "tel": ""
+ },
+ {
+  "name": "八街ヴィラ",
+  "address": "千葉県八街市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/yachimata-villa)",
+  "tel": ""
+ },
+ {
+  "name": "浜辺の宿 まごえむ",
+  "address": "千葉県南房総市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/beachside-inn-magoemu)",
+  "tel": ""
+ },
+ {
+  "name": "舞湯",
+  "address": "千葉県浦安市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/maiyu)",
+  "tel": ""
+ },
+ {
+  "name": "浴室(船橋アリーナ)",
+  "address": "千葉県船橋市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/bathroom-funabashi-arena)",
+  "tel": ""
+ },
+ {
+  "name": "養老渓谷温泉 黒湯の宿 喜代元(きよもと)",
+  "address": "千葉県市原市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "喜代元（onsen014100と同じ）。宿泊者専用",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/yoro-valley-hot-springs-kuroyu-no-yado-kiyomoto)",
+  "tel": ""
+ },
+ {
+  "name": "離れ 風月-FUGETSU",
+  "address": "千葉県勝浦市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/annex-fugetsu-fugetsu)",
+  "tel": ""
+ },
+ {
+  "name": "璃庵",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/lian)",
+  "tel": ""
+ },
+ {
+  "name": "嵐の湯 松戸店",
+  "address": "千葉県松戸市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/arashi-no-yu-matsudo-branch)",
+  "tel": ""
+ },
+ {
+  "name": "露天風呂とサウナ NANSO CAMP",
+  "address": "千葉県いすみ市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/open-air-bath-and-sauna-nanso-camp)",
+  "tel": ""
+ },
+ {
+  "name": "養老渓谷温泉郷 天龍荘",
+  "address": "千葉県大多喜町",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "天龍荘（onsen014900と同じ）。宿泊者専用",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/yoro-valley-hot-springs-resort-tenryusou)",
+  "tel": ""
+ },
+ {
+  "name": "房総鴨川温泉 是空-ZEKUU-",
+  "address": "千葉県鴨川市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/boso-kamogawa-onsen-zekuu)",
+  "tel": ""
+ },
+ {
+  "name": "edén（エデン）レストラン&スパ",
+  "address": "千葉県勝浦市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（温泉ライフの紹介文に記載なし）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/eden-katsuura-onsen)",
+  "tel": ""
+ },
+ {
+  "name": "旅館 加茂城",
+  "address": "千葉県市原市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の記載なし（グランピング・貸別荘・銭湯・サウナなど）",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/ryokan-kamo-castle)",
+  "tel": ""
+ },
+ {
+  "name": "房州大福温泉 ちちんぷいぷいの湯",
+  "address": "千葉県富津市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かぢや旅館の日帰り湯（onsen016610と同じ）。かけ流しの根拠なし",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/boso-daifuku-onsen-chichinpuipui-no-yu)",
+  "tel": ""
+ },
+ {
+  "name": "鳴濤温泉みのや",
+  "address": "千葉県山武市",
+  "source": [
+   "温泉ライフ"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし: 日帰り主体（11～17時・600円）だが、温泉ライフ・まちスパ紹介とも冷鉱泉の内湯とあるだけで、かけ流し・循環の記載がない",
+  "id": "",
+  "evidence": "[温泉ライフ](https://onsen-life.com/facility/minoya-onsen)",
+  "tel": ""
+ }
+]

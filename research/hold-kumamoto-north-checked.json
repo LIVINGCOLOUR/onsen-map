@@ -1,0 +1,458 @@
+[
+ {
+  "name": "山鹿温泉 恵荘",
+  "address": "熊本県山鹿市川端町108",
+  "verdict": "保留",
+  "reason": "立ち寄り湯 大人300円・15:00～22:00（山鹿探訪なび・ゆる～と）は確認。かけ流し・循環の記載は観光サイト・ゆる～と・公式（恵荘グループ）のどこにもなく、ニフティ・Google 系の口コミも見つからない",
+  "evidence": "https://yamaga-tanbou.jp/spot/1458/ https://yuru-to.net/detail.php?oid=21203 https://www.megumisou.com/megumisou-y/",
+  "id": "",
+  "tel": "0968-44-6284",
+  "toAsk": "電話で：大浴場・露天は源泉かけ流しか（循環ろ過・塩素の有無）、立ち寄りの時間・料金"
+ },
+ {
+  "name": "家族湯 夢乃湯",
+  "address": "熊本県菊池市隈府1104-1",
+  "verdict": "保留",
+  "reason": "onsen-life に貸切家族湯（1時間1,800円、9:00～翌1:00）とあるだけで、公式サイト・ニフティ・ゆる～と・口コミが見つからない。かけ流しの根拠なし",
+  "evidence": "https://onsen-life.com/facility/family-bath-yumenoyu",
+  "id": "",
+  "tel": "",
+  "toAsk": "電話番号も見つからず（onsen-life に記載なし）。現地か地図アプリで番号を確認し、各室の湯が源泉かけ流しか（入れ替え制か）を聞く"
+ },
+ {
+  "name": "しすいラドン温泉 家族風呂",
+  "address": "熊本県菊池市泗水町吉富",
+  "verdict": "収録",
+  "reason": "しすいラドン温泉（onsen004215）の家族湯。同じ施設として onsen004215 の項目に含めた（口コミ「夜は家族湯、朝は大浴場…源泉掛け流しです」2026-05、家族湯「お湯も入れ替えです」2016）",
+  "evidence": "https://yuru-to.net/detail.php?oid=1134",
+  "id": "onsen004215",
+  "tel": "0968-38-4296"
+ },
+ {
+  "name": "つかさの湯 離れ 湯楽亭",
+  "address": "熊本県玉名市立願寺556-1",
+  "verdict": "除外",
+  "reason": "食事付きの貸切個室プラン（11:00～16:00、要予約）で入浴だけの日帰りではない。公式にかけ流しの記載はなく、同じ玉名温泉の本館つかさの湯は「温泉も循環」「塩素の匂い」の口コミで既に除外",
+  "evidence": "http://www.tsukasanoyu.jp/banquet/yurakutei.html",
+  "id": "",
+  "tel": ""
+ },
+ {
+  "name": "亀の湯 by HATAGO INN",
+  "address": "熊本県熊本市東区石原2-4-11",
+  "verdict": "収録",
+  "reason": "公式「天然温泉かけ流し、全浴槽毎日入れ替え！」、日帰り入浴 大人550円。2026-11-01 13:00 開業",
+  "evidence": "https://www.hatagoinn.com/kamenoyu/",
+  "id": "onsen024923",
+  "tel": "096-283-6202"
+ },
+ {
+  "name": "湯らっくす",
+  "address": "熊本県熊本市中央区本荘町722",
+  "verdict": "保留",
+  "reason": "公式は「カルシウム・ナトリウム-塩化物温泉で、加水なしの100%天然温泉」とあるがかけ流しの記載はない。口コミ（全21件）にもかけ流しの記述はなく、2009年の口コミに「塩素臭も感じない程度」「内湯、露天、シャワー水も全て温泉水と張り紙」。2026年の口コミ「お風呂は1種類のみ」。24時間営業の大型サウナ施設",
+  "evidence": "https://www.yulax.info/first https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen004238/kuchikomi/",
+  "id": "onsen004238",
+  "tel": "096-362-1126",
+  "toAsk": "電話で：主浴槽・露天は源泉かけ流しか循環ろ過か、塩素消毒の有無"
+ },
+ {
+  "name": "【クーポン付き】温泉カフェ あがんなっせ",
+  "address": "熊本県熊本市北区鶴羽田3丁目10番1号",
+  "verdict": "除外",
+  "reason": "大浴場に薬湯の「替わり湯」とジェットバス（寝湯・立湯）・壺湯があり（公式）、2008年口コミに「お湯自体は一部循環」。かけ流しの記載は公式・口コミ（全19件）ともなし",
+  "evidence": "https://www.agannasse-spa.jp/ https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen012493/kuchikomi/",
+  "id": "onsen012493",
+  "tel": "096-344-1126"
+ },
+ {
+  "name": "菊南温泉 ユウベルホテル",
+  "address": "熊本県熊本市北区鶴羽田３丁目１０−１",
+  "verdict": "除外",
+  "reason": "日帰り客は併設のあがんなっせ（除外）を使う形で、ホテル内の岩風呂大浴場は宿泊者専用（口コミ）。口コミ（2020）に「源泉掛け流しとのことでしたが…若干消毒臭を感知」",
+  "evidence": "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen004386/kuchikomi/",
+  "id": "onsen004386",
+  "tel": "096-344-5600"
+ },
+ {
+  "name": "神園山荘",
+  "address": "熊本県熊本市東区神園1-10-41",
+  "verdict": "保留",
+  "reason": "営業中（楽天トラベルに掲載、「熊本地震による復旧・補修工事」の注記あり）。旧公式ドメインは別サイトに変わっている。ニフティは日帰り 14:00～20:00・500円とするが、かけ流し・循環の記載はどこにもない（口コミ1件のみ）",
+  "evidence": "https://travel.rakuten.co.jp/HOTEL/141057/141057.html https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen004385/",
+  "id": "onsen004385",
+  "tel": "096-380-2511",
+  "toAsk": "電話で：日帰り入浴をしているか（時間・料金）、大浴場は源泉かけ流しか循環か"
+ },
+ {
+  "name": "家族湯 はなみずき",
+  "address": "熊本県熊本市北区植木町平井987-1",
+  "verdict": "収録",
+  "reason": "九州ウォーカー「炭酸水素塩泉はすべて源泉かけ流し」、るるぶ&more.「源泉かけ流し：あり」、口コミ（2026-02）「掛け流しなのも嬉しい」。地震後も通常営業（公式 2026-07-29）",
+  "evidence": "https://www.walkerplus.com/article/162877/ https://rurubu.jp/andmore/spot/80039919 https://hanamizuki.in/",
+  "id": "onsen017061",
+  "tel": "096-275-5161"
+ },
+ {
+  "name": "悠然",
+  "address": "熊本県熊本市北区植木町伊知坊311-1",
+  "verdict": "収録",
+  "reason": "公式「全8室…自家源泉を利用しての「源泉かけ流し」」「循環しない源泉かけ流し」。公式予約システムに日帰りプランあり（入浴のみは不可、食事・休憩付き）",
+  "evidence": "http://www.ueki-yuuzen.com/onsen.html https://reserve.489ban.net/client/ueki-yuuzen/0/plan/daytrip",
+  "id": "onsen004456",
+  "tel": "096-215-3177"
+ },
+ {
+  "name": "植木温泉　旅館　桐乃湯",
+  "address": "熊本県熊本市北区植木町米塚394-2",
+  "verdict": "収録",
+  "reason": "公式「大浴場 男湯、女湯ともに天然温泉・かけ流し」「源泉かけ流しの天然温泉を…露天風呂で」。立ち寄り 10:00～19:00・500円（ゆる～と）",
+  "evidence": "https://kirinoyu.com/?page_id=65 https://yuru-to.net/detail.php?oid=21220",
+  "id": "onsen014092",
+  "tel": "096-274-6780"
+ },
+ {
+  "name": "旅館 大月苑",
+  "address": "熊本県熊本市北区植木町米塚173",
+  "verdict": "保留",
+  "reason": "立ち寄り 11:00～16:00・500円（ゆる～と）は確認。公式は「自家源泉から湧き出るとろとろのお湯」「大浴場のみ夏季加水することもあります」とあるだけで、かけ流し・循環の記載はない。口コミなし",
+  "evidence": "https://oyado-ootsukien.com/hotspa.php https://yuru-to.net/detail.php?oid=21222",
+  "id": "onsen018505",
+  "tel": "096-274-6339",
+  "toAsk": "電話で：大浴場（内湯）は源泉かけ流しか、立ち寄りの時間・料金"
+ },
+ {
+  "name": "植木温泉 平島館",
+  "address": "熊本県熊本市北区植木町米塚335",
+  "verdict": "保留",
+  "reason": "ニフティに「日帰り入浴はご利用いただけますが、旅館はすでに閉業」とあるのみ。料金・時間・かけ流しの情報はどこにも見つからない（ゆる～と・観光サイトにも掲載なし）",
+  "evidence": "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen024533/",
+  "id": "onsen024533",
+  "tel": "096-274-7251",
+  "toAsk": "電話で：日帰り入浴を今もしているか（時間・料金）、源泉かけ流しか"
+ },
+ {
+  "name": "植木温泉 公衆浴場 松の湯",
+  "address": "熊本県熊本市北区植木町田底311",
+  "verdict": "保留",
+  "reason": "2025-11-27 リニューアル（熊本県公衆浴場組合）、2026-01 に家族湯も再開（口コミ）。かけ流しの根拠は 2002 年の温泉ライター記事「小さな方に掛け流しされているので熱、温の浴槽」のみで、改修後の湯使いは不明。ニフティ・ゆる～と・Google 系の口コミにもかけ流し・循環の記述なし。料金も 200円（2026口コミ）と 550円（ニフティ）で割れる",
+  "evidence": "https://allabout.co.jp/gm/gc/80344/2/ https://yuru-to.net/detail.php?oid=20081 https://kuma1010.com/",
+  "id": "onsen018454",
+  "tel": "096-274-6115",
+  "toAsk": "電話で：改修後も浴槽は源泉かけ流しか（循環ろ過・塩素の有無）、家族湯も同じか、大人料金"
+ },
+ {
+  "name": "城南天然温泉 かたるの森",
+  "address": "熊本県熊本市南区城南町藤山1715",
+  "verdict": "保留",
+  "reason": "かけ流しは公式FAQ「源泉かけ流しの天然温泉」で確認できた（加温あり：源泉35.4℃、熱め・ぬるめ・露天）。しかし ゆる～と の備考に「温泉休止中」とあり（時期不明）、公式サイトは通常営業の記載で「急なお休みや営業情報はInstagram」とするのみ。地震（2026-07-28）後の温泉の営業を確認できない",
+  "evidence": "https://katarunomori.jp/faq/ https://yuru-to.net/detail.php?oid=56391",
+  "id": "onsen024755",
+  "tel": "0964-28-8611",
+  "toAsk": "電話で：いま温泉（大浴場・家族風呂）は営業しているか。営業していれば収録してよい"
+ },
+ {
+  "name": "しすいラドン温泉",
+  "address": "熊本県菊池市泗水町吉富2865-7",
+  "verdict": "収録",
+  "reason": "口コミ「源泉掛け流しです」（2026-05）、「源泉温が47.6℃でかけ流し」（2024-09）、ニフティの紹介文「お湯は自然からそのまま湧き流れる温泉」",
+  "evidence": "https://yuru-to.net/detail.php?oid=1134 https://onsen.nifty.com/kikuchi-onsen/onsen004215/",
+  "id": "onsen004215",
+  "tel": "0968-38-4296"
+ },
+ {
+  "name": "家族風呂　湯の倉",
+  "address": "熊本県菊池市隈府1587-17",
+  "verdict": "収録",
+  "reason": "口コミ「浴槽は入れ替え時に勢いよくお湯が投入され、そのあとは引き続きお湯が投入される形で、源泉掛け流し」（2025-11）、「家族湯は岩風呂&源泉かけ流し」（2025-10）。既収録の清流荘（onsen004405）の併設",
+  "evidence": "https://yuru-to.net/detail.php?oid=51530 https://seiryuusou.jp/yunokura/",
+  "id": "onsen011831",
+  "tel": "0968-24-2155"
+ },
+ {
+  "name": "家族湯　七城の森",
+  "address": "熊本県菊池市七城町亀尾1491-1",
+  "verdict": "収録",
+  "reason": "口コミ「お湯はかけ流し。露天の湯は内湯とパイプでつながっており」（2026-01）、「けっこうお湯かけ流されていて」（2013）",
+  "evidence": "https://yuru-to.net/detail.php?oid=11629 https://onsen.nifty.com/kikuchi-onsen/onsen004449/kuchikomi/",
+  "id": "onsen004449",
+  "tel": "0968-23-5888"
+ },
+ {
+  "name": "花房台温泉 ペットと泊まれる宿 Wa！王国狗の郷（くのさと）",
+  "address": "熊本県菊池市出田2121-185",
+  "verdict": "除外",
+  "reason": "日帰り不可。公式（トップ・FAQ・予約案内）は宿泊の案内だけで日帰りの記載がなく、湯は客室の露天風呂（100%かけ流し）。日帰りの根拠は2005年の口コミ「客室を使って日帰り入浴もやっているようです」のみ",
+  "evidence": "https://www.kunosato.jp/ https://www.kunosato.jp/faq/",
+  "id": "onsen006668",
+  "tel": "0968-25-7123"
+ },
+ {
+  "name": "菊池温泉　望月旅館",
+  "address": "熊本県菊池市隈府1115-4",
+  "verdict": "収録",
+  "reason": "公式「沸かさず、うすめず、循環させず」「源泉掛け流し」「入湯だけでもどうぞ」。立ち寄り 9:00～20:00・700円（ゆる～と）",
+  "evidence": "https://mochiduki-ryokan.com/spa/ https://yuru-to.net/detail.php?oid=21196",
+  "id": "onsen013083",
+  "tel": "0968-25-2185"
+ },
+ {
+  "name": "菊池温泉　旅館　宝来館＜熊本県＞",
+  "address": "熊本県菊池市隈府1124",
+  "verdict": "収録",
+  "reason": "公式「自家源泉掛け流し」。立ち寄り 11:00～16:00・600円（ゆる～と）",
+  "evidence": "http://www.houraikan.co.jp/hotspa.html https://yuru-to.net/detail.php?oid=21197",
+  "id": "onsen013855",
+  "tel": "0968-25-2703"
+ },
+ {
+  "name": "菊池温泉　栄屋旅館",
+  "address": "熊本県菊池市隈府1373",
+  "verdict": "保留",
+  "reason": "立ち寄り 10:00～18:00・500～600円（ニフティ・ゆる～と・アソビュー）。かけ流しの根拠はアソビューの記事「「化粧の湯」と呼ばれる源泉をかけ流しで」のみ（住所を別施設のものと取り違えるなど記事は粗い）。公式サイトは接続できない（応答なし）。口コミなし",
+  "evidence": "https://www.asoview.com/note/5816/ https://yuru-to.net/detail.php?oid=20069",
+  "id": "onsen014613",
+  "tel": "0968-25-4171",
+  "toAsk": "電話で：いまも営業し立ち寄り湯をしているか、浴槽は源泉かけ流しか"
+ },
+ {
+  "name": "菊池温泉　観光旅館　城山荘",
+  "address": "熊本県菊池市隈府1228",
+  "verdict": "除外",
+  "reason": "日帰り不可。公式の浴場は「貸切専用の家族風呂…ご宿泊の方は無料で貸切」で入浴時間は宿泊者向け（15:00～0:00、6:00～9:00）のみ。立ち寄りの記載は公式・ゆる～と・観光サイトともなし",
+  "evidence": "http://www.siroyamaso.jp/spa.html",
+  "id": "onsen014762",
+  "tel": "0968-25-2400"
+ },
+ {
+  "name": "植木温泉 家族湯 山水苑",
+  "address": "熊本県菊池市七城町小野崎900-1",
+  "verdict": "保留",
+  "reason": "家族湯（1室2名1,000円、11:00～21/22:00、第3水曜休）はゆる～と・ニフティで確認。かけ流し・循環の記載や口コミは見つからない",
+  "evidence": "https://yuru-to.net/detail.php?oid=34531",
+  "id": "onsen018557",
+  "tel": "0968-26-4126",
+  "toAsk": "電話で：各室の湯は源泉かけ流しか（入れ替え制か）"
+ },
+ {
+  "name": "幸の国健康温泉館ゆ～かむ",
+  "address": "熊本県山鹿市鹿北町椎持5-2",
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。公式・山鹿探訪なび・口コミ（ニフティ3件、ゆる～と）のどれにもかけ流しの記載がなく、口コミに「マッサージ浴の装置」。温水プール併設の公共施設（プールは地震の影響で休止中）",
+  "evidence": "https://ukamu2015.wixsite.com/mysite/spa-gym-pool https://yamaga-tanbou.jp/spot/2312/",
+  "id": "onsen004350",
+  "tel": "0968-42-5100"
+ },
+ {
+  "name": "山鹿温泉 清流荘",
+  "address": "熊本県山鹿市山鹿1768",
+  "verdict": "保留",
+  "reason": "立ち寄り 15:00～21:00・大人550円（公式）は確認。公式は「足湯は天然温泉をかけ流し」とするが大浴場のかけ流しの記載はなく、2005年の口コミに「源泉の温度が低いため沸かしてある」。循環の有無が分からない",
+  "evidence": "https://rokumon.com/spa https://onsen.nifty.com/yamaga-kumamoto-onsen/onsen004373/kuchikomi/",
+  "id": "onsen004373",
+  "tel": "0968-43-2101",
+  "toAsk": "電話で：大浴場・露天は源泉かけ流し（加温のみ）か、循環ろ過・塩素の有無"
+ },
+ {
+  "name": "山鹿温泉 よへほの宿",
+  "address": "熊本県山鹿市中央通1001-2",
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。口コミ（全3件、2005年）は客室露天の宿泊の話で、「話題？のコーヒー風呂」など変わり湯あり。公式サイトもなく、山鹿探訪なび・ゆる～とにも掲載がない（営業状況も不明）",
+  "evidence": "https://onsen.nifty.com/yamaga-kumamoto-onsen/onsen006698/kuchikomi/",
+  "id": "onsen006698",
+  "tel": "0968-42-1323"
+ },
+ {
+  "name": "家族温泉 湯の川",
+  "address": "熊本県山鹿市小群327",
+  "verdict": "除外",
+  "reason": "休業中。ゆる～とで「家族温泉 湯の川（休業中）」と表示され、同じ住所に「プライベートサウナ 湯の川」（天然温泉付きのプライベートバレルサウナ、24時間・6,000円）が新たに掲載されている。業態が変わった模様",
+  "evidence": "https://yuru-to.net/detail.php?oid=11537 https://yuru-to.net/detail.php?oid=56323",
+  "id": "onsen007949",
+  "tel": "0968-33-4229"
+ },
+ {
+  "name": "菊鹿温泉旅館　花富亭",
+  "address": "熊本県山鹿市菊鹿町池永177",
+  "verdict": "除外",
+  "reason": "日帰り不可。公式は大浴場「100％源泉かけ流し」だが入浴時間は 15:00～24:00／6:00～10:00（宿泊者向け）のみで、立ち寄りの記載は公式・山鹿探訪なび・ゆる～とになし（立ち寄りの根拠は2013年の口コミのみ）",
+  "evidence": "http://www.kafutei.co.jp/onsen.php",
+  "id": "onsen010200",
+  "tel": "0968-48-3141"
+ },
+ {
+  "name": "山鹿　熊入温泉　朝日屋旅館＜熊本県＞",
+  "address": "熊本県山鹿市熊入町73",
+  "verdict": "除外",
+  "reason": "日帰り不可。宿泊専用の旅館で、宿泊者には目の前の熊入温泉センター（既収録 onsen004225）の入浴券を出す形（山鹿探訪なび・ニフティ）。立ち寄りの記載なし。地震の被害なく営業中（公式 2026-08-08）",
+  "evidence": "https://yamaga-tanbou.jp/spot/1493/ http://www.y-asahiya.com/pc/",
+  "id": "onsen015046",
+  "tel": "0968-43-2565"
+ },
+ {
+  "name": "すやま温泉",
+  "address": "熊本県山鹿市平山５６－２",
+  "verdict": "保留",
+  "reason": "立ち寄り湯 大人300円・8:00～20:00（平山温泉観光協会・山鹿探訪なび）は確認。「自家源泉から注がれる硫黄の香り漂うお湯」とあるがかけ流し・循環の明記はなく、口コミも見つからない",
+  "evidence": "https://www.hirayama-onsen.jp/facilities/suyama/ https://yamaga-tanbou.jp/spot/1508/",
+  "id": "onsen017377",
+  "tel": "0968-43-5175",
+  "toAsk": "電話で：浴槽は源泉かけ流しか（循環ろ過・塩素の有無）"
+ },
+ {
+  "name": "平山温泉　恵荘",
+  "address": "熊本県山鹿市平山5300",
+  "verdict": "収録",
+  "reason": "山鹿探訪なび「湯口からあふれ出る掛け流しの湯」、立ち寄り 7:00～22:30・大人500円",
+  "evidence": "https://yamaga-tanbou.jp/spot/1510/",
+  "id": "onsen018318",
+  "tel": "0968-44-0830"
+ },
+ {
+  "name": "平小城温泉 城山公衆浴場",
+  "address": "熊本県山鹿市平山5084-4",
+  "verdict": "収録",
+  "reason": "口コミ「源泉掛け流しのアルカリ性のヌルヌル感」（2024-12）、「源泉かけ流しからヌルヌル」（2020）。無人の共同浴場で 200円（2025）",
+  "evidence": "https://yuru-to.net/detail.php?oid=20068 https://www.tabirai.net/sightseeing/column/0005284.aspx",
+  "id": "onsen018432",
+  "tel": ""
+ },
+ {
+  "name": "天然温泉 家族湯 もみじ湯",
+  "address": "熊本県山鹿市菊鹿町木野平原3873-1",
+  "verdict": "保留",
+  "reason": "家族湯（60分1,200～1,500円）の営業は確認（口コミ 2026-04 まで）。口コミ「お湯は間違いなく温泉って感じ」などはあるが、かけ流し・循環の記述はない",
+  "evidence": "https://yamaga-tanbou.jp/spot/1527/ https://yuru-to.net/detail.php?oid=11550",
+  "id": "onsen019362",
+  "tel": "0968-48-5015",
+  "toAsk": "電話で：各室の湯は源泉かけ流しか（入れ替え制か）"
+ },
+ {
+  "name": "菊鹿温泉 菊翠苑",
+  "address": "熊本県山鹿市菊鹿町木野3868",
+  "verdict": "保留",
+  "reason": "立ち寄り 10:00～21:00・350～400円、家族湯あり（山鹿探訪なび・ゆる～と）。紹介文「広々とした浴場には名湯が惜しげもなく注がれ」はあるが、かけ流し・循環の明記はなく口コミもない",
+  "evidence": "https://yamaga-tanbou.jp/spot/3258/ https://yuru-to.net/detail.php?oid=32207",
+  "id": "onsen019363",
+  "tel": "0968-48-2066",
+  "toAsk": "電話で：大浴場・露天・家族湯は源泉かけ流しか（循環ろ過・塩素の有無）"
+ },
+ {
+  "name": "味の家 飯店",
+  "address": "熊本県山鹿市山鹿1025",
+  "verdict": "保留",
+  "reason": "中華料理店の裏手の温泉（200円、11:30～15:00・17:00～21:00）とゆる～と・ニフティにあるだけで、かけ流しの根拠・口コミは見つからない",
+  "evidence": "https://yuru-to.net/detail.php?oid=56810",
+  "id": "onsen024635",
+  "tel": "0968-43-2238",
+  "toAsk": "電話で：入浴だけの利用ができるか、湯は源泉かけ流しか"
+ },
+ {
+  "name": "山鹿温泉 千代湯",
+  "address": "熊本県山鹿市古閑十三部1075-12",
+  "verdict": "収録",
+  "reason": "ニフティ温泉まとめ「温度差を付けた源泉かけ流しの湯船」、ゆこゆこ「源泉かけ流し」、口コミ「源泉掛け流しで、熱湯と普通湯、ぬる湯」（2026-01）。電気風呂・泡風呂の湯使いは未確認",
+  "evidence": "https://onsen.nifty.com/onsen-matome/240111062280/ https://yuru-to.net/detail.php?oid=11579",
+  "id": "onsen004292",
+  "tel": "0968-43-0026"
+ },
+ {
+  "name": "三加和温泉 なごみ乃湯（ふるさと交流センター）",
+  "address": "熊本県玉名郡和水町大田黒789",
+  "verdict": "収録",
+  "reason": "和水町の観光ページ「湯量豊富の使い捨て100％天然温泉」（2026-10-09 更新）、口コミ「もちろん掛け流しです」。2026年4月から指定管理者がグッドスタッフに交代、公式サイト移転",
+  "evidence": "https://www.town.nagomi.lg.jp/kanko/map/onsen/3_642/ https://mikawa-onsen.com/",
+  "id": "onsen004227",
+  "tel": "0968-34-2249"
+ },
+ {
+  "name": "横島総合保健福祉センターゆとりーむ",
+  "address": "熊本県玉名市横島町横島3923",
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。玉名市の保健福祉施設（温水プール・トレーニング室併設）で、市のページ・公式・onsen-life・口コミ（2件）のどれにもかけ流しの記載がない",
+  "evidence": "https://www.city.tamana.lg.jp/q/aview/302/5236.html https://yokoshima-yutoreem.com/",
+  "id": "onsen004314",
+  "tel": "0968-84-3939"
+ },
+ {
+  "name": "玉の湯（玉名市営大衆浴場）",
+  "address": "熊本県玉名市岩崎高津原391-1",
+  "verdict": "収録",
+  "reason": "るるぶ&more.「天然温泉を源泉かけ流しで使用しているのが自慢」、ゆこゆこ「かけ流し100％天然温泉」。ジェットバス・打たせ湯の湯使いは未確認",
+  "evidence": "https://rurubu.jp/andmore/spot/80040006 https://www.yukoyuko.net/onsen/spot/h0000879",
+  "id": "onsen004379",
+  "tel": "0968-73-2087"
+ },
+ {
+  "name": "ふれあいの丘交流センター",
+  "address": "熊本県玉名郡玉東町木葉372",
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし。町の公式に「ごみ焼却で発生した熱エネルギーを利用して、源泉を温めています」（30℃未満の源泉、2005口コミ）、男女週替わりの和風・洋風風呂・電気風呂・露天・展望サウナ・家族湯。かけ流しの記載は公式・口コミともなし",
+  "evidence": "https://www.town.gyokuto.kumamoto.jp/kiji003631/index.html",
+  "id": "onsen004313",
+  "tel": "0968-85-6551"
+ },
+ {
+  "name": "尚玄山荘",
+  "address": "熊本県玉名市河崎1-1",
+  "verdict": "収録",
+  "reason": "ニフティの分類が「源泉かけ流し」（浴槽ごとの確認はしていない）。立ち寄り 平日10:30～15:00・700円（ゆる～と）。公式にかけ流しの記載はない",
+  "evidence": "https://onsen.nifty.com/tamana-onsen/onsen004358/ https://yuru-to.net/detail.php?oid=11637",
+  "id": "onsen004358",
+  "tel": "0968-72-2266"
+ },
+ {
+  "name": "ホテルしらさぎ",
+  "address": "熊本県玉名市岩崎730",
+  "verdict": "除外",
+  "reason": "循環あり。口コミ（2005）「温度の関係で循環されているそうですが、塩素消毒はされておらず　浴槽の湯も２時間でいれかわる」。公式にかけ流しの記載なし（立寄り湯は営業中、700円）",
+  "evidence": "https://onsen.nifty.com/tamana-onsen/onsen006796/kuchikomi/ https://shirasagiso.jp/onsen/",
+  "id": "onsen006796",
+  "tel": "0968-72-2100"
+ },
+ {
+  "name": "立願寺温泉ホテル 湯里",
+  "address": "熊本県玉名市立願寺572-7",
+  "verdict": "収録",
+  "reason": "公式「露天風呂・内湯・泡風呂などすべて源泉かけ流し」、日帰り入浴 大人400円",
+  "evidence": "https://www.ryuganjionsenhotel-yuri.com/onsen.php",
+  "id": "onsen011597",
+  "tel": "0968-72-6411"
+ },
+ {
+  "name": "小天温泉　那古井館",
+  "address": "熊本県玉名市天水町小天8277",
+  "verdict": "除外",
+  "reason": "日帰り不可。公式は全館リニューアル後の客室（浴室・足湯・サウナ付き）の宿泊案内のみで、立ち寄り・日帰りの記載なし。ゆる～とにも本館の立ち寄りはなく、日帰りの貸切湯は別邸「玉響」（既収録 onsen004412）",
+  "evidence": "http://www.nakoikan.com/2020new",
+  "id": "onsen014325",
+  "tel": "0968-82-2035"
+ },
+ {
+  "name": "喜久屋別館",
+  "address": "熊本県玉名郡長洲町993",
+  "verdict": "除外",
+  "reason": "温泉の日帰り入浴なし。長洲町のビジネス旅館で、ニフティの「温泉の特徴」は岩盤浴のみ（岩床スパ「天華」の割引特典）。温泉・かけ流しの記載はどこにもない",
+  "evidence": "https://onsen.nifty.com/tamana-onsen/onsen021112/ http://www.nagasushoko.jp/products/detail/26",
+  "id": "onsen021112",
+  "tel": "0968-78-0251"
+ },
+ {
+  "name": "旅籠はしもと",
+  "address": "熊本県菊池郡大津町室195-1番地",
+  "verdict": "除外",
+  "reason": "温泉・日帰り入浴の根拠なし。「全室和室の…小さなビジネスホテル」（ニフティ）で、浴場・温泉の情報がどこにもない",
+  "evidence": "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen022048/",
+  "id": "onsen022048",
+  "tel": "096-293-2141"
+ },
+ {
+  "name": "遊心",
+  "address": "熊本県上益城郡御船町田代6702-211",
+  "verdict": "除外",
+  "reason": "日帰り入浴なし。吉無田高原の貸別荘（1泊1人8,500円～）とイベント広場で、温泉浴場の案内がない",
+  "evidence": "https://yuushin-sabou.com/",
+  "id": "onsen024214",
+  "tel": "096-202-5139"
+ }
+]

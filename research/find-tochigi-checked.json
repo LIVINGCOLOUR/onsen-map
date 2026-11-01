@@ -1,0 +1,593 @@
+[
+ {
+  "name": "カラオケ ウイング（温泉併設）",
+  "address": "栃木県日光市森友172-5",
+  "source": [
+   "栃ナビ 温泉（日帰り）一覧 https://tochinavi.net/search_result/?type=spot&C3=165 id=10102"
+  ],
+  "verdict": "既収録",
+  "reason": "森友之湯（onsen008643・森友172-1）と同じ敷地の併設カラオケ。温泉は21時受付終了。別施設ではないとみられる",
+  "id": "onsen008643",
+  "tel": "0288-21-3844"
+ },
+ {
+  "name": "道の駅うつのみや ろまんちっく村 アグリスパ",
+  "address": "栃木県宇都宮市新里町254",
+  "source": [
+   "栃ナビ 温泉（日帰り）一覧 https://tochinavi.net/search_result/?type=spot&C3=165 id=8785",
+   "OpenStreetMap（Overpass, amenity=public_bath）"
+  ],
+  "verdict": "除外",
+  "reason": "湯処あぐり（判定済み・循環あり）と同じ施設のプール・スパ部門",
+  "id": null,
+  "tel": "028-665-8181"
+ },
+ {
+  "name": "東雲ゴルフクラブ（東雲温泉）",
+  "address": "栃木県塩谷郡高根沢町亀梨630",
+  "source": [
+   "栃ナビ 温泉（宿泊）一覧 https://tochinavi.net/search_result/?type=spot&C3=166 id=15850"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り温泉は2023年9月末で終了（栃ナビ）。宿泊者のみ",
+  "id": null,
+  "tel": "028-676-2800"
+ },
+ {
+  "name": "鬼怒川渓翠",
+  "address": "栃木県日光市鬼怒川温泉大原334-1",
+  "source": [
+   "栃ナビ 温泉（宿泊）一覧 https://tochinavi.net/search_result/?type=spot&C3=166 id=24037"
+  ],
+  "verdict": "除外",
+  "reason": "宿泊施設。日帰り入浴の案内なし",
+  "id": null,
+  "tel": "0288-70-1109"
+ },
+ {
+  "name": "和の音交流館 鬼怒川宿",
+  "address": "栃木県日光市鬼怒川温泉大原1060-101",
+  "source": [
+   "じゃらん 栃木の日帰り温泉 https://www.jalan.net/kankou/080000/g2_85/",
+   "じゃらん宿ページ https://www.jalan.net/yad390111/"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り10-15時（じゃらん観光）だが、じゃらん宿ページの温泉欄が「加水・加温・循環ろ過」",
+  "id": null,
+  "tel": "0288-77-0055"
+ },
+ {
+  "name": "壬生町ふれあい交流館",
+  "address": "栃木県下都賀郡壬生町壬生甲599",
+  "source": [
+   "じゃらん 栃木の日帰り温泉 https://www.jalan.net/kankou/080000/g2_85/ spt_guide000000188336"
+  ],
+  "verdict": "除外",
+  "reason": "町の日帰り入浴施設（10-20時）。天然温泉・かけ流しの根拠が見つからない",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "栃木市大平健康福祉センター ゆうゆうプラザ 四季彩の湯",
+  "address": "栃木県栃木市大平町西野田666-1",
+  "source": [
+   "OpenStreetMap（Overpass, amenity=public_bath）",
+   "栃木市の公式PDF（city.tochigi.lg.jp）"
+  ],
+  "verdict": "除外",
+  "reason": "市の福祉施設の浴場。天然温泉・泉質の記載が見つからない（かけ流しの根拠なし）",
+  "id": null,
+  "tel": "0282-45-2601"
+ },
+ {
+  "name": "翠黛郷",
+  "address": "栃木県那須郡那須町湯本656-1",
+  "source": [
+   "じゃらん 栃木の日帰り温泉 https://www.jalan.net/kankou/080000/g2_85/（2ページ目以降・spt_guide000000200133）"
+  ],
+  "verdict": "除外",
+  "reason": "じゃらんに名称・住所のみ。電話は029（茨城）で保養所とみられ、日帰り入浴の情報なし",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "きくや一望館",
+  "address": "栃木県那須塩原市板室841-100",
+  "source": [
+   "じゃらん 栃木の日帰り温泉 https://www.jalan.net/kankou/080000/g2_85/（spt_guide000000199479）"
+  ],
+  "verdict": "除外",
+  "reason": "じゃらんに名称・住所のみ。日帰り入浴・湯使いの情報なし（近くの湯宿きくやは判定済み・日帰り不可）",
+  "id": null,
+  "tel": "0287-69-0303"
+ },
+ {
+  "name": "Shiobara viva（塩原ビバ）",
+  "address": "栃木県那須塩原市南町7-13",
+  "source": [
+   "じゃらん 栃木の日帰り温泉 https://www.jalan.net/kankou/080000/g2_85/"
+  ],
+  "verdict": "除外",
+  "reason": "農業体験の事業者。温浴施設ではない",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "ドライブイン那須の湯温泉",
+  "address": "栃木県那須郡那須町（OSM 37.0195,140.0854 付近）",
+  "source": [
+   "OpenStreetMap（Overpass, amenity=public_bath）"
+  ],
+  "verdict": "保留",
+  "reason": "OSM に名前と位置だけがある。WebSearch でも営業・湯使いの情報が見つからない（実在・営業の確認が必要）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "那須どうぶつ王国 カピバラの湯",
+  "address": "栃木県那須郡那須町大島1042-1",
+  "source": [
+   "OpenStreetMap（Overpass, amenity=public_bath）",
+   "じゃらん 栃木の日帰り温泉 https://www.jalan.net/kankou/080000/g2_85/"
+  ],
+  "verdict": "除外",
+  "reason": "動物の展示。人の入浴施設ではない",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "足利市温泉スタンド（四代地温泉）",
+  "address": "栃木県足利市",
+  "source": [
+   "関東温泉紀行 栃木-3 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3",
+   "OpenStreetMap（Overpass, amenity=public_bath）"
+  ],
+  "verdict": "除外",
+  "reason": "温泉スタンド。入浴施設ではない",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "佐野市温泉スタンド（田沼町温泉）",
+  "address": "栃木県佐野市",
+  "source": [
+   "栃ナビ 温泉（日帰り）一覧 https://tochinavi.net/search_result/?type=spot&C3=165 id=18753",
+   "関東温泉紀行 栃木-3 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3"
+  ],
+  "verdict": "除外",
+  "reason": "温泉スタンド。入浴施設ではない",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "川治温泉 宿屋伝七",
+  "address": "栃木県日光市川治温泉",
+  "source": [
+   "関東温泉紀行 栃木-1 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "元湯川治温泉 蘭りょう",
+  "address": "栃木県日光市川治温泉川治11",
+  "source": [
+   "関東温泉紀行 栃木-1 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1"
+  ],
+  "verdict": "既収録",
+  "reason": "現在のリブマックスリゾート川治（onsen012688）の旧名（じゃらん「旧名:源泉の宿 らんりょう」）",
+  "id": "onsen012688",
+  "tel": null
+ },
+ {
+  "name": "けいちょう高原温泉 きぬがわ高原カントリークラブ",
+  "address": "栃木県日光市",
+  "source": [
+   "関東温泉紀行 栃木-1 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1"
+  ],
+  "verdict": "除外",
+  "reason": "ゴルフ場の浴場。日帰り温泉としての案内なし",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "神山（高百）温泉 高百オートキャンプ場",
+  "address": "栃木県日光市高百",
+  "source": [
+   "関東温泉紀行 栃木-1 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる（2006年にかけ流しの訪問記あり）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "日光 八汐荘（NPO法人 日光森林園）",
+  "address": "栃木県日光市中宮祠",
+  "source": [
+   "関東温泉紀行 栃木-1 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる（2008年にかけ流しの訪問記あり）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "メルモンテ日光霧降／日光霧降 大江戸温泉",
+  "address": "栃木県日光市所野1535-1",
+  "source": [
+   "関東温泉紀行 栃木-1 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1"
+  ],
+  "verdict": "除外",
+  "reason": "現在の TAOYA日光霧降 の旧名とみられる（判定済み: 加水・加温・循環・消毒あり）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "新那須温泉 森の宿寄り道",
+  "address": "栃木県那須郡那須町",
+  "source": [
+   "関東温泉紀行 栃木-2 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "報恩温泉 ホテル報恩",
+  "address": "栃木県那須郡那須町高久",
+  "source": [
+   "関東温泉紀行 栃木-2 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "りんどう湖ロイヤルホテル",
+  "address": "栃木県那須郡那須町",
+  "source": [
+   "関東温泉紀行 栃木-2 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "山晃館（板室・室井源泉）",
+  "address": "栃木県那須塩原市板室",
+  "source": [
+   "関東温泉紀行 栃木-2 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる（2006年に自家源泉かけ流しの訪問記あり）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "民宿 仲久（板室 塩沢温泉組合）",
+  "address": "栃木県那須塩原市板室",
+  "source": [
+   "関東温泉紀行 栃木-2 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原西山温泉 塩原長寿温泉 長寿の湯",
+  "address": "栃木県那須塩原市",
+  "source": [
+   "関東温泉紀行 栃木-2 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "愛宕山温泉 カサマヤ",
+  "address": "栃木県那須塩原市",
+  "source": [
+   "関東温泉紀行 栃木-2 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる（愛宕山温泉足湯は判定済み・休業中）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "小川温泉 森林の湯",
+  "address": "栃木県那須郡那珂川町",
+  "source": [
+   "関東温泉紀行 栃木-3 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3"
+  ],
+  "verdict": "除外",
+  "reason": "休業中（関東温泉紀行の表記）。現行の情報もない",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "南那須温泉 ユーカリヒルズ温泉センター 壽乃湯",
+  "address": "栃木県那須烏山市",
+  "source": [
+   "関東温泉紀行 栃木-3 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる（訪問記にかけ流しの印なし）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "こぶしが丘温泉 こぶしの湯",
+  "address": "栃木県",
+  "source": [
+   "関東温泉紀行 栃木-3 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩谷温泉 権現の湯",
+  "address": "栃木県塩谷郡塩谷町",
+  "source": [
+   "関東温泉紀行 栃木-3 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "龍神温泉 七福の湯",
+  "address": "栃木県（芳賀郡周辺）",
+  "source": [
+   "関東温泉紀行 栃木-3 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "真岡温泉 スパリゾート・フジ 森の泉",
+  "address": "栃木県真岡市",
+  "source": [
+   "関東温泉紀行 栃木-3 全リスト https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3"
+  ],
+  "verdict": "除外",
+  "reason": "現在のスパリゾート リブマックス（真岡・判定済み）の旧名とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "湯西川温泉センター清盛",
+  "address": "栃木県日光市湯西川",
+  "source": [
+   "関東温泉紀行 栃木-1 栗山 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1_kuriyama"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる（湯乃宿 清盛は別に判定済み）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "湯西川別館",
+  "address": "栃木県日光市湯西川",
+  "source": [
+   "関東温泉紀行 栃木-1 栗山 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1_kuriyama"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "新伝統平家本陣",
+  "address": "栃木県日光市湯西川",
+  "source": [
+   "関東温泉紀行 栃木-1 栗山 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1_kuriyama"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "川俣温泉 きぬ姫",
+  "address": "栃木県日光市川俣",
+  "source": [
+   "関東温泉紀行 栃木-1 栗山 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1_kuriyama"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "川俣温泉 奥鬼怒荘",
+  "address": "栃木県日光市川俣",
+  "source": [
+   "関東温泉紀行 栃木-1 栗山 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1_kuriyama"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "川俣温泉ホテル ふくよ館",
+  "address": "栃木県日光市川俣",
+  "source": [
+   "関東温泉紀行 栃木-1 栗山 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1_kuriyama",
+   "フォートラベル https://4travel.jp/dm_hotel-10043059"
+  ],
+  "verdict": "除外",
+  "reason": "閉業（フォートラベル「閉鎖しました」）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "野門温泉 家康の湯",
+  "address": "栃木県日光市野門",
+  "source": [
+   "関東温泉紀行 栃木-1 栗山 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-1_kuriyama"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（畑下） はとや旅館",
+  "address": "栃木県那須塩原市塩原",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（畑下） 青葉の湯",
+  "address": "栃木県那須塩原市塩原",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（畑下） 鳩の湯共同浴場",
+  "address": "栃木県那須塩原市塩原（畑下）",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara",
+   "all about（塩原の料金箱式ボランティア共同浴場の記述） https://allabout.co.jp/gm/gc/429606"
+  ],
+  "verdict": "保留",
+  "reason": "2000年代の一覧に共同浴場として載るのみ。塩原には料金箱式の小さな共同浴場が残るとの記述はあるが、鳩の湯の現況・一般開放の可否が不明",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（塩釜） かんぽの宿塩原",
+  "address": "栃木県那須塩原市塩原",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる（かんぽの宿は事業譲渡・閉館が進んでおり、現行の掲載なし）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（塩釜） かもしか荘",
+  "address": "栃木県那須塩原市塩原",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（門前） ほてる さかもと",
+  "address": "栃木県那須塩原市塩原",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（古町） ホテル蓬莱閣",
+  "address": "栃木県那須塩原市塩原",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（古町） 木の芽宿 桝田屋与一",
+  "address": "栃木県那須塩原市塩原",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる（塩原源泉館ますだやは判定済み・日帰り休止中）",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（古町） ニュー八汐",
+  "address": "栃木県那須塩原市塩原",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原前黒 ホテル八汐",
+  "address": "栃木県那須塩原市",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "塩原温泉（上塩原） 山の宿 たちばな家",
+  "address": "栃木県那須塩原市上塩原",
+  "source": [
+   "関東温泉紀行 栃木-2 塩原 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-2_shiobara"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "喜連川温泉 喜連川城",
+  "address": "栃木県さくら市喜連川",
+  "source": [
+   "関東温泉紀行 栃木-3 喜連川 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3_kitsuregawa"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ },
+ {
+  "name": "喜連川温泉 さくら館",
+  "address": "栃木県さくら市喜連川",
+  "source": [
+   "関東温泉紀行 栃木-3 喜連川 https://utsubo1.hatenablog.jp/entry/hs-list-tochigi-3_kitsuregawa"
+  ],
+  "verdict": "除外",
+  "reason": "現在の営業・日帰り入浴の情報が見つからない（2000年代の訪問記のみ。WebSearch でも現行の掲載なし）。閉業とみられる",
+  "id": null,
+  "tel": null
+ }
+]
