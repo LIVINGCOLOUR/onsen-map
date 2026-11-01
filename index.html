@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>生源泉マップ</title>
-    <meta name="description" content="日帰りで入れる源泉かけ流しの温泉を、塩素とサウナで分けた地図（関東・福島・熊本）" />
+    <meta name="description" content="日帰りで入れる源泉かけ流しの温泉を、塩素とサウナで分けた地図" />
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>♨️</text></svg>" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -146,7 +146,10 @@
           情報は確認日時点のもので、変わっていることがあります。行く前に施設に確かめてください。<span id="updated"></span>
         </span></details>
       </div>
-      <div class="chips" id="chips"></div>
+      <div class="chips" id="chips">
+        <span id="chipset" style="display: contents"></span>
+        <input class="search" id="search" type="search" placeholder="名前・地名で絞る">
+      </div>
     </div>
     <div class="tabs" id="tabs">
       <button class="on" data-view="map">地図</button>
@@ -167,22 +170,25 @@
         { key: "あり", label: "サウナあり" },
         { key: "なし", label: "サウナなし" },
       ];
-      const AREAS = [
-        { key: "east", label: "関東・福島" },
-        { key: "kumamoto", label: "熊本" },
-      ];
-      const PREFS = ["茨城", "栃木", "群馬", "埼玉", "千葉", "東京", "神奈川", "福島", "熊本"];
+      // 一覧で同じ並びのときは北から順に（都道府県コード順）
+      const PREFS = ["北海道", "青森", "岩手", "宮城", "秋田", "山形", "福島", "茨城", "栃木", "群馬", "埼玉", "千葉", "東京", "神奈川",
+        "新潟", "富山", "石川", "福井", "山梨", "長野", "岐阜", "静岡", "愛知", "三重", "滋賀", "京都", "大阪", "兵庫", "奈良", "和歌山",
+        "鳥取", "島根", "岡山", "広島", "山口", "徳島", "香川", "愛媛", "高知", "福岡", "佐賀", "長崎", "熊本", "大分", "宮崎", "鹿児島", "沖縄"];
       const side = document.getElementById("side");
       const chips = document.getElementById("chips");
+      const chipset = document.getElementById("chipset");
       const sheet = document.getElementById("sheet");
       const tabs = document.getElementById("tabs");
       const shownCl = new Set(CL.map((t) => t.key));
       const shownSa = new Set(SA.map((t) => t.key));
       let records = [];
+      let hits = [];
       let markers = new Map();
       let selected = null;
-      let fitted = false;
-      let area = new URLSearchParams(location.search).get("area") === "kumamoto" ? "kumamoto" : "east";
+      // 昔の ?area=kumamoto のリンクは熊本に寄せて開く
+      const startPref = new URLSearchParams(location.search).get("area") === "kumamoto" ? "熊本" : null;
+      const opened = new Set();
+      let lastKey = "";
       let q = "";
 
       const map = L.map("map").setView([36.37, 140.25], 8);
@@ -200,30 +206,24 @@
       const clOf = (r) => (r.chlorine === "あり" ? "yes" : r.chlorine === "不明" ? "unknown" : "none");
       const clDef = (r) => CL.find((t) => t.key === clOf(r));
       const sauna = (r) => r.hasSauna === "あり";
-      const areaOf = (r) => (r.prefecture === "熊本" ? "kumamoto" : "east");
       const mobile = () => window.matchMedia("(max-width: 760px)").matches;
       const route = (r) => "https://www.google.com/maps/dir/?api=1&destination=" + r.lat + "," + r.lng;
 
+      const visible = (r) => map.getBounds().contains([r.lat, r.lng]);
+
+      // 数は「いま地図に映っている範囲」のもの
       function renderChips() {
-        const cnt = (f) => records.filter((r) => areaOf(r) === area && f(r)).length;
-        chips.innerHTML =
-          AREAS.map((t) => '<button class="chip' + (area === t.key ? " on" : "") + '" data-area="' + t.key + '">' + t.label + " " + records.filter((r) => areaOf(r) === t.key).length + "</button>").join("") +
-          '<span class="lbl">｜</span>' +
+        const inView = records.filter(visible);
+        const cnt = (f) => inView.filter(f).length;
+        chipset.innerHTML =
           CL.map((t) => '<button class="chip' + (shownCl.has(t.key) ? " on" : "") + '" data-cl="' + t.key + '"><i style="background:' + t.color + '"></i>' + t.label + " " + cnt((r) => clOf(r) === t.key) + "</button>").join("") +
           '<span class="lbl">｜</span>' +
-          SA.map((t) => '<button class="chip' + (shownSa.has(t.key) ? " on" : "") + '" data-sa="' + t.key + '"><i class="' + (t.key === "あり" ? "sq" : "") + '" style="' + (t.key === "あり" ? "" : "background:var(--mut)") + '"></i>' + t.label + " " + cnt((r) => r.hasSauna === t.key) + "</button>").join("") +
-          '<input class="search" id="search" type="search" placeholder="名前・地名で絞る" value="' + esc(q) + '">';
+          SA.map((t) => '<button class="chip' + (shownSa.has(t.key) ? " on" : "") + '" data-sa="' + t.key + '"><i class="' + (t.key === "あり" ? "sq" : "") + '" style="' + (t.key === "あり" ? "" : "background:var(--mut)") + '"></i>' + t.label + " " + cnt((r) => r.hasSauna === t.key) + "</button>").join("");
       }
       chips.addEventListener("click", (e) => {
-        const a = e.target.closest("[data-area]");
         const c = e.target.closest("[data-cl]");
         const sbtn = e.target.closest("[data-sa]");
-        if (a) {
-          if (area === a.dataset.area) return;
-          area = a.dataset.area; fitted = false;
-          history.replaceState(null, "", area === "kumamoto" ? "?area=kumamoto" : location.pathname);
-        }
-        else if (c) { const k = c.dataset.cl; shownCl.has(k) ? shownCl.delete(k) : shownCl.add(k); }
+        if (c) { const k = c.dataset.cl; shownCl.has(k) ? shownCl.delete(k) : shownCl.add(k); }
         else if (sbtn) { const k = sbtn.dataset.sa; shownSa.has(k) ? shownSa.delete(k) : shownSa.add(k); }
         else return;
         render();
@@ -232,9 +232,6 @@
         if (e.target.id !== "search") return;
         q = e.target.value;
         render();
-        const el = document.getElementById("search");
-        el.focus();
-        el.setSelectionRange(q.length, q.length);
       });
 
       function matches(r, s) {
@@ -333,12 +330,11 @@
       }
 
       function render() {
-        renderChips();
         const s = q.trim().toLowerCase();
         const order = { none: 0, unknown: 1, yes: 2 };
         const rank = (r) => (sauna(r) ? 0 : 3) + order[clOf(r)];
-        const hits = records
-          .filter((r) => areaOf(r) === area && shownCl.has(clOf(r)) && shownSa.has(r.hasSauna))
+        hits = records
+          .filter((r) => shownCl.has(clOf(r)) && shownSa.has(r.hasSauna))
           .filter((r) => !s || matches(r, s))
           .sort((a, b) => rank(a) - rank(b) || PREFS.indexOf(a.prefecture) - PREFS.indexOf(b.prefecture) || a.name.localeCompare(b.name, "ja"));
 
@@ -359,16 +355,30 @@
           m.on("click", () => select(r.id, false));
           markers.set(r.id, m);
         }
+        lastKey = "";
+        renderList();
+      }
 
-        tabs.querySelector('[data-view="list"]').textContent = "一覧 " + hits.length + " 件";
+      // 一覧は地図に映っている範囲だけ。地図を動かすたびに作り直す
+      function renderList() {
+        renderChips();
+        const inView = hits.filter(visible);
+        const key = hits.length + ":" + inView.map((r) => r.id).join(",");
+        if (key === lastKey) return;
+        lastKey = key;
+        tabs.querySelector('[data-view="list"]').textContent = "一覧 " + inView.length + " 件";
         if (!hits.length) {
-          side.innerHTML = '<div class="empty">' + (s ? "検索に合う施設がありません。" : "表示する区分を選んでください（塩素とサウナで1つ以上ずつ）。") + "</div>";
+          side.innerHTML = '<div class="empty">' + (q.trim() ? "検索に合う施設がありません。" : "表示する区分を選んでください（塩素とサウナで1つ以上ずつ）。") + "</div>";
           return;
         }
-        side.innerHTML = '<div class="count">' + hits.length + " 件（サウナあり→なし、塩素なし→不明→ありの順）</div>" + hits.map((r) => {
+        if (!inView.length) {
+          side.innerHTML = '<div class="empty">この範囲には該当する温泉がありません。地図を縮小するか動かしてください（全体で ' + hits.length + " 件）。</div>";
+          return;
+        }
+        side.innerHTML = '<div class="count">地図の範囲に ' + inView.length + " 件（全体 " + hits.length + " 件。サウナあり→なし、塩素なし→不明→ありの順）</div>" + inView.map((r) => {
           const t = clDef(r);
           return (
-            '<div class="card ' + t.key + (r.id === selected ? " on" : "") + '" data-id="' + esc(r.id) + '">' +
+            '<div class="card ' + t.key + (r.id === selected ? " on" : "") + (opened.has(r.id) ? " open" : "") + '" data-id="' + esc(r.id) + '">' +
               "<h3>" + esc(r.name) +
                 ' <span class="tag ' + t.key + '">塩素' + esc(r.chlorine) + "</span>" +
                 (sauna(r) ? ' <span class="tag sauna">サウナあり</span>' : "") +
@@ -393,17 +403,20 @@
             "</div>"
           );
         }).join("");
-
-        if (!fitted) {
-          map.fitBounds(hits.map((r) => [r.lat, r.lng]), { padding: [30, 30], maxZoom: 10 });
-          fitted = true;
+        if (selected && !mobile()) {
+          const card = side.querySelector('.card[data-id="' + CSS.escape(selected) + '"]');
+          if (card) card.scrollIntoView({ block: "nearest" });
         }
       }
 
       side.addEventListener("click", (e) => {
         const card = e.target.closest(".card");
         if (!card) return;
-        if (e.target.closest("[data-detail]")) { card.classList.toggle("open"); return; }
+        if (e.target.closest("[data-detail]")) {
+          const id = card.dataset.id;
+          card.classList.toggle("open") ? opened.add(id) : opened.delete(id);
+          return;
+        }
         if (e.target.closest("a")) return;
         select(card.dataset.id, true);
       });
@@ -416,6 +429,7 @@
         sheet.scrollTop = 0;
       });
       map.on("click", closeSheet);
+      map.on("moveend", () => { if (records.length) renderList(); });
       tabs.addEventListener("click", (e) => {
         const b = e.target.closest("[data-view]");
         if (b) setView(b.dataset.view);
@@ -426,6 +440,8 @@
         .then((data) => {
           records = data.items.filter((r) => typeof r.lat === "number" && typeof r.lng === "number");
           document.getElementById("updated").textContent = "（データ更新 " + data.updated + "）";
+          const start = records.filter((r) => !startPref || r.prefecture === startPref);
+          map.fitBounds(start.map((r) => [r.lat, r.lng]), { padding: [30, 30], maxZoom: 10 });
           render();
         })
         .catch((err) => { side.innerHTML = '<div class="err">' + esc(err.message) + "</div>"; });
