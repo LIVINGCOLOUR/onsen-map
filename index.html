@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>生源泉マップ</title>
-    <meta name="description" content="日帰りで入れる源泉かけ流しの温泉を、塩素とサウナで分けた地図" />
+    <title>かけ流し日帰りマップ</title>
+    <meta name="description" content="日帰りで入れる源泉かけ流しの温泉を、塩素の有無まで調べた地図。循環ろ過の浴槽がある施設は入れていません" />
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>♨️</text></svg>" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -35,6 +35,12 @@
         padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel);
       }
       .brand { font-weight: 800; font-size: 17px; }
+      .brand small { display: block; font-size: 11px; font-weight: 600; color: var(--accent); margin-top: 1px; }
+      .yu { margin-top: 4px; display: grid; grid-template-columns: auto 1fr; gap: 1px 8px; }
+      .yu dt { color: var(--mut); }
+      .yu dd { margin: 0; color: var(--txt); }
+      .yu dd.na { color: var(--unknown); }
+      .src { font-size: 11px; color: var(--mut); margin-top: 4px; }
       .rule { font-size: 11px; color: var(--mut); line-height: 1.5; }
       .rule details { display: inline; }
       .rule summary { display: inline; cursor: pointer; color: var(--accent); }
@@ -138,11 +144,13 @@
   </head>
   <body>
     <div class="topbar">
-      <div class="brand">♨️ 生源泉マップ</div>
+      <div class="brand">♨️ かけ流し日帰りマップ<small>源泉かけ流しの日帰り温泉を、塩素の有無まで調べた地図</small></div>
       <div class="rule">
-        日帰りで入れる源泉かけ流し（加水・加温は可）を、塩素とサウナで分けた地図。色＝塩素、四角＝サウナあり。
+        色＝塩素、四角＝サウナあり。加水・加温は可。
         <details><summary>基準</summary><span class="more">
           循環ろ過の浴槽が1つでもある施設は入れていません。塩素は「なし（公式）」が公式サイト・浴室の掲示・純温泉協会の認定、「なし（口コミ）」が口コミやブログの記述で、「不明」は根拠が見つからないか割れているものです。
+          どの施設にも、何で確かめたかの根拠リンクと確認日を付けています。
+          この分類は独自の基準によるもので、公的な認定ではありません。効能や安全を保証するものでもありません。
           情報は確認日時点のもので、変わっていることがあります。行く前に施設に確かめてください。<span id="updated"></span>
         </span></details>
       </div>
@@ -208,6 +216,14 @@
       const sauna = (r) => r.hasSauna === "あり";
       const mobile = () => window.matchMedia("(max-width: 760px)").matches;
       const route = (r) => "https://www.google.com/maps/dir/?api=1&destination=" + r.lat + "," + r.lng;
+      const yuHtml = (r) => {
+        const row = (k, v) => "<dt>" + k + "</dt>" + (v ? "<dd>" + esc(v) + "</dd>" : '<dd class="na">未確認</dd>');
+        return '<dl class="yu">' + row("循環", /確認はしていない|未確認/.test(r.kakenagashi ?? "") ? "" : "なし（全浴槽かけ流し）") + row("加水・加温", r.kasuiKaon) + row("塩素", r.chlorine === "不明" ? "" : r.chlorine) + "</dl>";
+      };
+      const srcHtml = (r) => {
+        const n = String(r.evidence ?? "").split("\n").filter((l) => l.trim()).length;
+        return n ? '<div class="src">根拠 ' + n + " 件" + (r.checkedAt ? "・" + esc(r.checkedAt) + " 確認" : "") + "</div>" : "";
+      };
 
       const visible = (r) => map.getBounds().contains([r.lat, r.lng]);
 
@@ -274,11 +290,11 @@
             "かけ流し: " + esc(r.kakenagashi) + "<br>" +
             (r.sauna ? "サウナ: " + esc(r.sauna) + "<br>" : "") +
             (r.price ? "料金: " + esc(r.price.slice(0, 60)) : "") +
+            yuHtml(r) + srcHtml(r) +
           "</div>" +
           actionsHtml(r, "詳細を見る") +
           '<div class="more">' +
             '<div class="meta" style="margin-top:8px">' +
-              (r.kasuiKaon ? "加水・加温: " + esc(r.kasuiKaon) + "<br>" : "") +
               (r.mizuburo ? "水風呂: " + esc(r.mizuburo) + "<br>" : "") +
               (r.hours ? "営業: " + esc(r.hours) + "<br>" : "") +
               (r.price && r.price.length > 60 ? "料金: " + esc(r.price) : "") +
@@ -386,11 +402,11 @@
               '<div class="meta">' +
                 "<b>" + esc(r.prefecture) + "</b> · " + esc(r.address) + "<br>" +
                 "かけ流し: " + esc(r.kakenagashi) + "<br>" +
-                (r.kasuiKaon ? "加水・加温: " + esc(r.kasuiKaon) + "<br>" : "") +
                 (r.sauna ? "サウナ: " + esc(r.sauna) + "<br>" : "") +
                 (r.mizuburo ? "水風呂: " + esc(r.mizuburo) + "<br>" : "") +
                 (r.hours ? "営業: " + esc(r.hours.slice(0, 60)) + "<br>" : "") +
                 (r.price ? "料金: " + esc(r.price.slice(0, 80)) : "") +
+                yuHtml(r) + srcHtml(r) +
               "</div>" +
               (r.caveats ? '<div class="caveat">' + esc(r.caveats).replace(/\n/g, "<br>") + "</div>" : "") +
               '<div class="detail">' +
