@@ -17915,7 +17915,8 @@
 "url": "https://yujuku-onsen.com/otakiya-ryokan/",
 "evidence": "- 公式: 「※当館の浴槽は全て源泉かけ流しです。大滝の湯・薬師の湯は循環式のように見えますがオーバーフロー方式のかけ流しになっています」「日帰り入浴のお客様は 午後１時から午後3時 まで 大滝の湯1000円 、 薬師の湯700円」（[公式](https://yujuku-onsen.com/otakiya-ryokan/)、2026-11-05 確認）\n- onsen-life: 「浴槽はすべて源泉かけ流しです」（[onsen-life](https://onsen-life.com/facility/otakiya-ryokan)、2026-11-05 確認）\n- 塩素・消毒を浴槽の湯に入れているかの記載は見つからなかった（2026-11-05）",
 "caveats": "公式に「コロナ感染防止対策のため日帰り入浴は予約制貸切を優先」とあり、予約状況で入れない日がある。行く前に電話で確認。ニフティの料金（大人800円）は公式と違う。加水・加温の記載はない。lat/lng はニフティの地図の座標（国土地理院は大字までしか当たらない）。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen001260",
@@ -17933,7 +17934,8 @@
 "url": "https://www.kusatsu-yumotokan.co.jp/info/index.html",
 "evidence": "- 公式トップ: 「源泉掛け流しの温泉をたっぷりと堪能してください。 日帰り入浴、貸切風呂もご利用できます」「湯畑源泉かけながし」（[公式](https://www.kusatsu-yumotokan.co.jp/)、2026-11-05 確認）\n- 公式「ご案内」: 「日帰り入浴 ご利用頂けます（12時から～） 大人一名様 800円（税込） タオル別 貸切風呂 大人一名様 1時間 1,200円」（[公式](https://www.kusatsu-yumotokan.co.jp/info/index.html)、2026-11-05 確認）\n- 源泉バンク: 循環なし・加水なし・加温なし（手がかり。[源泉バンク](https://gensenbank.com)）",
 "caveats": "湯畑の目の前の旅館。onsen-life は「10:00から19:00、入浴料レンタルタオル付700円」と公式と違う（併設の養神堂の時間と混同の可能性）。終了時刻は公式に書いていないので電話で確認。塩素は不明。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "ikaho-moriaki",
@@ -17950,8 +17952,9 @@
 "tel": "0279-72-2601",
 "url": "https://www.moriaki-ikaho.co.jp/hotspring/",
 "evidence": "- 公式「温泉」: 「露天風呂、大浴場はもちろんのこと、 貸切風呂、温泉付き客室まで 当館の温泉は すべて源泉かけ流しでございます」（[公式](https://www.moriaki-ikaho.co.jp/hotspring/)、2026-11-05 確認）\n- 公式FAQ: 「温泉は源泉かけ流しですか？ はい、「源泉かけ流し（加温あり）」」「加温はしておりますが、加水はしておりません」「日帰り入浴はできますか？ はい、有料で承っております。【ご利用時間】15:00～18:00 【料金】税込1,100円（タオル貸出なし）、税込1,500円（タオル貸出あり）」（[公式FAQ](https://www.moriaki-ikaho.co.jp/faq/)、2026-11-05 確認）\n- ニフティ温泉の源泉かけ流し一覧には載っていない（源泉バンク・onsen-life から拾った）",
-"caveats": "公式FAQ「館内の混雑状況によりご利用いただけない場合がございます」。黄金の湯は約40～42℃で湧き、届くまでに38～39℃に下がるので加温している（公式）。塩素は不明。",
-"checkedAt": "2026-11-05"
+"caveats": "公式FAQ「館内の混雑状況によりご利用いただけない場合がございます」。黄金の湯は約40～42℃で湧き、届くまでに38～39℃に下がるので加温している（公式）。塩素は不明。サウナは公式に記載がないので「なし」とした",
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen012339",
@@ -17969,7 +17972,8 @@
 "url": "https://kamenoi-hotels.com/kusatsuyubatake/onsen/",
 "evidence": "- 公式「温泉」: 「草津温泉の主な6源泉のうち、3つの源泉を楽しめます。（大浴場、岩風呂は100％源泉掛け流し）」「日帰り温泉のご案内 営業時間 15:00～20:30（20:00最終受付） 料金 中学生以上：800円 3歳～小学生：400円」（[公式](https://kamenoi-hotels.com/kusatsuyubatake/onsen/)、2026-11-05 確認）\n- 源泉バンク: 「大浴場・岩風呂は100%源泉かけ流し…加水・加温は清掃時や温度が下がったときだけ」（手がかり）",
 "caveats": "ヒノキ風呂については公式の書き方が「大浴場、岩風呂は100％」と「露天…ヒノキ風呂、岩風呂（100％源泉掛け流し）」で揺れる。予約状況・メンテナンスで日帰りを断る日あり（公式）。姉妹館の大東舘・亀の井ホテル草津リゾートは既収録。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen015235",
@@ -17986,7 +17990,8 @@
 "url": "https://kusatsu-nakamuraya.com/",
 "evidence": "- 公式: 「当館のお風呂は、湯量豊富な湯畑源泉かけ流し。24時間入浴可能な、5つの貸切風呂をご用意しております」「日帰り入浴のご案内 営業時間 11:00～15:00 入浴料 1組様2,500円（45分）」（[公式](https://kusatsu-nakamuraya.com/)、2026-11-05 確認）",
 "caveats": "日帰りは貸切風呂（1組45分）。湯畑まで徒歩30秒。塩素は不明。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen006115",
@@ -18022,7 +18027,8 @@
 "url": "https://taiyoukan.com/hotspring/",
 "evidence": "- 公式「温泉」: 「｜みなかみ町 湯宿温泉 源泉掛け流しの宿 太陽館」「内湯 ｜源泉掛け流しの名湯 太陽の湯」「日帰り入浴 …【2階】太陽の湯 11：00～15:00（最終入館14：00） …大人700円（中学生以上） ・子供500円（4歳以上）」（[公式](https://taiyoukan.com/hotspring/)、2026-11-05 確認）\n- onsen-life は「宿泊者専用で、日帰り入浴はできません」とするが、公式に日帰りの案内があるので公式を採った",
 "caveats": "貸切風呂の湯使いは「源泉掛け流しの宿」という全体の表記によるもので、浴槽ごとの掲示は確認していない。塩素は不明。lat/lng はニフティの地図の座標。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen014150",
@@ -18040,7 +18046,8 @@
 "url": "https://oyado-hiranoya-kusatsu.com/",
 "evidence": "- 公式: 「草津最古の名湯「白旗源泉」を、草津で唯一、単独パイプ・自然流下にて引湯。加水・加温をせず、自然の恵みそのままの湯を静かに味わえる源泉かけ流しの温泉です」「日帰り入浴 ご利用時間 10:30～14:30（最終入館） 料金 大人 1,000円 / 子供（小学生）500円」（[公式](https://oyado-hiranoya-kusatsu.com/)、2026-11-05 確認）\n- ニフティ温泉には日帰り表示がなく、源泉かけ流し分類にも入っていない",
 "caveats": "湯畑の目の前。混み合う時期は日帰りを断ることがある（公式）。塩素は不明。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen015649",
@@ -18056,7 +18063,8 @@
 "url": "https://sangetsukomeya800.jimdofree.com/",
 "evidence": "- 公式: 「源泉かけ流しの宿 山月楼・米屋旅館」「日帰り入浴休憩につきましては 大人(中学生以上) 600円から 小人(小児〜中学生まで) 300円から 貸切風呂1時間は 大人800円 小人600円」「当館自慢の源泉かけ流しの温泉です。…「一ノ倉乃湯」」（[公式](https://sangetsukomeya800.jimdofree.com/)、2026-11-05 確認）",
 "caveats": "日帰りの受付時間は公式に書いていない。ニフティに日帰り表示なし。行く前に電話で確認。塩素・加水加温は不明。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen001225",
@@ -18095,7 +18103,8 @@
 "url": "https://oze-katashina.info/hanasakunoyu/",
 "evidence": "- ニフティ温泉の源泉かけ流し分類に入っている。露天は「香の湯」「風の湯」（毎日男女日替）、岩盤浴あり（[ニフティ](https://onsen.nifty.com/oze-onsen/onsen001244/)、2026-11-05 確認）\n- 公式・onsen-life にかけ流しの記載は見つからなかった（2026-11-05）",
 "caveats": "かけ流しの根拠がニフティの分類だけ。料金は onsen-life（平日700円・土日祝800円）とニフティで違う。lat/lng はニフティの座標（OpenStreetMap とも一致）。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "あり"
 },
 {
 "id": "onsen001158",
@@ -18112,7 +18121,8 @@
 "url": "https://yutopia-akagi.com/",
 "evidence": "- onsen-life: 「群馬県渋川市赤城町にある、源泉かけ流しの日帰り温泉施設です。閉館した「敷島温泉 赤城の湯 ふれあいの家」の建物を活用し、花湯グループが運営」（[onsen-life](https://onsen-life.com/facility/hanayu-yutopia-akagi)、2026-11-05 確認）\n- ニフティ温泉の源泉かけ流し分類に入っている（[ニフティ](https://onsen.nifty.com/ikaho-onsen/onsen001158/)、2026-11-05 確認）",
 "caveats": "同じ花湯グループのスカイテルメリゾートは「露天風呂は生源泉かけ流し」と露天だけを挙げており、ここも内湯まで全部かけ流しかは要確認。公式サイトの湯使いは未確認。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "あり"
 },
 {
 "id": "onsen008153",
@@ -18130,7 +18140,8 @@
 "url": "https://www.town.nakanojo.gunma.jp/soshiki/12/5036.html",
 "evidence": "- お宿 花まめ公式: 「応徳温泉 内湯 応徳温泉 源泉かけ流し」（[花まめ](http://www.92hanamame.com/page2)、2026-11-05 確認）\n- ニフティ: 応徳温泉 くつろぎの湯 12:00～20:00、水曜休み、町外一般500円（[ニフティ](https://onsen.nifty.com/agatsuma-onsen/onsen008153/)、2026-11-05 確認）",
 "caveats": "ニフティには「くつろぎの湯」（onsen008153）と「お宿 花まめ」（onsen008189）が同じ住所で別々に載る。町の施設ページは開いていない（URLはニフティの公式欄）。電話は くつろぎの湯 0279-95-3241、花まめ 0279-95-3650。lat/lng はニフティの座標。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen016775",
@@ -18147,7 +18158,8 @@
 "url": "http://www.oze-iwakura.co.jp/hotel/renewal/",
 "evidence": "- 公式: 「Hotspring 源泉かけ流しの天然温泉で 癒しのひととき MONE自慢の源泉かけ流し天然温泉。アルカリ性単純硫黄泉」（[公式](http://www.oze-iwakura.co.jp/hotel/renewal/)、2026-11-05 確認）\n- 日帰りの時間・料金はニフティ（[ニフティ](https://onsen.nifty.com/oze-onsen/onsen016775/)、2026-11-05 確認）",
 "caveats": "ラウンジ付きの日帰り利用で料金が高め。料金・時間はニフティの記載で、公式の料金ページは確認していない。塩素は不明。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "あり"
 },
 {
 "id": "onsen001160",
@@ -18163,7 +18175,8 @@
 "url": "https://www.tutujinoyu.co.jp/",
 "evidence": "- 公式: 「美肌の湯 源泉かけ流しの炭酸水素塩泉は 肌を滑らかにする効果があり 美肌の湯とも呼ばれています」（[公式](https://www.tutujinoyu.co.jp/)、2026-11-05 確認）\n- onsen-life の日帰り温泉一覧に載る（[onsen-life](https://onsen-life.com/facility/natural-hot-spring-in-the-highlands-tsutsuji-no-yu)）",
 "caveats": "営業時間は onsen-life「10:00～21:00」とあるが公式で確認していない。ニフティには草津の共同湯「躑躅の湯」の説明が混ざった別項目（onsen001201）もある。塩素は不明。lat/lng はニフティの座標（OpenStreetMap とも一致）。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "あり"
 },
 {
 "id": "onsen001189",
@@ -18258,7 +18271,8 @@
 "url": "http://www.kawarayu.jp/onsen.html",
 "evidence": "- 川原湯温泉の公式ページ: 料金・営業時間・成分表（[公式](http://www.kawarayu.jp/onsen.html)、2014年頃の移転時のページ、2026-11-05 確認）\n- ニフティ口コミ: 「加水懸け流し」（2016-07-29）、「源泉かけ流し」（2023-03-30）、「熱いため加水だけされているとのこと」（2026-10-02）（[ニフティ口コミ](https://onsen.nifty.com/agatsuma-onsen/onsen001159/kuchikomi/)）",
 "caveats": "2014年に八ッ場ダムで移転した新王湯。内湯と露天。塩素は不明。lat/lng は国土地理院の住所検索（491番地。ニフティの座標は川原湯の代表点だった）。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen001217",
@@ -18276,7 +18290,8 @@
 "url": "https://yamba-kawarayu-noa.com/tenant2.html",
 "evidence": "- 公式: 営業時間・料金、「正面口に垂れ幕/玄関前野外に看板ある時は入浴OK」（[公式](https://yamba-kawarayu-noa.com/tenant2.html)、2026-11-05 確認）\n- ニフティ口コミ（2023-10-09）: 「源泉かけ流し…加水・加温せず…循環・消毒なし」（[ニフティ口コミ](https://onsen.nifty.com/agatsuma-onsen/onsen001217/kuchikomi/)）",
 "caveats": "入れない日がある（垂れ幕・看板が出ている日だけ）。公式は問い合わせをメールで受ける（電話はニフティの記載）。定休日の記載なし。口コミの最新は2023年。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 },
 {
 "id": "onsen001266",
@@ -18372,7 +18387,8 @@
 "url": "https://www.town.higashiagatsuma.gunma.jp/www/kankou/contents/1204120954554/index.html",
 "evidence": "- 東吾妻町: 営業時間・料金、「営業日：土・日・祝のみ営業」（[東吾妻町](https://www.town.higashiagatsuma.gunma.jp/www/kankou/contents/1204120954554/index.html)、掲載日不明、2026-11-05 確認）\n- ニフティ口コミ: 「100％掛け流しとの貼り紙」（2011-06-20）、「全浴槽掛け流し…加温」（2011-11-11）、「加水なし、加温あり、掛け流し…消毒臭はなく」（2010-03-06）（[ニフティ口コミ](https://onsen.nifty.com/agatsuma-onsen/onsen001168/kuchikomi/)）\n- onsen-life: 「源泉100パーセントのかけ流し」（[onsen-life](https://onsen-life.com/facility/agatsuma-onsen-negoyajo-onsen)）",
 "caveats": "土日祝だけの営業。消毒は「消毒臭はなく」という口コミのみで不明とした。lat/lng はニフティの座標。",
-"checkedAt": "2026-11-05"
+"checkedAt": "2026-11-05",
+"hasSauna": "なし"
 }
 ]
 }
