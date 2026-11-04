@@ -1,0 +1,322 @@
+[
+ {
+  "id": "onsen008747",
+  "name": "塩原温泉郷 旅館 上会津屋",
+  "verdict": "なし（公式）",
+  "reason": "純温泉協会の会員（2021年）で、協会は塩素消毒しないことを入会条件にしている。循環・塩素ありの情報は2014年以前で10年超前。",
+  "sources": [
+   "https://realonsen.com/",
+   "https://kamiaizuya.com/hot-spring",
+   "https://www.xn--octt84bmki.com/会員宿以外の温泉宿/tochigi-shiobara-kamiaizuya/"
+  ]
+ },
+ {
+  "id": "onsen012389",
+  "name": "満寿家",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ・公式（e-masuya.com）・ブログ（2025年11月の記事）を見たが、塩素・消毒の記述なし",
+  "sources": [
+   "https://onsen.nifty.com/shiobara-onsen/onsen012389/kuchikomi/",
+   "http://www.e-masuya.com/",
+   "https://ameblo.jp/kumaru0708/entry-12947593779.html"
+  ]
+ },
+ {
+  "id": "onsen006472",
+  "name": "ピラミッド元氣温泉",
+  "verdict": "なし（口コミ）",
+  "reason": "2020年訪問のブログに「消毒臭も一切しない」。根拠はこの1件だけで、掲示は確認されていない。",
+  "sources": [
+   "https://on-1000.com/spa/pyramid-onsen-02/"
+  ]
+ },
+ {
+  "id": "onsen013233",
+  "name": "やすらぎと情感の宿 水清館",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ・検索で塩素・消毒の記述なし",
+  "sources": [
+   "https://onsen.nifty.com/nasu-onsen/onsen013233/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen006787",
+  "name": "板室温泉 加登屋旅館",
+  "verdict": "不明のまま",
+  "reason": "塩素の根拠なし。日帰りを受け付けていた別館が2025年10月に休業したという情報があり注意書きを追加。",
+  "sources": [
+   "http://hotyutochigi.stars.ne.jp/historicalspots/nasuhensen/nasuhensen.html"
+  ]
+ },
+ {
+  "id": "onsen005543",
+  "name": "塩原元湯温泉 大出館",
+  "verdict": "不明のまま",
+  "reason": "公式（循環・沸かしなしの100%源泉掛け流し）、ニフティ口コミ3ページ、検索でも塩素・消毒の記述なし。源泉バンクの分類は既に evidence にある",
+  "sources": [
+   "https://www.ooidekan.com/about/",
+   "https://onsen.nifty.com/shiobara-onsen/onsen005543/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen005678",
+  "name": "塩原元湯温泉 ゑびすや",
+  "verdict": "なし（口コミ）",
+  "reason": "2つのブログ（2020年・2021年訪問）が塩素消毒なしと書いている。反対の口コミは見つからなかった。",
+  "sources": [
+   "https://www.xn--octt84bmki.com/日帰り温泉/tochigi-shiobara-ebisuya3-baty/",
+   "https://onsenzanmaiblog.com/shiobaramotoyuspa-ebisuya/"
+  ]
+ },
+ {
+  "id": "onsen001105",
+  "name": "秘湯の宿元泉館",
+  "verdict": "なし（口コミ）",
+  "reason": "2025年宿泊のブログに「加水加温循環消毒なし」。反対の情報は見つからなかった。",
+  "sources": [
+   "https://onsen-techo.jp/%E5%A1%A9%E5%8E%9F%E5%85%83%E6%B9%AF%E6%B8%A9%E6%B3%89-%E7%A7%98%E6%B9%AF%E3%81%AE%E5%AE%BF-%E5%85%83%E6%B3%89%E9%A4%A8/"
+  ]
+ },
+ {
+  "id": "onsen001025",
+  "name": "奥塩原新湯温泉 むじなの湯（共同浴場）",
+  "verdict": "不明のまま",
+  "reason": "塩素の根拠なし。休止中の疑いがあり注意書きを追加。",
+  "sources": [
+   "http://hotyutochigi.stars.ne.jp/historicalspots/arayu/arayu.html",
+   "https://www.xn--octt84bmki.com/日帰り温泉/tochigi-shiobara-mujinanoyu/"
+  ]
+ },
+ {
+  "id": "onsen006940",
+  "name": "那珂川温泉 ホテルアライ 皆幸乃湯",
+  "verdict": "不明のまま",
+  "reason": "公式の「洗浄消毒」が清掃時か湯への投入かが不明で、口コミも割れる。不明のまま、注意書きを具体化。",
+  "sources": [
+   "https://www.hotel-arai.com/kaikounoyu/info.html",
+   "http://hotyutochigi.stars.ne.jp/hotspring/higaeri/nasushiobara.html",
+   "https://onsen.nifty.com/nasu-onsen/onsen006940/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen001059",
+  "name": "みかえりの郷 彩花の湯",
+  "verdict": "不明のまま",
+  "reason": "消毒なしの口コミは2007〜2010年のものだけで古い。不明のまま。",
+  "sources": [
+   "https://onsen.nifty.com/shiobara-onsen/onsen001059/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen016885",
+  "name": "東山道那須温泉",
+  "verdict": "なし（口コミ）",
+  "reason": "2つのブログが掲示を書き写して塩素なしとしている（2020年開業以降の訪問）。",
+  "sources": [
+   "http://hotyutochigi.stars.ne.jp/hotspring/higaeri/nasumachi.html",
+   "https://onsenshouyou.net/archives/61648"
+  ]
+ },
+ {
+  "id": "onsen014991",
+  "name": "那須湯本温泉 若喜旅館",
+  "verdict": "不明のまま",
+  "reason": "消毒なしの記載はあるが取材が2007年で、いつの情報か確定できない。不明のまま。",
+  "sources": [
+   "https://www.kashikiri-onsen.com/kantou/tochigi/nasukougen/wakaki_s.html"
+  ]
+ },
+ {
+  "id": "onsen010355",
+  "name": "中藤屋旅館",
+  "verdict": "なし（口コミ）",
+  "reason": "2015年訪問のブログに塩素消毒なし。11年前だが改装の情報はなく、反対の情報もない。",
+  "sources": [
+   "https://www.xn--octt84bmki.com/会員宿以外の温泉宿/tochigi-nasu-nakafujiya/"
+  ]
+ },
+ {
+  "id": "onsen010799",
+  "name": "ホテル・フロラシオン那須",
+  "verdict": "あり",
+  "reason": "宿の温泉情報に「塩素消毒」、2022年のブログにも塩素臭。2件がそろう。",
+  "sources": [
+   "https://www.rakudaclub.com/hotels/80475/",
+   "https://www.dairotenburo.com/entry/2022/02/03/222119"
+  ]
+ },
+ {
+  "id": "onsen001093",
+  "name": "北温泉旅館",
+  "verdict": "なし（口コミ）",
+  "reason": "2021年前後の複数ブログが塩素消毒なし／塩素臭なしと書いている。反対の情報は見つからなかった。",
+  "sources": [
+   "https://www.xn--octt84bmki.com/日帰り温泉/tochigi-nasu-kitaonsen/",
+   "http://1onsen.com/kitaonsen.html",
+   "http://ablinker.com/kitaonsen.html"
+  ]
+ },
+ {
+  "id": "onsen001030",
+  "name": "鹿の湯",
+  "verdict": "なし（口コミ）",
+  "reason": "2件のブログ（2019年訪問、2026年記事）が塩素消毒なしと書いている。",
+  "sources": [
+   "https://www.xn--octt84bmki.com/日帰り温泉/nasu-shikanoyu/",
+   "https://note.com/oyuzaemon_1128/n/n347a97c79fa5"
+  ]
+ },
+ {
+  "id": "onsen013903",
+  "name": "那須温泉 旅館石川荘",
+  "verdict": "なし（口コミ）",
+  "reason": "2026年10月の記事で、女将に聞いたうえで消毒なし。",
+  "sources": [
+   "https://onsenzanmaiblog.com/nasu-ishikawaso/"
+  ]
+ },
+ {
+  "id": "onsen017149",
+  "name": "お宿ひがしやま 別邸 蜉蝣の月",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ・検索で塩素・消毒の記述なし",
+  "sources": [
+   "https://onsen.nifty.com/nasu-onsen/onsen017149/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen005470",
+  "name": "那須温泉 山楽",
+  "verdict": "不明のまま",
+  "reason": "宿泊予約サイトに「加温・循環・ろ過一切なし」とあるが消毒の記載なし。ニフティ口コミにも記述なし",
+  "sources": [
+   "https://yado.knt.co.jp/st/S090009/",
+   "https://onsen.nifty.com/nasu-onsen/onsen005470/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen018674",
+  "name": "那須高原 硫黄泉の宿 美山",
+  "verdict": "なし（口コミ）",
+  "reason": "2025年の記事に「塩素消毒はありません」。",
+  "sources": [
+   "https://ameblo.jp/take-boo-s/entry-12949628419.html"
+  ]
+ },
+ {
+  "id": "onsen010450",
+  "name": "大丸温泉旅館",
+  "verdict": "なし（口コミ）",
+  "reason": "2021年訪問のブログと、館内掲示の書き写しの2件で塩素なし。",
+  "sources": [
+   "https://www.xn--octt84bmki.com/nihon-hitowo-mamorukai/nasu-omaru-onsen3-bath/",
+   "http://hotyutochigi.stars.ne.jp/historicalspots/nasuhensen/nasuhensen.html"
+  ]
+ },
+ {
+  "id": "onsen008264",
+  "name": "旅館ニューおおたか",
+  "verdict": "なし（口コミ）",
+  "reason": "2022年の記事で、女将に聞いたうえで「消毒なし」。",
+  "sources": [
+   "https://onsenzanmaiblog.com/newootaka-blog/"
+  ]
+ },
+ {
+  "id": "onsen006265",
+  "name": "旅館 雲海閣",
+  "verdict": "なし（口コミ）",
+  "reason": "2017年訪問のブログに塩素消毒なし。反対の情報なし。",
+  "sources": [
+   "https://www.xn--octt84bmki.com/会員宿以外の温泉宿/tochigi-nasu-unkaikaku/"
+  ]
+ },
+ {
+  "id": "onsen016858",
+  "name": "那須温泉 あさか荘",
+  "verdict": "不明のまま",
+  "reason": "塩素なしの記載は他の宿の分析書の書き写しで、この宿の根拠にならない。不明のまま。",
+  "sources": [
+   "https://www.xn--octt84bmki.com/日帰り温泉/nasuyumoto-asakasou/"
+  ]
+ },
+ {
+  "id": "onsen011795",
+  "name": "小鹿の湯",
+  "verdict": "なし（口コミ）",
+  "reason": "2件のブログ（2019年訪問・2022年記事）が消毒なし。",
+  "sources": [
+   "https://onsenzanmaiblog.com/kojikanoyu/",
+   "https://www.xn--octt84bmki.com/日帰り温泉/tochigi-nasu-kojikanoyu/"
+  ]
+ },
+ {
+  "id": "onsen001054",
+  "name": "芦野温泉",
+  "verdict": "不明のまま",
+  "reason": "塩素臭なしの口コミはあるが、浴槽に白い粉を撒く目撃談があり正体不明。不明のまま。",
+  "sources": [
+   "https://www.asinoonsen.co.jp/",
+   "https://ameblo.jp/kumaru0708/entry-12773739368.html"
+  ]
+ },
+ {
+  "id": "onsen014341",
+  "name": "那須温泉 コテージ アルカディア",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ・検索で塩素・消毒の記述なし",
+  "sources": [
+   "https://onsen.nifty.com/nasu-onsen/onsen014341/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen016288",
+  "name": "金ちゃん温泉",
+  "verdict": "不明のまま",
+  "reason": "休館中（公式）。塩素なしの根拠は2015年の1件で古い。不明のまま、休館を報告。",
+  "sources": [
+   "http://kinchan-onsen.com/",
+   "https://www.xn--octt84bmki.com/日帰り温泉/tochigi-nasu-kinchan-onsen/"
+  ]
+ },
+ {
+  "id": "onsen000810",
+  "name": "いわき湯本温泉 さはこの湯",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ2ページ・公式・市の温泉事業資料・個人サイト（「循環式ではなく放流式であるとの掲示」）を見たが消毒の記述なし",
+  "sources": [
+   "https://onsen.nifty.com/iwaki-onsen/onsen000810/kuchikomi/",
+   "https://www.kyowa-groupnet.jp/sahakonoyu/",
+   "https://www.city.iwaki.lg.jp/www/contents/1710813402717/files/keieisenryakugaiyouban.pdf",
+   "https://www.asahi-net.or.jp/~UE3T-CB/spa/sahakonoyu/sahakanoyu.htm"
+  ]
+ },
+ {
+  "id": "onsen009623",
+  "name": "いわき 湯本 izumiya",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ・検索で塩素・消毒の記述なし",
+  "sources": [
+   "https://onsen.nifty.com/iwaki-onsen/onsen009623/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen009635",
+  "name": "いわき湯本温泉 旬味の宿 うお昭",
+  "verdict": "不明のまま",
+  "reason": "公式に「無循環天然温泉」「循環無し、湯船掛け流し」とあるが消毒の記載なし。ニフティ口コミにも記述なし",
+  "sources": [
+   "http://www.uosho.com/onsen.htm",
+   "https://onsen.nifty.com/iwaki-onsen/onsen009635/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen006312",
+  "name": "ホテルパームスプリング",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ・検索で塩素・消毒の記述なし",
+  "sources": [
+   "https://onsen.nifty.com/iwaki-onsen/onsen006312/kuchikomi/"
+  ]
+ }
+]

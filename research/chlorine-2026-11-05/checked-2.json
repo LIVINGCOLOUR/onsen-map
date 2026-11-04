@@ -1,0 +1,559 @@
+[
+ {
+  "id": "onsen007391",
+  "name": "恵温泉旅館",
+  "verdict": "不明のまま",
+  "reason": "ニフティ5件・公式13ページ・ゆる～とに記述なし。2019年の4travel旅行記にも消毒の記載なし",
+  "sources": [
+   "https://onsen.nifty.com/yamaga-kumamoto-onsen/onsen007391/kuchikomi/",
+   "https://megumi-onsen.jp/",
+   "https://yuru-to.net/detail.php?oid=11548"
+  ]
+ },
+ {
+  "id": "onsen008220",
+  "name": "幸徳温泉",
+  "verdict": "不明のまま",
+  "reason": "ニフティ7件・ゆる～とに記述なし。4travel クチコミ（2018）・旅行記にも消毒の記載なし（検索要約が「消毒なし」と出したが原文は恵荘の記述だった）",
+  "sources": [
+   "https://onsen.nifty.com/yamaga-kumamoto-onsen/onsen008220/kuchikomi/",
+   "https://yamaga-tanbou.jp/spot/1487/",
+   "https://yuru-to.net/detail.php?oid=11587",
+   "https://4travel.jp/dm_shisetsu/10603321",
+   "https://4travel.jp/travelogue/11707160"
+  ]
+ },
+ {
+  "id": "yamaga-yuusen",
+  "name": "家族湯 湧泉",
+  "verdict": "不明のまま",
+  "reason": "公式9ページに記述なし。ニフティ id なし",
+  "sources": [
+   "https://yuusen-yamaga.com/"
+  ]
+ },
+ {
+  "id": "onsen017095",
+  "name": "湯の児温泉 家族湯 中村温泉",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ（2023）は平成30年の使用状況表示を見ているが消毒には触れていない",
+  "sources": [
+   "https://onsen.nifty.com/yunoji-onsen/onsen017095/kuchikomi/",
+   "https://www.go-minamata.jp/infodtl.html?ds=20261101215353185148187310259",
+   "https://yuru-to.net/detail.php?oid=21131"
+  ]
+ },
+ {
+  "id": "onsen011195",
+  "name": "白梅湯裸楽",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ0件、公式10ページ・ゆる～とに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/yunoji-onsen/onsen011195/kuchikomi/",
+   "http://www.kaigocsc.co.jp/shiraume/yurara",
+   "https://yuru-to.net/detail.php?oid=11813"
+  ]
+ },
+ {
+  "id": "onsen013127",
+  "name": "湯の児温泉 温泉いわさき",
+  "verdict": "不明のまま",
+  "reason": "公式8ページ・ゆる～とに記述なし",
+  "sources": [
+   "http://onsen-iwasaki.sakura.ne.jp/",
+   "https://yuru-to.net/detail.php?oid=20092"
+  ]
+ },
+ {
+  "id": "onsen006952",
+  "name": "湯の児温泉 齊藤旅館",
+  "verdict": "不明のまま",
+  "reason": "ニフティ2件・ゆる～とに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/yunoji-onsen/onsen006952/kuchikomi/",
+   "https://www.go-minamata.jp/infodtl.html?ds=2026110121535337123658110021",
+   "https://yuru-to.net/detail.php?oid=20094"
+  ]
+ },
+ {
+  "id": "onsen004296",
+  "name": "湯の児温泉 昇陽館",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ（2019）は分析書を詳述するが消毒の記載なし（「塩素イオン」は成分）。公式20ページにも記述なし。源泉バンクの分類のみ",
+  "sources": [
+   "https://onsen.nifty.com/yunoji-onsen/onsen004296/kuchikomi/",
+   "http://www.shoyokan.com/",
+   "https://yuru-to.net/detail.php?oid=11817"
+  ]
+ },
+ {
+  "id": "onsen018535",
+  "name": "湯の鶴温泉 きくの湯",
+  "verdict": "不明のまま",
+  "reason": "ニフティ1件・2024年のブログに消毒の記載なし。2025-09 のブログ（note）は「営業していない？」と書いている（後述）",
+  "sources": [
+   "https://onsen.nifty.com/minamata-onsen/onsen018535/kuchikomi/",
+   "https://www.city.minamata.lg.jp/kiji003681/index.html",
+   "https://yuru-to.net/detail.php?oid=32237",
+   "https://note.com/mimi_mari/n/n8e38a620d371",
+   "https://ameblo.jp/samba-amor/entry-12855171010.html"
+  ]
+ },
+ {
+  "id": "onsen004298",
+  "name": "銭湯旅館キクヤ （旧 喜久屋旅館 ）",
+  "verdict": "不明のまま",
+  "reason": "ニフティ5件・公式・2019/2024年の旅行記に消毒の記載なし",
+  "sources": [
+   "https://onsen.nifty.com/minamata-onsen/onsen004298/kuchikomi/",
+   "https://kikuya.moo.jp",
+   "https://yuru-to.net/detail.php?oid=11849",
+   "https://ameblo.jp/samba-amor/entry-12855171111.html",
+   "https://4travel.jp/travelogue/11459094"
+  ]
+ },
+ {
+  "id": "tsurunoya-yunotsuru",
+  "name": "湯の鶴迎賓館 鶴の屋（家族湯）",
+  "verdict": "不明のまま",
+  "reason": "情報源なし（じゃらんのみ）。今回は追加で見つからず",
+  "sources": [
+   "https://www.jalan.net/yad353712/"
+  ]
+ },
+ {
+  "id": "onsen004297",
+  "name": "湯の鶴温泉保健センターほたるの湯",
+  "verdict": "不明のまま",
+  "reason": "ニフティ7件・ゆる～とに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/minamata-onsen/onsen004297/kuchikomi/",
+   "https://www.go-minamata.jp/infodtl.html?ds=2025052706504624224015410015",
+   "https://yuru-to.net/detail.php?oid=11853"
+  ]
+ },
+ {
+  "id": "onsen004395",
+  "name": "湯の鶴温泉 あさひ荘",
+  "verdict": "不明のまま",
+  "reason": "公式17ページ・ゆる～とに記述なし",
+  "sources": [
+   "https://www.asahisou.jp/spa/",
+   "https://yuru-to.net/detail.php?oid=11851"
+  ]
+ },
+ {
+  "id": "onsen004299",
+  "name": "温泉ゲストハウス Tojiya",
+  "verdict": "不明のまま",
+  "reason": "ニフティ2件・公式・2024年のブログに消毒の記載なし。源泉バンクの分類のみ",
+  "sources": [
+   "https://onsen.nifty.com/minamata-onsen/onsen004299/kuchikomi/",
+   "https://tojiya.jp",
+   "https://yuru-to.net/detail.php?oid=20095",
+   "https://ameblo.jp/samba-amor/entry-12855170883.html"
+  ]
+ },
+ {
+  "id": "onsen011194",
+  "name": "湯の鶴温泉 湯宿 鶴水荘",
+  "verdict": "不明のまま",
+  "reason": "ニフティ1件（2019）は分析書に触れるが消毒の記載なし。公式23ページにも記述なし",
+  "sources": [
+   "https://onsen.nifty.com/minamata-onsen/onsen011194/kuchikomi/",
+   "https://turumisou.com/",
+   "https://yuru-to.net/detail.php?oid=11850"
+  ]
+ },
+ {
+  "id": "onsen008091",
+  "name": "梶尾温泉",
+  "verdict": "不明のまま",
+  "reason": "4travel クチコミ（2022/11）「恐らく消毒もしていないと思います」は推測なので採らない。ニフティ7件・2020年のブログに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen008091/kuchikomi/",
+   "https://onsen-life.com/facility/kajio-onsen",
+   "https://yuru-to.net/detail.php?oid=2236",
+   "https://4travel.jp/dm_shisetsu/10603306"
+  ]
+ },
+ {
+  "id": "onsen004456",
+  "name": "今宵の湯宿 悠然",
+  "verdict": "不明のまま",
+  "reason": "公式は「循環しない源泉かけ流し」で消毒には触れない",
+  "sources": [
+   "http://www.ueki-yuuzen.com/onsen.html",
+   "https://yuru-to.net/detail.php?oid=21223"
+  ]
+ },
+ {
+  "id": "onsen007390",
+  "name": "宝田温泉 宝の湯",
+  "verdict": "不明のまま",
+  "reason": "ニフティ15件（13件取得）・ゆる～とに消毒の記述なし",
+  "sources": [
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen007390/kuchikomi/",
+   "https://takara-yu.com",
+   "https://yuru-to.net/detail.php?oid=11634"
+  ]
+ },
+ {
+  "id": "onsen017061",
+  "name": "家族湯 はなみずき",
+  "verdict": "不明のまま",
+  "reason": "公式21ページ・ゆる～とに記述なし",
+  "sources": [
+   "https://hanamizuki.in/",
+   "https://yuru-to.net/detail.php?oid=11635"
+  ]
+ },
+ {
+  "id": "onsen024831",
+  "name": "植木温泉 ほてい湯",
+  "verdict": "不明のまま",
+  "reason": "公式は「加水・加温・濾過・循環・入浴剤なし」「純温泉」と書くが「消毒なし」とは書いていない。純温泉協会の会員一覧（熊本6件）には載っていない",
+  "sources": [
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen024831/kuchikomi/",
+   "https://hotei-yu.com",
+   "https://yuru-to.net/detail.php?oid=57593",
+   "https://hotei-yu.com/quality/",
+   "https://hotei-yu.com/qanda/",
+   "https://realonsen.com/"
+  ]
+ },
+ {
+  "id": "onsen007597",
+  "name": "あしはらの湯",
+  "verdict": "なし（口コミ）",
+  "reason": "4travel クチコミ（Deco、旅行時期2019/06、投稿2021/04/09）「消毒なし加水なし、冬場のみ加温という本格派の温泉です」。ニフティ8件・ゆる～と・2024年のブログ2件に塩素臭の記述なし",
+  "sources": [
+   "https://4travel.jp/dm_shisetsu/11873195",
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen007597/kuchikomi/"
+  ]
+ },
+ {
+  "id": "onsen019596",
+  "name": "植木温泉 旅館いろは",
+  "verdict": "なし（口コミ）",
+  "reason": "4travel 旅行記（2021-01-20 日帰り）「途中で温泉の使用状況の表示がありました」「加温消毒なしの源泉かけ流し。ただし加水あり」。同じ投稿者のクチコミ（2021/01）「加温消毒なし（季節により加水のみあり）」。ニフティ口コミ0件。反対の証拠なし",
+  "sources": [
+   "https://4travel.jp/travelogue/11673802",
+   "https://4travel.jp/dm_hotel-10061945"
+  ]
+ },
+ {
+  "id": "onsen013368",
+  "name": "植木温泉 湯の森ホテル（旧 荒木観光ホテル）",
+  "verdict": "あり",
+  "reason": "4travel 旅行記（Deco、2020-12-17）「温泉の利用状況」の写真を載せ「アルカリ性単純泉のかけ流しで消毒あり」、同投稿者クチコミ「消毒はしてあるようですが」。別の投稿者（たこさん、2021-03-05 宿泊）のニフティ口コミ「加温無・加水不明・消毒有だが飲んでも感知せず、掛け流し」。2人が独立に消毒ありと書いている",
+  "sources": [
+   "https://4travel.jp/travelogue/11668195",
+   "https://4travel.jp/dm_hotel-10052717",
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen013368/kuchikomi/0000216881/"
+  ]
+ },
+ {
+  "id": "onsen010852",
+  "name": "旅館平山",
+  "verdict": "不明のまま",
+  "reason": "ニフティ3件（2019 は分析書を詳述）に消毒の記載なし",
+  "sources": [
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen010852/kuchikomi/",
+   "http://www.uekionsen.com",
+   "https://yuru-to.net/detail.php?oid=21218"
+  ]
+ },
+ {
+  "id": "onsen013065",
+  "name": "植木温泉 旅館 松乃湯",
+  "verdict": "不明のまま",
+  "reason": "4travel クチコミ（2022/05）・公式14ページに湯の消毒の記載なし（公式の「消毒」はコロナ対策）",
+  "sources": [
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen013065/kuchikomi/",
+   "http://matunoyu.com",
+   "https://yuru-to.net/detail.php?oid=21221",
+   "https://4travel.jp/dm_hotel-10052718"
+  ]
+ },
+ {
+  "id": "onsen014957",
+  "name": "植木温泉 和風旅館 鷹の家",
+  "verdict": "不明のまま",
+  "reason": "公式「毎日一回浴槽のお湯を抜き、塩素消毒を実施」。清掃時の消毒とみられるが、湯に入れていないとの記載はない（前回と同じ）",
+  "sources": [
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen014957/kuchikomi/",
+   "https://ueki-takanoya.com",
+   "https://yuru-to.net/detail.php?oid=21219",
+   "https://ueki-takanoya.com/onsen"
+  ]
+ },
+ {
+  "id": "onsen014092",
+  "name": "植木温泉 旅館 桐乃湯",
+  "verdict": "あり",
+  "reason": "4travel 旅行記（Deco、2021-12-16、2022-01-17 公開）の温泉の使用状況の写真の説明「消毒はありですが、かけ流しです。」「加温なし。」「夏場のみ加水しているようです。」。根拠はこの1件（掲示の書き起こし）。公式サイトに湯の消毒の記載なし（コロナ対策のアルコール消毒のみ）",
+  "sources": [
+   "https://4travel.jp/travelogue/11729224",
+   "https://kirinoyu.com/?page_id=65"
+  ]
+ },
+ {
+  "id": "onsen009948",
+  "name": "ふろや湯湧",
+  "verdict": "不明のまま",
+  "reason": "ニフティ2件に記述なし。温泉逍遥（goo ブログ）に記事があったが goo ブログ終了で読めず",
+  "sources": [
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen009948/kuchikomi/",
+   "https://yuru-to.net/detail.php?oid=11626"
+  ]
+ },
+ {
+  "id": "onsen024923",
+  "name": "亀の湯 by HATAGO INN",
+  "verdict": "不明のまま",
+  "reason": "2026-11-01 開業で口コミなし。公式に消毒の記載なし",
+  "sources": [
+   "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen024923/kuchikomi/",
+   "https://www.hatagoinn.com/kamenoyu/",
+   "https://yuru-to.net/detail.php?oid=57831"
+  ]
+ },
+ {
+  "id": "onsen017087",
+  "name": "純乃時 湯願",
+  "verdict": "不明のまま",
+  "reason": "公式・ゆる～とに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/tamana-onsen/onsen017087/kuchikomi/",
+   "http://www.yu-gan.com/",
+   "https://yuru-to.net/detail.php?oid=11641"
+  ]
+ },
+ {
+  "id": "onsen004379",
+  "name": "玉名市大衆浴場 玉の湯",
+  "verdict": "不明のまま",
+  "reason": "ゆる～と・4travel に記述なし",
+  "sources": [
+   "https://www.city.tamana.lg.jp/q/aview/429/3494.html",
+   "https://yuru-to.net/detail.php?oid=1136"
+  ]
+ },
+ {
+  "id": "onsen024429",
+  "name": "玉名温泉 金峰園",
+  "verdict": "なし（口コミ）",
+  "reason": "4travel クチコミ（Deco、2023/05 立ち寄り）「源泉100％かけ流しで当然消毒もなし」「毎日お湯を抜いて清掃されているとのこと」。「当然」とあり掲示を見たかは書いていない。ニフティ口コミ0件、反対の証拠なし",
+  "sources": [
+   "https://4travel.jp/dm_hotel-11338844"
+  ]
+ },
+ {
+  "id": "onsen004358",
+  "name": "玉名温泉 尚玄山荘",
+  "verdict": "なし（口コミ）",
+  "reason": "4travel の旅行記（2022-05-31 日帰り、2022-06-24 公開）が浴室の「温泉の使用状況」の写真に「アルカリ性単純泉。かけ流し。加温加水循環消毒なし」と書き起こしている。写真の文字そのものは読めていない。反対の証拠は見つからず",
+  "sources": [
+   "https://4travel.jp/travelogue/11758290"
+  ]
+ },
+ {
+  "id": "onsen004450",
+  "name": "プライベート スパ クラゲ",
+  "verdict": "不明のまま",
+  "reason": "ニフティ6件・公式12ページ・2024年のブログに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/tamana-onsen/onsen004450/kuchikomi/",
+   "https://kurage-tamana.com",
+   "https://yuru-to.net/detail.php?oid=11651"
+  ]
+ },
+ {
+  "id": "onsen004412",
+  "name": "那古井館別邸 玉響（家族湯）",
+  "verdict": "不明のまま",
+  "reason": "公式「循環・加熱は一切しておりません」のみ。ニフティ10件に消毒の記述なし",
+  "sources": [
+   "https://onsen.nifty.com/tamana-onsen/onsen004412/kuchikomi/",
+   "https://tamana-tamayura.com/",
+   "https://yuru-to.net/detail.php?oid=21215"
+  ]
+ },
+ {
+  "id": "onsen004378",
+  "name": "玉名ファミリー温泉",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ0件、記述なし",
+  "sources": [
+   "https://onsen.nifty.com/tamana-onsen/onsen004378/kuchikomi/",
+   "https://kuma1010.com/custom/410/",
+   "https://yuru-to.net/detail.php?oid=21173"
+  ]
+ },
+ {
+  "id": "onsen011597",
+  "name": "立願寺温泉ホテル 湯里",
+  "verdict": "不明のまま",
+  "reason": "ニフティ1件・2016年/2020年のブログ・4travel 8件に消毒の記載なし",
+  "sources": [
+   "https://onsen.nifty.com/kikuchi-onsen/onsen011597/kuchikomi/",
+   "https://www.ryuganjionsenhotel-yuri.com/onsen.php",
+   "https://yuru-to.net/detail.php?oid=21216",
+   "https://4travel.jp/dm_hotel-10052790",
+   "https://ameblo.jp/5376394/entry-12568112750.html"
+  ]
+ },
+ {
+  "id": "onsen024798",
+  "name": "ひきの荘",
+  "verdict": "不明のまま",
+  "reason": "公式の使用状況欄は「かけ流し式」「加水・加温 なし」「入浴剤等の添加 なし」で消毒の行がない",
+  "sources": [
+   "https://onsen.nifty.com/tamana-onsen/onsen024798/kuchikomi/",
+   "https://www.hikinoso.com",
+   "https://yuru-to.net/detail.php?oid=34533",
+   "https://www.hikinoso.com/温泉-施設"
+  ]
+ },
+ {
+  "id": "onsen007048",
+  "name": "栗山温泉 紅さんざし",
+  "verdict": "不明のまま",
+  "reason": "公式・2016年のブログに記述なし",
+  "sources": [
+   "http://www.benisanzashi.jp/",
+   "https://yuru-to.net/detail.php?oid=11542"
+  ]
+ },
+ {
+  "id": "onsen008582",
+  "name": "湯亭 上弦の月",
+  "verdict": "なし（公式）",
+  "reason": "純温泉協会 realonsen.com の会員一覧に「■熊本 ◆三加和温泉「湯亭上弦の月」」（日帰り施設）。協会の基準は「浴用の温泉水への塩素系薬剤等の添加による消毒はしていないこと」。反対の証拠（塩素臭の口コミ）はニフティ8件・ゆる～とで見つからず",
+  "sources": [
+   "https://realonsen.com/"
+  ]
+ },
+ {
+  "id": "onsen005850",
+  "name": "美感遊創",
+  "verdict": "不明のまま",
+  "reason": "ニフティ2件に記述なし",
+  "sources": [
+   "https://onsen.nifty.com/tamana-onsen/onsen005850/kuchikomi/",
+   "https://yuru-to.net/detail.php?oid=11545"
+  ]
+ },
+ {
+  "id": "onsen004227",
+  "name": "三加和温泉 なごみ乃湯（ふるさと交流センター）",
+  "verdict": "不明のまま",
+  "reason": "2016年のブログに「全て使い棄て」の貼り紙（100%源泉掛け流し）とあるが消毒の記載なし。10年前でもある",
+  "sources": [
+   "https://onsen.nifty.com/tamana-onsen/onsen004227/kuchikomi/",
+   "https://mikawa-onsen.com/",
+   "https://yuru-to.net/detail.php?oid=11547",
+   "https://purewater.hatenablog.com/entry/mikawa-onsen"
+  ]
+ },
+ {
+  "id": "onsen004239",
+  "name": "湯山温泉 元湯",
+  "verdict": "不明のまま",
+  "reason": "ニフティ8件・ゆる～とに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/kuma-onsen/onsen004239/kuchikomi/",
+   "https://kumamoto.guide/spots/detail/10218",
+   "https://yuru-to.net/detail.php?oid=1165"
+  ]
+ },
+ {
+  "id": "onsen018303",
+  "name": "錦ヒルトップ 通天の湯",
+  "verdict": "不明のまま",
+  "reason": "公式15ページに記述なし（「総入替新湯」のみ）",
+  "sources": [
+   "https://www.tsu-ten.com/",
+   "https://yuru-to.net/detail.php?oid=52716"
+  ]
+ },
+ {
+  "id": "onsen010526",
+  "name": "神城文化の森 家族風呂",
+  "verdict": "不明のまま",
+  "reason": "ニフティ1件に記述なし",
+  "sources": [
+   "https://onsen.nifty.com/kuma-onsen/onsen010526/kuchikomi/",
+   "https://yuru-to.net/detail.php?oid=11845"
+  ]
+ },
+ {
+  "id": "onsen019587",
+  "name": "荒尾温泉 ドリームの湯",
+  "verdict": "不明のまま",
+  "reason": "割れている: 口コミ（2024-12 Google）「塩素系消毒薬の匂いがややききすぎてる」と、水風呂について「塩素臭が無い」（2018）。公式は「循環装置を使用しない総かけ流し」で消毒には触れず、「全館消毒・配管清掃」で休むことがあると書く。2件目の塩素臭の口コミを探したが見つからず",
+  "sources": [
+   "https://onsen.nifty.com/tamana-onsen/onsen019587/kuchikomi/",
+   "http://www.heiseikai.jp/health/dream_yu",
+   "https://yuru-to.net/detail.php?oid=11618",
+   "https://yuru-to.net/detail.php?oid=11618",
+   "https://saunatime.jp/saunas/833/",
+   "https://www.heiseikai.jp/care/aboutdreamkan/"
+  ]
+ },
+ {
+  "id": "onsen004449",
+  "name": "家族湯 七城の森",
+  "verdict": "不明のまま",
+  "reason": "ニフティ6件・ゆる～と・2014年のブログに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/kikuchi-onsen/onsen004449/kuchikomi/",
+   "https://yuru-to.net/detail.php?oid=11629"
+  ]
+ },
+ {
+  "id": "onsen004448",
+  "name": "天然家族温泉 蘇ざき",
+  "verdict": "不明のまま",
+  "reason": "ニフティ2件・公式8ページに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/kikuchi-onsen/onsen004448/kuchikomi/",
+   "https://www.sozaki.net",
+   "https://yuru-to.net/detail.php?oid=11631"
+  ]
+ },
+ {
+  "id": "onsen018492",
+  "name": "天然温泉 地涌の温泉",
+  "verdict": "不明のまま",
+  "reason": "公式13ページに記述なし。ニフティ口コミ0件",
+  "sources": [
+   "https://onsen.nifty.com/kikuchi-onsen/onsen018492/kuchikomi/",
+   "https://chikaku.jp.net",
+   "https://yuru-to.net/detail.php?oid=51328"
+  ]
+ },
+ {
+  "id": "onsen024458",
+  "name": "湯るっと邸 桜坂",
+  "verdict": "不明のまま",
+  "reason": "ニフティ1件・公式・2024年のブログに湯の消毒の記載なし（公式の「アルコール消毒」は清掃時のコロナ対策）",
+  "sources": [
+   "https://onsen.nifty.com/kikuchi-onsen/onsen024458/kuchikomi/",
+   "https://www.yuruttoteisakurazaka.co.jp",
+   "https://yuru-to.net/detail.php?oid=53598"
+  ]
+ },
+ {
+  "id": "onsen019604",
+  "name": "松の井温泉",
+  "verdict": "不明のまま",
+  "reason": "ニフティ口コミ0件、ゆる～とに記述なし",
+  "sources": [
+   "https://onsen.nifty.com/kikuchi-onsen/onsen019604/kuchikomi/",
+   "https://onsen-life.com/facility/matsunoi-onsen",
+   "https://yuru-to.net/detail.php?oid=11593"
+  ]
+ }
+]
