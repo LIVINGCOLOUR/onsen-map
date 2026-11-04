@@ -19,6 +19,7 @@
         --accent: #2ec4b6;
         --none: #3ddc97;
         --unknown: #9aa5ab;
+        --clean: #ffffff;
         --yes: #ff6b6b;
         --warn: #ffd166;
       }
@@ -73,12 +74,14 @@
       }
       .card.none { border-left-color: var(--none); }
       .card.yes { border-left-color: var(--yes); }
+      .card.clean { border-left-color: var(--clean); }
       .card.on { border-color: var(--accent); box-shadow: 0 0 0 1px rgba(46,196,182,.4); }
       .card h3 { margin: 0 0 4px; font-size: 14px; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
       .tag { font-size: 10px; font-weight: 700; border-radius: 999px; padding: 2px 7px; white-space: nowrap; }
       .tag.none { background: rgba(61,220,151,.15); color: var(--none); }
       .tag.unknown { background: rgba(154,165,171,.18); color: var(--unknown); }
       .tag.yes { background: rgba(255,107,107,.15); color: var(--yes); }
+      .tag.clean { background: rgba(255,255,255,.16); color: var(--clean); }
       .tag.sauna { background: rgba(255,255,255,.1); color: var(--txt); }
       .meta { font-size: 12px; color: var(--mut); line-height: 1.6; overflow-wrap: anywhere; }
       .meta b { color: var(--txt); font-weight: 600; }
@@ -113,6 +116,7 @@
       }
       .sheet.none { border-left-color: var(--none); }
       .sheet.yes { border-left-color: var(--yes); }
+      .sheet.clean { border-left-color: var(--clean); }
       .sheet.open { max-height: 80%; }
       .sheet h3 { margin: 0 32px 4px 0; font-size: 15px; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
       .sheet .x {
@@ -146,9 +150,9 @@
     <div class="topbar">
       <div class="brand">♨️ かけ流し日帰りマップ<small>源泉かけ流しの日帰り温泉を、塩素の有無まで調べた地図</small></div>
       <div class="rule">
-        色＝塩素、四角＝サウナあり。加水・加温は可。
+        色＝塩素（白は清掃時だけ消毒）、四角＝サウナあり。加水・加温は可。
         <details><summary>基準</summary><span class="more">
-          循環ろ過の浴槽が1つでもある施設は入れていません。塩素は「なし（公式）」が公式サイト・浴室の掲示・純温泉協会の認定、「なし（口コミ）」が口コミやブログの記述で、「不明」は根拠が見つからないか割れているものです。「塩素」は浴槽の湯に塩素などの消毒剤を入れているかで、湯を抜いた浴槽を清掃のときに消毒するのは含めません。浴室の掲示（温泉法の利用状況表示）の「消毒 有」は湯の消毒を指すので「あり」にしています。
+          循環ろ過の浴槽が1つでもある施設は入れていません。塩素は「なし（公式）」が公式サイト・浴室の掲示・純温泉協会の認定、「なし（口コミ）」が口コミやブログの記述で、「不明」は根拠が見つからないか割れているものです。「塩素」は浴槽の湯に塩素などの消毒剤を入れているかで、湯を抜いた浴槽を清掃のときに消毒するのは含めません。浴室の掲示（温泉法の利用状況表示）の「消毒 有」は湯の消毒を指すので「あり」にしています。「清掃時だけ消毒」（白）は、湯を抜いた浴槽の清掃時に塩素消毒すると公式にあり、湯に入れているとは書かれていないものです。
           どの施設にも、何で確かめたかの根拠リンクと確認日を付けています。
           この分類は独自の基準によるもので、公的な認定ではありません。効能や安全を保証するものでもありません。
           情報は確認日時点のもので、変わっていることがあります。行く前に施設に確かめてください。<span id="updated"></span>
@@ -171,6 +175,7 @@
     <script>
       const CL = [
         { key: "none", label: "塩素なし", color: "var(--none)" },
+        { key: "clean", label: "清掃時だけ消毒", color: "var(--clean)" },
         { key: "unknown", label: "塩素不明", color: "var(--unknown)" },
         { key: "yes", label: "塩素あり", color: "var(--yes)" },
       ];
@@ -211,14 +216,16 @@
         const lines = String(s ?? "").split("\n").map((l) => l.trim()).filter(Boolean);
         return "<ul>" + lines.map((l) => "<li>" + md(l.replace(/^- /, "")) + "</li>").join("") + "</ul>";
       };
-      const clOf = (r) => (r.chlorine === "あり" ? "yes" : r.chlorine === "不明" ? "unknown" : "none");
+      const clOf = (r) => (r.chlorine === "あり" ? "yes" : r.cleanOnly ? "clean" : r.chlorine === "不明" ? "unknown" : "none");
+      // 札の文字。清掃時だけ消毒のものはそう書く
+      const clTag = (r) => (r.cleanOnly ? "清掃時だけ消毒" : "塩素" + r.chlorine);
       const clDef = (r) => CL.find((t) => t.key === clOf(r));
       const sauna = (r) => r.hasSauna === "あり";
       const mobile = () => window.matchMedia("(max-width: 760px)").matches;
       const route = (r) => "https://www.google.com/maps/dir/?api=1&destination=" + r.lat + "," + r.lng;
       const yuHtml = (r) => {
         const row = (k, v) => "<dt>" + k + "</dt>" + (v ? "<dd>" + esc(v) + "</dd>" : '<dd class="na">未確認</dd>');
-        return '<dl class="yu">' + row("循環", /確認はしていない|未確認/.test(r.kakenagashi ?? "") ? "" : "なし（全浴槽かけ流し）") + row("加水・加温", r.kasuiKaon) + row("塩素", r.chlorine === "不明" ? "" : r.chlorine) + "</dl>";
+        return '<dl class="yu">' + row("循環", /確認はしていない|未確認/.test(r.kakenagashi ?? "") ? "" : "なし（全浴槽かけ流し）") + row("加水・加温", r.kasuiKaon) + row("塩素", r.cleanOnly ? "清掃時だけ消毒（湯に入れているかは未確認）" : r.chlorine === "不明" ? "" : r.chlorine) + "</dl>";
       };
       const srcHtml = (r) => {
         const n = String(r.evidence ?? "").split("\n").filter((l) => l.trim()).length;
@@ -258,7 +265,7 @@
         const t = clDef(r);
         return (
           "<b>" + esc(r.name) + "</b><br>" +
-          '<span style="color:' + t.color + '">●</span> 塩素: ' + esc(r.chlorine) + "<br>" +
+          (r.cleanOnly ? '<span style="color:#555">○</span> 塩素: ' : '<span style="color:' + t.color + '">●</span> 塩素: ') + esc(r.chlorine + (r.cleanOnly ? "（清掃時だけ消毒）" : "")) + "<br>" +
           "サウナ: " + esc(r.hasSauna) + (r.sauna ? "（" + esc(r.sauna) + "）" : "") + "<br>" +
           (r.price ? "料金: " + esc(r.price.slice(0, 60)) + "<br>" : "") +
           (r.url ? '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">サイト</a> · ' : "") +
@@ -282,7 +289,7 @@
         return (
           '<button class="x" data-close="1" aria-label="閉じる">×</button>' +
           "<h3>" + esc(r.name) +
-            ' <span class="tag ' + t.key + '">塩素' + esc(r.chlorine) + "</span>" +
+            ' <span class="tag ' + t.key + '">' + esc(clTag(r)) + "</span>" +
             (sauna(r) ? ' <span class="tag sauna">サウナあり</span>' : "") +
           "</h3>" +
           '<div class="meta">' +
@@ -347,8 +354,8 @@
 
       function render() {
         const s = q.trim().toLowerCase();
-        const order = { none: 0, unknown: 1, yes: 2 };
-        const rank = (r) => (sauna(r) ? 0 : 3) + order[clOf(r)];
+        const order = { none: 0, clean: 1, unknown: 2, yes: 3 };
+        const rank = (r) => (sauna(r) ? 0 : 4) + order[clOf(r)];
         hits = records
           .filter((r) => shownCl.has(clOf(r)) && shownSa.has(r.hasSauna))
           .filter((r) => !s || matches(r, s))
@@ -366,7 +373,7 @@
               iconSize: [size, size],
               iconAnchor: [size / 2, size / 2],
             }),
-            zIndexOffset: (6 - rank(r)) * 200,
+            zIndexOffset: (8 - rank(r)) * 200,
           }).addTo(map);
           m.on("click", () => select(r.id, false));
           markers.set(r.id, m);
@@ -391,12 +398,12 @@
           side.innerHTML = '<div class="empty">この範囲には該当する温泉がありません。地図を縮小するか動かしてください（全体で ' + hits.length + " 件）。</div>";
           return;
         }
-        side.innerHTML = '<div class="count">地図の範囲に ' + inView.length + " 件（全体 " + hits.length + " 件。サウナあり→なし、塩素なし→不明→ありの順）</div>" + inView.map((r) => {
+        side.innerHTML = '<div class="count">地図の範囲に ' + inView.length + " 件（全体 " + hits.length + " 件。サウナあり→なし、塩素なし→清掃時だけ消毒→不明→ありの順）</div>" + inView.map((r) => {
           const t = clDef(r);
           return (
             '<div class="card ' + t.key + (r.id === selected ? " on" : "") + (opened.has(r.id) ? " open" : "") + '" data-id="' + esc(r.id) + '">' +
               "<h3>" + esc(r.name) +
-                ' <span class="tag ' + t.key + '">塩素' + esc(r.chlorine) + "</span>" +
+                ' <span class="tag ' + t.key + '">' + esc(clTag(r)) + "</span>" +
                 (sauna(r) ? ' <span class="tag sauna">サウナあり</span>' : "") +
               "</h3>" +
               '<div class="meta">' +
