@@ -430,7 +430,8 @@
             fillColor: PIN_COLOR[k], fillOpacity: 1,
           };
           const m = (sauna(r) ? new SquarePin([r.lat, r.lng], opts) : L.circleMarker([r.lat, r.lng], opts)).addTo(map);
-          m.on("click", () => select(r.id, false));
+          // canvas のピンのタップは地図にも伝わり、地図の「タップで閉じる」で概要がすぐ閉じてしまうので止める
+          m.on("click", (e) => { L.DomEvent.stop(e); select(r.id, false); });
           markers.set(r.id, m);
         }
         lastKey = "";
