@@ -52,8 +52,16 @@
         border-radius: 999px; padding: 4px 11px; font-size: 12px; font-weight: 700;
         display: inline-flex; align-items: center; gap: 6px;
       }
-      .chip i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
-      .chip i.sq { border-radius: 2px; background: var(--mut); }
+      .chip i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; flex: none; }
+      .chip i.dot { border: 1.5px solid #0b1114; box-shadow: 0 0 0 1px rgba(255,255,255,.35); }
+      .chip i.sq {
+        width: 13px; height: 13px; border-radius: 3px; background: var(--txt); color: #0b1114;
+        font: 800 9px/13px system-ui, sans-serif; text-align: center; font-style: normal;
+      }
+      .chip b { font-weight: 600; color: var(--mut); font-size: 11px; }
+      .grp { display: inline-flex; align-items: center; gap: 6px; }
+      .glbl { font-size: 12px; font-weight: 800; color: var(--txt); line-height: 1.1; }
+      .glbl small { display: block; font-size: 9px; font-weight: 600; color: var(--mut); }
       .chip.on { color: var(--txt); border-color: var(--mut); background: var(--panel2); }
       .chip:not(.on) i { opacity: .3; }
       .search {
@@ -147,12 +155,19 @@
       /* スマホ: 地図と一覧をタブで切り替え、ピンを押したら地図の下に概要を重ねて出す */
       @media (max-width: 760px) {
         body { height: 100dvh; overflow: hidden; }
-        .topbar { padding: 8px 12px; gap: 6px; }
-        .rule { width: 100%; }
-        .chips { width: 100%; min-width: 0; margin-left: 0; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
-        .chips::-webkit-scrollbar { display: none; }
-        .chip { flex: none; }
-        .search { flex: none; width: 150px; }
+        /* スマホ: 横スライドなしで全部見えるよう、地方+検索 / 塩素 / サウナ の3段に並べる */
+        .topbar { padding: 8px 12px; gap: 6px; position: relative; }
+        .brand { font-size: 15px; }
+        .brand small { display: none; }
+        .rule { margin-left: auto; }
+        .ruletxt { display: none; }
+        .rule .more { position: absolute; left: 12px; right: 12px; z-index: 1400; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px; }
+        .chips { width: 100%; min-width: 0; margin-left: 0; display: grid; grid-template-columns: auto 1fr; gap: 6px; }
+        .areabtn { grid-column: 1; grid-row: 1; }
+        .search { grid-column: 2; grid-row: 1; width: 100%; }
+        .grp { grid-column: 1 / -1; display: grid; grid-template-columns: 54px repeat(3, 1fr); gap: 6px; }
+        .grp:last-child { grid-template-columns: 54px repeat(2, 1fr) 1fr; }
+        .chip { justify-content: center; padding: 6px 4px; font-size: 13px; }
         .tabs { display: flex; }
         .main { position: relative; }
         #map { min-height: 0; }
@@ -166,9 +181,9 @@
     <div class="topbar">
       <div class="brand">♨️ かけ流し日帰りマップ<small>源泉かけ流しの日帰り温泉を、塩素の有無まで調べた地図</small></div>
       <div class="rule">
-        色＝塩素、四角＝サウナあり。加水・加温は可。
+        <span class="ruletxt">ピンの色＝塩素、四角いピン＝サウナあり。加水・加温は可。</span>
         <details><summary>基準</summary><span class="more">
-          循環ろ過の浴槽が1つでもある施設は入れていません。塩素は「なし（公式）」が公式サイト・浴室の掲示・純温泉協会の認定、「なし（口コミ）」が口コミやブログの記述で、「不明」は根拠が見つからないか割れているものです。「塩素」は浴槽の湯に塩素などの消毒剤を入れているかで、湯を抜いた浴槽を清掃のときに消毒するのは含めません。浴室の掲示（温泉法の利用状況表示）の「消毒 有」は湯の消毒を指すので「あり」にしています。
+          循環ろ過の浴槽が1つでもある施設は入れていません（加水・加温はしていても入れています）。塩素は「なし（公式）」が公式サイト・浴室の掲示・純温泉協会の認定、「なし（口コミ）」が口コミやブログの記述で、「不明」は根拠が見つからないか割れているものです。「塩素」は浴槽の湯に塩素などの消毒剤を入れているかで、湯を抜いた浴槽を清掃のときに消毒するのは含めません。浴室の掲示（温泉法の利用状況表示）の「消毒 有」は湯の消毒を指すので「あり」にしています。
           どの施設にも、何で確かめたかの根拠リンクと確認日を付けています。
           この分類は独自の基準によるもので、公的な認定ではありません。効能や安全を保証するものでもありません。
           情報は確認日時点のもので、変わっていることがあります。行く前に施設に確かめてください。<span id="updated"></span>
@@ -294,10 +309,14 @@
       function renderChips() {
         const inView = inBounds(records);
         const cnt = (f) => inView.filter(f).length;
+        // 見出しで「何の区分か」と「ピンのどこで見分けるか」を示す。ボタンは押すとその区分を出す／隠す
         chipset.innerHTML =
-          CL.map((t) => '<button class="chip' + (shownCl.has(t.key) ? " on" : "") + '" data-cl="' + t.key + '"><i style="background:' + t.color + '"></i>' + t.label + " " + cnt((r) => clOf(r) === t.key) + "</button>").join("") +
-          '<span class="lbl">｜</span>' +
-          SA.map((t) => '<button class="chip' + (shownSa.has(t.key) ? " on" : "") + '" data-sa="' + t.key + '"><i class="' + (t.key === "あり" ? "sq" : "") + '" style="' + (t.key === "あり" ? "" : "background:var(--mut)") + '"></i>' + t.label + " " + cnt((r) => r.hasSauna === t.key) + "</button>").join("");
+          '<span class="grp"><span class="glbl">塩素<small>ピンの色</small></span>' +
+          CL.map((t) => '<button class="chip' + (shownCl.has(t.key) ? " on" : "") + '" data-cl="' + t.key + '"><i class="dot" style="background:' + t.color + '"></i>' + t.label.replace("塩素", "") + "<b>" + cnt((r) => clOf(r) === t.key) + "</b></button>").join("") +
+          "</span>" +
+          '<span class="grp"><span class="glbl">サウナ<small>四角いピン</small></span>' +
+          SA.map((t) => '<button class="chip' + (shownSa.has(t.key) ? " on" : "") + '" data-sa="' + t.key + '">' + (t.key === "あり" ? '<i class="sq">S</i>' : '<i class="dot" style="background:var(--mut)"></i>') + t.label.replace("サウナ", "") + "<b>" + cnt((r) => r.hasSauna === t.key) + "</b></button>").join("") +
+          "</span>";
       }
       chips.addEventListener("click", (e) => {
         const c = e.target.closest("[data-cl]");
