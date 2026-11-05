@@ -34,7 +34,7 @@
         display: flex; align-items: center; gap: 8px 14px; flex-wrap: wrap;
         padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel);
       }
-      .brand { font-weight: 800; font-size: 17px; }
+      .brand { font-weight: 800; font-size: 17px; color: var(--txt); text-decoration: none; }
       .brand small { display: block; font-size: 11px; font-weight: 600; color: var(--accent); margin-top: 1px; }
       .yu { margin-top: 4px; display: grid; grid-template-columns: auto 1fr; gap: 1px 8px; }
       .yu dt { color: var(--mut); }
@@ -186,7 +186,7 @@
   </head>
   <body>
     <div class="topbar">
-      <div class="brand">♨️ かけ流し日帰りマップ<small>源泉かけ流しの日帰り温泉を、塩素の有無まで調べた地図</small></div>
+      <a class="brand" href="./" title="最初の画面に戻る">♨️ かけ流し日帰りマップ<small>源泉かけ流しの日帰り温泉を、塩素の有無まで調べた地図</small></a>
       <div class="rule">
         <span class="ruletxt">ピンの色＝塩素、四角いピン＝サウナあり。加水・加温は可。</span>
         <details><summary>基準</summary><span class="more">
