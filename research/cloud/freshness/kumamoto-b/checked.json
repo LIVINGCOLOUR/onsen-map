@@ -1,0 +1,800 @@
+[
+ {
+  "id": "onsen004288",
+  "name": "菊池わくわく温泉",
+  "verdict": "問題なし",
+  "reason": "ニフティに2026-10-13の口コミ（サウナ・水風呂の記述）。時間・料金はニフティ・onsen-lifeと一致",
+  "source": "https://onsen.nifty.com/kikuchi-onsen/onsen004288/kuchikomi/"
+ },
+ {
+  "id": "onsen019604",
+  "name": "松の井温泉",
+  "verdict": "問題なし",
+  "reason": "onsen-life・ニフティの掲載どおり（時間6:30～21:00）。閉業の情報なし。料金の割れは既存 caveats のとおり",
+  "source": "https://onsen-life.com/facility/matsunoi-onsen"
+ },
+ {
+  "id": "onsen014072",
+  "name": "菊池温泉 菊池グランドホテル",
+  "verdict": "問題なし",
+  "reason": "公式に2026-08-08「営業しております」、2026-11-06のイベント宿泊案内あり。ニフティの時間は11:00～17:00で一致",
+  "source": "https://www.kikuchi-grandhotel.jp/"
+ },
+ {
+  "id": "onsen010891",
+  "name": "菊池笹乃家",
+  "verdict": "問題なし",
+  "reason": "公式サイトは稼働（2026-09-26 客室改装のお知らせ。休業の告知なし）。ニフティの日帰り時間・料金は一致",
+  "source": "https://sasanoya-kikuchi.com/"
+ },
+ {
+  "id": "onsen013855",
+  "name": "菊池温泉 宝来館",
+  "verdict": "問題なし",
+  "reason": "公式の温泉ページは稼働（自家源泉掛け流し）。立ち寄りの扱いは既存 caveats のとおり要電話確認",
+  "source": "http://www.houraikan.co.jp/hotspa.html"
+ },
+ {
+  "id": "onsen013083",
+  "name": "菊池温泉 望月旅館",
+  "verdict": "問題なし",
+  "reason": "公式「沸かさず、うすめず、循環させず」、7:00～0:00（休館日：不定）で一致",
+  "source": "https://mochiduki-ryokan.com/spa/"
+ },
+ {
+  "id": "kikuchi-shironoi",
+  "name": "菊池温泉 城乃井温泉（城乃井旅館）",
+  "verdict": "問題なし",
+  "reason": "純温泉協会の掲載どおり。閉業の情報なし",
+  "source": "https://realonsen.com/kikuchi-shironoi/"
+ },
+ {
+  "id": "onsen008220",
+  "name": "幸徳温泉",
+  "verdict": "問題なし",
+  "reason": "山鹿探訪なびに立ち寄り湯400円、13:00～22:00、定休日なし（data と一致）。新しい口コミは見つからない（最新はニフティ2022-03）",
+  "source": "https://yamaga-tanbou.jp/spot/1487/"
+ },
+ {
+  "id": "onsen004405",
+  "name": "菊池温泉 木立ちの中の宿 清流荘",
+  "verdict": "問題なし",
+  "reason": "公式は宿泊予約を受付中。ニフティの時間と一致。閉業の情報なし",
+  "source": "https://seiryuusou.jp/ / https://onsen.nifty.com/kikuchi-onsen/onsen004405/"
+ },
+ {
+  "id": "onsen004292",
+  "name": "山鹿温泉 千代湯",
+  "verdict": "問題なし",
+  "reason": "公式の料金表 大人400円・子供200円、営業時間掲載。一致",
+  "source": "https://www.ichi-goudoukaisya.com/chiyoyu"
+ },
+ {
+  "id": "onsen004411",
+  "name": "ならのさこ温泉 いやしの湯",
+  "verdict": "問題なし",
+  "reason": "公式トップに大人700円（会員650円）・小学生400円（2026-03-01改定）、10:00～24:00、不定休。家族湯「いやしの郷」は2025-07-26閉店（日帰り大浴場は営業）",
+  "source": "https://www.naranosako.com/"
+ },
+ {
+  "id": "onsen012110",
+  "name": "ゆとりろ山鹿",
+  "verdict": "修正",
+  "reason": "公式（www付き）の温泉ページで日帰り温泉 平日15:00～21:00（最終入場20:00）・土日は要問い合わせ、大人500円・子供250円。data の値と一致。data の url（https://yutorelo-yamaga.com、wwwなし）は今回の取得でタイムアウトしたので、つながる www 付きに直す。2025-04の口コミ「日帰りはやってないようですね？」は公式FAQ「日帰りで温泉入浴のみのご利用も可能です」と食い違う",
+  "source": "https://www.yutorelo-yamaga.com/hotspring / https://www.yutorelo-yamaga.com/faq"
+ },
+ {
+  "id": "onsen004349",
+  "name": "山鹿温泉 眺山庭",
+  "verdict": "問題なし",
+  "reason": "公式 2026-08-31 のお知らせは9/1～9/3の設備メンテナンスによる立ち寄り湯休業のみ（終了済み）。宿は営業中",
+  "source": "https://www.chozantei.com/872"
+ },
+ {
+  "id": "onsen009531",
+  "name": "山鹿温泉 富士ホテル",
+  "verdict": "問題なし",
+  "reason": "公式は2026-11-05付のお知らせあり営業中。ニフティの時間11:00～19:00と一致",
+  "source": "https://fuji-hotel.jp/"
+ },
+ {
+  "id": "onsen004347",
+  "name": "山鹿温泉 旅館 寿三",
+  "verdict": "問題なし",
+  "reason": "公式は営業中（2026-10-14・15は館内工事で休館＝済）。山鹿探訪なび 立ち寄り湯15:00～19:00・大人500円で一致",
+  "source": "https://www.yamaga-onsen.com/ / https://yamaga-tanbou.jp/spot/1448/"
+ },
+ {
+  "id": "onsen004324",
+  "name": "御湯船温泉館",
+  "verdict": "問題なし",
+  "reason": "公式に営業時間9:00～21:00、休館日 毎月第3木曜日。一致（料金は公式ページに数字なし）",
+  "source": "http://oyubune.ubuyama.com/onsen/"
+ },
+ {
+  "id": "onsen004291",
+  "name": "山鹿温泉元湯 さくら湯",
+  "verdict": "問題なし",
+  "reason": "ニフティに2026-10-28・2026-09-13の口コミ。山鹿市が8月に地震被災者の無料入浴に使用（営業中）",
+  "source": "https://onsen.nifty.com/yamaga-kumamoto-onsen/onsen004291/kuchikomi/ / https://www.city.yamaga.kumamoto.jp/kiji0033198/index.html"
+ },
+ {
+  "id": "onsen004414",
+  "name": "家族湯 源氏",
+  "verdict": "問題なし",
+  "reason": "山鹿探訪なび・ニフティの時間・定休日・料金と一致。閉業の情報なし（ただし最新の口コミは2020年）",
+  "source": "https://yamaga-tanbou.jp/spot/1461/"
+ },
+ {
+  "id": "yamaga-yuusen",
+  "name": "家族湯 湧泉",
+  "verdict": "修正",
+  "reason": "公式で営業時間・料金・定休日を確認（data の値と一致）。2026-07-30「通常通り営業」。caveats の「営業時間・料金は未確認」を外す",
+  "source": "https://yuusen-yamaga.com/"
+ },
+ {
+  "id": "onsen016914",
+  "name": "山鹿温泉 再会温泉",
+  "verdict": "修正",
+  "reason": "山鹿探訪なびの料金が 1,000円/60分（2名）に変わっている（data は800円）",
+  "source": "https://yamaga-tanbou.jp/spot/1467/"
+ },
+ {
+  "id": "onsen015941",
+  "name": "山鹿温泉 湯宿 湶",
+  "verdict": "問題なし",
+  "reason": "公式に「令和8年熊本地震…通常通り営業」。山鹿探訪なび 立ち寄り湯18:00～23:00・500円（要問合せ）で一致",
+  "source": "https://yuyado-izumi.net/ / https://yamaga-tanbou.jp/spot/1886/"
+ },
+ {
+  "id": "onsen006291",
+  "name": "露天湯 椛（もみじ）",
+  "verdict": "問題なし",
+  "reason": "公式に平日11:00～、土日祝10:00～最終受付23:00、料金1,600～2,900円。一致",
+  "source": "https://www.yamagarotenyu-momiji.com/"
+ },
+ {
+  "id": "onsen013225",
+  "name": "山鹿温泉 新青山荘",
+  "verdict": "問題なし",
+  "reason": "公式「日帰り温泉」大人400円・子ども200円、休業日12/28～1/3。一致",
+  "source": "https://shinseizansou.jp/onsen/"
+ },
+ {
+  "id": "onsen004404",
+  "name": "家族湯 山伏",
+  "verdict": "修正",
+  "reason": "まっぷる（2024-09-17更新）に営業時間 12:00～翌0:30（家族湯は11:00～24:00）、無休（年3回点検休）、家族湯（5名まで）1時間1,700円～・土日祝1,800円～、女性専用大衆浴場 大人420円。data の料金（1,300円～、ニフティ）は古い",
+  "source": "https://www.mapple.net/original/517536/"
+ },
+ {
+  "id": "onsen017088",
+  "name": "菊鹿温泉 延命館",
+  "verdict": "問題なし",
+  "reason": "山鹿探訪なびの時間・料金と一致。閉業の情報なし",
+  "source": "https://yamaga-tanbou.jp/spot/1525/"
+ },
+ {
+  "id": "onsen004375",
+  "name": "サンパレス松坂",
+  "verdict": "問題なし",
+  "reason": "ニフティに2026-05-02の口コミ（入浴日2026-04-29）。山鹿探訪なびの立ち寄り湯 11:00～22:30・大人400円と一致",
+  "source": "https://onsen.nifty.com/yamaga-kumamoto-onsen/onsen004375/kuchikomi/ / https://yamaga-tanbou.jp/spot/1469/"
+ },
+ {
+  "id": "onsen004393",
+  "name": "温泉の郷 山鹿どんぐり村",
+  "verdict": "問題なし",
+  "reason": "公式トップ 10時～翌朝7時半（木曜定休）、2026-10-30付のお知らせあり営業中。「水風呂除いて全ての浴槽が源泉かけ流し」",
+  "source": "https://dongurimura.info/"
+ },
+ {
+  "id": "onsen004225",
+  "name": "熊入温泉センター",
+  "verdict": "修正",
+  "reason": "山鹿探訪なび（山鹿市の観光サイト）の営業時間は 6:00～22:30。data はニフティの 6:00～22:00",
+  "source": "https://yamaga-tanbou.jp/spot/1491/"
+ },
+ {
+  "id": "onsen010906",
+  "name": "宮苑温泉",
+  "verdict": "修正",
+  "reason": "料金が情報源で割れる（山鹿探訪なび 大人350円・家族湯1,000円～、onsen-life 大人380円・小人230円・家族湯1,200円～）。公式なし",
+  "source": "https://yamaga-tanbou.jp/spot/1892/ / https://onsen-life.com/facility/miyawon-hot-springs"
+ },
+ {
+  "id": "onsen007391",
+  "name": "恵温泉旅館",
+  "verdict": "問題なし",
+  "reason": "公式に入浴料金400円、営業時間9:00～22:00／休館日 第一水曜日。一致",
+  "source": "https://megumi-onsen.jp/"
+ },
+ {
+  "id": "onsen006390",
+  "name": "奥阿蘇の宿 やまなみ",
+  "verdict": "問題なし",
+  "reason": "ニフティに2026-09-27の口コミ。ニフティの日帰り時間と一致。公式サイト稼働",
+  "source": "https://onsen.nifty.com/asosanroku-onsen/onsen006390/kuchikomi/"
+ },
+ {
+  "id": "onsen004227",
+  "name": "三加和温泉 なごみ乃湯（ふるさと交流センター）",
+  "verdict": "問題なし",
+  "reason": "公式（2026-04開設、指定管理者 株式会社グッドスタッフ）に10:00～21:00、最終受付 大浴場・家族湯20:00、毎週水曜休館、中学生以上500円（18時以降400円）・5歳～小学生250円、家族湯1時間1,500円。一致。改修工事・休館の告知は見当たらない",
+  "source": "https://mikawa-onsen.com/"
+ },
+ {
+  "id": "onsen007048",
+  "name": "栗山温泉 紅さんざし",
+  "verdict": "保留",
+  "reason": "公式サイト（benisanzashi.jp）は http・https ともタイムアウトでつながらない。ニフティの口コミは2006年が最新。検索でも2025～2026年の情報が見つからない（るるぶ&more.・じゃらん等の掲載は残る）。閉業の証拠もない",
+  "source": "http://www.benisanzashi.jp/ / https://onsen.nifty.com/tamana-onsen/onsen007048/ / https://rurubu.jp/andmore/spot/80040216"
+ },
+ {
+  "id": "onsen008582",
+  "name": "湯亭 上弦の月",
+  "verdict": "問題なし",
+  "reason": "公式に営業時間10:00～翌02:00（受付～00:00）、定休 毎月第2火曜。2026-11は11/10・11/11、12月は12/8・12/9が店休日",
+  "source": "https://www.jougennotsuki.com/"
+ },
+ {
+  "id": "onsen005850",
+  "name": "美感遊創",
+  "verdict": "保留",
+  "reason": "根拠はニフティの掲載と2004・2011年の口コミのみ。公式なし、検索でも現在の情報が見つからない。コンビニのレジで受け付ける家族湯という形態で、営業しているか確かめられない",
+  "source": "https://onsen.nifty.com/tamana-onsen/onsen005850/"
+ },
+ {
+  "id": "onsen004423",
+  "name": "名花 BIJINNOYU.",
+  "verdict": "問題なし",
+  "reason": "onsen-life に2024年夏リニューアル、10:00～24:00（最終受付23:00）、料金1,800～2,500円/60分（大人3名）。ニフティ水曜定休。一致",
+  "source": "https://onsen-life.com/facility/famous-flowers-bijinnoyu"
+ },
+ {
+  "id": "onsen015656",
+  "name": "平山温泉 旅館 かどや＜熊本県＞",
+  "verdict": "問題なし",
+  "reason": "公式サイト稼働（100％源泉かけ流し）。ニフティ15:00～20:00・水曜休館で一致。平山温泉観光協会の施設一覧に掲載、2026-08-01に全店舗通常営業と告知",
+  "source": "https://kadoya-hirayama.com/ / https://hirayama-onsen.jp/info260804/"
+ },
+ {
+  "id": "onsen004422",
+  "name": "平山温泉 元湯",
+  "verdict": "問題なし",
+  "reason": "ニフティに2026-10-18入浴の口コミ。山鹿探訪なび 大人400円・3歳～小学生200円で一致",
+  "source": "https://onsen.nifty.com/yamaga-kumamoto-onsen/onsen004422/kuchikomi/ / https://yamaga-tanbou.jp/spot/1877/"
+ },
+ {
+  "id": "onsen018318",
+  "name": "平山温泉 恵荘",
+  "verdict": "問題なし",
+  "reason": "山鹿探訪なび 立ち寄り湯7:00～22:30・大人500円で一致。平山温泉観光協会の施設一覧に掲載",
+  "source": "https://yamaga-tanbou.jp/spot/1510/ / https://hirayama-onsen.jp/facilities/"
+ },
+ {
+  "id": "onsen004426",
+  "name": "家族温泉 ひらおぎ",
+  "verdict": "問題なし",
+  "reason": "山鹿探訪なびの料金と一致（営業時間は今回も公開情報なし）。閉業の情報なし。最新の口コミは2021年",
+  "source": "https://yamaga-tanbou.jp/spot/1518/"
+ },
+ {
+  "id": "onsen004428",
+  "name": "旅館 せと乃湯",
+  "verdict": "問題なし",
+  "reason": "平山温泉観光協会に「入浴のみ…大人450円・小人150円～」。一致",
+  "source": "https://hirayama-onsen.jp/facilities/setonoyu/"
+ },
+ {
+  "id": "onsen004399",
+  "name": "湯の蔵",
+  "verdict": "問題なし",
+  "reason": "公式 営業時間10:00～22:00、定休 第2火曜（8月は不定休）、入浴600円・大広間つき800円。一致",
+  "source": "https://www.yunokura.jp/guide/honkan/"
+ },
+ {
+  "id": "onsen004312",
+  "name": "平山温泉フローラ",
+  "verdict": "問題なし",
+  "reason": "公式の料金ページ 大浴場9:30～21:30、大人600円、毎週木曜定休。2026-10-27～29の臨時休業は済み",
+  "source": "https://spa-flora.com/price/"
+ },
+ {
+  "id": "onsen004427",
+  "name": "平山温泉 ほたるの長屋",
+  "verdict": "問題なし",
+  "reason": "公式稼働、平山温泉観光協会・山鹿探訪なびに立ち寄り湯60分2,000円～（要電話）・10:00～19:00。一致",
+  "source": "https://hirayama-onsen.jp/facilities/hotarunonagaya/"
+ },
+ {
+  "id": "onsen019670",
+  "name": "湯処 風月",
+  "verdict": "問題なし",
+  "reason": "公式に平日10:00～24:00（最終受付23:00）、土日祝9:00～25:00（最終受付24:00）。2026-10-22にポンプ修理完了で営業再開（済）",
+  "source": "https://fu-getu.com/"
+ },
+ {
+  "id": "onsen011798",
+  "name": "興和浴場",
+  "verdict": "削除",
+  "reason": "興和浴場の住所（平山5955）は湯処風月の旧店舗。公式「2020年12月7日より風月は敷地内に移転し、新店舗で営業中…旧住所 × 熊本県山鹿市平山5955 → 新住所 平山5709…（旧店舗では営業しておりませんのでご注意ください。）」。ニフティの興和浴場ページも風月と同じ電話・URL・時間で、湯処風月（onsen019670）と同じ施設の重複",
+  "source": "https://fu-getu.com/"
+ },
+ {
+  "id": "onsen007988",
+  "name": "華の番台",
+  "verdict": "問題なし",
+  "reason": "公式トップ〔営業時間〕朝10時～夜9時30分〔定休日〕毎週火曜日、温泉ページ 大人600円。ニフティに2026-10-06の口コミ（2026-04の口コミは入浴のみ650円と書いている）",
+  "source": "https://hananobandai.com/ / https://hananobandai.com/spa/"
+ },
+ {
+  "id": "onsen018432",
+  "name": "平小城温泉 城山公衆浴場",
+  "verdict": "問題なし",
+  "reason": "新しい情報なし（ニフティ 13:00～22:00）。閉鎖の情報も見つからない。無人の共同浴場で公式なし",
+  "source": "https://onsen.nifty.com/yamaga-kumamoto-onsen/onsen018432/"
+ },
+ {
+  "id": "onsen012786",
+  "name": "小田温泉 旅館 花心",
+  "verdict": "保留",
+  "reason": "宿は営業中（公式 2026-10 のお知らせ）。全10室離れの客室風呂の宿で、日帰り入浴を受けているかは公式・ニフティ（口コミ0件）・観光サイトのどれにも書かれていない",
+  "source": "https://hanagocoro.jp/ / https://onsen.nifty.com/tsuetate-onsen/onsen012786/"
+ },
+ {
+  "id": "onsen007047",
+  "name": "白川温泉 華匠庵",
+  "verdict": "問題なし",
+  "reason": "公式は営業中（九州ふっこう応援割の販売など）。日帰りの時間・料金はニフティの掲載のまま（変更の情報なし）",
+  "source": "https://hanashoan.jp/"
+ },
+ {
+  "id": "onsen004421",
+  "name": "温泉旅館 いまむら 家族湯",
+  "verdict": "問題なし",
+  "reason": "公式サイト稼働（平山温泉の源泉かけ流し、日帰り可）。ニフティの時間と一致。平山温泉観光協会の施設一覧に掲載",
+  "source": "https://imamura-spa.com/ / https://hirayama-onsen.jp/facilities/"
+ },
+ {
+  "id": "onsen004331",
+  "name": "旅館 壱の井",
+  "verdict": "修正",
+  "reason": "公式に日帰り入浴10:00～15:00。公式の休館日のお知らせで2026年11月・12月は毎週水・木が休館（11/4・5・11・12…、12/2・3…25）。組合の日帰り入浴状況では料金600円（data は500円）、11/6は外来入浴10:00～14:30",
+  "source": "https://www.ichinoi.jp/ / https://www.ichinoi.jp/onsen/ / https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen004410",
+  "name": "黒川温泉 旅館こうの湯",
+  "verdict": "修正",
+  "reason": "組合の日帰り入浴状況でこうの湯は 8:30～21:00（最終受付20:30）、料金700円（data は600円）。公式に地震後も営業の告知",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://www.kounoyu.jp/"
+ },
+ {
+  "id": "onsen015042",
+  "name": "小田温泉 静寂な森の宿 山しのぶ",
+  "verdict": "問題なし",
+  "reason": "公式は営業中（ふっこう応援割・商品券の告知）。日帰りの時間・料金はニフティの掲載のまま（変更の情報なし）",
+  "source": "https://www.yamashinobu.com/"
+ },
+ {
+  "id": "onsen008282",
+  "name": "蔵迫温泉 さくら（貸コテージ＆オートキャンプ場）",
+  "verdict": "問題なし",
+  "reason": "公式温泉ページ稼働「自家源泉100％掛け流し…循環・加温は一切しておりません」。変更の情報なし",
+  "source": "https://kurasako-onsen.com/spa.html"
+ },
+ {
+  "id": "onsen004323",
+  "name": "小田温泉 草太郎庵",
+  "verdict": "問題なし",
+  "reason": "公式に「立ち寄り入浴もお気軽にご利用ください」、蕎麦処の営業時間11:00～14:30・定休日 金曜（祝日は営業）。入浴の時間・料金はニフティのまま",
+  "source": "https://www.soutarouan.com/"
+ },
+ {
+  "id": "onsen004445",
+  "name": "南小国町介護予防拠点施設 湯夢プラザ",
+  "verdict": "問題なし",
+  "reason": "南小国町の資料（PDF、2022-10作成）に16:00～20:30（受付20:00）、毎週火曜定休、町外大人300円。新しい変更情報は見つからない",
+  "source": "https://www.town.minamioguni.lg.jp/living/docs/ （data の url の PDF）"
+ },
+ {
+  "id": "onsen004268",
+  "name": "満願寺温泉 志津の宿",
+  "verdict": "修正",
+  "reason": "南小国町観光協会（youmore）の立ち寄り湯欄は「15:00～20:00 ※宿泊予約有りの場合のみ」。data の料金欄にも宿の「立寄り湯は、受付けておりません。但しご予約のお客様があり、浴室の湯が入れてある場合はお入り頂けます」。ふだんは日帰りを受けていないので、caveats の先頭に明記（削除するかは要判断）",
+  "source": "https://www.youmore-minamioguni.com/stay/shidunoyado/"
+ },
+ {
+  "id": "onsen004240",
+  "name": "黒川温泉 耕きちの湯",
+  "verdict": "問題なし",
+  "reason": "公式（jimdo）に10:00～19:00（最終受付18:00）、内風呂 大人700円・子供300円、貸切60分2,500円。一致。2024-10の口コミで営業再開を確認",
+  "source": "https://koukichinoyu.jimdofree.com/"
+ },
+ {
+  "id": "onsen004330",
+  "name": "お宿 野の花",
+  "verdict": "問題なし",
+  "reason": "公式に日帰り入浴 8:30～10:00 / 14:00～21:00、大人800円・子ども300円。一致。2026-10-16の口コミ",
+  "source": "https://www.oyado-nonohana.com/"
+ },
+ {
+  "id": "onsen004333",
+  "name": "奥黒川温泉 里の湯 和らく",
+  "verdict": "修正",
+  "reason": "公式は11:00～14:00（最終受付13:30）のままだが、黒川温泉旅館組合の日帰り入浴状況（2026-11-05）では「日帰り入浴10時～19時30分（最終受付19時）※準備のため14時～15時は休止」、翌日は15時～19時30分。組合の値を併記",
+  "source": "https://www.satonoyu-waraku.jp/spa/ / https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen010804",
+  "name": "満願寺温泉 川湯",
+  "verdict": "問題なし",
+  "reason": "南小国町の公式ページ稼働。閉鎖の情報なし",
+  "source": "https://www.town.minamioguni.lg.jp/kankou/manganji-ougi/kawayu.html"
+ },
+ {
+  "id": "onsen004340",
+  "name": "黒川温泉 旅館 奥の湯",
+  "verdict": "修正",
+  "reason": "公式の日帰り入浴：定休日 月・金（不定休）、ご利用時間 8:30～14:00（15:00退出）、700円。data の closed が空",
+  "source": "https://www.okunoyu.com/spa/"
+ },
+ {
+  "id": "onsen004357",
+  "name": "黒川温泉 源流の宿 帆山亭",
+  "verdict": "修正",
+  "reason": "公式は立ち寄り湯11:00～15:00（要問い合わせ）のままだが、黒川温泉旅館組合の日帰り入浴状況では 11/2・11/5・11/6（翌日予定）とも「入浴不可」。caveats を更新",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://www.hozantei.com/spa/"
+ },
+ {
+  "id": "onsen004269",
+  "name": "満願寺温泉 共同浴場（満願寺温泉館）",
+  "verdict": "問題なし",
+  "reason": "新しい情報なし（ニフティ 6:00～22:00・無休、onsen-life 200円）。閉鎖の情報なし",
+  "source": "https://onsen.nifty.com/kurokawaonsen-onsen/onsen004269/ / https://onsen-life.com/facility/manganji-onsenkan"
+ },
+ {
+  "id": "onsen004339",
+  "name": "いやしの里 樹やしき",
+  "verdict": "問題なし",
+  "reason": "2026-08 は地震後の連絡通路補強で日帰り入浴を休止していた（公式お知らせ）が、組合の日帰り入浴状況（2026-11-05・06）に「入浴のみ11:00-19:00(最終受付18:30)」700円とあり再開済み",
+  "source": "https://kiyashiki.com/news/2026/08/8.html / https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen004336",
+  "name": "瀬の本館 夢龍胆",
+  "verdict": "修正",
+  "reason": "公式の温泉ページで日帰り入浴は 8:30～19:00、大人660円・小学生以下330円（data は 8:30～21:00）。組合の入浴状況も「19時迄 人数制限有」",
+  "source": "https://www.yumerindo.com/hot_spring / https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen004278",
+  "name": "黒川温泉 旅館 わかば",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況（2026-11-05・06）で 8:30~10:00 11:30~21:00・700円。一致",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen004329",
+  "name": "湯峡の響き 優彩",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況で 立寄り湯15:00〜21:00（最終受付20:30）・600円。一致",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen004273",
+  "name": "いこい旅館",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況に掲載（800円）。ニフティの時間・料金と一致。公式サイト稼働",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://onsen.nifty.com/kurokawaonsen-onsen/onsen004273/"
+ },
+ {
+  "id": "onsen004332",
+  "name": "黒川温泉 旅館 やまの湯",
+  "verdict": "問題なし",
+  "reason": "公式に大人500円・子供300円、8:30～10:00、13:00～21:00。組合では11/5休館日、11/6は16:00～（不定休・清掃の範囲）。組合の料金表示は600円（既存の記載どおり）",
+  "source": "https://yamanoyu.net/onsen/ / https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen004337",
+  "name": "御客屋旅館",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況で「10:30~19:00入浴可 人数制限してのご案内」700円。一致。公式に2026-10-27のブログ（10・11月休館日のお知らせ）",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://www.okyakuya.jp/"
+ },
+ {
+  "id": "onsen004253",
+  "name": "黒川温泉 穴湯（共同浴場）",
+  "verdict": "修正",
+  "reason": "2025-03の口コミ「令和2年九州豪雨で湯小屋が流され、再建されましたが、混浴ではなく男女別の共同浴場となりました」。caveats の「混浴の共同湯（湯船1つ）」と食い違うので併記。再開は組合の2022-02-04の記事で確認",
+  "source": "https://onsen.nifty.com/kurokawaonsen-onsen/onsen004253/kuchikomi/ / https://www.kurokawaonsen.or.jp/tanoshimu/detail.php?kiji=294"
+ },
+ {
+  "id": "onsen005831",
+  "name": "黒川温泉 山の宿 新明館",
+  "verdict": "問題なし",
+  "reason": "公式の湯めぐり 10:30～15:00（最終受付14:30）500円。組合の11/6予定も同じ。ニフティに2026-09-08の口コミ",
+  "source": "https://shinmeikan.jp/spa/ / https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen014470",
+  "name": "黒川温泉 お宿 玄河",
+  "verdict": "問題なし",
+  "reason": "公式稼働（紅葉情報・九州ふっこう割のお知らせ）。日帰り貸切風呂の掲載はニフティのまま、変更の情報なし",
+  "source": "https://oyadokurokawa.com/"
+ },
+ {
+  "id": "onsen011808",
+  "name": "大人の日帰り温泉 るりの湯",
+  "verdict": "問題なし",
+  "reason": "公式に定休日 基本（火・水）、11～17時、60分2,500円（2024-02改定）。一致",
+  "source": "http://kafugetsu-tenga.jp/page.php?PAGE_NO=517"
+ },
+ {
+  "id": "onsen004335",
+  "name": "旅館 南城苑",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況に600円で掲載（11/5は14時から）。公式は営業中",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://www.nanjoen.com/"
+ },
+ {
+  "id": "onsen004274",
+  "name": "黒川温泉 ふもと旅館",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況に600円で掲載（ふもと旅館＆別館「麓庵」）。公式に地震後の営業状況の告知（営業中）",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://www.fumotoryokan.com/"
+ },
+ {
+  "id": "onsen014267",
+  "name": "黒川温泉 山みず木別邸 深山山荘（村中の湯 たゆたゆ）",
+  "verdict": "問題なし",
+  "reason": "公式に立ち寄り湯 10:00～15:00・800円。2026-11-05の組合の日帰り入浴状況の一覧には載っていない（7/31の組合の受け入れ旅館一覧には「深山山荘」がある）。閉館・休止の告知は見当たらない",
+  "source": "https://www.miyama-sansou.com/spa/ / https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen004328",
+  "name": "旅館 湯本荘",
+  "verdict": "修正",
+  "reason": "組合の日帰り入浴状況で湯本荘の料金は700円（data は露天600円）。公式は日帰り可とだけ書き料金なし",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://yumotoso.jp/hotspring/"
+ },
+ {
+  "id": "onsen004338",
+  "name": "黒川温泉 お宿 のし湯",
+  "verdict": "問題なし",
+  "reason": "公式に立ち寄り湯15:00～18:00、組合も「受付時間15:00~18:00」600円。一致",
+  "source": "https://noshiyu.jp/lp/onsen/ / https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen004277",
+  "name": "黒川温泉 山あいの宿 山みず木",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況「露天風呂利用10:00〜14:30(15:00終了) 貸切風呂10:00〜20:00(17:00以降要予約)」600円。一致",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://www.yamamizuki.com/spa/"
+ },
+ {
+  "id": "onsen004334",
+  "name": "黒川温泉 旅館 美里",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況に700円で掲載。公式（2024夏リニューアル）稼働、定休日 不定休",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://www.kurokawa-misato.jp/"
+ },
+ {
+  "id": "onsen004279",
+  "name": "旅館山河",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況に600円で掲載（11/5は露天メンテナンスで13時頃まで不可）。2026-01の口コミ。公式に道路工事の迂回案内（11/2～2/26）",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/ / https://www.sanga-ryokan.com/"
+ },
+ {
+  "id": "onsen004275",
+  "name": "黒川温泉 旅館 黒川荘",
+  "verdict": "問題なし",
+  "reason": "組合の日帰り入浴状況「湯めぐり10：00〜15：00（最終受付14：30）」700円。一致",
+  "source": "https://www.kurokawaonsen.or.jp/nyuyoku/"
+ },
+ {
+  "id": "onsen004271",
+  "name": "旅館 流憩園",
+  "verdict": "修正",
+  "reason": "るるぶ&more.（日帰り温泉・立ち寄り湯2026）に営業時間 8時～10時30分、13～15時、18～20時、定休日 水・木曜、入浴1時間 大人500円・子ども200円。data はニフティの 8:00～11:00…・不定休",
+  "source": "https://rurubu.jp/andmore/spot/80040230"
+ },
+ {
+  "id": "onsen004391",
+  "name": "田の原温泉 せせらぎの御宿 大朗館",
+  "verdict": "問題なし",
+  "reason": "公式に外来入浴 滝風呂60分2,000円・その他60分1,500円・内湯500円、受付 平日9時～15時・休前日9時～18時。一致",
+  "source": "https://www.tairoukan.net/spa/"
+ },
+ {
+  "id": "onsen004265",
+  "name": "奴留湯温泉共同浴場",
+  "verdict": "問題なし",
+  "reason": "熊本県観光サイトに大人200円で掲載。閉鎖の情報なし",
+  "source": "https://kumamoto.guide/spots/detail/20474"
+ },
+ {
+  "id": "onsen004415",
+  "name": "山川温泉 旅館 山林閣",
+  "verdict": "修正",
+  "reason": "閉業の情報はないが、2026-03の口コミ（入浴日2026-03-01）に「92歳のご主人と奥様からの相談 山林閣を買い取る方はいませんか？」。その時点では立寄り湯を利用できている。onsen-life に大人500円・小学生300円。caveats に追記",
+  "source": "https://onsen.nifty.com/tsuetate-onsen/onsen004415/kuchikomi/ / https://onsen-life.com/facility/ryokan-sanrinkaku-aso"
+ },
+ {
+  "id": "onsen007206",
+  "name": "山川温泉 小杉庵",
+  "verdict": "修正",
+  "reason": "公式の温泉ページに日帰り温泉の案内あり：利用料 3,000円/50分制（貸切。せせらぎの湯・岩風呂・ひのき風呂・始まりの湯）、ご利用時間は電話で問い合わせ（事前予約必須）。FAQ「日帰り入浴に関しましては、不定期でお休み…事前にお電話にて」。公式の電話は0967-46-6700、住所は北里1517-1",
+  "source": "https://kosugian.net/onsen/ / https://kosugian.net/faq/"
+ },
+ {
+  "id": "onsen009678",
+  "name": "山川温泉 しらはなシンフォニー",
+  "verdict": "問題なし",
+  "reason": "公式の日帰り案内 11時～15時、毎週水曜定休、大人600円・子供300円＋貸切風呂2,500円（3名まで、1名追加ごと＋300円）。一致",
+  "source": "https://shirahana.com/distinations/onsen/"
+ },
+ {
+  "id": "onsen009677",
+  "name": "山川温泉 共同浴場",
+  "verdict": "問題なし",
+  "reason": "ニフティの掲載（7:00～21:00・300円）のまま。新しい口コミ・閉鎖の情報とも見つからない",
+  "source": "https://onsen.nifty.com/tsuetate-onsen/onsen009677/"
+ },
+ {
+  "id": "onsen007155",
+  "name": "山川温泉 ホタルの里温泉",
+  "verdict": "問題なし",
+  "reason": "ニフティに2026-03-07の口コミ。時間・料金はニフティのまま",
+  "source": "https://onsen.nifty.com/tsuetate-onsen/onsen007155/kuchikomi/"
+ },
+ {
+  "id": "onsen004436",
+  "name": "守護陣温泉",
+  "verdict": "問題なし",
+  "reason": "公式温泉ページに「日帰り入浴も受け付けております」。料金は今回も公開情報なし",
+  "source": "https://syugojin-onsen.com/hotspring/"
+ },
+ {
+  "id": "onsen004342",
+  "name": "はげの湯温泉 旅館 山翠",
+  "verdict": "問題なし",
+  "reason": "公式は営業中（2026-10-01・08-19のお知らせ）。日帰りの時間・料金の変更情報なし",
+  "source": "https://oguni-sansui.com/"
+ },
+ {
+  "id": "onsen004396",
+  "name": "豊礼の湯（ほうれいのゆ）豊礼の宿",
+  "verdict": "修正",
+  "reason": "data の公式URL（houreinoyuyado.com）は 404（https も 404）。るるぶ&more.（2026版）に大浴場 大人600円・小学生300円、大浴場8～20時（火曜のみ最終受付16時）、定休日 水曜、家族風呂1時間1,000円・家族露天1,500円・檜風呂露天2,000円（別途入浴料）。data は2020年の純温泉協会の500円。ニフティに2026-10-09（入浴2026-09-22）の口コミがあり営業中",
+  "source": "https://rurubu.jp/andmore/spot/80040295 / https://onsen.nifty.com/tsuetate-onsen/onsen004396/kuchikomi/"
+ },
+ {
+  "id": "onsen004241",
+  "name": "はげの湯温泉 くぬぎ湯",
+  "verdict": "問題なし",
+  "reason": "公式トップ（日帰り風呂は予約不可・先着順）、2025-01-06「本年より毎週木曜日を定休日」（年末年始・GW・お盆・祝日を除く）。data と一致",
+  "source": "https://kunugiyu.com/58245/"
+ },
+ {
+  "id": "onsen010223",
+  "name": "はげの湯温泉 共同浴場",
+  "verdict": "問題なし",
+  "reason": "ニフティの掲載のまま。新しい口コミ・閉鎖の情報とも見つからない（既存 caveats の要確認のとおり）",
+  "source": "https://onsen.nifty.com/tsuetate-onsen/onsen010223/"
+ },
+ {
+  "id": "onsen004263",
+  "name": "岳の湯温泉 露天風呂（蒸鶏工房 白地商店）",
+  "verdict": "問題なし",
+  "reason": "白地商店のページに1人300円、8:00～18:30、不定休。一致",
+  "source": "https://www.lets-begin.info/oguni/shirachi/onsen.html"
+ },
+ {
+  "id": "onsen004264",
+  "name": "わいた温泉郷 たけの湯温泉館 ゆけむり茶屋",
+  "verdict": "問題なし",
+  "reason": "公式ページ稼働（源泉掛け流しの大浴場と蒸し風呂）。ニフティの時間・定休日と一致",
+  "source": "http://waita.info/yukemuri/"
+ },
+ {
+  "id": "onsen004345",
+  "name": "岳の湯地獄谷温泉 裕花",
+  "verdict": "問題なし",
+  "reason": "公式に露天風呂・貸切温泉 8:00～22:00（21:00受付終了）、毎週水曜定休（祝日は翌日）、露天 大人700円・小学生500円、貸切1,500～2,500円。一致。ニフティに2026-11-03の口コミ",
+  "source": "http://yu-ka.info/"
+ },
+ {
+  "id": "onsen004442",
+  "name": "わいた温泉郷 鈴ヶ谷温泉（田舎の宿おかもと）",
+  "verdict": "問題なし",
+  "reason": "公式に立寄り湯 貸切（4名様まで）2,000円（50分）。一致",
+  "source": "http://www.okamoto-toufu.com/yado/yado.html"
+ },
+ {
+  "id": "onsen010093",
+  "name": "富温泉",
+  "verdict": "保留",
+  "reason": "ニフティの掲載のみ（口コミなし）。ニフティ内でも休業日「水曜日」と営業時間「水曜日 12:00～20:00」が食い違い、電話は鹿児島の市外局番0993。検索でも小国町の富温泉の情報は見つからない",
+  "source": "https://onsen.nifty.com/tsuetate-onsen/onsen010093/"
+ },
+ {
+  "id": "onsen004257",
+  "name": "杖立温泉 観音岩温泉家族風呂",
+  "verdict": "問題なし",
+  "reason": "杖立温泉観光協会の湯処一覧に受付9:00～22:45、年中無休、1,000円～で掲載。公式サイトは今回タイムアウト",
+  "source": "https://tsuetate-onsen.com/Facilities/251"
+ },
+ {
+  "id": "onsen004261",
+  "name": "杖立温泉 白岩温泉家族風呂",
+  "verdict": "問題なし",
+  "reason": "ニフティに2026-09-18の口コミ（営業中）。杖立温泉観光協会に600円～。営業時間不明は既存 caveats のとおり",
+  "source": "https://onsen.nifty.com/tsuetate-onsen/onsen004261/kuchikomi/ / https://tsuetate-onsen.com/Facilities/250"
+ },
+ {
+  "id": "onsen004417",
+  "name": "亀山の湯",
+  "verdict": "問題なし",
+  "reason": "公式に年中無休・24時間営業（コインタイマー式）。一致",
+  "source": "http://kamespa.com/"
+ },
+ {
+  "id": "onsen004435",
+  "name": "杖立温泉 吉祥の湯",
+  "verdict": "問題なし",
+  "reason": "公式に入浴料 大人1,600円・小人800円、貸切家族風呂1時間3,500円。一致。杖立温泉観光協会 2026-09-15「宿泊施設…通常通り営業」",
+  "source": "https://www.hizenya.co.jp/hotspring/kissho/ / https://tsuetate-onsen.com/2329"
+ },
+ {
+  "id": "onsen004259",
+  "name": "杖立温泉 米屋別荘",
+  "verdict": "問題なし",
+  "reason": "杖立温泉観光協会のお宿ページに「お風呂館は立ち寄り湯としての利用も可能」。時間・料金は前回の値のまま（変更の情報なし）",
+  "source": "https://tsuetate-onsen.com/hotel/70"
+ },
+ {
+  "id": "onsen015819",
+  "name": "杖立温泉 お宿 丸正",
+  "verdict": "問題なし",
+  "reason": "杖立温泉観光協会のお宿一覧に「立寄り湯 可」で掲載。時間・料金は今回も公開情報なし（既存 caveats のとおり電話確認）",
+  "source": "https://tsuetate-onsen.com/hotel/68"
+ },
+ {
+  "id": "onsen011176",
+  "name": "杖立温泉 旅館 やまがや",
+  "verdict": "問題なし",
+  "reason": "杖立温泉観光協会のお宿一覧に「立寄り湯 可」で掲載。時間・料金は今回も公開情報なし",
+  "source": "https://tsuetate-onsen.com/hotel/64"
+ },
+ {
+  "id": "onsen008625",
+  "name": "杖立温泉 純和風旅館 泉屋",
+  "verdict": "問題なし",
+  "reason": "公式は営業中（7/28地震の影響のお知らせ・ふっこう応援割）。杖立温泉観光協会に「立寄り湯 可」。料金の変更告知は2023年のもののみ",
+  "source": "https://izumiyaryokan.co.jp/ / https://tsuetate-onsen.com/hotel/71"
+ },
+ {
+  "id": "onsen008563",
+  "name": "杖立温泉 旅館 葉隠館",
+  "verdict": "問題なし",
+  "reason": "杖立温泉観光協会のお宿一覧に「立寄り湯 可」で掲載。公式サイト稼働。時間・料金は今回も公開情報なし",
+  "source": "https://tsuetate-onsen.com/hotel/73"
+ },
+ {
+  "id": "onsen011512",
+  "name": "杖立温泉 薬師湯（共同湯）",
+  "verdict": "問題なし",
+  "reason": "杖立温泉観光協会の湯処一覧に入浴料200円（料金箱）で掲載",
+  "source": "https://tsuetate-onsen.com/Facilities/425"
+ },
+ {
+  "id": "onsen004366",
+  "name": "杖立温泉 旅館 白水荘",
+  "verdict": "修正",
+  "reason": "杖立温泉観光協会のお宿ページに「食事をされたお客様は通常500円の入浴料が300円になります」。data の price が空",
+  "source": "https://tsuetate-onsen.com/hotel/57 / http://www.hakusuisou.com/hot_spring"
+ }
+]

@@ -1,0 +1,800 @@
+[
+ {
+  "id": "onsen004297",
+  "name": "湯の鶴温泉保健センターほたるの湯",
+  "verdict": "修正",
+  "reason": "観光協会のページに令和8年11月～令和9年3月の営業時間延長（20:00→20:30）のお知らせ。",
+  "source": "https://www.go-minamata.jp/infodtl.html?ds=2025052706504624224015410015"
+ },
+ {
+  "id": "onsen004395",
+  "name": "湯の鶴温泉 あさひ荘",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://www.asahisou.jp/spa/ / https://yuru-to.net/detail.php?oid=11851"
+ },
+ {
+  "id": "onsen004299",
+  "name": "温泉ゲストハウス Tojiya",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://tojiya.jp / https://yuru-to.net/detail.php?oid=20095"
+ },
+ {
+  "id": "onsen011194",
+  "name": "湯の鶴温泉 湯宿 鶴水荘",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://turumisou.com/ / https://yuru-to.net/detail.php?oid=11850"
+ },
+ {
+  "id": "tsurunoya-yunotsuru",
+  "name": "湯の鶴迎賓館 鶴の屋（家族湯）",
+  "verdict": "修正",
+  "reason": "じゃらんに施設電話番号 0966-68-0268 と11月の空室カレンダー。日帰りの家族湯の可否は未確認なので call.md にも入れた。",
+  "source": "https://www.jalan.net/yad353712/"
+ },
+ {
+  "id": "onsen004298",
+  "name": "銭湯旅館キクヤ （旧 喜久屋旅館 ）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://kikuya.moo.jp / https://yuru-to.net/detail.php?oid=11849"
+ },
+ {
+  "id": "onsen018535",
+  "name": "湯の鶴温泉 きくの湯",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/4/18。",
+  "source": "https://www.city.minamata.lg.jp/kiji003681/index.html / https://yuru-to.net/detail.php?oid=32237"
+ },
+ {
+  "id": "onsen004301",
+  "name": "幸福温泉",
+  "verdict": "問題なし",
+  "reason": "公式の時間・定休・料金が data と同じ。",
+  "source": "https://koufuku-onsen.com/"
+ },
+ {
+  "id": "onsen010526",
+  "name": "神城文化の森 家族風呂",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/8/26。",
+  "source": "https://onsen.nifty.com/kuma-onsen/onsen010526/ / https://yuru-to.net/detail.php?oid=11845"
+ },
+ {
+  "id": "onsen018303",
+  "name": "錦ヒルトップ 通天の湯",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2025/12/7。",
+  "source": "https://www.tsu-ten.com/ / https://yuru-to.net/detail.php?oid=52716"
+ },
+ {
+  "id": "onsen008811",
+  "name": "いわい温泉ホテル さ蔵",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://iwaionsen.jp/spa/ / https://yuru-to.net/detail.php?oid=11840"
+ },
+ {
+  "id": "onsen008812",
+  "name": "いわい温泉 ひのき屋",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://iwaionsen.jp/spa / https://yuru-to.net/detail.php?oid=21161"
+ },
+ {
+  "id": "onsen022264",
+  "name": "龍乃榊ホテル（薬師の湯宿 龍乃榊）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://ryunokami.com / https://yuru-to.net/detail.php?oid=56848"
+ },
+ {
+  "id": "onsen004364",
+  "name": "いわくらの杜 石庭",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://hitoyoshi-iwakura.com / https://yuru-to.net/detail.php?oid=11838"
+ },
+ {
+  "id": "kumariva-onsen",
+  "name": "くまりば温泉（人吉市まち・ひと・しごと総合交流館）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/7/18。",
+  "source": "https://kumariva.com/onsen/ / https://yuru-to.net/detail.php?oid=50959"
+ },
+ {
+  "id": "onsen009737",
+  "name": "人吉温泉 相良路の湯 おおが",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2023/2/9。",
+  "source": "https://yado.ohga-hitoyoshi.com / https://yuru-to.net/detail.php?oid=11834"
+ },
+ {
+  "id": "onsen004208",
+  "name": "人吉温泉 元湯",
+  "verdict": "修正",
+  "reason": "地震後の口コミ（2026-09-24, 08-16）で営業を確認、caveats の「地震後の営業告知は見つからない」を書き換え。peraichi の公式ページは閲覧不可に。",
+  "source": "https://yuru-to.net/detail.php?oid=11833"
+ },
+ {
+  "id": "onsen008533",
+  "name": "堤温泉",
+  "verdict": "修正",
+  "reason": "地震後の口コミ（2026-08-30〜10-03）で営業を確認、400円も同じ。caveats を書き換え。",
+  "source": "https://yuru-to.net/detail.php?oid=11837"
+ },
+ {
+  "id": "onsen004361",
+  "name": "人吉旅館",
+  "verdict": "問題なし",
+  "reason": "公式「被害もなく、現在も通常通り営業（ご宿泊・日帰り立ち寄り湯）」。",
+  "source": "http://www.hitoyoshiryokan.com / https://yuru-to.net/detail.php?oid=11832"
+ },
+ {
+  "id": "onsen014304",
+  "name": "人吉温泉 鍋屋本館",
+  "verdict": "問題なし",
+  "reason": "公式「通常営業のお知らせ」（2026-07-28 地震）。家族風呂は地震で休止中（caveats に記載済み）。",
+  "source": "https://www.nabeyahonkan.co.jp/ / https://yuru-to.net/detail.php?oid=21152"
+ },
+ {
+  "id": "onsen014777",
+  "name": "三浦屋温泉ビジネスホテル",
+  "verdict": "保留",
+  "reason": "公式サイトは2011年のまま更新がなく、ゆる～と・ニフティに口コミなし。今も立ち寄りを受けているかの新しい情報がない。",
+  "source": "http://www.ntn81.jp/miuraya/index.html"
+ },
+ {
+  "id": "onsen004363",
+  "name": "人吉温泉 芳野旅館",
+  "verdict": "問題なし",
+  "reason": "公式に2026-08-28以降のお知らせあり、宿は営業中（立ち寄りは caveats どおり電話で確認）。",
+  "source": "https://www.yosino.jp/ / https://yuru-to.net/detail.php?oid=11828"
+ },
+ {
+  "id": "onsen004362",
+  "name": "人吉温泉 旅館 翠嵐楼（立ち寄り湯）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://www.suiranrou.jp/onsen/ / https://yuru-to.net/detail.php?oid=11829"
+ },
+ {
+  "id": "onsen019653",
+  "name": "人吉温泉 しらさぎ荘",
+  "verdict": "問題なし",
+  "reason": "公式に熊本ふっこう応援割のお知らせ（2026-09〜）あり、営業中。",
+  "source": "https://www.shirasagisou.jp / https://yuru-to.net/detail.php?oid=11824"
+ },
+ {
+  "id": "onsen004408",
+  "name": "相良藩 願成寺温泉",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/10/13。",
+  "source": "https://hitoyoshikuma-guide.com/2019/02/18/sagarahanganjyoujionsen / https://yuru-to.net/detail.php?oid=11822"
+ },
+ {
+  "id": "onsen004248",
+  "name": "人吉温泉 鶴亀温泉（共同浴場）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/7/24。",
+  "source": "https://www.nap-camp.com/mag/9223 / https://yuru-to.net/detail.php?oid=11820"
+ },
+ {
+  "id": "onsen017113",
+  "name": "中神温泉",
+  "verdict": "保留",
+  "reason": "公式なし。ゆる～と・ニフティに口コミがなく、地震（2026-07-28）後の営業を確かめる情報が見つからない（市の一覧は2024年6月時点）。",
+  "source": "https://yuru-to.net/detail.php?oid=21165"
+ },
+ {
+  "id": "onsen024729",
+  "name": "人吉温泉 癒しの杜",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/6/6。",
+  "source": "http://iyashi.hayaplan.co.jp / https://yuru-to.net/detail.php?oid=36292"
+ },
+ {
+  "id": "onsen004296",
+  "name": "湯の児温泉 昇陽館",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://www.shoyokan.com/ / https://yuru-to.net/detail.php?oid=11817"
+ },
+ {
+  "id": "onsen011195",
+  "name": "白梅湯裸楽",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://www.kaigocsc.co.jp/shiraume/yurara / https://yuru-to.net/detail.php?oid=11813"
+ },
+ {
+  "id": "onsen006952",
+  "name": "湯の児温泉 齊藤旅館",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://www.go-minamata.jp/infodtl.html?ds=2026110121535337123658110021 / https://yuru-to.net/detail.php?oid=20094"
+ },
+ {
+  "id": "onsen013127",
+  "name": "湯の児温泉 温泉いわさき",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://onsen-iwasaki.sakura.ne.jp/ / https://yuru-to.net/detail.php?oid=20092"
+ },
+ {
+  "id": "onsen013285",
+  "name": "湯の児 海と夕やけ",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://umitoyuyake.com/onsen/ / https://yuru-to.net/detail.php?oid=20091"
+ },
+ {
+  "id": "onsen017095",
+  "name": "湯の児温泉 家族湯 中村温泉",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/1/10。",
+  "source": "https://www.go-minamata.jp/infodtl.html?ds=20261101215353185148187310259 / https://yuru-to.net/detail.php?oid=21131"
+ },
+ {
+  "id": "onsen007317",
+  "name": "人吉温泉 華まき温泉",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/6/21。",
+  "source": "https://onsen.nifty.com/hitoyoshi-onsen/onsen007317/ / https://yuru-to.net/detail.php?oid=11804"
+ },
+ {
+  "id": "onsen010509",
+  "name": "岩の湯",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/3/31。",
+  "source": "https://onsen.nifty.com/minamata-onsen/onsen010509/ / https://yuru-to.net/detail.php?oid=11794"
+ },
+ {
+  "id": "onsen004318",
+  "name": "ささ原温泉",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/1/28。",
+  "source": "https://onsen.nifty.com/minamata-onsen/onsen004318/ / https://yuru-to.net/detail.php?oid=11791"
+ },
+ {
+  "id": "onsen015585",
+  "name": "湯浦温泉 亀井荘",
+  "verdict": "保留",
+  "reason": "公式なし。ゆる～とに口コミなし。地震後に立ち寄りを受けているか未確認。",
+  "source": "https://yuru-to.net/detail.php?oid=11792"
+ },
+ {
+  "id": "onsen004402",
+  "name": "道の駅 大野温泉",
+  "verdict": "休業中",
+  "reason": "施設改修のため11/15（予定）まで休館（熊本県 協力公衆浴場一覧 R8.10.29現在、前回確認）。2026-11-05 には同PDFが404で再開の最新は未確認。",
+  "source": "https://www.pref.kumamoto.jp/uploaded/life/283428_909566_misc.pdf（404）"
+ },
+ {
+  "id": "onsen004239",
+  "name": "湯山温泉 元湯",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/5/11。",
+  "source": "https://kumamoto.guide/spots/detail/10218 / https://yuru-to.net/detail.php?oid=1165"
+ },
+ {
+  "id": "onsen024433",
+  "name": "吉尾温泉 共同浴場（町営 吉尾温泉公衆浴場）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/7/17。",
+  "source": "https://yuru-to.net/detail.php?oid=11786 / https://yuru-to.net/detail.php?oid=11786"
+ },
+ {
+  "id": "onsen004359",
+  "name": "天草下田温泉 望洋閣",
+  "verdict": "休業中",
+  "reason": "日帰り入浴は休業中（ゆる～と「日帰り入浴休業中」）、公式の温泉ページにも日帰りの案内なし。宿自体は営業中（公式の新着 2026-10-19）。日帰りの終了とまでは確かめられないので削除せず。",
+  "source": "https://yuru-to.net/detail.php?oid=21175 / https://www.boyokaku.jp/hotspring/"
+ },
+ {
+  "id": "onsen006622",
+  "name": "天草下田温泉 湯本の荘 夢ほたる",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://sanraizukankou.co.jp/yumehotaru/bath/ / https://yuru-to.net/detail.php?oid=20090"
+ },
+ {
+  "id": "onsen004251",
+  "name": "天草下田温泉センター白鷺館（しらさぎかん）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/7/18。",
+  "source": "https://shirasagikan.net/ / https://yuru-to.net/detail.php?oid=11773"
+ },
+ {
+  "id": "ryokan-sachigaoka",
+  "name": "日奈久温泉 旅館幸ケ丘",
+  "verdict": "保留",
+  "reason": "日奈久。自家泉源（組合サイト）なので集中配管の被害を受けていない可能性はあるが、地震後の営業を示す情報なし（ゆる～との最新口コミは2026-05-31）。",
+  "source": "https://yuru-to.net/detail.php?oid=11771 / https://kumanichi.com/articles/2047693"
+ },
+ {
+  "id": "onsen010008",
+  "name": "日奈久温泉 浜膳旅館（貸切湯）",
+  "verdict": "保留",
+  "reason": "日奈久。公式サイトは開くが地震に触れていない。地震後に貸切湯の立ち寄りを受けているか不明。",
+  "source": "https://hamazen.info/bath/ / https://kumanichi.com/articles/2047693"
+ },
+ {
+  "id": "onsen019164",
+  "name": "日奈久温泉 しのはらホテル 浜膳",
+  "verdict": "休業中",
+  "reason": "ゆる～との営業状態が「臨時休業中」（時期不明）。日奈久は2026-07-28の地震で集中配管が壊れ大半の施設に湯が出ていない（熊日 2026-10-17）。公式サイトなし。",
+  "source": "https://yuru-to.net/detail.php?oid=20088 / https://kumanichi.com/articles/2047693"
+ },
+ {
+  "id": "onsen009509",
+  "name": "日奈久温泉 武士屋旅館",
+  "verdict": "保留",
+  "reason": "日奈久。自家源泉（組合サイト）だが、組合サイトは2025年から更新なし。地震後の営業を示す情報なし。",
+  "source": "https://hinagu-onsen.jp/ / https://kumanichi.com/articles/2047693"
+ },
+ {
+  "id": "onsen009214",
+  "name": "隠れ家温泉 古保山リゾート（こおやまリゾート）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/4/22。",
+  "source": "http://www.kohyamaresort.com / https://yuru-to.net/detail.php?oid=11733"
+ },
+ {
+  "id": "onsen004222",
+  "name": "南阿蘇 久木野温泉 四季の森",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://www.aso-shikinomori.com/ / https://yuru-to.net/detail.php?oid=11712"
+ },
+ {
+  "id": "onsen024923",
+  "name": "亀の湯 by HATAGO INN",
+  "verdict": "修正",
+  "reason": "公式で内風呂が11/4から6:00-23:00に短縮、貸切風呂9室は【営業休止中】。大浴場は営業中。",
+  "source": "https://www.hatagoinn.com/kamenoyu/"
+ },
+ {
+  "id": "onsen024775",
+  "name": "木の香湯",
+  "verdict": "問題なし",
+  "reason": "公式トップ「2026.11.05 只今営業中 07:00-22:00」。",
+  "source": "https://konokayu.jp/"
+ },
+ {
+  "id": "onsen004286",
+  "name": "白水温泉 竹の倉山荘",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://www.takenokura.co.jp/ / https://yuru-to.net/detail.php?oid=11704"
+ },
+ {
+  "id": "onsen004416",
+  "name": "地獄温泉 青風荘．",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://jigoku-onsen.co.jp / https://yuru-to.net/detail.php?oid=2233"
+ },
+ {
+  "id": "onsen004287",
+  "name": "垂玉温泉 瀧日和",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/8/23。",
+  "source": "https://tarutama.jp/publicbath/ / https://yuru-to.net/detail.php?oid=11696"
+ },
+ {
+  "id": "onsen004353",
+  "name": "栃木温泉 旅館朝陽 こころの湯",
+  "verdict": "保留",
+  "reason": "公式に日帰りの記載なし（ニフティにも時間・料金なし）。前回から根拠が増えていない。",
+  "source": "http://www.minamiaso.co.jp/"
+ },
+ {
+  "id": "onsen004285",
+  "name": "栃木温泉 小山旅館",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://www.oyama.in/ / https://yuru-to.net/detail.php?oid=53026"
+ },
+ {
+  "id": "onsen016964",
+  "name": "THE ACONCAGUA RESORTS（アコンカグアリゾーツ）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://aconcagua-resorts.net/spa/ / https://yuru-to.net/detail.php?oid=52983"
+ },
+ {
+  "id": "onsen008091",
+  "name": "梶尾温泉",
+  "verdict": "修正",
+  "reason": "熊本市の被災者入浴支援施設リスト（2026-09-04）で 10:00～21:00・月曜休。data は onsen-life の10:00～23:00・第1第3月曜。公式なし。",
+  "source": "https://www.city.kumamoto.jp/kiji00372200/index.html"
+ },
+ {
+  "id": "onsen004446",
+  "name": "天然温泉 きしゃぽっぽ",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/7/9。",
+  "source": "https://onsen.nifty.com/kumamotoshuuhen-onsen/onsen004446/ / https://yuru-to.net/detail.php?oid=11685"
+ },
+ {
+  "id": "onsen011311",
+  "name": "南阿蘇温泉 癒しの里",
+  "verdict": "修正",
+  "reason": "公式 日帰り温泉ページ（2026-11-01 料金改定）で受付14-19時、大浴場 平日600円/土日祝800円、家族風呂2,500/3,000円。",
+  "source": "https://www.iyasinosato.com/day-onsen/"
+ },
+ {
+  "id": "onsen010508",
+  "name": "下大谷温泉 大谷の湯",
+  "verdict": "問題なし",
+  "reason": "公式に8/1 の営業再開のお知らせ、次の定休日11/4 の案内。ゆる～と掲載の口コミの最新は 2026/5/31。",
+  "source": "https://ootanino-yu.com/ / https://yuru-to.net/detail.php?oid=11681"
+ },
+ {
+  "id": "onsen004440",
+  "name": "火の山温泉 どんどこ湯",
+  "verdict": "修正",
+  "reason": "男性サウナ休止は2026-03-25の1日だけ（公式）。時間・料金は data と同じ。",
+  "source": "https://www.dondokoyu.com/news.php"
+ },
+ {
+  "id": "onsen012107",
+  "name": "阿蘇リゾートグランヴィリオホテル（米塚温泉）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://www.grandvrio-hotelresort.com/aso/ / https://yuru-to.net/detail.php?oid=20071"
+ },
+ {
+  "id": "onsen009997",
+  "name": "蘇傳寺温泉",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/6/9。",
+  "source": "https://onsen.nifty.com/kikuchi-onsen/onsen009997/ / https://yuru-to.net/detail.php?oid=34536"
+ },
+ {
+  "id": "onsen011806",
+  "name": "天然温泉 とよみずの湯",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/8/11。",
+  "source": "https://onsen-life.com/facility/toyomizu-no-yu / https://yuru-to.net/detail.php?oid=11670"
+ },
+ {
+  "id": "onsen004284",
+  "name": "乙姫さま温泉 弁財天の湯",
+  "verdict": "保留",
+  "reason": "公式なし。口コミはゆる～と 2024-05、ニフティ 2004 が最新。予約制の貸切露天で、地震後の営業も未確認。",
+  "source": "https://yuru-to.net/detail.php?oid=11666"
+ },
+ {
+  "id": "onsen004215",
+  "name": "しすいラドン温泉",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/5/6。",
+  "source": "https://onsen.nifty.com/kikuchi-onsen/onsen004215/ / https://yuru-to.net/detail.php?oid=1134"
+ },
+ {
+  "id": "onsen005588",
+  "name": "辰頭温泉",
+  "verdict": "修正",
+  "reason": "公式URLが jimdofree.com に移転（旧URLはSSLエラー）。2026-09-12 のお知らせあり、料金350円は同じ。ゆる～とにも2026-08-23 の口コミ。",
+  "source": "https://tatsugashiraonsen.jimdofree.com/"
+ },
+ {
+  "id": "onsen011837",
+  "name": "コスギリゾート 湯ら癒ら",
+  "verdict": "問題なし",
+  "reason": "公式に2026-10-01 リニューアルオープン、11月の店休日の案内（11/4・10・17・24 は定期メンテナンス）。大浴場の時間・料金は data と同じ。",
+  "source": "https://www.kosugiresort.com/spa/ / https://yuru-to.net/detail.php?oid=51865"
+ },
+ {
+  "id": "onsen004439",
+  "name": "天然温泉 野の湯",
+  "verdict": "問題なし",
+  "reason": "公式ブログ（2026-07-29）「設備に大きな被害はなく、通常どおり営業」。ゆる～とに2026-08-04 の口コミ。ゆる～と掲載の口コミの最新は 2026/8/4。",
+  "source": "https://nonoyu.jp/ / https://yuru-to.net/detail.php?oid=11658"
+ },
+ {
+  "id": "onsen017087",
+  "name": "純乃時 湯願",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/5/15。",
+  "source": "http://www.yu-gan.com/ / https://yuru-to.net/detail.php?oid=11641"
+ },
+ {
+  "id": "onsen004450",
+  "name": "プライベート スパ クラゲ",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2025/6/25。",
+  "source": "https://kurage-tamana.com / https://yuru-to.net/detail.php?oid=11651"
+ },
+ {
+  "id": "onsen007390",
+  "name": "宝田温泉 宝の湯",
+  "verdict": "問題なし",
+  "reason": "熊本市リスト（2026-09-04）「宝の湯（5：00～22：00）休：なし」で data と同じ。公式はJSで本文を読めない。",
+  "source": "https://takara-yu.com"
+ },
+ {
+  "id": "onsen004378",
+  "name": "玉名ファミリー温泉",
+  "verdict": "保留",
+  "reason": "公式なし（公衆浴場組合の掲載のみ）。ゆる～と・ニフティに日付のある口コミなし。夕方2時間半・不定休。",
+  "source": "https://kuma1010.com/custom/410/"
+ },
+ {
+  "id": "onsen004305",
+  "name": "阿蘇坊中温泉 夢の湯",
+  "verdict": "問題なし",
+  "reason": "公式の営業時間・料金が data と同じ。ゆる～とに2026-07-29 の口コミ。ゆる～と掲載の口コミの最新は 2026/7/29。",
+  "source": "http://www.aso.ne.jp/~yumenoyu/ / https://yuru-to.net/detail.php?oid=1152"
+ },
+ {
+  "id": "onsen004379",
+  "name": "玉名市大衆浴場 玉の湯",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/5/7。",
+  "source": "https://www.city.tamana.lg.jp/q/aview/429/3494.html / https://yuru-to.net/detail.php?oid=1136"
+ },
+ {
+  "id": "onsen007421",
+  "name": "亀の甲温泉",
+  "verdict": "修正",
+  "reason": "公式で2026-07-01から大浴場300→400円、回数券3,000→4,000円。トップの営業時間は11:00-22:00。",
+  "source": "https://kamenokouonsen.com"
+ },
+ {
+  "id": "onsen024429",
+  "name": "玉名温泉 金峰園",
+  "verdict": "保留",
+  "reason": "公式の Facebook は開けず（エラー）、ゆる～と・ニフティに口コミなし。根拠は2023年の4travel 口コミだけ。",
+  "source": "https://yuru-to.net/detail.php?oid=34534"
+ },
+ {
+  "id": "onsen004412",
+  "name": "那古井館別邸 玉響（家族湯）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://tamana-tamayura.com/ / https://yuru-to.net/detail.php?oid=21215"
+ },
+ {
+  "id": "onsen024798",
+  "name": "ひきの荘",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://www.hikinoso.com / https://yuru-to.net/detail.php?oid=34533"
+ },
+ {
+  "id": "onsen004358",
+  "name": "玉名温泉 尚玄山荘",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://www.shougensansou.net/onsen/ / https://yuru-to.net/detail.php?oid=11637"
+ },
+ {
+  "id": "onsen011597",
+  "name": "立願寺温泉ホテル 湯里",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://www.ryuganjionsenhotel-yuri.com/onsen.php / https://yuru-to.net/detail.php?oid=21216"
+ },
+ {
+  "id": "onsen017061",
+  "name": "家族湯 はなみずき",
+  "verdict": "問題なし",
+  "reason": "公式（2026-07-29）「当店は被害もなく、通常営業」。ゆる～と掲載の口コミの最新は 2026/6/14。",
+  "source": "https://hanamizuki.in/ / https://yuru-to.net/detail.php?oid=11635"
+ },
+ {
+  "id": "onsen004448",
+  "name": "天然家族温泉 蘇ざき",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/4/5。",
+  "source": "https://www.sozaki.net / https://yuru-to.net/detail.php?oid=11631"
+ },
+ {
+  "id": "onsen018492",
+  "name": "天然温泉 地涌の温泉",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/10/11。",
+  "source": "https://chikaku.jp.net / https://yuru-to.net/detail.php?oid=51328"
+ },
+ {
+  "id": "onsen004449",
+  "name": "家族湯 七城の森",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/6/15。",
+  "source": "https://onsen.nifty.com/kikuchi-onsen/onsen004449/ / https://yuru-to.net/detail.php?oid=11629"
+ },
+ {
+  "id": "onsen004456",
+  "name": "今宵の湯宿 悠然",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://www.ueki-yuuzen.com/onsen.html / https://yuru-to.net/detail.php?oid=21223"
+ },
+ {
+  "id": "onsen024458",
+  "name": "湯るっと邸 桜坂",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/5/24。",
+  "source": "https://www.yuruttoteisakurazaka.co.jp / https://yuru-to.net/detail.php?oid=53598"
+ },
+ {
+  "id": "onsen016562",
+  "name": "白金の森",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://shirokane-mori.jp / https://yuru-to.net/detail.php?oid=53008"
+ },
+ {
+  "id": "onsen014957",
+  "name": "植木温泉 和風旅館 鷹の家",
+  "verdict": "問題なし",
+  "reason": "熊本市リスト（2026-09-04）「旅館 鷹の家（10：00～15：00、18：00～21：00）」。data（9:00～15:00／18:00～21:00、公式由来）と朝の開始が1時間違うが、公式の本文を読めず確定できないので直さない。",
+  "source": "https://ueki-takanoya.com / https://yuru-to.net/detail.php?oid=21219"
+ },
+ {
+  "id": "onsen010852",
+  "name": "旅館平山",
+  "verdict": "修正",
+  "reason": "熊本市リスト（2026-09-04）で10-16時・18-21時（data は10-22時、16-18時不可）。公式サイトは本文が読めない作り。",
+  "source": "https://www.city.kumamoto.jp/kiji00372200/index.html"
+ },
+ {
+  "id": "onsen013065",
+  "name": "植木温泉 旅館 松乃湯",
+  "verdict": "修正",
+  "reason": "data に時間なし。熊本市リスト（2026-09-04）で立ち寄り10-12時・15-21時、9月も営業。",
+  "source": "https://www.city.kumamoto.jp/kiji00372200/index.html"
+ },
+ {
+  "id": "onsen009948",
+  "name": "ふろや湯湧",
+  "verdict": "修正",
+  "reason": "熊本市リスト（2026-09-04）で12:00～22:00（ニフティは10:00～22:00）。2026年9月も営業。",
+  "source": "https://www.city.kumamoto.jp/kiji00372200/index.html"
+ },
+ {
+  "id": "onsen014092",
+  "name": "植木温泉 旅館 桐乃湯",
+  "verdict": "修正",
+  "reason": "熊本市リスト（2026-09-04）で10:00～18:00・不定休（data はゆる～との10-19時）。",
+  "source": "https://www.city.kumamoto.jp/kiji00372200/index.html"
+ },
+ {
+  "id": "onsen019596",
+  "name": "植木温泉 旅館いろは",
+  "verdict": "問題なし",
+  "reason": "公式の立ち寄り8-22時が data と同じ。熊本市リスト（2026-09）では10-21時の掲載（被災者向けの時間の可能性）。",
+  "source": "http://www.ryokan-iroha.com/index.html / https://yuru-to.net/detail.php?oid=20080"
+ },
+ {
+  "id": "onsen024831",
+  "name": "植木温泉 ほてい湯",
+  "verdict": "問題なし",
+  "reason": "公式の時間・定休・料金が data と同じ。ゆる～とに2026-10 の口コミ、熊本市リスト（2026-09）にも掲載。ゆる～と掲載の口コミの最新は 2026/10/23。",
+  "source": "https://hotei-yu.com / https://yuru-to.net/detail.php?oid=57593"
+ },
+ {
+  "id": "onsen019587",
+  "name": "荒尾温泉 ドリームの湯",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/4/8。",
+  "source": "http://www.heiseikai.jp/health/dream_yu / https://yuru-to.net/detail.php?oid=11618"
+ },
+ {
+  "id": "onsen013368",
+  "name": "植木温泉 湯の森ホテル（旧 荒木観光ホテル）",
+  "verdict": "問題なし",
+  "reason": "公式「当面の間、日帰り温泉の営業時間を延長」10時-24時・700円で data と同じ。熊本市リスト（2026-09）にも掲載。",
+  "source": "https://www.arakihotel.jp/ / https://yuru-to.net/detail.php?oid=56972"
+ },
+ {
+  "id": "onsen007597",
+  "name": "あしはらの湯",
+  "verdict": "問題なし",
+  "reason": "熊本市リスト（2026-09-04）に9-22時・第3水曜休で data と同じ。ゆる～とに2026-10-15 の口コミ。ゆる～と掲載の口コミの最新は 2026/10/15。",
+  "source": "https://kuma1010.com/custom/403/ / https://yuru-to.net/detail.php?oid=11616"
+ },
+ {
+  "id": "onsen018053",
+  "name": "阿蘇内牧温泉 ホテル角萬",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://breezbay-group.com/kadoman/bath/index.html / https://yuru-to.net/detail.php?oid=11613"
+ },
+ {
+  "id": "onsen016823",
+  "name": "阿蘇内牧音泉 湯楽",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。ゆる～と掲載の口コミの最新は 2026/2/18。",
+  "source": "https://onsen.nifty.com/asosanroku-onsen/onsen016823/ / https://yuru-to.net/detail.php?oid=51329"
+ },
+ {
+  "id": "onsen014089",
+  "name": "阿蘇内牧温泉 旅館 金時",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://kintoki-spa.com/onsen-spa/ / https://yuru-to.net/detail.php?oid=20074"
+ },
+ {
+  "id": "onsen011100",
+  "name": "内牧温泉 七福温泉（共同浴場）",
+  "verdict": "問題なし",
+  "reason": "阿蘇市の公衆浴場一覧に掲載（13:00～21:30・不定休・200円、休業の表示なし）。ゆる～とに2026-05-31 の口コミ。ゆる～と掲載の口コミの最新は 2026/5/31。",
+  "source": "https://www.city.aso.kumamoto.jp/tourism/spot/accommodation_hot-springs/spa_center-2/ / https://yuru-to.net/detail.php?oid=11610"
+ },
+ {
+  "id": "onsen018445",
+  "name": "後藤温泉",
+  "verdict": "問題なし",
+  "reason": "菊池観光協会のページに立ち寄り湯あり（中学以上200円）で data と同じ。ゆる～とに2026-02 の口コミ。ゆる～と掲載の口コミの最新は 2026/2/10。",
+  "source": "https://kikuchikanko.ne.jp/lodging/gotoonsen / https://yuru-to.net/detail.php?oid=11609"
+ },
+ {
+  "id": "onsen004326",
+  "name": "湯巡追荘（ゆめおいそう）",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "http://www.yumeoisou.com / https://yuru-to.net/detail.php?oid=11607"
+ },
+ {
+  "id": "onsen004355",
+  "name": "阿蘇内牧温泉 蘇山郷",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://sozankyo.com/bath/ / https://yuru-to.net/detail.php?oid=11608"
+ },
+ {
+  "id": "onsen016251",
+  "name": "内牧温泉 天然温泉 大阿蘇（町湯）",
+  "verdict": "問題なし",
+  "reason": "阿蘇市の一覧に掲載（7:00～21:00・不定休・300円）。ゆる～とに2026-07-01 の口コミ。ゆる～と掲載の口コミの最新は 2026/7/1。",
+  "source": "https://yuru-to.net/detail.php?oid=11606 / https://yuru-to.net/detail.php?oid=11606"
+ },
+ {
+  "id": "onsen004371",
+  "name": "宝湯＜温泉割烹 がね政＞",
+  "verdict": "問題なし",
+  "reason": "阿蘇市の一覧に掲載（休業の表示なし。市は11:00～21:30・400円）。",
+  "source": "https://www.city.aso.kumamoto.jp/tourism/spot/accommodation_hot-springs/spa_center-2"
+ },
+ {
+  "id": "onsen004255",
+  "name": "旅の宿 阿蘇乃湯",
+  "verdict": "問題なし",
+  "reason": "公式（2026-07-01）「【立ち寄り湯】営業時間15時～20時 定休日：毎週水曜日」で data と同じ。",
+  "source": "http://www.asonoyu.com/"
+ },
+ {
+  "id": "onsen011101",
+  "name": "阿蘇内牧温泉 五岳ホテル",
+  "verdict": "問題なし",
+  "reason": "公式・掲載ページは開け、閉館・休業・日帰り終了のお知らせなし。時間・料金に data との違いは見つからない。",
+  "source": "https://gogakuhotel.com / https://yuru-to.net/detail.php?oid=11600"
+ },
+ {
+  "id": "onsen013248",
+  "name": "あその旅宿 鷹の庄",
+  "verdict": "保留",
+  "reason": "公式は宿泊の案内のみで日帰りの記載なし（ニフティにも時間・料金なし）。前回から根拠が増えていない。",
+  "source": "http://takanosho.com"
+ },
+ {
+  "id": "onsen008221",
+  "name": "雲海薬師温泉（内牧温泉 薬師温泉）",
+  "verdict": "問題なし",
+  "reason": "公式の時間・料金が data と同じ。ゆる～と掲載の口コミの最新は 2026/7/6。",
+  "source": "https://www.unkaiyakushi-onsen.com/ / https://yuru-to.net/detail.php?oid=11596"
+ },
+ {
+  "id": "onsen007406",
+  "name": "内牧温泉 湯の宿入船",
+  "verdict": "問題なし",
+  "reason": "公式「11月 日帰り温泉営業のお知らせ」（休館日は毎週水曜と11/5・11/26）。地震後は7/30から通常営業（公式 2026-07-28）。",
+  "source": "http://irifune-aso.jp / https://yuru-to.net/detail.php?oid=11594"
+ }
+]
