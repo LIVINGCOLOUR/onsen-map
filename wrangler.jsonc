@@ -1,7 +1,7 @@
-// Cloudflare Workers の静的アセットとして index.html と data.json を配信する。
-// デプロイ: npx wrangler deploy
+// 旧URL namaonsen.mon-m.workers.dev を新しい https://kakeyu.pages.dev へ転送する Worker。
+// サイト本体の公開は ./deploy.sh（Cloudflare Pages の kakeyu プロジェクト）。
 {
   "name": "namaonsen",
   "compatibility_date": "2026-10-30",
-  "assets": { "directory": "." }
+  "main": "redirect.js"
 }
