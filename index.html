@@ -88,6 +88,9 @@
       .picker button small { display: block; font-size: 11px; font-weight: 600; color: var(--mut); margin-top: 2px; }
       .picker button:hover { border-color: var(--accent); }
       .picker button.all { grid-column: 1 / -1; }
+      .picker button.wide { border-color: var(--accent); }
+      .picker button.back { background: transparent; color: var(--mut); font-size: 13px; padding: 8px; }
+      .picker button:disabled { opacity: .35; cursor: default; }
       .areactl {
         border: 1px solid var(--line); background: rgba(19,28,33,.9); color: var(--txt);
         border-radius: 999px; padding: 9px 14px; font-size: 14px; font-weight: 800;
@@ -209,8 +212,8 @@
       <div id="map"></div>
       <div class="picker" id="picker" hidden>
         <div class="box">
-          <h2>どのあたりの温泉を見ますか？</h2>
-          <p>選んだ地方を地図いっぱいに表示します。あとから地図の右下のボタンでいつでも切り替えられます。</p>
+          <h2 id="picktitle">どのあたりの温泉を見ますか？</h2>
+          <p id="picknote">選んだところを地図いっぱいに表示します。あとから地図の右下のボタンでいつでも切り替えられます。</p>
           <div class="grid" id="pickgrid"></div>
         </div>
       </div>
@@ -258,7 +261,13 @@
       ];
       const picker = document.getElementById("picker");
       const pickgrid = document.getElementById("pickgrid");
-      const startArea = REGIONS.find((g) => g.key === new URLSearchParams(location.search).get("area")) || null;
+      const startParams = new URLSearchParams(location.search);
+      const startArea = REGIONS.find((g) => g.key === startParams.get("area")) || null;
+      const startPref = PREFS.includes(startParams.get("pref")) ? startParams.get("pref") : null;
+      // パネルでの地方の並び（関東を左上に。利用者が多い関東・九州を見つけやすく）
+      const PICK_ORDER = ["kanto", "hokkaido", "tohoku", "chubu", "kinki", "chugoku", "shikoku", "kyushu", "okinawa"];
+      // 県を選んだとき、離島で引きすぎないよう本土に寄せる県
+      const PREF_BOX = { "鹿児島": [[30.9, 129.9], [32.3, 131.3]], "北海道": [[41.4, 139.6], [45.5, 145.6]] };
       const opened = new Set();
       let lastKey = "";
       let q = "";
@@ -544,23 +553,62 @@
       function fitTo(rs) {
         if (rs.length) map.fitBounds(rs.map((r) => [r.lat, r.lng]), { padding: [30, 30], maxZoom: 10 });
       }
+      // 地図を動かしたあとの共通処理（右下ボタンの表示・URL・スマホは地図タブへ）
+      function afterGo(label, param, value, push) {
+        picker.hidden = true;
+        const ctl = document.getElementById("areactl");
+        if (ctl) ctl.innerHTML = "📍 " + esc(label) + ' <span>地方を選ぶ</span>';
+        if (push) {
+          const u = new URL(location.href);
+          u.searchParams.delete("area");
+          u.searchParams.delete("pref");
+          if (param) u.searchParams.set(param, value);
+          history.replaceState(null, "", u);
+        }
+        if (mobile()) setView("map");
+      }
       function goArea(key, push = true) {
         const g = REGIONS.find((x) => x.key === key);
         if (g && g.box) map.fitBounds(g.box);
         else fitTo(g ? records.filter((r) => g.prefs.includes(r.prefecture)) : records);
-        picker.hidden = true;
-        const ctl = document.getElementById("areactl");
-        if (ctl) ctl.innerHTML = "📍 " + (g ? g.label : "全国") + ' <span>地方を選ぶ</span>';
-        if (push) {
-          const u = new URL(location.href);
-          if (g) u.searchParams.set("area", g.key); else u.searchParams.delete("area");
-          history.replaceState(null, "", u);
-        }
-        if (typeof setView === "function" && window.matchMedia("(max-width: 760px)").matches) setView("map");
+        afterGo(g ? g.label : "全国", g ? "area" : null, g && g.key, push);
+      }
+      function goPref(pref, push = true) {
+        if (PREF_BOX[pref]) map.fitBounds(PREF_BOX[pref]);
+        else fitTo(records.filter((r) => r.prefecture === pref));
+        afterGo(pref, "pref", pref, push);
+      }
+      const countIn = (prefs) => records.filter((r) => prefs.includes(r.prefecture)).length;
+      // 1段目: 地方を選ぶ
+      function showRegions() {
+        document.getElementById("picktitle").textContent = "どのあたりの温泉を見ますか？";
+        pickgrid.innerHTML =
+          PICK_ORDER.map((k) => REGIONS.find((g) => g.key === k)).map((g) =>
+            '<button data-region="' + g.key + '">' + g.label + "<small>" + countIn(g.prefs) + " 件</small></button>").join("") +
+          '<button class="all" data-area="all">全国を見る<small>' + records.length + " 件</small></button>";
+      }
+      // 2段目: その地方の県を選ぶ（いちばん上は地方全体）
+      function showPrefs(g) {
+        document.getElementById("picktitle").textContent = g.label + "のどこを見ますか？";
+        pickgrid.innerHTML =
+          '<button class="all wide" data-area="' + g.key + '">' + g.label + "全体を見る<small>" + countIn(g.prefs) + " 件</small></button>" +
+          g.prefs.map((p) => {
+            const n = countIn([p]);
+            return '<button data-pref="' + p + '"' + (n ? "" : " disabled") + ">" + p + "<small>" + n + " 件</small></button>";
+          }).join("") +
+          '<button class="all back" data-back="1">← 地方の選択に戻る</button>';
       }
       pickgrid.addEventListener("click", (e) => {
-        const b = e.target.closest("[data-area]");
-        if (b) goArea(b.dataset.area);
+        const b = e.target.closest("button");
+        if (!b || b.disabled) return;
+        if (b.dataset.region) {
+          const g = REGIONS.find((x) => x.key === b.dataset.region);
+          // 県が1つの地方（北海道・沖縄）はそのまま地図へ
+          if (g.prefs.length === 1) goArea(g.key);
+          else showPrefs(g);
+        } else if (b.dataset.pref) goPref(b.dataset.pref);
+        else if (b.dataset.area) goArea(b.dataset.area);
+        else if (b.dataset.back) showRegions();
       });
       picker.addEventListener("click", (e) => { if (e.target === picker) picker.hidden = true; });
       // 地図の右下に「地方を選ぶ」ボタン。押すと最初と同じ地方選びのパネルを出す
@@ -571,7 +619,7 @@
           b.id = "areactl";
           b.textContent = "📍 地方を選ぶ";
           L.DomEvent.disableClickPropagation(b);
-          b.addEventListener("click", () => { picker.hidden = false; });
+          b.addEventListener("click", () => { showRegions(); picker.hidden = false; });
           return b;
         },
       });
@@ -582,11 +630,9 @@
         .then((data) => {
           records = data.items.filter((r) => typeof r.lat === "number" && typeof r.lng === "number");
           document.getElementById("updated").textContent = "（データ更新 " + data.updated + "）";
-          pickgrid.innerHTML =
-            REGIONS.filter((g) => !g.hidden).map((g) =>
-              '<button data-area="' + g.key + '">' + g.label + "<small>" + records.filter((r) => g.prefs.includes(r.prefecture)).length + " 件</small></button>").join("") +
-            '<button class="all" data-area="all">全国を見る<small>' + records.length + " 件</small></button>";
-          if (startArea) goArea(startArea.key, false);
+          showRegions();
+          if (startPref) goPref(startPref, false);
+          else if (startArea) goArea(startArea.key, false);
           else { fitTo(records); picker.hidden = false; }
           render();
         })
