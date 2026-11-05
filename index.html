@@ -60,7 +60,27 @@
         border: 1px solid var(--line); background: var(--bg); color: var(--txt);
         border-radius: 999px; padding: 4px 11px; font-size: 12px; width: 150px;
       }
-      .main { flex: 1; display: flex; min-height: 0; }
+      .main { flex: 1; display: flex; min-height: 0; position: relative; }
+      .picker {
+        position: absolute; inset: 0; z-index: 1300; display: flex; align-items: center; justify-content: center;
+        background: rgba(11,17,20,.72); padding: 16px;
+      }
+      .picker[hidden] { display: none; }
+      .picker .box {
+        background: var(--panel); border: 1px solid var(--line); border-radius: 16px;
+        padding: 18px; width: 100%; max-width: 520px; box-shadow: 0 10px 40px rgba(0,0,0,.5);
+      }
+      .picker h2 { margin: 0 0 4px; font-size: 16px; }
+      .picker p { margin: 0 0 14px; font-size: 12px; color: var(--mut); }
+      .picker .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+      .picker button {
+        border: 1px solid var(--line); background: var(--panel2); color: var(--txt);
+        border-radius: 12px; padding: 12px 6px; font-size: 14px; font-weight: 800;
+      }
+      .picker button small { display: block; font-size: 11px; font-weight: 600; color: var(--mut); margin-top: 2px; }
+      .picker button:hover { border-color: var(--accent); }
+      .picker button.all { grid-column: 1 / -1; }
+      .areabtn { color: var(--txt); }
       #map { flex: 1; min-height: 320px; }
       .side {
         width: 380px; overflow-y: auto; border-left: 1px solid var(--line);
@@ -155,6 +175,7 @@
         </span></details>
       </div>
       <div class="chips" id="chips">
+        <button class="chip on areabtn" id="areabtn">📍 地方を選ぶ</button>
         <span id="chipset" style="display: contents"></span>
         <input class="search" id="search" type="search" placeholder="名前・地名で絞る">
       </div>
@@ -165,6 +186,13 @@
     </div>
     <div class="main">
       <div id="map"></div>
+      <div class="picker" id="picker" hidden>
+        <div class="box">
+          <h2>どのあたりの温泉を見ますか？</h2>
+          <p>選んだ地方を地図いっぱいに表示します。あとから上の「地方を選ぶ」で切り替えられます。</p>
+          <div class="grid" id="pickgrid"></div>
+        </div>
+      </div>
       <div class="sheet" id="sheet"></div>
       <div class="side" id="side"></div>
     </div>
@@ -193,8 +221,23 @@
       let hits = [];
       let markers = new Map();
       let selected = null;
-      // 昔の ?area=kumamoto のリンクは熊本に寄せて開く
-      const startPref = new URLSearchParams(location.search).get("area") === "kumamoto" ? "熊本" : null;
+      // 入口で選ぶ地方。?area=kyushu のように URL に残す（昔の ?area=kumamoto は熊本だけに寄せる）
+      const REGIONS = [
+        // box は離島で引きすぎないよう、本土を中心にした表示範囲 [[南, 西], [北, 東]]
+        { key: "hokkaido", label: "北海道", prefs: ["北海道"], box: [[41.4, 139.6], [45.5, 145.6]] },
+        { key: "tohoku", label: "東北", prefs: ["青森", "岩手", "宮城", "秋田", "山形", "福島"], box: [[36.8, 139.3], [41.5, 142.0]] },
+        { key: "kanto", label: "関東", prefs: ["茨城", "栃木", "群馬", "埼玉", "千葉", "東京", "神奈川"], box: [[34.9, 138.6], [37.1, 140.9]] },
+        { key: "chubu", label: "中部", prefs: ["新潟", "富山", "石川", "福井", "山梨", "長野", "岐阜", "静岡", "愛知"], box: [[34.6, 135.9], [38.5, 139.8]] },
+        { key: "kinki", label: "近畿", prefs: ["三重", "滋賀", "京都", "大阪", "兵庫", "奈良", "和歌山"], box: [[33.4, 134.3], [35.8, 136.9]] },
+        { key: "chugoku", label: "中国", prefs: ["鳥取", "島根", "岡山", "広島", "山口"], box: [[33.8, 130.8], [35.7, 134.5]] },
+        { key: "shikoku", label: "四国", prefs: ["徳島", "香川", "愛媛", "高知"], box: [[32.7, 132.0], [34.5, 134.8]] },
+        { key: "kyushu", label: "九州", prefs: ["福岡", "佐賀", "長崎", "熊本", "大分", "宮崎", "鹿児島"], box: [[31.0, 129.6], [34.0, 132.1]] },
+        { key: "okinawa", label: "沖縄", prefs: ["沖縄"], box: [[24.0, 123.0], [27.0, 128.4]] },
+        { key: "kumamoto", label: "熊本", prefs: ["熊本"], hidden: true },
+      ];
+      const picker = document.getElementById("picker");
+      const pickgrid = document.getElementById("pickgrid");
+      const startArea = REGIONS.find((g) => g.key === new URLSearchParams(location.search).get("area")) || null;
       const opened = new Set();
       let lastKey = "";
       let q = "";
@@ -451,13 +494,40 @@
         if (b) setView(b.dataset.view);
       });
 
+      function fitTo(rs) {
+        if (rs.length) map.fitBounds(rs.map((r) => [r.lat, r.lng]), { padding: [30, 30], maxZoom: 10 });
+      }
+      function goArea(key, push = true) {
+        const g = REGIONS.find((x) => x.key === key);
+        if (g && g.box) map.fitBounds(g.box);
+        else fitTo(g ? records.filter((r) => g.prefs.includes(r.prefecture)) : records);
+        picker.hidden = true;
+        document.getElementById("areabtn").textContent = "📍 " + (g ? g.label : "全国");
+        if (push) {
+          const u = new URL(location.href);
+          if (g) u.searchParams.set("area", g.key); else u.searchParams.delete("area");
+          history.replaceState(null, "", u);
+        }
+        if (typeof setView === "function" && window.matchMedia("(max-width: 760px)").matches) setView("map");
+      }
+      pickgrid.addEventListener("click", (e) => {
+        const b = e.target.closest("[data-area]");
+        if (b) goArea(b.dataset.area);
+      });
+      picker.addEventListener("click", (e) => { if (e.target === picker) picker.hidden = true; });
+      document.getElementById("areabtn").addEventListener("click", () => { picker.hidden = false; });
+
       fetch("data.json")
         .then((res) => { if (!res.ok) throw new Error("読み込み失敗 (" + res.status + ")"); return res.json(); })
         .then((data) => {
           records = data.items.filter((r) => typeof r.lat === "number" && typeof r.lng === "number");
           document.getElementById("updated").textContent = "（データ更新 " + data.updated + "）";
-          const start = records.filter((r) => !startPref || r.prefecture === startPref);
-          map.fitBounds(start.map((r) => [r.lat, r.lng]), { padding: [30, 30], maxZoom: 10 });
+          pickgrid.innerHTML =
+            REGIONS.filter((g) => !g.hidden).map((g) =>
+              '<button data-area="' + g.key + '">' + g.label + "<small>" + records.filter((r) => g.prefs.includes(r.prefecture)).length + " 件</small></button>").join("") +
+            '<button class="all" data-area="all">全国を見る<small>' + records.length + " 件</small></button>";
+          if (startArea) goArea(startArea.key, false);
+          else { fitTo(records); picker.hidden = false; }
           render();
         })
         .catch((err) => { side.innerHTML = '<div class="err">' + esc(err.message) + "</div>"; });
