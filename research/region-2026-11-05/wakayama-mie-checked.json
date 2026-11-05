@@ -1,0 +1,10411 @@
+[
+ {
+  "name": "松阪温泉 熊野の郷",
+  "address": "三重県松阪市中万町2074-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "源泉風呂1つ以外は加水・循環・消毒（口コミ、源泉バンク備考）",
+  "id": "onsen007912"
+ },
+ {
+  "name": "アソビックスあさひ あさひの湯",
+  "address": "三重県三重郡朝日町小向181",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（口コミ。つぼ湯のみ消毒かけ流し）",
+  "id": "onsen002999"
+ },
+ {
+  "name": "癒しの里 名張の湯",
+  "address": "三重県名張市希央台2番町77-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素消毒あり（口コミ）、かけ流しの根拠なし",
+  "id": "onsen010404"
+ },
+ {
+  "name": "伊賀の国大山田温泉 さるびの",
+  "address": "三重県伊賀市上阿波2953",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "源泉かけ流しは一部の浴槽のみ、主浴槽は加温循環（口コミ・公式）",
+  "id": "onsen002975"
+ },
+ {
+  "name": "おふろcafé あげき温泉",
+  "address": "三重県いなべ市北勢町阿下喜788 （いなべ阿下喜ベース内）",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "保留",
+  "reason": "公式に「かけ流しのアルカリ性の温泉」「毎日お湯を落として張りかえ」とあるが循環の有無・浴槽ごとの記載なし、口コミなし。電話0594-82-1126で「循環ろ過している浴槽はあるか、浴槽の湯に塩素を入れているか」を聞けば決まる",
+  "id": "onsen007463"
+ },
+ {
+  "name": "天然温泉 クアハウス長島",
+  "address": "三重県桑名市長島町福吉879-5",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "公式「全ての浴槽がかけ流し…ろ過、加温、循環は一切しておりません」",
+  "id": "onsen002997"
+ },
+ {
+  "name": "極楽湯 津店",
+  "address": "三重県津市白塚町3678番地　SENOPARK（セノパーク）津内",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しは一部浴槽のみ（スーパー銭湯、循環浴槽あり）",
+  "id": "onsen007532"
+ },
+ {
+  "name": "伊勢 船江温泉 みたすの湯",
+  "address": "三重県伊勢市船江1丁目471番3",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素（口コミ）、かけ流しの根拠なし",
+  "id": "onsen009612"
+ },
+ {
+  "name": "島ヶ原温泉 やぶっちゃの湯",
+  "address": "三重県伊賀市島ヶ原13680",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しは「こっとの湯」のみ、主浴槽は加温循環（公式・口コミ）",
+  "id": "onsen006341"
+ },
+ {
+  "name": "香肌峡温泉 いいたかの湯（かはだきょうおんせん）",
+  "address": "三重県松阪市飯高町宮前177",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加水・加温・循環・消毒（口コミ・源泉バンク）",
+  "id": "onsen003064"
+ },
+ {
+  "name": "野天もくもくの湯",
+  "address": "三重県伊賀市西湯舟3609",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "内湯・露天上段は循環（口コミ2023年）",
+  "id": "onsen003022"
+ },
+ {
+  "name": "湯あみの島（ナガシマリゾート）",
+  "address": "三重県桑名市長島町浦安333",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環併用の浴槽あり（口コミ・源泉バンク）",
+  "id": "onsen002996"
+ },
+ {
+  "name": "湯元山荘 湯ノ口温泉",
+  "address": "三重県熊野市紀和町湯ノ口10",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "公式「源泉かけ流し」、口コミで全浴槽かけ流し",
+  "id": "onsen002985"
+ },
+ {
+  "name": "鈴鹿 天然温泉 花しょうぶ",
+  "address": "三重県鈴鹿市庄野羽山4丁目20番3号 イオンタウン鈴鹿内",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しは源泉風呂・壺湯など一部のみ、ほかは循環",
+  "id": "onsen008119"
+ },
+ {
+  "name": "天然温泉ジャブ",
+  "address": "三重県四日市市波木町1077-73",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "保留",
+  "reason": "公式は「本当のかけ流し温泉」「源泉掛け流し」とするが、2011年の口コミにうたせ湯・リラックスバス・ジュビナバスは循環とある。電話059-322-5111で「循環ろ過している浴槽はあるか、塩素を入れているか」を聞けば決まる",
+  "id": "onsen002989"
+ },
+ {
+  "name": "鈴鹿さつき温泉",
+  "address": "三重県鈴鹿市津賀町850-2",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "公式「100%かけ流し…循環させずに浴槽に流し入れ」",
+  "id": "onsen002968"
+ },
+ {
+  "name": "一志温泉やすらぎの湯",
+  "address": "三重県津市一志町井関1792",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・消毒（口コミ）",
+  "id": "onsen002965"
+ },
+ {
+  "name": "希望荘",
+  "address": "三重県三重郡菰野町千草杜葉谷7094",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加水・加温・循環・消毒（口コミ・源泉バンク）",
+  "id": "onsen005662"
+ },
+ {
+  "name": "なばなの里",
+  "address": "三重県桑名市長島町駒江漆畑270",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加水・循環・消毒（口コミ）。なばなの里 里の湯",
+  "id": "onsen002995"
+ },
+ {
+  "name": "内山温泉 共同浴場",
+  "address": "三重県四日市市内山",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "口コミ2024年「循環ろ過も無く、消毒も無く…かけ流し」",
+  "id": "onsen005859"
+ },
+ {
+  "name": "昭和レトロ銭湯　一乃湯",
+  "address": "三重県伊賀市上野西日南町1762",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環（口コミ）、普通の銭湯でかけ流しの根拠なし",
+  "id": "onsen009802"
+ },
+ {
+  "name": "ゆうゆう会館",
+  "address": "三重県四日市市智積町3359",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しは大露天風呂、内湯は循環（公式は露天のみかけ流しと記載、口コミ2014年）",
+  "id": "onsen002986"
+ },
+ {
+  "name": "きいながしま古里温泉",
+  "address": "三重県北牟婁郡紀北町古里816",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加水・加温・循環・消毒（口コミ）",
+  "id": "onsen002981"
+ },
+ {
+  "name": "阿曽温泉 阿曽湯の里",
+  "address": "三重県度会郡大紀町阿曽429",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加水・加温・循環・消毒（口コミ）",
+  "id": "onsen003066"
+ },
+ {
+  "name": "松ヶ島共同浴場",
+  "address": "三重県桑名市十日外面３４９",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "保留",
+  "reason": "加水かけ流し・塩素なしの根拠が2006～2010年の口コミのみ。営業は2020年の口コミで確認（150円、17:00～）。公式・電話番号なし。現地か桑名市に「今も営業しているか、循環・消毒の有無」を確かめる必要",
+  "id": "onsen005858"
+ },
+ {
+  "name": "三休の湯",
+  "address": "三重県三重郡菰野町千草7163",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・塩素消毒（口コミ）",
+  "id": "onsen006256"
+ },
+ {
+  "name": "保健福祉センターけやき せせらぎの湯",
+  "address": "三重県三重郡菰野町潤田1281",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "収録",
+  "reason": "口コミ2008・2014年でかけ流し、2026年7月の入浴口コミで営業を確認（夏季のみ・水着混浴）",
+  "id": "onsen007257"
+ },
+ {
+  "name": "汐湯・おかげ風呂舘 旭湯",
+  "address": "三重県伊勢市神久1-1-16",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "温泉ではない（海水を沸かした汐湯の銭湯）",
+  "id": "onsen007901"
+ },
+ {
+  "name": "碁石の里 神川温泉共同浴場",
+  "address": "三重県熊野市神川町神上214",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "onsen-life「加水のない100%源泉かけ流し」、口コミ（2022年）",
+  "id": "onsen008318"
+ },
+ {
+  "name": "サンドセラピー砂羽",
+  "address": "三重県津市榊原町1354-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "保留",
+  "reason": "砂風呂サロン。公式に「かけ流し温泉にご入浴もできます」、口コミ2022年「加温有り、循環無しのかけ流し」。温泉は砂風呂コースの一部で完全予約制。電話059-252-1007で「温泉入浴だけの利用はできるか、料金」を聞けば決まる",
+  "id": "onsen011821"
+ },
+ {
+  "name": "湾岸長島パーキングエリア足湯",
+  "address": "三重県桑名市長島町松蔭",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen003063"
+ },
+ {
+  "name": "いなべ阿下喜ベース",
+  "address": "三重県いなべ市北勢町阿下喜788",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "g7（おふろcafé あげき温泉）と同一施設",
+  "id": "onsen018581"
+ },
+ {
+  "name": "小萬の湯",
+  "address": "三重県亀山市関町新所1974番地1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "水道水で希釈・循環加温・塩素滅菌（公式）",
+  "id": "onsen017371"
+ },
+ {
+  "name": "鈴鹿国定公園国民宿舎　湯の山ロッジ",
+  "address": "三重県三重郡菰野町菰野8497-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "光明石の人工温泉（天然温泉のかけ流しではない）",
+  "id": "onsen012761"
+ },
+ {
+  "name": "白龍温泉",
+  "address": "三重県度会郡玉城町蚊野2148-8",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（情報が営業時間のみ）",
+  "id": "onsen018497"
+ },
+ {
+  "name": "バーベキュー鈴鹿峠",
+  "address": "三重県亀山市関町坂下722-5",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "温泉だけの利用不可（食事・宿泊客のみ、公式FAQ）",
+  "id": "onsen018251"
+ },
+ {
+  "name": "猪の倉温泉 しらさぎ苑（いのくら）（閉館しました）",
+  "address": "三重県津市白山町佐田2643",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen002967"
+ },
+ {
+  "name": "桑名天然温泉 元気村 (閉館しました)",
+  "address": "三重県桑名市福岡町471-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（2019年11月から休業、ニフティ表示）",
+  "id": "onsen002984"
+ },
+ {
+  "name": "青蓮寺レークホテル（閉館しました）",
+  "address": "三重県名張市青蓮寺峯の山1652",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館。循環（口コミ）",
+  "id": "onsen003027"
+ },
+ {
+  "name": "宝来荘（閉館しました）",
+  "address": "三重県志摩市浜島町浜島1416",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館。循環（口コミ）",
+  "id": "onsen003021"
+ },
+ {
+  "name": "シャカ志島ペンション",
+  "address": "三重県志摩市阿児町志島市後1249",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "宿泊施設で日帰り入浴の案内が見つからない（公式サイトなし）",
+  "id": "onsen022898"
+ },
+ {
+  "name": "プラフィーノリゾートヴィラ",
+  "address": "三重県伊勢市二見町西1994-3",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "客室の露天風呂のみの宿泊施設（日帰り不可）",
+  "id": "onsen022349"
+ },
+ {
+  "name": "アクアイグニス　片岡温泉",
+  "address": "三重県三重郡菰野町菰野4800-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "公式「加水・加温・循環一切無しの源泉100％かけ流し」",
+  "id": "onsen002969"
+ },
+ {
+  "name": "湯元榊原舘（さかきばらかん）/日帰り温泉【湯の庄】",
+  "address": "三重県津市榊原町5970",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "公式「源泉かけ流し風呂以外は源泉加温かけ流し」",
+  "id": "onsen003025"
+ },
+ {
+  "name": "グリーンホテル",
+  "address": "三重県三重郡菰野町千草7054-173",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "大きな内湯・露天は循環・加温・消毒、かけ流しは小浴槽のみ（口コミ2018・2022年）",
+  "id": "onsen003041"
+ },
+ {
+  "name": "ラムちゃんパーク 榊原温泉 湯の瀬",
+  "address": "三重県津市榊原町6103",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・消毒（口コミ）",
+  "id": "onsen002976"
+ },
+ {
+  "name": "入鹿温泉 ホテル 瀞流荘",
+  "address": "三重県熊野市紀和町小川口158",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・消毒（口コミ）",
+  "id": "onsen003007"
+ },
+ {
+  "name": "山の湯湯元赤目 山水園",
+  "address": "三重県名張市赤目町柏原1203",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加水・加温・循環ろ過（公式）",
+  "id": "onsen002987"
+ },
+ {
+  "name": "志摩スペイン村 天然温泉 ひまわりの湯",
+  "address": "三重県志摩市磯部町坂崎",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環ろ過式（公式）",
+  "id": "onsen003023"
+ },
+ {
+  "name": "わんわんパラダイス 松阪",
+  "address": "三重県松阪市飯高町森2296-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加水・加温・循環・消毒（口コミ・源泉バンク）",
+  "id": "onsen002978"
+ },
+ {
+  "name": "ホテル季の座",
+  "address": "三重県北牟婁郡紀北町東長島3043-4",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加水・加温・循環併用式（公式）",
+  "id": "onsen006884"
+ },
+ {
+  "name": "神湯館（日帰り入浴休業中）",
+  "address": "三重県津市榊原町5079",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴・宿泊とも無期限休業（公式）",
+  "id": "onsen003051"
+ },
+ {
+  "name": "鹿の湯ホテル",
+  "address": "三重県三重郡菰野町菰野8520-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・塩素＋オゾン消毒（口コミ・源泉バンク）",
+  "id": "onsen003050"
+ },
+ {
+  "name": "心湯あそび ねぼーや",
+  "address": "三重県志摩市阿児町甲賀4578-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "保留",
+  "reason": "g941（ねぼーや 志摩別邸）と同一。貸切風呂5つで日帰り入浴可（12:00～17:00、予約優先）。公式で「温泉掛け流し」と書くのは2つだけで、ほかの3つ（檜美の湯・家族風呂2つ、1つは休止中）の湯使いが書かれていない。源泉18.6℃を加温。電話0599-45-0111で「全部の貸切風呂が加温かけ流しで循環なしか、塩素の有無」を聞けば決まる",
+  "id": "onsen009101"
+ },
+ {
+  "name": "新浜島温泉 プレミアリゾート 夕雅 伊勢志摩",
+  "address": "三重県志摩市浜島町浜島1645",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "加水・加温・循環ろ過・消毒（口コミ）",
+  "id": "onsen003019"
+ },
+ {
+  "name": "ホテル プロヴァンス",
+  "address": "三重県志摩市阿児町明神660",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "2026年5月31日で日帰り入浴のみの受付終了（公式）。循環（口コミ）",
+  "id": "onsen003057"
+ },
+ {
+  "name": "磨洞温泉涼風荘",
+  "address": "三重県津市半田2860-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "運び湯で岩風呂は循環とみられる（口コミ2010年）、かけ流しの根拠はニフティの分類のみ",
+  "id": "onsen003056"
+ },
+ {
+  "name": "渓流の宿 蔵之助",
+  "address": "三重県三重郡菰野町菰野8625",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "「加水なしの循環システム」（公式）",
+  "id": "onsen003047"
+ },
+ {
+  "name": "浜離宮",
+  "address": "三重県鳥羽市鳥羽1-22-19",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "保留",
+  "reason": "日帰り入浴あり（17:00～21:30、大人1,000円、公式）。公式は「自家源泉100%」とするがかけ流し・循環の記載なし。根拠はニフティの分類のみ、2006年の口コミに露天の塩素臭。電話0599-25-6868で「循環ろ過の有無、塩素の有無」を聞けば決まる",
+  "id": "onsen002970"
+ },
+ {
+  "name": "四季亭 三峯園",
+  "address": "三重県三重郡菰野町菰野8625-3",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・消毒（口コミ）",
+  "id": "onsen003049"
+ },
+ {
+  "name": "オテル・ド・マロニエ湯の山温泉",
+  "address": "三重県三重郡菰野町大字菰野字湯ノ山8563",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・消毒（口コミ・源泉バンク）",
+  "id": "onsen003035"
+ },
+ {
+  "name": "ホテル多度温泉",
+  "address": "三重県桑名市多度町古野2692",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り温泉は会員限定（公式）",
+  "id": "onsen009154"
+ },
+ {
+  "name": "石鏡第一ホテル 神倶良(かぐら)",
+  "address": "三重県鳥羽市石鏡町338-5",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴のみの利用は不可（公式FAQ）",
+  "id": "onsen003016"
+ },
+ {
+  "name": "三慶園",
+  "address": "三重県三重郡菰野町大字菰野8520",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "保留",
+  "reason": "日帰り入浴11:00～14:30・大人800円（公式・湯の山温泉協会）。かけ流しの根拠はニフティの分類のみで、公式に湯使いの記載なし、口コミもない。電話059-392-2255で「循環ろ過・加温・塩素の有無」を聞けば決まる",
+  "id": "onsen003036"
+ },
+ {
+  "name": "料理旅館　庄助",
+  "address": "三重県桑名郡木曽岬町源緑輪中794",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "保留",
+  "reason": "源泉62℃を流量調節で適温にしている（公式）。公式に日帰り入浴の案内がない。電話0567-68-1801で「日帰り入浴（入浴のみ／食事付き）を受けているか、料金・時間」を聞けば決まる",
+  "id": "onsen009163"
+ },
+ {
+  "name": "湯の山 素粋居",
+  "address": "三重県三重郡菰野町菰野4842-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "離れの宿泊施設（日帰り不可）",
+  "id": "onsen016932"
+ },
+ {
+  "name": "フォレスト　ヴィラ　榊原温泉",
+  "address": "三重県津市榊原町ソヤ谷1538",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "ゴルフ倶楽部併設のヴィラ。日帰りプランの提供なし（公式）",
+  "id": "onsen014615"
+ },
+ {
+  "name": "湯淵（湯元）",
+  "address": "三重県熊野市神川町神上 渡",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "保留",
+  "reason": "onsen-life に営業時間・料金のみ（9:00～21:00、大人550円）。電話番号・公式・湯使いの情報なし、実在も確かめられなかった（WebSearch でも見つからず）",
+  "id": null
+ },
+ {
+  "name": "アクアイグニス",
+  "address": "三重県三重郡菰野町菰野４８００−１",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "g288（アクアイグニス 片岡温泉）と同一",
+  "id": null
+ },
+ {
+  "name": "せせらぎ湯",
+  "address": "三重県三重郡菰野町潤田１２８１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "g70（けやき せせらぎの湯）と同一",
+  "id": null
+ },
+ {
+  "name": "大露天風呂 なごみの湯",
+  "address": "三重県三重郡菰野町千草７０５４−１７３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "g290（グリーンホテル）と同一。循環浴槽あり",
+  "id": null
+ },
+ {
+  "name": "京町共同浴場",
+  "address": "三重県松阪市京町２４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "普通の銭湯とみられる（460円）。かけ流しの根拠なし",
+  "id": null
+ },
+ {
+  "name": "ウィスタリアンライフクラブ鳥羽",
+  "address": "三重県鳥羽市安楽島町１０４５−１７",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "宿泊施設、かけ流し・日帰りの根拠なし",
+  "id": null
+ },
+ {
+  "name": "ともやまの湯",
+  "address": "三重県志摩市大王町船越３２３８−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環ろ過式（公式）",
+  "id": null
+ },
+ {
+  "name": "まろき湯の宿 湯元 榊原舘",
+  "address": "三重県津市榊原町５９７０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "g289（湯元榊原舘 湯の庄）と同一",
+  "id": null
+ },
+ {
+  "name": "榊原温泉 まろき湯の宿 湯元 榊原舘",
+  "address": "〒514-1251 津市榊原町5970",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "g289（湯元榊原舘 湯の庄）と同一",
+  "id": null
+ },
+ {
+  "name": "美食の隠れ家 PROVENCE",
+  "address": "三重県志摩市阿児町神明660",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "g316（ホテル プロヴァンス）と同一。日帰り入浴終了",
+  "id": null
+ },
+ {
+  "name": "秀丸花ごころ 〜絶景に心をゆだね海の恵みを食す宿〜",
+  "address": "〒517-0026 三重県鳥羽市石鏡町392",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "日帰りは食事付きプランのみ、貸切風呂は運び湯でかけ流しの根拠なし",
+  "id": null
+ },
+ {
+  "name": "伊勢志摩 温泉掛け流しの宿 ねぼーや 志摩別邸",
+  "address": "〒517-0505 三重県志摩市阿児町甲賀4578-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "保留",
+  "reason": "g307 と同一（ねぼーや 志摩別邸）",
+  "id": null
+ },
+ {
+  "name": "天然温泉 ゆの里",
+  "address": "和歌山県橋本市神野々898",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素あり（口コミ、分析表「かけ流しと循環ろ過を併用し塩素消毒」）",
+  "id": "onsen003455"
+ },
+ {
+  "name": "かつらぎ温泉 八風の湯",
+  "address": "和歌山県伊都郡かつらぎ町佐野702",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "一部の浴槽が循環式（公式「一部の浴槽は循環式」「加温の為循環装置を使用」）",
+  "id": "onsen005739"
+ },
+ {
+  "name": "ふくろうの湯",
+  "address": "和歌山県和歌山市本町2丁目1番地　フォルテワジマ地下1階",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "主浴槽が循環加温（口コミ2019・2015）。源泉掛け流しは一部の浴槽のみ",
+  "id": "onsen008100"
+ },
+ {
+  "name": "ホテル川久",
+  "address": "和歌山県西牟婁郡白浜町3745",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環・塩素消毒（口コミ）・かけ流しの根拠なし",
+  "id": "onsen003461"
+ },
+ {
+  "name": "やどり温泉いやしの湯",
+  "address": "和歌山県橋本市北宿5",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "内湯は循環方式（公式「温度管理および衛生維持のため循環方式」）",
+  "id": "onsen003472"
+ },
+ {
+  "name": "SHIRAHAMA KEY TERRACE HOTEL SEAMORE",
+  "address": "和歌山県西牟婁郡白浜町1821",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "掛け流しと循環の併用（口コミ2023）。全浴槽かけ流しの根拠なし",
+  "id": "onsen005107"
+ },
+ {
+  "name": "和歌の浦温泉　萬波　MANPA RESORT（マンパリゾート）",
+  "address": "和歌山県和歌山市新和歌浦2-10",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろか式・加水加温（公式）",
+  "id": "onsen003471"
+ },
+ {
+  "name": "亀の井ホテル熊野田辺（旧 亀の井ホテル紀伊田辺）",
+  "address": "和歌山県田辺市目良24-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加水・加温・循環・消毒あり（口コミ・源泉バンク）",
+  "id": "onsen008495"
+ },
+ {
+  "name": "天然紀州黒潮温泉",
+  "address": "和歌山県和歌山市毛見1525",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環・消毒臭（口コミ）",
+  "id": "onsen003415"
+ },
+ {
+  "name": "花山温泉 薬師の湯",
+  "address": "和歌山県和歌山市鳴神574",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife",
+   "realonsen",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 花山温泉 薬師の湯",
+  "id": "onsen003417"
+ },
+ {
+  "name": "白浜銀座 足湯横丁",
+  "address": "和歌山県西牟婁郡白浜町1379",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen003509"
+ },
+ {
+  "name": "鮪乃湯",
+  "address": "和歌山県東牟婁郡那智勝浦町築地6-1-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ（県温泉協会「足湯施設」）",
+  "id": "onsen003507"
+ },
+ {
+  "name": "望海のゆ",
+  "address": "和歌山県西牟婁郡すさみ町江住字ハダ672番1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "陶器の壺湯3つのみ源泉掛け流し（口コミ2021）。他の浴槽のかけ流しの根拠なし",
+  "id": "onsen016862"
+ },
+ {
+  "name": "釜の崎温泉 がまの湯 田舎宿川口",
+  "address": "和歌山県田辺市龍神村小家1013-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・消毒（口コミ2010）・かけ流しの根拠なし",
+  "id": "onsen008465"
+ },
+ {
+  "name": "南紀白浜 井の芝",
+  "address": "和歌山県西牟婁郡白浜町７９７",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しは岩風呂のみと読める。各貸切室に薬草湯（変わり湯）・ジャグジー・壺湯を併設し、全浴槽かけ流しの根拠なし",
+  "id": "onsen024859"
+ },
+ {
+  "name": "癒し処からす屋　熊野本宮",
+  "address": "和歌山県 / 田辺市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "からす屋は休憩所・足湯系、営業情報・温泉浴槽の根拠なし",
+  "id": "onsen003514"
+ },
+ {
+  "name": "白浜温泉パーク草原の湯（閉館しました）",
+  "address": "和歌山県西牟婁郡白浜町2927-553",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003439"
+ },
+ {
+  "name": "ホテル浦島",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦1165-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: ホテル浦島",
+  "id": "onsen003431"
+ },
+ {
+  "name": "渡瀬温泉 心の宿 わたらせ温泉 大露天風呂",
+  "address": "和歌山県田辺市本宮町渡瀬45-1",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "熊野本宮観光協会",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: わたらせ温泉 大露天風呂",
+  "id": "onsen003453"
+ },
+ {
+  "name": "おくとろ温泉　やまのやど",
+  "address": "和歌山県東牟婁郡北山村下尾井476",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "内湯・露天が加温循環（口コミ2018・2014）",
+  "id": "onsen003413"
+ },
+ {
+  "name": "鶴の湯温泉（つるのゆおんせん）",
+  "address": "和歌山県日高郡みなべ町熊瀬川47",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "営業時間外は循環ろ過・加温・塩素消毒（浴室掲示を引いた口コミ2009〜2011）。公式は「源泉かけ流し」と書くが循環なしの根拠なし",
+  "id": "onsen003443"
+ },
+ {
+  "name": "ホテルベルヴェデーレ",
+  "address": "和歌山県西牟婁郡すさみ町周参見4857-3",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・掛け流し併用、加温、塩素消毒（県温泉協会）",
+  "id": "onsen007887"
+ },
+ {
+  "name": "加太淡嶋温泉 大阪屋ひいなの湯",
+  "address": "和歌山県和歌山市加太142",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・消毒（口コミ）・かけ流しの根拠なし",
+  "id": "onsen003505"
+ },
+ {
+  "name": "季楽里 龍神",
+  "address": "和歌山県田辺市龍神村龍神189",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・加温・塩素系薬剤（県温泉協会）",
+  "id": "onsen006859"
+ },
+ {
+  "name": "休暇村南紀勝浦",
+  "address": "和歌山県東牟婁郡那智勝浦町宇久井719",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "掛け流しは陶器風呂のみ。他の浴槽は循環ろ過・加水・加温（公式・源泉バンク・口コミ）",
+  "id": "onsen003478"
+ },
+ {
+  "name": "滝原温泉ほたるの湯",
+  "address": "和歌山県有田郡広川町下津木1539",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・掛け流し併用、塩素系薬剤（県温泉協会）",
+  "id": "onsen003446"
+ },
+ {
+  "name": "紀三井寺ガーデンホテルはやし 花の湯",
+  "address": "和歌山県和歌山市紀三井寺673",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環・消毒（口コミ・源泉バンク）",
+  "id": "onsen008349"
+ },
+ {
+  "name": "大江戸温泉物語Premium 越之湯",
+  "address": "和歌山県東牟婁郡那智勝浦町大字湯川1108",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "脱衣所の掲示に循環あり・塩素消毒あり（口コミ2017）",
+  "id": "onsen007931"
+ },
+ {
+  "name": "美里の湯 かじか荘",
+  "address": "和歌山県海草郡紀美野町菅沢6",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環・消毒（口コミ）",
+  "id": "onsen003444"
+ },
+ {
+  "name": "白良荘 グランドホテル",
+  "address": "和歌山県西牟婁郡白浜町868",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・掛け流しの併用（公式FAQ・県温泉協会）",
+  "id": "onsen005112"
+ },
+ {
+  "name": "南紀月の瀬温泉ぼたん荘",
+  "address": "和歌山県東牟婁郡古座川町月野瀬881-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環ろ過・消毒（浴室の張り紙を引いた口コミ2015・2017）",
+  "id": "onsen003457"
+ },
+ {
+  "name": "しらさぎ",
+  "address": "和歌山県西牟婁郡白浜町椿1056-22",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife",
+   "realonsen"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 旅館しらさぎ（椿温泉）",
+  "id": "onsen003463"
+ },
+ {
+  "name": "かわべ温泉 ペンションきさく きさくの湯",
+  "address": "和歌山県日高郡日高川町平川小田894-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環湯・消毒（口コミ）",
+  "id": "onsen003447"
+ },
+ {
+  "name": "渡瀬温泉センターおとなしの郷",
+  "address": "和歌山県田辺市本宮町渡瀬45-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・掛け流しの併用（県温泉協会）",
+  "id": "onsen003410"
+ },
+ {
+  "name": "HOTEL SHIRAHAMAKAN（白浜館）",
+  "address": "和歌山県西牟婁郡白浜町白良浜1379",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: HOTEL SHIRAHAMAKAN（白浜館）",
+  "id": "onsen003481"
+ },
+ {
+  "name": "ビジネスホテル串本",
+  "address": "和歌山県東牟婁郡串本町串本1820-3",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "収録",
+  "reason": "収録: ビジネスホテル串本（串本温泉）",
+  "id": "onsen009382"
+ },
+ {
+  "name": "汐見の湯（ホテルなぎさや）",
+  "address": "和歌山県東牟婁郡那智勝浦町湯川955-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife",
+   "那智勝浦観光機構",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: ホテルなぎさや 汐見の湯",
+  "id": "onsen003451"
+ },
+ {
+  "name": "伊せや",
+  "address": "和歌山県田辺市本宮町湯峯102",
+  "source": [
+   "nifty",
+   "realonsen"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 旅館伊せや",
+  "id": "onsen007790"
+ },
+ {
+  "name": "大江戸温泉物語Premium 白浜彩朝楽",
+  "address": "和歌山県西牟婁郡白浜町3753",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（源泉バンク「かけ流しではない」）",
+  "id": "onsen003448"
+ },
+ {
+  "name": "休暇村紀州加太（きゅうかむら きしゅうかだ）",
+  "address": "和歌山県和歌山市深山483",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（源泉バンク「かけ流しではない」）",
+  "id": "onsen012456"
+ },
+ {
+  "name": "むさし",
+  "address": "和歌山県西牟婁郡白浜町868",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "斉明湯は循環ろ過（源泉バンク・口コミ2017「２階大浴場は循環式」）。県温泉協会では日帰り入浴「なし」",
+  "id": "onsen005114"
+ },
+ {
+  "name": "熊野古道の宿 霧の郷たかはら",
+  "address": "和歌山県田辺市中辺路町高原826",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "わたらせ温泉の湯を使用、かけ流しの根拠なし（口コミで消毒臭）",
+  "id": "onsen010746"
+ },
+ {
+  "name": "大江戸温泉物語Premium 白浜御苑(旧南紀白浜温泉 白浜御苑）",
+  "address": "和歌山県西牟婁郡白浜町1011",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "放流・循環併用、加水加温、塩素（源泉バンク）",
+  "id": "onsen007924"
+ },
+ {
+  "name": "湯治の庭 熊野川湯（旧 亀屋旅館本館）",
+  "address": "和歌山県田辺市本宮町川湯1434",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "保留",
+  "reason": "湯治の庭 熊野川湯：公式・ニフティに浴槽ごとの湯使い（かけ流し・循環・消毒）の記載がない。電話 0735-29-1717 で「内湯・外湯は源泉かけ流しか、循環ろ過・消毒はあるか」を聞けば決まる",
+  "id": "onsen009174"
+ },
+ {
+  "name": "四季の郷～遊楽～　コテージ四季",
+  "address": "和歌山県西牟婁郡白浜町堅田2399-3",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠が公式の一文だけ（源泉バンクでは加水・加温、循環不明）。日帰りは宿泊施設の Shiosai Spa",
+  "id": "onsen014701"
+ },
+ {
+  "name": "まごころの宿　丸井旅館",
+  "address": "和歌山県田辺市龍神村西9-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・加温・ヨウ素消毒（県温泉協会）",
+  "id": "onsen014389"
+ },
+ {
+  "name": "ASA VILLAGE（休業中）",
+  "address": "和歌山県西牟婁郡白浜町1252-11",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "休業中（ニフティ表示）",
+  "id": "onsen013579"
+ },
+ {
+  "name": "崎の湯",
+  "address": "和歌山県西牟婁郡白浜町湯崎1668",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife",
+   "白浜町",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 崎の湯",
+  "id": "onsen003434"
+ },
+ {
+  "name": "つぼ湯",
+  "address": "和歌山県田辺市本宮町湯の峰110",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "熊野本宮観光協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: つぼ湯",
+  "id": "onsen003412"
+ },
+ {
+  "name": "仙人風呂",
+  "address": "和歌山県田辺市本宮町川湯",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife",
+   "熊野本宮観光協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 仙人風呂",
+  "id": "onsen003454"
+ },
+ {
+  "name": "ゆりの山温泉",
+  "address": "和歌山県東牟婁郡那智勝浦町二河8",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "那智勝浦観光機構"
+  ],
+  "verdict": "収録",
+  "reason": "収録: ゆりの山温泉",
+  "id": "onsen003420"
+ },
+ {
+  "name": "湯の峰温泉公衆浴場",
+  "address": "和歌山県田辺市本宮町湯峰110",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "熊野本宮観光協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 湯の峰温泉公衆浴場",
+  "id": "onsen003411"
+ },
+ {
+  "name": "川湯温泉公衆浴場",
+  "address": "和歌山県田辺市本宮町川湯1423",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "熊野本宮観光協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 川湯温泉公衆浴場",
+  "id": "onsen003409"
+ },
+ {
+  "name": "龍神温泉元湯",
+  "address": "和歌山県田辺市龍神村龍神37",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "露天風呂は循環・加温、塩素系薬剤と銀イオン（県温泉協会「循環ろ過、掛け流しの併用」、口コミ2025）",
+  "id": "onsen003404"
+ },
+ {
+  "name": "長生の湯（ちょうせい）",
+  "address": "和歌山県西牟婁郡白浜町古賀浦2763",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "realonsen",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 長生の湯",
+  "id": "onsen003493"
+ },
+ {
+  "name": "牟婁の湯",
+  "address": "和歌山県西牟婁郡白浜町湯崎1665",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife",
+   "白浜町",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 牟婁の湯",
+  "id": "onsen003442"
+ },
+ {
+  "name": "神通温泉",
+  "address": "和歌山県紀の川市神通150-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・掛け流しの併用、次亜塩素酸ナトリウム（県温泉協会）",
+  "id": "onsen003426"
+ },
+ {
+  "name": "二ノ丸温泉",
+  "address": "和歌山県有田郡湯浅町山田1638-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・加温・塩素系薬剤（県温泉協会）",
+  "id": "onsen003422"
+ },
+ {
+  "name": "奥熊野温泉 女神の湯",
+  "address": "和歌山県田辺市中辺路町近露128-1 アイリスパークオートキャンプ場",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り温泉は当面休業（公式）",
+  "id": "onsen003468"
+ },
+ {
+  "name": "きよもん湯",
+  "address": "和歌山県東牟婁郡那智勝浦町湯川1062",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "収録: きよもん湯",
+  "id": "onsen003435"
+ },
+ {
+  "name": "白良湯（しららゆ）",
+  "address": "和歌山県西牟婁郡白浜町白浜3313-1",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "白浜町",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 白良湯",
+  "id": "onsen003441"
+ },
+ {
+  "name": "弘法湯",
+  "address": "和歌山県東牟婁郡串本町姫572",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "保留",
+  "reason": "弘法湯（串本・貸切半露天）：浴槽に加温湯と冷たい源泉を蛇口で入れる方式（口コミ）。公式に湯使いの記載がなく、循環ろ過の有無・かけ流しかを確かめられない。電話で「浴槽は循環ろ過なしのかけ流しか（溜め湯か）」を聞けば決まる",
+  "id": "onsen003407"
+ },
+ {
+  "name": "えびね温泉",
+  "address": "和歌山県西牟婁郡白浜町向平504",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "白浜町",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: えびね温泉",
+  "id": "onsen003437"
+ },
+ {
+  "name": "美女湯温泉",
+  "address": "和歌山県東牟婁郡古座川町長追257",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環あり（口コミ2017「循環ありですが、消毒なし」、2015）",
+  "id": "onsen003408"
+ },
+ {
+  "name": "丹生ヤマセミ温泉館",
+  "address": "和歌山県田辺市龍神村丹生ノ川266",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・掛け流しの併用、次亜塩素酸ナトリウム（県温泉協会）",
+  "id": "onsen003489"
+ },
+ {
+  "name": "かなや明恵峡温泉",
+  "address": "和歌山県有田郡有田川町修理川81-3",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・加温・塩素系薬剤と紫外線（県温泉協会）",
+  "id": "onsen003494"
+ },
+ {
+  "name": "白浜温泉 とれとれの湯",
+  "address": "和歌山県西牟婁郡白浜町堅田2508",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環・消毒・加水加温（口コミ）",
+  "id": "onsen008859"
+ },
+ {
+  "name": "椿はなの湯",
+  "address": "和歌山県西牟婁郡白浜町椿1058-1",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "realonsen",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 椿はなの湯",
+  "id": "onsen009071"
+ },
+ {
+  "name": "串本温泉サンゴの湯",
+  "address": "和歌山県東牟婁郡串本町サンゴ台1123",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "ろ過循環と掛け流しの併用（公式）",
+  "id": "onsen003406"
+ },
+ {
+  "name": "天然温泉公衆浴場　はまゆ",
+  "address": "和歌山県東牟婁郡那智勝浦町大字勝浦970",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife",
+   "那智勝浦観光機構",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 天然温泉公衆浴場 はまゆ",
+  "id": "onsen003458"
+ },
+ {
+  "name": "しみず温泉",
+  "address": "和歌山県有田郡有田川町清水1225-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・加温・加水・消毒（県温泉協会）",
+  "id": "onsen003421"
+ },
+ {
+  "name": "松乃湯",
+  "address": "和歌山県西牟婁郡白浜町瀬戸743-1",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "白浜町"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 松乃湯",
+  "id": "onsen003440"
+ },
+ {
+  "name": "有田川温泉 光の湯",
+  "address": "和歌山県有田市星尾37",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・加温・塩素系薬剤（県温泉協会）",
+  "id": "onsen003418"
+ },
+ {
+  "name": "四季の郷温泉",
+  "address": "和歌山県東牟婁郡那智勝浦町大字橋ノ川287",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: 四季の郷温泉",
+  "id": "onsen007396"
+ },
+ {
+  "name": "ユーバス和歌山店",
+  "address": "和歌山県和歌山市湊20",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温・循環ろ過（公式）",
+  "id": "onsen003496"
+ },
+ {
+  "name": "きのくに温泉",
+  "address": "和歌山県海南市日方字新濱1274-76",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温の為の循環・加水・消毒（分析表を引いた口コミ2013・2011）",
+  "id": "onsen008348"
+ },
+ {
+  "name": "千畳の湯グランパス",
+  "address": "和歌山県西牟婁郡白浜町千畳敷2953-3",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "加温の為の循環あり（口コミ2013）。2020年の口コミでは長く休館、営業状況も不明",
+  "id": "onsen003449"
+ },
+ {
+  "name": "那智駅交流センター丹敷の湯（休止中）",
+  "address": "和歌山県東牟婁郡那智勝浦町浜ノ宮361-2",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・掛け流しの併用、塩素系薬剤（県温泉協会）。休止中",
+  "id": "onsen003433"
+ },
+ {
+  "name": "しらすな",
+  "address": "和歌山県西牟婁郡白浜町864",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "白浜町",
+   "和歌山県温泉協会"
+  ],
+  "verdict": "収録",
+  "reason": "収録: しらすな",
+  "id": "onsen003450"
+ },
+ {
+  "name": "あやめの湯 鳴滝",
+  "address": "和歌山県日高郡日高川町高津尾852-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環ろ過・加水・加温・塩素系薬剤（県温泉協会）",
+  "id": "onsen003424"
+ },
+ {
+  "name": "熊野川温泉さつき",
+  "address": "和歌山県新宮市熊野川町日足707",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環・消毒（口コミ2017）、一部掛け流しの併用",
+  "id": "onsen003414"
+ },
+ {
+  "name": "富里温泉 乙女の湯",
+  "address": "和歌山県田辺市下川下982",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環併用・加温・消毒（口コミ2010〜2013）",
+  "id": "onsen003428"
+ },
+ {
+  "name": "海の里 みちしおの湯",
+  "address": "和歌山県日高郡日高町方杭100",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "内湯・露天とも循環・消毒（口コミ）",
+  "id": "onsen003445"
+ },
+ {
+  "name": "美山療養温泉館",
+  "address": "和歌山県日高郡日高川町初湯川1587",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り温泉は休止中（公式「現在、日帰り温泉は行っておりません」）。循環でもある",
+  "id": "onsen003425"
+ },
+ {
+  "name": "海乃湯",
+  "address": "和歌山県東牟婁郡那智勝浦町築地7-1181-442",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen003513"
+ },
+ {
+  "name": "滝乃湯",
+  "address": "和歌山県東牟婁郡那智勝浦町築地1181-125",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen003510"
+ },
+ {
+  "name": "幸福湯",
+  "address": "和歌山県和歌山市北休賀町31幸福マンション1F",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "温泉ではない銭湯（かけ流しは地下水の水風呂のみ）",
+  "id": "onsen017291"
+ },
+ {
+  "name": "夏明温泉 せせらぎの湯",
+  "address": "和歌山県有田郡広川町上津木1652番地1",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（onsen-life の掲載のみで湯使い・営業の情報なし）",
+  "id": null
+ },
+ {
+  "name": "広東共同浴場",
+  "address": "和歌山県有田郡広川町広３４７−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（地域の銭湯。温泉の湯使いの情報なし）",
+  "id": null
+ },
+ {
+  "name": "加太淡嶋温泉 天空の湯",
+  "address": "和歌山県和歌山市深山４８３ 休暇村紀州加太",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "g599（休暇村紀州加太）と同一。かけ流しの根拠なし",
+  "id": null
+ },
+ {
+  "name": "郷の湯",
+  "address": "和歌山県西牟婁郡白浜町堅田２３９９−３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "g660（四季の郷 遊楽）と同一。かけ流しの根拠が公式の一文だけ",
+  "id": null
+ },
+ {
+  "name": "釜ノ崎温泉",
+  "address": "和歌山県田辺市龍神村小家１０１３−３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "g438（釜の崎温泉 がまの湯）と同一。加温・循環・消毒（口コミ2010）",
+  "id": null
+ },
+ {
+  "name": "川湯薬師の湯",
+  "address": "和歌山県田辺市本宮町川湯",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "施設の実体・湯使いの情報なし（onsen-life の掲載のみ。電話は熊野本宮観光協会）",
+  "id": null
+ },
+ {
+  "name": "天然温泉 長生の湯",
+  "address": "和歌山県西牟婁郡白浜町２７６３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g711（長生の湯）と同一）",
+  "id": "onsen003493"
+ },
+ {
+  "name": "湯の峰温泉 つぼ湯",
+  "address": "和歌山県田辺市本宮町湯峯",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g705（つぼ湯）と同一）",
+  "id": "onsen003412"
+ },
+ {
+  "name": "家族湯",
+  "address": "和歌山県田辺市本宮町湯峯１１０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g708（湯の峰温泉公衆浴場）の家族湯。同一施設）",
+  "id": "onsen003411"
+ },
+ {
+  "name": "川湯温泉の自分で掘る温泉",
+  "address": "和歌山県田辺市本宮町川湯１４４０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "河原を自分で掘る野湯（施設の浴槽ではない）",
+  "id": null
+ },
+ {
+  "name": "さごんの湯",
+  "address": "和歌山県東牟婁郡那智勝浦町湯川",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "施設の情報なし（onsen-life に営業時間・料金・湯使いの記載なし）",
+  "id": null
+ },
+ {
+  "name": "あかつきの湯",
+  "address": "和歌山県東牟婁郡那智勝浦町市屋",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "太地町地域福祉センター梛の浴場。温泉・かけ流しの根拠なし",
+  "id": null
+ },
+ {
+  "name": "わたらせ温泉 貸切露天風呂",
+  "address": "和歌山県田辺市本宮町渡瀬１０４９",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g551（わたらせ温泉）の貸切露天風呂。同一施設）",
+  "id": "onsen003453"
+ },
+ {
+  "name": "熊野本宮温泉郷",
+  "address": "和歌山県田辺市本宮町湯峯１５６−２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "温泉地の総称で施設ではない",
+  "id": null
+ },
+ {
+  "name": "やたがらすの湯",
+  "address": "和歌山県東牟婁郡那智勝浦町市野々３９１７",
+  "source": [
+   "onsenlife",
+   "那智勝浦観光機構"
+  ],
+  "verdict": "除外",
+  "reason": "休業中（那智勝浦観光機構「やたがらす【※現在休業中※】」）",
+  "id": null
+ },
+ {
+  "name": "玄武洞",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦１１６１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g550（ホテル浦島）の玄武洞。同一施設）",
+  "id": "onsen003431"
+ },
+ {
+  "name": "忘帰洞",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦１１６５−２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g550（ホテル浦島）の忘帰洞。同一施設）",
+  "id": "onsen003431"
+ },
+ {
+  "name": "ハマユウの湯",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦１１６５−２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g550（ホテル浦島）のハマユウの湯。同一施設）",
+  "id": "onsen003431"
+ },
+ {
+  "name": "滝の湯",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦１１６５−２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g550（ホテル浦島）の滝の湯。同一施設）",
+  "id": "onsen003431"
+ },
+ {
+  "name": "リヴァージュ スパひきがわ 渚の湯(閉館しました)",
+  "address": "和歌山県西牟婁郡白浜町日置1013-25",
+  "source": [
+   "nifty",
+   "onsenlife",
+   "白浜町"
+  ],
+  "verdict": "保留",
+  "reason": "リヴァージュ・スパひきがわ：2026年8月1日にプレオープンし日帰り入浴営業中（公式）。公式は「源泉かけ流しの温泉、露天風呂、サウナ、貸切の家族風呂」と書き、源泉32.7℃。加温浴槽が循環ろ過かどうかの記載がない。電話 0739-52-2370 で「源泉そのままの浴槽以外（加温した内湯・露天・家族風呂）は循環ろ過か、塩素消毒はあるか」を聞けば決まる",
+  "id": "onsen003506"
+ },
+ {
+  "name": "クリスタルヴィラ白良浜ビーチ",
+  "address": "和歌山県西牟婁郡白浜町1729-10",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "一棟貸しヴィラ（客室露天のみ）。日帰りの案内なし",
+  "id": "onsen024346"
+ },
+ {
+  "name": "湯の峰温泉 湯の谷荘",
+  "address": "和歌山県田辺市本宮町湯峰",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen009467"
+ },
+ {
+  "name": "ゆの里",
+  "address": "和歌山県田辺市本宮町下湯川287",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen009145"
+ },
+ {
+  "name": "ホテルサンリゾート白浜",
+  "address": "和歌山県西牟婁郡白浜町堅田2500−185",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け。口コミ（2018）に露天風呂は白浜温泉のかけ流しではないとの記載",
+  "id": "onsen012618"
+ },
+ {
+  "name": "民宿やまね",
+  "address": "和歌山県田辺市本宮町湯の峯171",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen010521"
+ },
+ {
+  "name": "龍神温泉　坂井屋旅館（閉館しました）",
+  "address": "和歌山県田辺市龍神村龍神56",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010325"
+ },
+ {
+  "name": "民営国民宿舎ホテル明光(閉館しました)",
+  "address": "和歌山県西牟婁郡白浜町920-26",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009453"
+ },
+ {
+  "name": "料理旅館　神　海(閉館しました)",
+  "address": "和歌山県西牟婁郡白浜町3212-12",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen014738"
+ },
+ {
+  "name": "南紀白浜温泉　料理民宿　オーシャンハウス下川原（閉館しました）",
+  "address": "和歌山県西牟婁郡白浜町2998-93",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen014725"
+ },
+ {
+  "name": "ＦＩＶＥ　ＳＰＲＩＮＧ　ＲＥＳＯＲＴ　ＴＨＥ　ＳＨＩＲＡＨＡＭＡ",
+  "address": "和歌山県西牟婁郡白浜町300-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰りの案内なし。源泉バンクに一部循環ろ過の情報",
+  "id": "onsen022265"
+ },
+ {
+  "name": "白浜・温泉リゾート　海岳",
+  "address": "和歌山県西牟婁郡白浜町Dec-12",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen021700"
+ },
+ {
+  "name": "ザ　グラン　リゾートエレガンテ白浜",
+  "address": "和歌山県西牟婁郡白浜町1813-8",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "会員制。日帰りは10名以上の食事プランのみ（公式FAQ）",
+  "id": "onsen021163"
+ },
+ {
+  "name": "旅館あづまや",
+  "address": "和歌山県田辺市本宮町湯峰122",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴休止中（公式「日帰り入浴はしばらく受け付けておりません」、ニフティ「当面のあいだ利用休止」）",
+  "id": "onsen003487"
+ },
+ {
+  "name": "湯の峯荘",
+  "address": "和歌山県田辺市本宮町下湯川437",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "公式: 源泉かけ流し・循環なし、日帰り12-15時",
+  "id": "onsen003486"
+ },
+ {
+  "name": "碧き島の宿 熊野別邸 中の島",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦1179-9",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可（公式FAQ「日帰り温泉利用は…ご利用頂けません」）",
+  "id": "onsen003436"
+ },
+ {
+  "name": "海のホテル 一の滝",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦752",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "那智勝浦観光機構"
+  ],
+  "verdict": "収録",
+  "reason": "公式: 源泉かけ流し・ろ過循環塩素なし、日帰り可",
+  "id": "onsen005830"
+ },
+ {
+  "name": "奥熊野川湯温泉 川湯みどりや",
+  "address": "和歌山県田辺市本宮町川湯13",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰りは団体のみの案内（公式）。個人の立ち寄り案内なし",
+  "id": "onsen008001"
+ },
+ {
+  "name": "奥熊野川湯温泉 川湯まつや",
+  "address": "和歌山県田辺市本宮町川湯29",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen007996"
+ },
+ {
+  "name": "家族とすごす白浜の宿 柳屋",
+  "address": "和歌山県西牟婁郡白浜町湯崎1870",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可（公式「日帰りでのご利用はできません」）。源泉バンクに塩素系薬剤使用の情報",
+  "id": "onsen005118"
+ },
+ {
+  "name": "浜千鳥の湯 海舟",
+  "address": "和歌山県西牟婁郡白浜町1698-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "公式FAQ: 日帰り17-21時、公式: 源泉かけ流し",
+  "id": "onsen007951"
+ },
+ {
+  "name": "南紀白浜温泉 ホテル千畳",
+  "address": "和歌山県西牟婁郡白浜町1680-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen005105"
+ },
+ {
+  "name": "白浜温泉 ベイリリィ 国民宿舎 しらゆり荘",
+  "address": "和歌山県西牟婁郡白浜町3770",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "ペット同伴の国民宿舎。公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen007941"
+ },
+ {
+  "name": "ホテル 天山閣海ゆう庭",
+  "address": "和歌山県西牟婁郡白浜町2020",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen005108"
+ },
+ {
+  "name": "亀の井ホテル 那智勝浦",
+  "address": "和歌山県東牟婁郡那智勝浦町北浜海岸",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可（公式FAQ「現在、ご利用いただけません」）",
+  "id": "onsen009381"
+ },
+ {
+  "name": "ホテル三楽荘",
+  "address": "和歌山県西牟婁郡白浜町3078",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰りは町民向け夕食付きプランのみ（公式）。立ち寄り湯の案内なし",
+  "id": "onsen005111"
+ },
+ {
+  "name": "料理旅館 万清楼",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦448",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen005121"
+ },
+ {
+  "name": "インフィニートホテル＆スパ南紀白浜",
+  "address": "和歌山県西牟婁郡白浜町2018",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen005109"
+ },
+ {
+  "name": "川湯温泉　温泉民宿　大村屋",
+  "address": "和歌山県田辺市本宮町川湯温泉1406-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen014450"
+ },
+ {
+  "name": "ペンション　あしたの森",
+  "address": "和歌山県田辺市本宮町川湯1440-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen009132"
+ },
+ {
+  "name": "白浜温泉 KKR白浜 美浜荘",
+  "address": "和歌山県西牟婁郡白浜町白浜町15642　ＫＫＲ白浜美浜荘",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰りは夏季限定の客室デイユース付きプランのみ（公式）。立ち寄り湯の案内なし",
+  "id": "onsen008908"
+ },
+ {
+  "name": "汐彩の宿　月崎",
+  "address": "和歌山県西牟婁郡白浜町3745-40",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "客室風呂のみ・大浴場なし（onsen-life）。日帰りの案内なし",
+  "id": "onsen016135"
+ },
+ {
+  "name": "白浜温泉　ホテルサンリゾート白浜",
+  "address": "和歌山県西牟婁郡白浜町堅田2500-185",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "g452 と同一（ホテルサンリゾート白浜）。公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen015615"
+ },
+ {
+  "name": "きくや旅館",
+  "address": "和歌山県西牟婁郡白浜町2997-9",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "宿泊者のみ（源泉バンク備考）。公式サイト見つからず",
+  "id": "onsen014074"
+ },
+ {
+  "name": "白浜温泉　天然温泉　みふね",
+  "address": "和歌山県西牟婁郡白浜町1165-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイトが見つからず、ニフティ・onsen-life・源泉バンクにも日帰り入浴の記載なし",
+  "id": "onsen013335"
+ },
+ {
+  "name": "旅館よしのや",
+  "address": "和歌山県田辺市本宮町湯の峰359",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "収録",
+  "reason": "公式: 内湯・露天とも源泉かけ流し、日帰り入浴可（要事前連絡）",
+  "id": "onsen010522"
+ },
+ {
+  "name": "川湯温泉 冨士屋",
+  "address": "和歌山県田辺市本宮町川湯1452",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen009375"
+ },
+ {
+  "name": "民宿てるてや",
+  "address": "和歌山県田辺市本宮町湯峯97",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen009146"
+ },
+ {
+  "name": "オーベルジュ・サウステラス",
+  "address": "和歌山県西牟婁郡白浜町2998-10",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の根拠なし（公式サイトは取得できず、1日10組の宿）",
+  "id": "onsen008910"
+ },
+ {
+  "name": "民宿 望海",
+  "address": "和歌山県西牟婁郡白浜町2324-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "realonsen"
+  ],
+  "verdict": "除外",
+  "reason": "立ち寄り湯不可（純温泉協会「【立ち寄り湯】不可」）",
+  "id": "onsen005113"
+ },
+ {
+  "name": "TAOYA白浜千畳",
+  "address": "和歌山県西牟婁郡白浜町1680-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "g577 と同一（TAOYA白浜千畳）。公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen019807"
+ },
+ {
+  "name": "那智温泉 南の湯",
+  "address": "和歌山県東牟婁郡那智勝浦町大字川関296-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "一棟貸しの宿。日帰りの案内なし",
+  "id": "onsen019780"
+ },
+ {
+  "name": "白浜温泉 紀伊半島",
+  "address": "和歌山県西牟婁郡白浜町2998-3",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可（公式FAQ「日帰り入浴サービスは行っておりません」）",
+  "id": "onsen018054"
+ },
+ {
+  "name": "源泉かけ流し湯宿 長生庵",
+  "address": "和歌山県西牟婁郡白浜町2762-5",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "宿泊者専用。日帰りは向かいの「長生の湯」（wk-day 担当 g711）",
+  "id": "onsen018051"
+ },
+ {
+  "name": "勝浦温泉　お宿　はな",
+  "address": "和歌山県東牟婁郡那智勝浦町朝日3-29",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴なし（源泉バンク備考）。公式サイト見つからず",
+  "id": "onsen015862"
+ },
+ {
+  "name": "民宿　せせらぎ＜和歌山県＞",
+  "address": "和歌山県田辺市龍神村湯ノ又577-2",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen015627"
+ },
+ {
+  "name": "南紀勝浦　湯川温泉　恵比須屋＜和歌山県＞",
+  "address": "和歌山県東牟婁郡那智勝浦町湯川1065",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイトが見つからず、ニフティ・onsen-life・源泉バンクにも日帰り入浴の記載なし",
+  "id": "onsen015411"
+ },
+ {
+  "name": "白浜温泉　ホテル天山閣　湯楽庵",
+  "address": "和歌山県西牟婁郡白浜町2927-553",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen015109"
+ },
+ {
+  "name": "The Hills 白浜",
+  "address": "和歌山県西牟婁郡白浜町2998-65",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen014759"
+ },
+ {
+  "name": "天然本クエ鍋料理の宿　紀州の宿　白砂",
+  "address": "和歌山県西牟婁郡白浜町2998-24",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen014741"
+ },
+ {
+  "name": "龍神温泉　民宿旅館　ささゆり",
+  "address": "和歌山県田辺市龍神村龍神156-5",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen014280"
+ },
+ {
+  "name": "白浜温泉　ＳＰＡ・イン　白浜",
+  "address": "和歌山県西牟婁郡白浜町2927-1745",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen014279"
+ },
+ {
+  "name": "白浜温泉　ホテル　花飾璃",
+  "address": "和歌山県西牟婁郡白浜町1243",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "保留",
+  "reason": "公式トップに「日帰りプラン」があるが入浴のみ可か・料金・時間が不明。電話 0739-43-5855 で「日帰りで入浴だけできるか、時間・料金」を聞けば決まる。温泉は加水・加温・循環なしの貸切風呂3つ（公式）",
+  "id": "onsen013723"
+ },
+ {
+  "name": "白浜温泉　湯処むろべ",
+  "address": "和歌山県西牟婁郡白浜町1997",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式（旧サイト）から日帰りの案内を確かめられず、源泉バンクに循環ろ過併用・塩素ありの情報",
+  "id": "onsen013486"
+ },
+ {
+  "name": "南紀白浜温泉　料理の宿　さきのや",
+  "address": "和歌山県西牟婁郡白浜町湯崎2998-74",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "日帰りは夕食付きプランのみ（公式、県民限定・旧GoTo期の掲載）。立ち寄り湯の案内なし",
+  "id": "onsen013195"
+ },
+ {
+  "name": "リゾートホテル　ルアンドン白浜",
+  "address": "和歌山県西牟婁郡白浜町3354-9",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け。外湯として案内の「綱の湯」は閉館（ニフティ）",
+  "id": "onsen013057"
+ },
+ {
+  "name": "Laule'a（ラウレア）",
+  "address": "和歌山県西牟婁郡白浜町1729 南海白浜ヴィラ",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の根拠なし（公式サイトなし、じゃらんの宿泊ページのみ）",
+  "id": "onsen012942"
+ },
+ {
+  "name": "お宿 くらや",
+  "address": "和歌山県田辺市本宮町湯峯99",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen010711"
+ },
+ {
+  "name": "料理民宿 瀧よし",
+  "address": "和歌山県田辺市本宮町湯峰260-4",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen010602"
+ },
+ {
+  "name": "南紀白浜　旅館 万亭",
+  "address": "和歌山県西牟婁郡白浜町920-16",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen005116"
+ },
+ {
+  "name": "民宿　あたらしや＜和歌山県＞",
+  "address": "和歌山県田辺市本宮町湯峯133番地",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り入浴の根拠なし（公式サイトは取得できず、ニフティ・onsen-lifeにも記載なし）",
+  "id": "onsen019218"
+ },
+ {
+  "name": "川湯温泉　旅の宿　しば",
+  "address": "和歌山県田辺市本宮町川湯1425-2",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "一棟貸しの宿。日帰りの案内なし",
+  "id": "onsen019156"
+ },
+ {
+  "name": "白浜・時空間・泉",
+  "address": "和歌山県西牟婁郡白浜町2406-12",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "一棟貸し。日帰りの案内なし",
+  "id": "onsen019110"
+ },
+ {
+  "name": "南紀白浜リゾートホテル　古賀浦別邸",
+  "address": "和歌山県西牟婁郡白浜町3212-4",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen019106"
+ },
+ {
+  "name": "TUZUMI WAKAYAMA SUSAMI",
+  "address": "和歌山県西牟婁郡すさみ町江住859",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "5室のヴィラ（客室露天のみ、加温あり）。日帰りの案内なし",
+  "id": "onsen019092"
+ },
+ {
+  "name": "ゲストリビングＭｕ南紀白浜",
+  "address": "和歌山県西牟婁郡白浜町字浜通り3076-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen019017"
+ },
+ {
+  "name": "マリーナホテル　海空",
+  "address": "和歌山県西牟婁郡白浜町3354-4",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "宿泊者専用の温泉（onsen-life）",
+  "id": "onsen018980"
+ },
+ {
+  "name": "ＸＹＺ　スペチアーレ",
+  "address": "和歌山県西牟婁郡白浜町椿1063-21",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "客室露天のみ（加温あり）。日帰りの案内なし",
+  "id": "onsen018971"
+ },
+ {
+  "name": "犬御殿",
+  "address": "和歌山県西牟婁郡白浜町3742-22",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "ペット同伴の宿。日帰りの案内なし",
+  "id": "onsen018880"
+ },
+ {
+  "name": "南紀白浜　和みの湯　花鳥風月",
+  "address": "和歌山県西牟婁郡白浜町3729-32",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "客室半露天のみ。日帰りの案内なし",
+  "id": "onsen018758"
+ },
+ {
+  "name": "ちかつゆ上小野温泉 ひすいの湯",
+  "address": "和歌山県田辺市中辺路町近露260",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "日帰り不可（公式「日帰り入浴は営業しておりません」）",
+  "id": "onsen003429"
+ },
+ {
+  "name": "ジェイホッパーズ熊野湯峰ゲストハウス",
+  "address": "和歌山県田辺市本宮町湯の峰161",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": "onsen008192"
+ },
+ {
+  "name": "かつらぎ温泉 八風の湯 足湯",
+  "address": "和歌山県伊都郡かつらぎ町佐野７０２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "g400 かつらぎ温泉 八風の湯 の足湯（wk-day 担当で判定）。足湯のみ",
+  "id": ""
+ },
+ {
+  "name": "しっぽの森リゾート白浜",
+  "address": "和歌山県西牟婁郡白浜町3053番地",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "一棟貸し（ペット可）。日帰りの案内なし",
+  "id": ""
+ },
+ {
+  "name": "南紀白浜 Villa IRIS～ヴィライーリス～",
+  "address": "和歌山県西牟婁郡白浜町2927-628",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "一棟貸し別荘。日帰りの案内なし",
+  "id": ""
+ },
+ {
+  "name": "ホテル天山閣 湯楽庵",
+  "address": "和歌山県西牟婁郡白浜町２９２７−５５３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "g656 と同一（ホテル天山閣 湯楽庵）。公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": ""
+ },
+ {
+  "name": "わたらせ温泉 ホテルやまゆり",
+  "address": "和歌山県田辺市本宮町渡瀬４５−１",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "わたらせ温泉の宿泊棟。日帰り入浴は「わたらせ温泉 大露天風呂」（wk-day 担当 g551）として判定",
+  "id": ""
+ },
+ {
+  "name": "わたらせ温泉 ホテルささゆり",
+  "address": "和歌山県田辺市本宮町渡瀬４５−１",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "わたらせ温泉の宿泊棟。日帰り入浴は「わたらせ温泉 大露天風呂」（wk-day 担当 g551）として判定",
+  "id": ""
+ },
+ {
+  "name": "民宿 すみ家",
+  "address": "和歌山県田辺市本宮町川湯1429",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け（「お立ち寄りください」は宿の紹介文で、立ち寄り湯の案内ではない）",
+  "id": ""
+ },
+ {
+  "name": "伊せや",
+  "address": "〒647-1732 和歌山県田辺市本宮町湯峰102",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g596 伊せや と同一）",
+  "id": ""
+ },
+ {
+  "name": "白浜温泉 長生湯",
+  "address": "〒649-2211 和歌山県西牟婁郡白浜町2763",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "収録",
+  "reason": "収録（g711 長生の湯 と同一）",
+  "id": ""
+ },
+ {
+  "name": "冨士屋",
+  "address": "〒647-1717 和歌山県田辺市本宮町川湯1452",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "g629 と同一（川湯温泉 冨士屋）。公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": ""
+ },
+ {
+  "name": "民宿くらや",
+  "address": "和歌山県田辺市本宮町湯峯99",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "g685 と同一（湯の峰 お宿くらや）。公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": ""
+ },
+ {
+  "name": "DOG HOTEL SHIRAHAMA ドッグホテル シラハマ",
+  "address": "1729-9",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "収録",
+  "reason": "Springs Shirahama 行幸の湯（日帰り可・かけ流し方式、公式）。id springs-shirahama-miyuki-no-yu",
+  "id": "springs-shirahama-miyuki-no-yu"
+ },
+ {
+  "name": "Alloggio 南紀白浜",
+  "address": "〒649-2211 和歌山県西牟婁郡白浜町3777-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "ヴィラ（客室風呂のみ）。日帰りの案内なし",
+  "id": ""
+ },
+ {
+  "name": "天然温泉 高野坂の湯 ホテルコンソラータ",
+  "address": "〒647-0081 和歌山県新宮市新宮2372番2",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "休業中（公式 2026-09-30「当面の間、温泉施設の営業を休止」、大雨で露天風呂エリア全壊）",
+  "id": ""
+ },
+ {
+  "name": "グランパスinn白浜",
+  "address": "千畳敷2953-3",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "g737 千畳の湯グランパス と同一（wk-day 担当で判定）。宿泊棟",
+  "id": ""
+ },
+ {
+  "name": "ギネス認定の宿 XYZ Seaside Resort",
+  "address": "〒649-2326 和歌山県西牟婁郡白浜町椿1065-3",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "客室露天のみ（加温あり）。日帰りの案内なし",
+  "id": ""
+ },
+ {
+  "name": "民宿 てるてや",
+  "address": "〒647-1732 和歌山県田辺市本宮町湯峰97",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "g631 と同一（湯の峰 民宿てるてや）。公式サイト（温泉・料金・FAQ等の下層ページ）に日帰り入浴の案内なし。宿泊者向け",
+  "id": ""
+ },
+ {
+  "name": "コンテナホテル ハコネル",
+  "address": "和歌山県西牟婁郡白浜町3086",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "コンテナホテル（客室屋上露天のみ）。日帰りの案内なし",
+  "id": ""
+ },
+ {
+  "name": "クリスタルヴィラ 白浜オーシャンズドッグリゾート",
+  "address": "和歌山県西牟婁郡白浜町2998-155",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "犬連れ専用ヴィラ（客室露天のみ）。日帰りの案内なし",
+  "id": ""
+ },
+ {
+  "name": "たつのや",
+  "address": "和歌山県西牟婁郡白浜町日置川",
+  "source": [
+   "gensenbank",
+   "白浜町（日置川地域の温泉）"
+  ],
+  "verdict": "除外",
+  "reason": "温泉の入浴は宿泊のみ（白浜町「温泉へのご入浴は宿泊のみ可能です」）",
+  "id": ""
+ },
+ {
+  "name": "BAKERY HOTEL SHIRAHAMA ベーカリーホテル シラハマ",
+  "address": "〒649-2211 和歌山県西牟婁郡白浜町1729-12",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "収録",
+  "reason": "g913 と同一（Springs Shirahama 行幸の湯）",
+  "id": "springs-shirahama-miyuki-no-yu"
+ },
+ {
+  "name": "本草湯 VISON（ヴィソン）",
+  "address": "三重県多気郡多気町ヴィソン672番1 本草湯1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen016841"
+ },
+ {
+  "name": "天然温泉 おふろcafé 湯守座",
+  "address": "三重県四日市市生桑町311",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen002990"
+ },
+ {
+  "name": "ヒルホテル サンピア伊賀 日帰り天然温泉「芭蕉の湯」",
+  "address": "三重県伊賀市西明寺2756-104",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen009001"
+ },
+ {
+  "name": "戸田家",
+  "address": "三重県鳥羽市鳥羽1-24-26",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen007369"
+ },
+ {
+  "name": "カンデオホテルズ亀山",
+  "address": "三重県亀山市小野町北割532-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen020331"
+ },
+ {
+  "name": "ビジネスホテルビーエル桑名",
+  "address": "三重県桑名市額田317",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021226"
+ },
+ {
+  "name": "料理旅館　魚元",
+  "address": "三重県志摩市阿児町安乗1245",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024284"
+ },
+ {
+  "name": "岬の宿　磯崎",
+  "address": "三重県志摩市阿児町安乗777",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024255"
+ },
+ {
+  "name": "活伊勢海老料理の宿　日章館",
+  "address": "三重県伊勢市二見町茶屋537-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024204"
+ },
+ {
+  "name": "素朴な宿　仁宝",
+  "address": "三重県鳥羽市相差町1076",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024168"
+ },
+ {
+  "name": "中井荘",
+  "address": "三重県志摩市浜島町浜島3246",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024058"
+ },
+ {
+  "name": "民宿北川",
+  "address": "三重県鳥羽市畔蛸町169",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024050"
+ },
+ {
+  "name": "料理の宿　銀鱗",
+  "address": "三重県鳥羽市浦村町本浦",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024036"
+ },
+ {
+  "name": "伊勢志摩の隠れ宿　あらしま",
+  "address": "三重県鳥羽市安楽島町277　小浦岬",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024035"
+ },
+ {
+  "name": "ビジネスホテル海寿",
+  "address": "三重県志摩市浜島町浜島2790",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024000"
+ },
+ {
+  "name": "民宿　大磯亭",
+  "address": "三重県鳥羽市相差町1144－2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023976"
+ },
+ {
+  "name": "大王荘",
+  "address": "三重県志摩市大王町波切244",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023959"
+ },
+ {
+  "name": "潮騒の宿　うえ久",
+  "address": "三重県鳥羽市相差町海岸市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023868"
+ },
+ {
+  "name": "伊勢志摩の波音　海楼",
+  "address": "三重県鳥羽市安楽島町1075-40",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023867"
+ },
+ {
+  "name": "旨さ納得◎の宿　香潮",
+  "address": "三重県鳥羽市相差町1362-5",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023866"
+ },
+ {
+  "name": "日本料理　旅館　いすゞ",
+  "address": "三重県鈴鹿市庄野共進1-4-51",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023865"
+ },
+ {
+  "name": "丸定旅館",
+  "address": "三重県志摩市磯部町的矢934-5",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024321"
+ },
+ {
+  "name": "秀丸花ごころ～絶景に心をゆだね海の恵みを食す宿～",
+  "address": "三重県鳥羽市石鏡町392",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen012913"
+ },
+ {
+  "name": "やわらの湯　まるや",
+  "address": "三重県伊勢市二見町茶屋277-2",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen012888"
+ },
+ {
+  "name": "伊勢外宮参道　伊勢神泉",
+  "address": "三重県伊勢市本町1-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen012051"
+ },
+ {
+  "name": "グランドメルキュール伊勢志摩リゾート＆スパ",
+  "address": "三重県志摩市磯部町磯部町的矢字笠取939番地6",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen012020"
+ },
+ {
+  "name": "浜の雅亭一井",
+  "address": "三重県鳥羽市相差町1522-27",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen012011"
+ },
+ {
+  "name": "磯部わたかの温泉宿 はいふう",
+  "address": "三重県志摩市磯部町渡鹿野524-18",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen011874"
+ },
+ {
+  "name": "都リゾート 奥志摩 アクアフォレスト",
+  "address": "三重県志摩市大王町船越3238-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen011809"
+ },
+ {
+  "name": "海辺のお宿 浜千代館",
+  "address": "三重県伊勢市二見町茶屋537-26",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen011231"
+ },
+ {
+  "name": "リゾートヒルズ豊浜 蒼空の風",
+  "address": "三重県鳥羽市相差町1471",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003044"
+ },
+ {
+  "name": "あみ源",
+  "address": "三重県鳥羽市畔蛸町186",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003038"
+ },
+ {
+  "name": "“味の隠れ宿”　活鮮旅館　志摩半島",
+  "address": "三重県志摩市志摩町越賀1922-4",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen019056"
+ },
+ {
+  "name": "一楽温泉ホテル",
+  "address": "三重県志摩市志摩町和具奥山2582−66",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen019034"
+ },
+ {
+  "name": "ポイントバケーション湯の山温泉",
+  "address": "三重県三重郡菰野町大字千草7054-793",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen019008"
+ },
+ {
+  "name": "伊勢志摩旅館 AUBERGE YUSURA(ゆすら)",
+  "address": "三重県伊勢市二見町松下1347-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen018954"
+ },
+ {
+  "name": "志摩地中海村(スパ・アルハンブラ)",
+  "address": "三重県志摩市浜島町迫子2619-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen018776"
+ },
+ {
+  "name": "夢古道の湯（ゆめこどうのゆ）",
+  "address": "三重県尾鷲市向井12-4",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen008113"
+ },
+ {
+  "name": "神馬の湯（しんめのゆ）",
+  "address": "三重県桑名市多度町小山字西天王平2160",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen016749"
+ },
+ {
+  "name": "亀山温泉 白鳥の湯",
+  "address": "三重県亀山市羽若町545",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003033"
+ },
+ {
+  "name": "三滝温泉 満殿の湯",
+  "address": "三重県四日市市末永町6-6",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen008626"
+ },
+ {
+  "name": "スーパー銭湯 鈴の湯",
+  "address": "三重県松阪市田村町235-1 アドバンスモール内",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen009610"
+ },
+ {
+  "name": "松阪温泉GURUSPA（グルスパ）",
+  "address": "三重県松阪市大塚町220-1（イオンタウン松阪船江 別棟）",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen024615"
+ },
+ {
+  "name": "池澤湯",
+  "address": "三重県伊賀市上野愛宕町2893",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen009598"
+ },
+ {
+  "name": "アスピア玉城ふれあいの館",
+  "address": "三重県度会郡玉城町原4266",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen002974"
+ },
+ {
+  "name": "有久寺温泉　有久寺荘（休業中）",
+  "address": "三重県北牟婁郡紀北町島原1181",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen002983"
+ },
+ {
+  "name": "新町温泉",
+  "address": "三重県名張市新町２２１",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen010515"
+ },
+ {
+  "name": "丸万温泉（閉館しました）",
+  "address": "三重県伊賀市上野西町3363",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009801"
+ },
+ {
+  "name": "女性にやさしい宿 美奈川",
+  "address": "三重県三重郡菰野町菰野8625",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003055"
+ },
+ {
+  "name": "離宮の湯",
+  "address": "三重県伊勢市小俣町元町536（小俣保健センター内）",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen010026"
+ },
+ {
+  "name": "ホテル湯の本",
+  "address": "三重県三重郡菰野町菰野8497",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen012671"
+ },
+ {
+  "name": "錦水湯",
+  "address": "三重県伊勢市岩渕3丁目6-39",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen016929"
+ },
+ {
+  "name": "ほしの湯",
+  "address": "三重県桑名市星川719",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen016230"
+ },
+ {
+  "name": "熊野の宿 海ひかり",
+  "address": "三重県熊野市井戸町1020-7",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen011727"
+ },
+ {
+  "name": "四季の心 和悠膳",
+  "address": "三重県三重群菰野町大字千草西江野7054-281",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen008022"
+ },
+ {
+  "name": "鉱山乃足湯（休館中）",
+  "address": "三重県熊野市紀和町板屋110-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003061"
+ },
+ {
+  "name": "NAGOMI サウナ",
+  "address": "三重県津市庄田町池尻2639-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "サウナ施設（温泉浴槽なし）",
+  "id": "onsen024906"
+ },
+ {
+  "name": "プライベートサウナ神界",
+  "address": "三重県津市久居一色町223－16",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "サウナ施設（温泉浴槽なし）",
+  "id": "onsen024843"
+ },
+ {
+  "name": "STAR FIT 365  津藤方店",
+  "address": "三重県津市藤方字西大田563-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen024436"
+ },
+ {
+  "name": "榊原温泉 味楽",
+  "address": "三重県津市榊原町5054",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen018618"
+ },
+ {
+  "name": "987サウナ（クワナサウナ）",
+  "address": "三重県桑名市西方小谷2411 スポーツマジック桑名内",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "サウナ施設（温泉浴槽なし）",
+  "id": "onsen018574"
+ },
+ {
+  "name": "sauna152（サウナイコニ）",
+  "address": "三重県津市乙部35-11",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "サウナ施設（温泉浴槽なし）",
+  "id": "onsen018566"
+ },
+ {
+  "name": "亀山まままま絶頂サウナ",
+  "address": "三重県鈴鹿市小岐須町祓塚",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "サウナ施設（温泉浴槽なし）",
+  "id": "onsen018356"
+ },
+ {
+  "name": "【貸切サウナ】AOU no MORI（アオウノモリ）",
+  "address": "三重県三重郡菰野町大字杉谷字倉谷2302-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "サウナ施設（温泉浴槽なし）",
+  "id": "onsen018146"
+ },
+ {
+  "name": "朝日湯",
+  "address": "三重県津市乙部23-20-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen016921"
+ },
+ {
+  "name": "大江戸温泉物語 TAOYA志摩",
+  "address": "三重県鳥羽市浦村町白浜1826-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen016466"
+ },
+ {
+  "name": "潮美館",
+  "address": "三重県鳥羽市相差町1126",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen012604"
+ },
+ {
+  "name": "サンビーチ鳥羽",
+  "address": "三重県鳥羽市桃取町平石1591",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen012602"
+ },
+ {
+  "name": "いなべ温泉 東屋足浴",
+  "address": "三重県員弁郡東員町長深3140-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen003065"
+ },
+ {
+  "name": "浜島地域福祉センター さくら苑",
+  "address": "三重県 / 志摩市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen002993"
+ },
+ {
+  "name": "天然温泉 ロックの湯(閉館しました)",
+  "address": "三重県 / 鈴鹿市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003000"
+ },
+ {
+  "name": "癒しの里 伊賀の湯（閉館しました）",
+  "address": "三重県伊賀市久米町687-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008531"
+ },
+ {
+  "name": "ゴールデンランド木曽岬温泉【閉館しました】",
+  "address": "三重県 / 桑名郡木曽岬町 / 木曽岬温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003008"
+ },
+ {
+  "name": "オートレストラン長島（閉館しました）",
+  "address": "三重県桑名市長島町福吉青鷺川526-17",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003058"
+ },
+ {
+  "name": "天然温泉 多気の湯（閉館しました）",
+  "address": "三重県 / 多気郡多気町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008442"
+ },
+ {
+  "name": "安濃交流会館 あのう温泉（閉館しました）",
+  "address": "三重県 / 津市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen007250"
+ },
+ {
+  "name": "五感の宿 慶泉（閉館しました）",
+  "address": "三重県 / 鳥羽市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen002972"
+ },
+ {
+  "name": "オークランドシティ スオミの湯【閉店しました】",
+  "address": "三重県 / 津市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003032"
+ },
+ {
+  "name": "榊原温泉郷 白雲荘（閉館しました）",
+  "address": "三重県津市榊原町14443",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008637"
+ },
+ {
+  "name": "小山田温泉地域交流ホーム(閉館しました)",
+  "address": "三重県 / 四日市市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003030"
+ },
+ {
+  "name": "メトロポリタン倶楽部（閉館しました）",
+  "address": "三重県 / 松阪市嬉野釜生田町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen002977"
+ },
+ {
+  "name": "ホテルメ湯楽々（閉館しました）",
+  "address": "三重県鳥羽市小浜町272-46",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003004"
+ },
+ {
+  "name": "鈴鹿サーキット 天然温泉クア・ガーデン（閉館しました）",
+  "address": "三重県鈴鹿市稲生町7992",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen002988"
+ },
+ {
+  "name": "七里のわたしゆ（閉館しました）",
+  "address": "三重県桑名市船馬町26",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010630"
+ },
+ {
+  "name": "コトブキ湯1010(閉館しました)",
+  "address": "三重県伊勢市曽祢2丁目10-12",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009775"
+ },
+ {
+  "name": "常磐湯（閉館しました）",
+  "address": "三重県 / 伊勢市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010179"
+ },
+ {
+  "name": "昭和温泉（閉館しました）",
+  "address": "三重県津市久居東鷹跡町72-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010066"
+ },
+ {
+  "name": "井筒温泉（閉館しました）",
+  "address": "三重県伊勢市曽祢1-10-11",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010025"
+ },
+ {
+  "name": "伊勢湯（閉館しました）",
+  "address": "三重県伊勢市宮町1丁目18-6",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009774"
+ },
+ {
+  "name": "大島共同浴場(閉館しました)",
+  "address": "三重県 / 桑名市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen005857"
+ },
+ {
+  "name": "グリーンパーク大内山　森の家（閉館しました）",
+  "address": "三重県度会郡大紀町大内山3387",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010054"
+ },
+ {
+  "name": "旭湯(閉館しました)",
+  "address": "三重県伊賀市上野忍町2593-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009803"
+ },
+ {
+  "name": "鈴木湯（閉館しました）",
+  "address": "三重県 / 四日市市東富田町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen011410"
+ },
+ {
+  "name": "みはま湯（閉館しました）",
+  "address": "三重県 / 熊野市木本町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010917"
+ },
+ {
+  "name": "住吉湯（閉館しました）",
+  "address": "三重県 / 四日市市西新地",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010863"
+ },
+ {
+  "name": "三鈴温泉(閉館しました)",
+  "address": "三重県 / 鈴鹿市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010051"
+ },
+ {
+  "name": "帝水遊(閉館しました)",
+  "address": "三重県 / 松阪市 / 香肌峡温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009851"
+ },
+ {
+  "name": "ひょうたん湯（閉館しました）",
+  "address": "三重県松阪市中町1925-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009850"
+ },
+ {
+  "name": "太陽温泉（閉館しました）",
+  "address": "三重県伊賀市上野向島町3468-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009800"
+ },
+ {
+  "name": "グリーンライフ山林舎（閉館しました）",
+  "address": "三重県松阪市飯高町波瀬811",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009611"
+ },
+ {
+  "name": "榊原川八(閉館しました)",
+  "address": "三重県津市榊原町5931-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003048"
+ },
+ {
+  "name": "鹿の湯温泉（閉館しました）",
+  "address": "三重県北牟婁郡紀北町三浦752-12",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003009"
+ },
+ {
+  "name": "霊泉湯（閉館しました）",
+  "address": "三重県伊勢市河崎1-7-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010196"
+ },
+ {
+  "name": "星の照 游月（閉館しました）",
+  "address": "三重県鳥羽市相差町3-43",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010001"
+ },
+ {
+  "name": "スオミの湯　四日市店（閉館しました）",
+  "address": "三重県四日市市日永1-138",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008505"
+ },
+ {
+  "name": "河鹿荘(閉館しました)",
+  "address": "三重県津市榊原町1518",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003045"
+ },
+ {
+  "name": "和の癒（閉館しました）",
+  "address": "三重県桑名市陽だまりの丘7-1604",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen012664"
+ },
+ {
+  "name": "猪の倉温泉 ふよう荘（閉館しました）",
+  "address": "三重県 / 津市白山町佐田",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen011726"
+ },
+ {
+  "name": "海喜園【閉館しました】",
+  "address": "三重県 / 鳥羽市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008949"
+ },
+ {
+  "name": "シャカ白亜紀の湯（閉館しました）",
+  "address": "三重県志摩市阿児町志島市後1249",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003059"
+ },
+ {
+  "name": "ラ・コスタリカ(閉館しました)",
+  "address": "三重県鳥羽市浦村町147",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003043"
+ },
+ {
+  "name": "答志島温泉(閉館しました)",
+  "address": "三重県 / 鳥羽市 / 答志島温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen002979"
+ },
+ {
+  "name": "湯の山温泉　和風観光旅館　翠月(閉館しました)",
+  "address": "三重県三重郡菰野町菰野8526",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen015463"
+ },
+ {
+  "name": "旅館　二葉＜三重県＞（閉館しました）",
+  "address": "三重県度会郡南伊勢町五ヶ所浦953",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen015014"
+ },
+ {
+  "name": "錦海楼(閉館しました)",
+  "address": "三重県 / 鳥羽市 / 鳥羽本浦温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen012603"
+ },
+ {
+  "name": "名古屋市休養温泉ホーム　松ケ島（閉館しました）",
+  "address": "三重県桑名市長島町松ケ島700-12",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen011431"
+ },
+ {
+  "name": "わんさかわんさ（閉館しました）",
+  "address": "三重県志摩市浜島町浜島1782-20",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003060"
+ },
+ {
+  "name": "白雲楼（閉館しました）",
+  "address": "三重県三重郡菰野町菰野8511",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003053"
+ },
+ {
+  "name": "丸ニホテル 伊勢の郷（閉館しました）",
+  "address": "三重県多気郡明和町有爾中579-7",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003046"
+ },
+ {
+  "name": "ニューうず潮",
+  "address": "三重県鳥羽市菅島町354-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024312"
+ },
+ {
+  "name": "寿し友旅館",
+  "address": "三重県度会郡南伊勢町古和浦147-17",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024233"
+ },
+ {
+  "name": "民宿おおたに",
+  "address": "三重県北牟婁郡紀北町道瀬147-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024205"
+ },
+ {
+  "name": "酒蔵と地魚の宿　桃太郎",
+  "address": "三重県北牟婁郡紀北町紀伊長島区古里1065",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023821"
+ },
+ {
+  "name": "料理旅館　新和具荘",
+  "address": "三重県志摩市志摩町和具1537-4",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023647"
+ },
+ {
+  "name": "漁師と仲買人の宿　華夕閣",
+  "address": "三重県志摩市阿児町国府3693-14",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023646"
+ },
+ {
+  "name": "かんえい",
+  "address": "三重県鳥羽市相差町382",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023645"
+ },
+ {
+  "name": "ホテルリゾート彩花亭",
+  "address": "三重県鳥羽市安楽島町1075-149",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023644"
+ },
+ {
+  "name": "民宿美浦荘",
+  "address": "三重県鳥羽市浦村町1225-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023643"
+ },
+ {
+  "name": "洋望館",
+  "address": "三重県志摩市阿児町安乗440-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023588"
+ },
+ {
+  "name": "南鳥羽相差　味わいの宿　たつみ",
+  "address": "三重県鳥羽市相差町1358",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023538"
+ },
+ {
+  "name": "ソルベレーゼ",
+  "address": "三重県志摩市浜島町迫子864-134",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023528"
+ },
+ {
+  "name": "民宿旅館　丸万",
+  "address": "三重県鳥羽市相差町1535-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023516"
+ },
+ {
+  "name": "あったか民宿　さわ栄",
+  "address": "三重県鳥羽市相差町1100",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023451"
+ },
+ {
+  "name": "情景の宿あづま",
+  "address": "三重県伊勢市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023450"
+ },
+ {
+  "name": "阿波海",
+  "address": "三重県鳥羽市小浜町300-7",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023449"
+ },
+ {
+  "name": "海の幸料理専門　懐（こころ）に優しい宿　丸善",
+  "address": "三重県鳥羽市相差町1484-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023370"
+ },
+ {
+  "name": "宝屋旅館",
+  "address": "三重県鳥羽市答志町2196-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023364"
+ },
+ {
+  "name": "ペットと泊まれる宿　わたかの荘＜渡鹿野島＞",
+  "address": "三重県志摩市磯部町渡鹿野7-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023363"
+ },
+ {
+  "name": "湯座味の宿　うつみ",
+  "address": "三重県鳥羽市畔蛸町16-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023361"
+ },
+ {
+  "name": "花海鮮　とと",
+  "address": "三重県鳥羽市安楽島町1075-111",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023353"
+ },
+ {
+  "name": "ニューまつおか",
+  "address": "三重県度会郡南伊勢町東宮102-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023349"
+ },
+ {
+  "name": "浜辺の宿　丸文",
+  "address": "三重県鳥羽市国崎町435",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023340"
+ },
+ {
+  "name": "旅館　海月(三重県)",
+  "address": "三重県鳥羽市鳥羽1-10-52",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023339"
+ },
+ {
+  "name": "Ｖｉｌｌａ３３ｋａｓｈｉｋｏｊｉｍａ",
+  "address": "三重県志摩市阿児町神明850-7",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023293"
+ },
+ {
+  "name": "新鮮味覚の宿　民宿　兵次屋",
+  "address": "三重県鳥羽市相差町1428",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023262"
+ },
+ {
+  "name": "民宿旅館　山川",
+  "address": "三重県鳥羽市相差町千鳥ヶ浜1455",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023253"
+ },
+ {
+  "name": "料理旅館まつや",
+  "address": "三重県鳥羽市相差町1256",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023251"
+ },
+ {
+  "name": "松阪屋吸霞園",
+  "address": "三重県伊勢市二見町茶屋537-10",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023243"
+ },
+ {
+  "name": "料理旅館　高曽",
+  "address": "三重県志摩市志摩町御座730",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023219"
+ },
+ {
+  "name": "料理旅館　丸寅",
+  "address": "三重県志摩市阿児町安乗1408-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023218"
+ },
+ {
+  "name": "渚の宿　さひち",
+  "address": "三重県鳥羽市相差町1221",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023152"
+ },
+ {
+  "name": "志洲閣",
+  "address": "三重県志摩市阿児町安乗岬",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023131"
+ },
+ {
+  "name": "味の宿　魚義",
+  "address": "三重県津市大里窪田町2717-4",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023066"
+ },
+ {
+  "name": "Ｂ＆Ｂフォレスト志摩",
+  "address": "三重県志摩市浜島町迫子2472-13",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023064"
+ },
+ {
+  "name": "Ｔａｂｉｓｔ　大和荘新浜　四日市",
+  "address": "三重県四日市市新浜町16-14",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023062"
+ },
+ {
+  "name": "鳥羽の宿　錦屋旅館",
+  "address": "三重県鳥羽市鳥羽3-32-8",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023007"
+ },
+ {
+  "name": "南鳥羽相差　千鳥ヶ浜　片浜荘",
+  "address": "三重県鳥羽市相差町千鳥ヶ浜",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022961"
+ },
+ {
+  "name": "活魚問屋の宿　まるやす",
+  "address": "三重県志摩市阿児町国府3519-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022954"
+ },
+ {
+  "name": "料理旅館ひさだ",
+  "address": "三重県志摩市阿児町安乗798",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022943"
+ },
+ {
+  "name": "ぽかぽか村",
+  "address": "三重県伊勢市二見町荘2031",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022927"
+ },
+ {
+  "name": "料理旅館　富久潮",
+  "address": "三重県志摩市阿児町国府3675-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022912"
+ },
+ {
+  "name": "魚の栖　丸仙",
+  "address": "三重県鳥羽市国崎町285",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022896"
+ },
+ {
+  "name": "尾鷲シーサイドビュー",
+  "address": "三重県尾鷲市曽根町620",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023452"
+ },
+ {
+  "name": "大正館＜三重県＞",
+  "address": "三重県四日市市西新地3-18",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023448"
+ },
+ {
+  "name": "日の出旅館＜三重県＞",
+  "address": "三重県伊勢市吹上1-8-35",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023447"
+ },
+ {
+  "name": "四季活魚の宿　紀伊の松島",
+  "address": "三重県 / 北牟婁郡紀北町",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023192"
+ },
+ {
+  "name": "料理旅館　宮妻荘",
+  "address": "三重県四日市市水沢町237",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022859"
+ },
+ {
+  "name": "ハートフル　ひこべ",
+  "address": "三重県志摩市阿児町神明950-5",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022854"
+ },
+ {
+  "name": "みさき荘　魚魚庵＜三重県＞",
+  "address": "三重県志摩市志摩町御座白浜海岸785",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022850"
+ },
+ {
+  "name": "坂口苑",
+  "address": "三重県鳥羽市堅神町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022831"
+ },
+ {
+  "name": "パルボヌール",
+  "address": "三重県志摩市大王町船越523-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022808"
+ },
+ {
+  "name": "鈴鹿みどりの杜",
+  "address": "三重県鈴鹿市住吉町6650",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022754"
+ },
+ {
+  "name": "伊勢二見　愛犬と泊まれる旅館　まつしん",
+  "address": "三重県伊勢市二見町茶屋570－3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022750"
+ },
+ {
+  "name": "伊勢二見浦　民宿　アサヒ",
+  "address": "三重県伊勢市二見町江562-45",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022720"
+ },
+ {
+  "name": "南鳥羽相差　海幸の宿　なかよし",
+  "address": "三重県鳥羽市相差町1092",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022692"
+ },
+ {
+  "name": "旅館　弁天荘",
+  "address": "三重県志摩市阿児町神明686-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022637"
+ },
+ {
+  "name": "竜宮料理の宿　八島(やしま）",
+  "address": "三重県鳥羽市答志町903番地",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022636"
+ },
+ {
+  "name": "ビジネス旅館　初洋",
+  "address": "三重県四日市市楠町南川75-4",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022603"
+ },
+ {
+  "name": "二見浦　麻野館",
+  "address": "三重県伊勢市二見町茶屋537-10",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022543"
+ },
+ {
+  "name": "南鳥羽相差　網元　浜伝",
+  "address": "三重県鳥羽市相差町500-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022528"
+ },
+ {
+  "name": "美味し国の旅館　橘＜三重県＞",
+  "address": "三重県志摩市磯部町的矢310",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022465"
+ },
+ {
+  "name": "いかだ荘　山上",
+  "address": "三重県志摩市磯部町的矢883-12",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022455"
+ },
+ {
+  "name": "ホテル旬香　伊勢志摩リゾート",
+  "address": "三重県志摩市阿児町甲賀32-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022421"
+ },
+ {
+  "name": "安乗シーサイドホテル",
+  "address": "三重県志摩市阿児町安乗944-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022350"
+ },
+ {
+  "name": "潮風の宿　やま七",
+  "address": "三重県鳥羽市答志町958",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022316"
+ },
+ {
+  "name": "伊勢志摩　二見浦　夫婦岩前　旅館　大石屋",
+  "address": "三重県伊勢市二見町茶屋569-75",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022223"
+ },
+ {
+  "name": "賢島グランドホテル",
+  "address": "三重県志摩市阿児町神明699-18",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022157"
+ },
+ {
+  "name": "味覚の宿　定洋",
+  "address": "三重県鳥羽市答志町1354",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022156"
+ },
+ {
+  "name": "鳥羽　あじ彩の宿　小浜荘",
+  "address": "三重県鳥羽市小浜町288",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022155"
+ },
+ {
+  "name": "檜扇荘",
+  "address": "三重県志摩市阿児町鵜方943-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022040"
+ },
+ {
+  "name": "御座白浜の宿　御座岬",
+  "address": "三重県志摩市志摩町御座白浜950",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022288"
+ },
+ {
+  "name": "Ｔａｂｉｓｔ　中日ビジネスホテル　伊勢志摩",
+  "address": "三重県志摩市阿児町鵜方4052",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022158"
+ },
+ {
+  "name": "大杉谷　桃の木山の家",
+  "address": "三重県 / 北牟婁郡紀北町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022120"
+ },
+ {
+  "name": "伊勢の宿　山田館",
+  "address": "三重県伊勢市本町13-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022089"
+ },
+ {
+  "name": "伊勢志摩　みそぎの町二見浦の　塩結びの宿　岩戸館",
+  "address": "三重県伊勢市二見町茶屋566-9",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022000"
+ },
+ {
+  "name": "おおみやサイクリングターミナル",
+  "address": "三重県度会郡大紀町滝原1165－3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021956"
+ },
+ {
+  "name": "ゲストホテル関ロッジ",
+  "address": "三重県亀山市関町新所1574-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021800"
+ },
+ {
+  "name": "お宿　行灯　鳥羽",
+  "address": "三重県鳥羽市小浜町272-46",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021752"
+ },
+ {
+  "name": "賢島・ホテルベイガーデン",
+  "address": "三重県志摩市阿児町神明750-5",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021687"
+ },
+ {
+  "name": "Ｂａｌｉ＆Ｒｅｓｏｒｔ　ＳＡＹＡの風",
+  "address": "三重県鳥羽市安楽島町1075-26",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021686"
+ },
+ {
+  "name": "鳥羽　吉田屋　湯坊旅籠　和光",
+  "address": "三重県鳥羽市鳥羽1-13-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021579"
+ },
+ {
+  "name": "朝日館＜三重県＞",
+  "address": "三重県伊勢市二見町茶屋228",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021561"
+ },
+ {
+  "name": "ビジネスホテル　松阪",
+  "address": "三重県松阪市石津町461-43",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021462"
+ },
+ {
+  "name": "名勝二見浦　海鮮割烹の宿　海洋楼",
+  "address": "三重県伊勢市二見町茶屋566-4",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021382"
+ },
+ {
+  "name": "スズカト",
+  "address": "三重県鈴鹿市住吉町南谷口",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021381"
+ },
+ {
+  "name": "伊勢志摩国立公園　賢島の宿　みち潮",
+  "address": "三重県志摩市阿児町神明754-9",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021370"
+ },
+ {
+  "name": "ニュー美しま",
+  "address": "三重県鳥羽市坂手町1069",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021316"
+ },
+ {
+  "name": "志摩観光ホテル　ザ　ベイスイート",
+  "address": "三重県志摩市阿児町神明731",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021273"
+ },
+ {
+  "name": "ビジネスホテルみはらし亭",
+  "address": "三重県熊野市井戸町555-4",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021753"
+ },
+ {
+  "name": "みそぎの湯　潮香苑",
+  "address": "三重県伊勢市二見町茶屋222-7",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021669"
+ },
+ {
+  "name": "伊勢かぐらばリゾート　千の杜",
+  "address": "三重県伊勢市佐八町池の上1165-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen021653"
+ },
+ {
+  "name": "旅籠ヴィソン",
+  "address": "三重県多気郡多気町ヴィソンサンセバスチャン通り5",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021448"
+ },
+ {
+  "name": "ヒールイン四日市",
+  "address": "三重県四日市市堀木1-4-12",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021114"
+ },
+ {
+  "name": "神宮会館",
+  "address": "三重県伊勢市宇治中之切町152",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021113"
+ },
+ {
+  "name": "鈴鹿ストーリアホテル",
+  "address": "三重県鈴鹿市算所1-1-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021070"
+ },
+ {
+  "name": "ホテル　エス・バリュー桑名",
+  "address": "三重県桑名市江場中野723",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020941"
+ },
+ {
+  "name": "Ｈｏｔｅｌ　津　Ｃｅｎｔｅｒ　Ｐａｌａｃｅ（ホテル津センターパレス）",
+  "address": "三重県津市大門7-15",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020921"
+ },
+ {
+  "name": "アパホテル〈三重亀山〉",
+  "address": "三重県亀山市東御幸町字川原172-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020853"
+ },
+ {
+  "name": "ホテルAU松阪",
+  "address": "三重県松阪市京町1区28-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020792"
+ },
+ {
+  "name": "アパホテル〈鈴鹿中央〉",
+  "address": "三重県鈴鹿市大池3-11-35",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020783"
+ },
+ {
+  "name": "ホテルルートイン伊賀上野－伊賀一之宮インター－",
+  "address": "三重県伊賀市服部町260-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020735"
+ },
+ {
+  "name": "ＴＡＯＹＡ志摩",
+  "address": "三重県鳥羽市浦村町1826-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020648"
+ },
+ {
+  "name": "ホテルルートイン四日市",
+  "address": "三重県四日市市陶栄町11-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020512"
+ },
+ {
+  "name": "ホテルなみ",
+  "address": "三重県熊野市大泊町772-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021023"
+ },
+ {
+  "name": "ホテルキャッスルイン伊勢夫婦岩",
+  "address": "三重県伊勢市二見町茶屋537-20",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020906"
+ },
+ {
+  "name": "伊勢パールピアホテル",
+  "address": "三重県伊勢市宮後2-26-22",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020851"
+ },
+ {
+  "name": "ステーションホテル　桑名",
+  "address": "三重県桑名市中央町1-95-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020808"
+ },
+ {
+  "name": "三交イン津駅前 ～四季乃湯～",
+  "address": "三重県津市羽所町381",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020776"
+ },
+ {
+  "name": "都リゾート 志摩 ベイサイドテラス",
+  "address": "三重県志摩市阿児町鵜方3618-33",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020765"
+ },
+ {
+  "name": "白子ストーリアホテル　～鈴鹿市・白子駅前～",
+  "address": "三重県 / 鈴鹿市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020636"
+ },
+ {
+  "name": "リビングホテル亀山",
+  "address": "三重県亀山市小野町北谷671-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020615"
+ },
+ {
+  "name": "三交イン伊勢市駅前「本館」～四季乃湯～・「別館」Grande",
+  "address": "三重県伊勢市宮後1丁目1ー1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020573"
+ },
+ {
+  "name": "クインテッサホテル伊勢志摩",
+  "address": "三重県志摩市阿児町鵜方1210-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen020440"
+ },
+ {
+  "name": "ルートイングランティア和蔵の宿　伊賀上野城前",
+  "address": "三重県伊賀市上野丸之内1-131",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020340"
+ },
+ {
+  "name": "ホテルルートイン伊勢",
+  "address": "三重県伊勢市小俣町宮前296-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020330"
+ },
+ {
+  "name": "ホテルルートイン津駅南　－国道２３号－",
+  "address": "三重県津市栄町2-450",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020310"
+ },
+ {
+  "name": "ホテルルートイン松阪駅東",
+  "address": "三重県松阪市京町1区35-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020254"
+ },
+ {
+  "name": "ホテルキャッスルイン鈴鹿",
+  "address": "三重県鈴鹿市算所3-6-12",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020237"
+ },
+ {
+  "name": "ホテルルートイン亀山インター",
+  "address": "三重県亀山市太岡寺町下谷1195-9",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020215"
+ },
+ {
+  "name": "ホテルルートイン久居インター",
+  "address": "三重県津市久居北口町47-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020119"
+ },
+ {
+  "name": "ホテルルートイン第２亀山インター",
+  "address": "三重県亀山市太岡寺町1164-4",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020118"
+ },
+ {
+  "name": "ホテルルートイン鈴鹿",
+  "address": "三重県鈴鹿市平田2-6-9",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020117"
+ },
+ {
+  "name": "ホテル　ルートイン名張",
+  "address": "三重県名張市蔵持町原出1345-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020115"
+ },
+ {
+  "name": "ホテルキャッスルイン伊勢",
+  "address": "三重県伊勢市神久3-5-55",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020083"
+ },
+ {
+  "name": "ホテル　ルートイン南四日市",
+  "address": "三重県四日市市日永東3丁目9-18",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020034"
+ },
+ {
+  "name": "ホテルルートイン桑名",
+  "address": "三重県桑名市星川722-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020024"
+ },
+ {
+  "name": "鳥羽シーサイドホテル",
+  "address": "三重県鳥羽市安楽島町1084",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen005633"
+ },
+ {
+  "name": "隠れの湯 対泉閣",
+  "address": "三重県名張市赤目町長坂682",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003028"
+ },
+ {
+  "name": "奥伊勢フォレストピア 宮川山荘",
+  "address": "三重県多気郡大台町薗993",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003006"
+ },
+ {
+  "name": "サン浦島 悠季の里",
+  "address": "三重県鳥羽市浦村町1254",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen002973"
+ },
+ {
+  "name": "メナード青山リゾート 香楽の湯",
+  "address": "三重県伊賀市霧生2356",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003024"
+ },
+ {
+  "name": "寿亭",
+  "address": "三重県三重郡菰野町菰野8585",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003031"
+ },
+ {
+  "name": "ホテルウェルネス鈴鹿路（休業中）",
+  "address": "三重県三重郡菰野町菰野江田8474-177",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003001"
+ },
+ {
+  "name": "季の邸 鍋田川（なべたがわ）",
+  "address": "三重県桑名郡木曽岬町新加路戸30-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen002998"
+ },
+ {
+  "name": "ニューハートピア温泉 天然温泉ホテル長島",
+  "address": "三重県桑名市長島町松之木604-2",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003039"
+ },
+ {
+  "name": "シーサイドホテル鯨望荘",
+  "address": "三重県志摩市浜島町浜島1550-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003020"
+ },
+ {
+  "name": "清少納言",
+  "address": "三重県津市榊原町6010",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003052"
+ },
+ {
+  "name": "青山ガーデンリゾート ホテルローザブランカ",
+  "address": "三重県伊賀市寺脇721",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003010"
+ },
+ {
+  "name": "スポーツガーデンMieSpoInn 天名乃湯（あまなのゆ）",
+  "address": "三重県鈴鹿市御薗町1669",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen009853"
+ },
+ {
+  "name": "二見温泉 ホテル清海",
+  "address": "三重県伊勢市二見町松下1349-136",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003012"
+ },
+ {
+  "name": "美杉リゾート",
+  "address": "三重県津市美杉町八知5990",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003003"
+ },
+ {
+  "name": "大江戸温泉物語Premium 伊勢志摩",
+  "address": "三重県志摩市浜島町浜島1035",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003017"
+ },
+ {
+  "name": "胡蝶蘭",
+  "address": "三重県鳥羽市小浜町237-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003015"
+ },
+ {
+  "name": "六石高原ホテル 六石温泉あじさいの湯",
+  "address": "三重県いなべ市北勢町垣内中小山36-2",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen009176"
+ },
+ {
+  "name": "風待ちの湯 福寿荘",
+  "address": "三重県志摩市磯部町渡鹿野517",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003018"
+ },
+ {
+  "name": "湯元 海女乃島",
+  "address": "三重県鳥羽市安楽島町1075-100",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen002971"
+ },
+ {
+  "name": "里創人 熊野倶楽部　湯浴みぼっこ",
+  "address": "三重県熊野市久生屋町1430",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen009896"
+ },
+ {
+  "name": "美杉リゾートホテル ANNEX",
+  "address": "三重県津市美杉町八知5990",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003054"
+ },
+ {
+  "name": "鳥羽グランドホテル",
+  "address": "三重県鳥羽市小浜町239-9",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003013"
+ },
+ {
+  "name": "ガーデンホテルオリーブ",
+  "address": "三重県桑名市長島町浦安333",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen010260"
+ },
+ {
+  "name": "ホテル花水木",
+  "address": "三重県桑名市長島町浦安333",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen010642"
+ },
+ {
+  "name": "ホテルキャッスルイン津",
+  "address": "三重県津市港町15-22",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen008980"
+ },
+ {
+  "name": "彩向陽",
+  "address": "三重県三重郡菰野町菰野8497",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003040"
+ },
+ {
+  "name": "TEPPAN オーベルジュ CaroCaro 鳥羽浦別邸",
+  "address": "三重県鳥羽市浦村町222",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003037"
+ },
+ {
+  "name": "ホテル芭新萃",
+  "address": "三重県鳥羽市石鏡町187",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003014"
+ },
+ {
+  "name": "中村屋",
+  "address": "三重県鳥羽市答志町2137-3",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003011"
+ },
+ {
+  "name": "大江戸温泉物語Premium 志摩彩朝楽",
+  "address": "三重県志摩市阿児町神明687-2",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen016711"
+ },
+ {
+  "name": "大江戸温泉物語Premium 鳥羽彩朝楽",
+  "address": "三重県鳥羽市小浜町城山610",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen016710"
+ },
+ {
+  "name": "上質の美味とおもてなし。オーシャンビューの宿　旅荘　海の蝶",
+  "address": "三重県伊勢市二見町松下1693",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014970"
+ },
+ {
+  "name": "パールグルメイン竹正",
+  "address": "三重県志摩市志摩町和具3100-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014872"
+ },
+ {
+  "name": "セラピーリゾート伊勢志摩",
+  "address": "三重県志摩市阿児町安乗832-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013260"
+ },
+ {
+  "name": "賢島宝生苑",
+  "address": "三重県志摩市阿児町神明718-3",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen012008"
+ },
+ {
+  "name": "亀の井ホテル 鳥羽",
+  "address": "三重県鳥羽市安楽島町1200-7",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen011107"
+ },
+ {
+  "name": "天然温泉　けやきの湯　ドーミーイン津",
+  "address": "三重県津市羽所町374",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen010924"
+ },
+ {
+  "name": "ホテルいじか荘",
+  "address": "三重県鳥羽市石鏡町368-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen009209"
+ },
+ {
+  "name": "ホテルアルティア鳥羽",
+  "address": "三重県鳥羽市安楽島町1061-9",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen007567"
+ },
+ {
+  "name": "めだかの学校足湯",
+  "address": "三重県鳥羽市鳥羽2-12-24",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen003062"
+ },
+ {
+  "name": "鳥羽国際ホテル 潮路亭",
+  "address": "三重県鳥羽市鳥羽1-23-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003026"
+ },
+ {
+  "name": "伊勢志摩・鳥羽 季さら別邸 刻（TOKI）",
+  "address": "三重県鳥羽市安楽島町1075-7",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen018204"
+ },
+ {
+  "name": "旅荘 海の蝶",
+  "address": "三重県伊勢市二見町松下1693-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen017981"
+ },
+ {
+  "name": "旅館伝洋",
+  "address": "三重県鳥羽市相差町255-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015948"
+ },
+ {
+  "name": "季を楽しむ懐古ロマンの宿　季さら",
+  "address": "三重県鳥羽市安楽島町1075-11",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015786"
+ },
+ {
+  "name": "別館すずき",
+  "address": "三重県鳥羽市相差町174",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015737"
+ },
+ {
+  "name": "海女の宿　ひょうすけ",
+  "address": "三重県鳥羽市相差町346",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015507"
+ },
+ {
+  "name": "南鳥羽相差　味覚の宿　幸洋荘",
+  "address": "三重県鳥羽市相差町1110-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015506"
+ },
+ {
+  "name": "南鳥羽・相差　食彩の湯宿　冨久家",
+  "address": "三重県鳥羽市相差町462",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015503"
+ },
+ {
+  "name": "サンペルラ志摩",
+  "address": "三重県志摩市磯部町的矢314",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015138"
+ },
+ {
+  "name": "星海幽月　夢遊華",
+  "address": "三重県鳥羽市相差町2269-16",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015096"
+ },
+ {
+  "name": "海辺のホテルはな",
+  "address": "三重県志摩市磯部町渡鹿野414-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014966"
+ },
+ {
+  "name": "鳥羽ビューホテル　花真珠",
+  "address": "三重県鳥羽市安楽島町1075-98",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014951"
+ },
+ {
+  "name": "リゾートパークともやま（ともやま観光ホテル）",
+  "address": "三重県志摩市大王町船越2746-37",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014928"
+ },
+ {
+  "name": "浜辺のお宿　相差パシフィックホテル",
+  "address": "三重県鳥羽市相差町1522-31",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014916"
+ },
+ {
+  "name": "海辺の温泉宿　まるさん",
+  "address": "三重県鳥羽市浦村町156-3",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014915"
+ },
+ {
+  "name": "天然温泉と漁師の宿　浜栄",
+  "address": "三重県鳥羽市相差町1483-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014914"
+ },
+ {
+  "name": "食いしん坊の湯宿・望洋",
+  "address": "三重県鳥羽市相差町１５２５(千鳥が浜海水浴場方面)",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014913"
+ },
+ {
+  "name": "御宿　Ｔｈｅ　Ｅａｒｔｈ",
+  "address": "三重県鳥羽市石鏡町中ノ山龍の栖",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014907"
+ },
+ {
+  "name": "あわびと伊勢エビのお宿　たまや",
+  "address": "三重県鳥羽市国崎町733-4",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014881"
+ },
+ {
+  "name": "漁師の島　答志島温泉　寿々波",
+  "address": "三重県鳥羽市答志町735",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014846"
+ },
+ {
+  "name": "スーパーホテル四日市・国道１号沿",
+  "address": "三重県四日市市浜田町1-6",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014829"
+ },
+ {
+  "name": "スーパーホテル鈴鹿",
+  "address": "三重県鈴鹿市算所1-8-24",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014813"
+ },
+ {
+  "name": "新八屋",
+  "address": "三重県鳥羽市石鏡町338-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014733"
+ },
+ {
+  "name": "志摩ビーチホテル",
+  "address": "三重県鳥羽市相差町千鳥ケ浜1522-40",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014719"
+ },
+ {
+  "name": "神代温泉　季彩の宿　沙都邑",
+  "address": "三重県志摩市阿児町甲賀42",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014645"
+ },
+ {
+  "name": "伊勢に佇む　王朝浪漫の夢見宿　斎王の宮",
+  "address": "三重県伊勢市佐八町池の上1165-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014611"
+ },
+ {
+  "name": "新鮮を食べる湯宿　大田家",
+  "address": "三重県鳥羽市相差町1411",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014590"
+ },
+ {
+  "name": "富士ＯＧＭエクセレントクラブ　一志温泉コース",
+  "address": "三重県津市一志町波瀬長谷581",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014456"
+ },
+ {
+  "name": "浜島温泉　湯元館　ニュー浜島",
+  "address": "三重県志摩市浜島町浜島3020",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014364"
+ },
+ {
+  "name": "答志島温泉　くつろぎの宿　美さき",
+  "address": "三重県鳥羽市答志町415",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014261"
+ },
+ {
+  "name": "味の宿　みち潮",
+  "address": "三重県鳥羽市相差町1522-12",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014242"
+ },
+ {
+  "name": "錦浦館",
+  "address": "三重県鳥羽市鳥羽1-10-38",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014086"
+ },
+ {
+  "name": "湯の山温泉　金花水月",
+  "address": "三重県三重郡菰野町湯の山温泉8562",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014077"
+ },
+ {
+  "name": "和造りの料理と湯の宿　かず美",
+  "address": "三重県鳥羽市相差町1206",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014062"
+ },
+ {
+  "name": "海上料亭　海楽園",
+  "address": "三重県鳥羽市小浜町299",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014002"
+ },
+ {
+  "name": "花の小宿　重兵衛",
+  "address": "三重県鳥羽市相差町1395",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen013981"
+ },
+ {
+  "name": "南鳥羽相差　名物磯舟料理　民宿旅館　おくのせこ",
+  "address": "三重県鳥羽市相差町412",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013897"
+ },
+ {
+  "name": "浜辺の温泉宿　かめや",
+  "address": "三重県鳥羽市安楽島町893-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013896"
+ },
+ {
+  "name": "いにしえの宿　伊久",
+  "address": "三重県伊勢市宇治館町岩井田山679-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013849"
+ },
+ {
+  "name": "ステーションホテルＡＵ",
+  "address": "三重県津市久居新町757-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013783"
+ },
+ {
+  "name": "味の宿　花椿",
+  "address": "三重県鳥羽市相差町1189",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013724"
+ },
+ {
+  "name": "汀渚　ばさら邸",
+  "address": "三重県志摩市阿児町鵜方3618-74",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013415"
+ },
+ {
+  "name": "青山高原カントリークラブ",
+  "address": "三重県津市稲葉町3191",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen013364"
+ },
+ {
+  "name": "民宿釣船海晴",
+  "address": "三重県度会郡南伊勢町神津佐518-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen012968"
+ },
+ {
+  "name": "紀州温泉ありがとうの湯　漁火の宿シーサイド　観潮（かんちょう）",
+  "address": "和歌山県和歌山市田野82",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen007991"
+ },
+ {
+  "name": "癒しの宿 クアハウス白浜",
+  "address": "和歌山県西牟婁郡白浜町3102",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003438"
+ },
+ {
+  "name": "カンデオホテルズ南海和歌山",
+  "address": "和歌山県和歌山市東蔵前丁39　キーノ和歌山",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen020658"
+ },
+ {
+  "name": "ＢＥＡＣＨ３１２",
+  "address": "和歌山県西牟婁郡白浜町1729-53　南紀白浜ヴィラ312",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024409"
+ },
+ {
+  "name": "テラス　ヴィラ　癒穏（いおん）－Ｔｅｒｒａｃｅ　Ｖｉｌｌａ　Ｅｏｎ－",
+  "address": "和歌山県西牟婁郡白浜町2998-63",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024401"
+ },
+ {
+  "name": "ペットと泊まれる、高野山に近い、花園グリーンパーク（リバーサイドホステルＢ＆Ｂ）",
+  "address": "和歌山県伊都郡かつらぎ町花園新子256-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024182"
+ },
+ {
+  "name": "民宿　あづまや",
+  "address": "和歌山県西牟婁郡白浜町1063-17",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024105"
+ },
+ {
+  "name": "ＨＯＴ＆ＤＯＧ",
+  "address": "和歌山県西牟婁郡白浜町2998-61",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024420"
+ },
+ {
+  "name": "釣り人の宿　旅籠屋　菊水",
+  "address": "和歌山県和歌山市加太485",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024094"
+ },
+ {
+  "name": "民宿　かつうら荘",
+  "address": "和歌山県東牟婁郡那智勝浦町朝日3-63",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023967"
+ },
+ {
+  "name": "白浜憩いの里泊り木",
+  "address": "和歌山県西牟婁郡白浜町堅田2500-164",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023619"
+ },
+ {
+  "name": "ビジネス旅館　みどり",
+  "address": "和歌山県和歌山市湊1-4-30",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023215"
+ },
+ {
+  "name": "潮風荘",
+  "address": "和歌山県和歌山市雑賀崎613-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023037"
+ },
+ {
+  "name": "お宿　きしだ荘",
+  "address": "和歌山県和歌山市加太1649-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023014"
+ },
+ {
+  "name": "浜辺の宿　しらら",
+  "address": "和歌山県西牟婁郡白浜町1359-2",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023006"
+ },
+ {
+  "name": "白浜温泉　民宿しおさい",
+  "address": "和歌山県西牟婁郡白浜町阪田53-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023382"
+ },
+ {
+  "name": "みさきロッジ　ニシダ",
+  "address": "和歌山県東牟婁郡串本町潮岬2864-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023175"
+ },
+ {
+  "name": "ビジネスホテル　かめや",
+  "address": "和歌山県海南市野上中99-7",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023174"
+ },
+ {
+  "name": "和歌の浦　木村屋",
+  "address": "和歌山県和歌山市新和歌浦2-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023138"
+ },
+ {
+  "name": "大万湯",
+  "address": "和歌山県田辺市江川3-41",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen011020"
+ },
+ {
+  "name": "柳橋足湯",
+  "address": "和歌山県西牟婁郡白浜町柳橋通り3306-18",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen003511"
+ },
+ {
+  "name": "高野口乃湯",
+  "address": "和歌山県橋本市高野口町名倉950",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen024692"
+ },
+ {
+  "name": "御船足湯",
+  "address": "和歌山県西牟婁郡白浜町743-5",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen009474"
+ },
+ {
+  "name": "ピーアップシングウ",
+  "address": "和歌山県新宮市蜂伏13-36",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003504"
+ },
+ {
+  "name": "信節温泉",
+  "address": "和歌山県和歌山市黒田315",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen018550"
+ },
+ {
+  "name": "山吹温泉",
+  "address": "和歌山県和歌山市山吹丁40",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen018547"
+ },
+ {
+  "name": "Wood High（ウッドハイ）",
+  "address": "和歌山県和歌山市吉田 820 5F",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen018479"
+ },
+ {
+  "name": "大江戸温泉物語 南紀串本",
+  "address": "和歌山県東牟婁郡串本町串本2300-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen016284"
+ },
+ {
+  "name": "貸し別荘 オーシャンフロントステイ",
+  "address": "和歌山県西牟婁郡白浜町1729－1南海白浜ヴィラ451号",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen008441"
+ },
+ {
+  "name": "つくもと足湯",
+  "address": "和歌山県西牟婁郡白浜町３７４２−４",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen008409"
+ },
+ {
+  "name": "Rakuten STAY TERRACE 南紀白浜",
+  "address": "和歌山県西牟婁郡白浜町富田1615-58",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen024956"
+ },
+ {
+  "name": "三輪崎漁港交流施設足湯",
+  "address": "和歌山県新宮市三輪崎１丁目",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen019352"
+ },
+ {
+  "name": "神明湯",
+  "address": "和歌山県和歌山市今福1-10-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen018549"
+ },
+ {
+  "name": "新宮市公衆浴場 なぎの湯",
+  "address": "和歌山県新宮市阿須賀二丁目5番18号",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen018548"
+ },
+ {
+  "name": "SHIOSAI TERRACE PREMIUM GLAMPING RESORT",
+  "address": "和歌山県西牟婁郡白浜町堅田2399-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen018131"
+ },
+ {
+  "name": "おおたにのゆ 料理のりむら",
+  "address": "和歌山県有田郡有田川町大谷150-2",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen010535"
+ },
+ {
+  "name": "きらくゆ橋本店（閉館しました）",
+  "address": "和歌山県 / 橋本市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008676"
+ },
+ {
+  "name": "本町温泉 夢想乃湯（閉館しました）",
+  "address": "和歌山県和歌山市本町6-50",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003495"
+ },
+ {
+  "name": "龍門山温泉（閉館しました）",
+  "address": "和歌山県紀の川市荒見645-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003491"
+ },
+ {
+  "name": "国際観光旅館 冨貴（閉館しました）",
+  "address": "和歌山県西牟婁郡白浜町椿485",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003476"
+ },
+ {
+  "name": "那智天然温泉（閉館しました）",
+  "address": "和歌山県東牟婁郡那智勝浦町川関1512",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003492"
+ },
+ {
+  "name": "綱の湯【閉館しました】",
+  "address": "和歌山県西牟婁郡白浜町3354-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003456"
+ },
+ {
+  "name": "藤の森不動温泉だるま湯（閉館しました）",
+  "address": "和歌山県 / 海草郡紀美野町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003427"
+ },
+ {
+  "name": "夏山温泉もみじ（閉館しました）",
+  "address": "和歌山県 / 東牟婁郡太地町 / 夏山温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003469"
+ },
+ {
+  "name": "那智山天然温泉 熊野の郷（閉館しました）",
+  "address": "和歌山県 / 東牟婁郡那智勝浦町市野々",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009105"
+ },
+ {
+  "name": "月野瀬温泉 湯治場ゆうや（閉館しました）",
+  "address": "和歌山県 / 東牟婁郡古座川町月野瀬",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen007954"
+ },
+ {
+  "name": "桜湯(閉館しました)",
+  "address": "和歌山県東牟婁郡那智勝浦町湯川257-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003459"
+ },
+ {
+  "name": "らくだの湯(閉館しました)",
+  "address": "和歌山県東牟婁郡那智勝浦町湯川",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003430"
+ },
+ {
+  "name": "二川温泉（閉館しました）",
+  "address": "和歌山県有田郡有田川町二川823",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003423"
+ },
+ {
+  "name": "口熊野天然温泉 弁慶のさと湯（閉館しました）",
+  "address": "和歌山県田辺市秋津町859",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen006742"
+ },
+ {
+  "name": "栖原温泉（閉館しました）",
+  "address": "和歌山県 / 有田郡湯浅町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003498"
+ },
+ {
+  "name": "湯崎館（閉館しました）",
+  "address": "和歌山県西牟婁郡白浜町1903",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen005106"
+ },
+ {
+  "name": "かつらぎ美嶋温泉 美嶋荘（閉館しました）",
+  "address": "和歌山県伊都郡かつらぎ町日高340-4",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003474"
+ },
+ {
+  "name": "熊野本宮 わくわくの郷（閉館しました）",
+  "address": "和歌山県 / 田辺市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008334"
+ },
+ {
+  "name": "勝浦温泉 脇ノ谷温泉（閉館しました）",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦606-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen007246"
+ },
+ {
+  "name": "高野槇の湯温泉（閉館しました）",
+  "address": "和歌山県伊都郡高野町相の浦111",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003405"
+ },
+ {
+  "name": "南紀荘(閉館しました)",
+  "address": "和歌山県 / 東牟婁郡那智勝浦町湯川 / 南紀湯川温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009074"
+ },
+ {
+  "name": "花園温泉(閉館しました)",
+  "address": "和歌山県伊都郡かつらぎ町花園梁瀬762",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003464"
+ },
+ {
+  "name": "内海湯（閉館しました）",
+  "address": "和歌山県海南市名高３５５",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010431"
+ },
+ {
+  "name": "宮前湯（閉館しました）",
+  "address": "和歌山県海南市日方603",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010159"
+ },
+ {
+  "name": "新宮湯（閉館しました）",
+  "address": "和歌山県新宮市野田5-49",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009470"
+ },
+ {
+  "name": "かんぽの宿　白浜（閉館しました）",
+  "address": "和歌山県西牟婁郡白浜町1688-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen006510"
+ },
+ {
+  "name": "南海湯（閉館しました）",
+  "address": "和歌山県 / 和歌山市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009902"
+ },
+ {
+  "name": "隅田湯（閉館しました）",
+  "address": "和歌山県 / 田辺市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009616"
+ },
+ {
+  "name": "国民宿舎 枯木灘すさみ（閉館しました）",
+  "address": "和歌山県西牟婁郡すさみ町周参見5351-10",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009609"
+ },
+ {
+  "name": "ホテルマーキーズ(閉館しました)",
+  "address": "和歌山県西牟婁郡白浜町湯崎1905",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003502"
+ },
+ {
+  "name": "ホテルシーパレス(閉館しました)",
+  "address": "和歌山県西牟婁郡すさみ町周参見4857",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003497"
+ },
+ {
+  "name": "民宿 熊野瀬(閉館しました)",
+  "address": "和歌山県田辺市本宮町渡瀬164-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003483"
+ },
+ {
+  "name": "白浜温泉　小さな宿　白南風(閉館しました)",
+  "address": "和歌山県 / 西牟婁郡白浜町 / 南紀白浜温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen015240"
+ },
+ {
+  "name": "白浜シーサイドホテル（閉館しました）",
+  "address": "和歌山県西牟婁郡白浜町Feb-50",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009452"
+ },
+ {
+  "name": "熊野の宿 梛【閉館しました】",
+  "address": "和歌山県 / 東牟婁郡那智勝浦町市屋 / 南紀湯川温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen009072"
+ },
+ {
+  "name": "民宿 まるや（閉館しました）",
+  "address": "和歌山県田辺市本宮町湯峰98-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008562"
+ },
+ {
+  "name": "勝浦温泉 温泉民宿 岩波(閉館しました)",
+  "address": "和歌山県 / 東牟婁郡那智勝浦町 / 南紀勝浦温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008558"
+ },
+ {
+  "name": "きらくゆ和歌山店（閉館しました）",
+  "address": "和歌山県 / 和歌山市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008169"
+ },
+ {
+  "name": "朝日リゾートホテル白浜(閉館しました)",
+  "address": "和歌山県 / 西牟婁郡上富田町岩崎",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen005119"
+ },
+ {
+  "name": "ホテル　十河(閉館しました)",
+  "address": "和歌山県 / 西牟婁郡白浜町 / 南紀白浜温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen005110"
+ },
+ {
+  "name": "勝浦観光ホテル（閉館しました）",
+  "address": "和歌山県東牟婁郡那智勝浦町天満1530",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003462"
+ },
+ {
+  "name": "白浜温泉　和み（なごみ）(閉店しました)",
+  "address": "和歌山県 / 西牟婁郡白浜町 / 南紀白浜温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen016128"
+ },
+ {
+  "name": "民宿　龍神（閉館しました）",
+  "address": "和歌山県田辺市龍神村湯ノ又707-8",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen015938"
+ },
+ {
+  "name": "白浜温泉　リゾートハウス暁(閉館しました)",
+  "address": "和歌山県 / 西牟婁郡白浜町 / 南紀白浜温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen015295"
+ },
+ {
+  "name": "国民宿舎　くろ潮（閉館しました）",
+  "address": "和歌山県 / 有田市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen014995"
+ },
+ {
+  "name": "ソルマーレ南紀荘(閉館しました)",
+  "address": "和歌山県 / 西牟婁郡白浜町 / 南紀白浜温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen014767"
+ },
+ {
+  "name": "白浜温泉　ＪＲくろしお荘（ＪＲ西日本グループ）(閉館しました)",
+  "address": "和歌山県 / 西牟婁郡白浜町 / 南紀白浜温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen013978"
+ },
+ {
+  "name": "加太淡嶋温泉　あぶりの湯　ペンションふじや(閉館しました)",
+  "address": "和歌山県 / 和歌山市",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen013588"
+ },
+ {
+  "name": "勝浦シーハウス熊野灘(閉館しました)",
+  "address": "和歌山県 / 東牟婁郡那智勝浦町 / 南紀湯川温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen012783"
+ },
+ {
+  "name": "海のお魚茶屋　鯛鼓判(閉館しました)",
+  "address": "和歌山県 / 西牟婁郡白浜町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010549"
+ },
+ {
+  "name": "志賀ふれあい会館（閉館しました）",
+  "address": "和歌山県 / 伊都郡かつらぎ町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen010529"
+ },
+ {
+  "name": "田辺温泉 中嶋荘（閉館しました）",
+  "address": "和歌山県田辺市神子浜2-19-25",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen008736"
+ },
+ {
+  "name": "琴の滝荘(閉館しました)",
+  "address": "和歌山県 / 西牟婁郡すさみ町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen007896"
+ },
+ {
+  "name": "南紀やすらぎ荘（閉館しました）",
+  "address": "和歌山県 / 西牟婁郡白浜町 / 南紀白浜温泉",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen007063"
+ },
+ {
+  "name": "ホテル・ドルフィンリゾート（閉館しました）",
+  "address": "和歌山県 / 東牟婁郡太地町森浦",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003477"
+ },
+ {
+  "name": "橘家旅館",
+  "address": "和歌山県有田市宮原町新町17",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen023085"
+ },
+ {
+  "name": "太地町地域福祉センター梛",
+  "address": "和歌山県東牟婁郡那智勝浦町市屋1056-8",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022870"
+ },
+ {
+  "name": "サブマリンホテル",
+  "address": "和歌山県東牟婁郡串本町西向1381-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022849"
+ },
+ {
+  "name": "ビジネス旅館石田屋",
+  "address": "和歌山県和歌山市中之島385",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022807"
+ },
+ {
+  "name": "海のお宿",
+  "address": "和歌山県西牟婁郡すさみ町江住906-18",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022799"
+ },
+ {
+  "name": "白崎シーサイドハイツ白崎荘",
+  "address": "和歌山県日高郡由良町大引948-5",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022711"
+ },
+ {
+  "name": "久家旅館",
+  "address": "和歌山県日高郡由良町小引490-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022706"
+ },
+ {
+  "name": "料理旅館・鮨処　寿伍六",
+  "address": "和歌山県日高郡由良町衣奈862-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022678"
+ },
+ {
+  "name": "リゾート大島",
+  "address": "和歌山県東牟婁郡串本町樫野1035-6",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022657"
+ },
+ {
+  "name": "ビジネスイン　紀州路",
+  "address": "和歌山県和歌山市狐島655-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022651"
+ },
+ {
+  "name": "美奈都旅館",
+  "address": "和歌山県日高郡由良町衣奈862-2",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022641"
+ },
+ {
+  "name": "活魚料理専門旅館　あたらし屋",
+  "address": "和歌山県和歌山市加太205",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022209"
+ },
+ {
+  "name": "ビジネスホテル　かつや",
+  "address": "和歌山県和歌山市友田町3-12",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022172"
+ },
+ {
+  "name": "紀州地魚料理　民宿　松林",
+  "address": "和歌山県有田市初島町浜1769-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022127"
+ },
+ {
+  "name": "寺井旅館　ハーバービュー",
+  "address": "和歌山県日高郡由良町戸津井202",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022726"
+ },
+ {
+  "name": "日の岬国民宿舎・日の岬シティーホテル（休業中）",
+  "address": "和歌山県 / 日高郡美浜町",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen022607"
+ },
+ {
+  "name": "ホテル　光洋イン",
+  "address": "和歌山県新宮市徐福1-8-20",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen022380"
+ },
+ {
+  "name": "ザ　グラン　リゾート和歌の浦",
+  "address": "和歌山県和歌山市田野87",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021898"
+ },
+ {
+  "name": "ビジネスホテルみやま＜和歌山県＞",
+  "address": "和歌山県和歌山市畑屋敷端ノ丁27",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021775"
+ },
+ {
+  "name": "ビジネスホテル　百寿",
+  "address": "和歌山県御坊市島474-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021734"
+ },
+ {
+  "name": "サンライズ勝浦",
+  "address": "和歌山県東牟婁郡那智勝浦町天満803-3",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021990"
+ },
+ {
+  "name": "民宿サカイ",
+  "address": "和歌山県西牟婁郡上富田町朝来1313-6",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021799"
+ },
+ {
+  "name": "有田川温泉ホテルサンシャイン",
+  "address": "和歌山県有田市星尾38",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen021771"
+ },
+ {
+  "name": "丸浅旅館",
+  "address": "和歌山県紀の川市粉河2071-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020987"
+ },
+ {
+  "name": "ホテルルートイン紀の川",
+  "address": "和歌山県紀の川市中井阪317-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020958"
+ },
+ {
+  "name": "フォレスト　イン　御坊",
+  "address": "和歌山県御坊市岩内529",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020787"
+ },
+ {
+  "name": "ＨＯＴＥＬ　ＣＩＴＹ　ＩＮＮ　ＷＡＫＡＹＡＭＡ　和歌山駅前",
+  "address": "和歌山県和歌山市吉田432",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020478"
+ },
+ {
+  "name": "ホテル　ルートイン橋本",
+  "address": "和歌山県橋本市市脇4-10-28",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020453"
+ },
+ {
+  "name": "ホテルニューパレス　＜和歌山県＞",
+  "address": "和歌山県新宮市丹鶴二丁目2番22号",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020899"
+ },
+ {
+  "name": "ペンション　あまびきさん",
+  "address": "和歌山県伊都郡九度山町下古沢513",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen020113"
+ },
+ {
+  "name": "高田グリーンランド雲取温泉",
+  "address": "和歌山県新宮市高田1810",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003416"
+ },
+ {
+  "name": "美山温泉愛徳荘",
+  "address": "和歌山県日高郡日高川町初湯川202",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003465"
+ },
+ {
+  "name": "白浜古賀の井リゾート＆スパ",
+  "address": "和歌山県西牟婁郡白浜町3212-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen005115"
+ },
+ {
+  "name": "国民宿舎紀州路みなべ",
+  "address": "和歌山県日高郡みなべ町埴田1540",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003466"
+ },
+ {
+  "name": "紀伊見荘",
+  "address": "和歌山県橋本市矢倉脇115",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003473"
+ },
+ {
+  "name": "シーサイドホテル加太海月",
+  "address": "和歌山県和歌山市加太1905",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003499"
+ },
+ {
+  "name": "とれとれ亭",
+  "address": "和歌山県西牟婁郡白浜町堅田2498-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003488"
+ },
+ {
+  "name": "湯浅城",
+  "address": "和歌山県有田郡湯浅町青木75",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen003460"
+ },
+ {
+  "name": "メルキュール 和歌山串本リゾート＆スパ",
+  "address": "和歌山県東牟婁郡串本町サンゴ台1184-10",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003512"
+ },
+ {
+  "name": "はなぞの温泉 花圃の里",
+  "address": "和歌山県伊都郡かつらぎ町花園梁瀬779-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen016291"
+ },
+ {
+  "name": "太地町営国民宿舎 白鯨",
+  "address": "和歌山県東牟婁郡太地町大字太地2973-4",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen008560"
+ },
+ {
+  "name": "グランドメルキュール和歌山みなべリゾート＆スパ",
+  "address": "和歌山県日高郡みなべ町山内大目津泊り348",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003467"
+ },
+ {
+  "name": "山水館 川湯きのくに（休館中）",
+  "address": "和歌山県田辺市本宮町川湯26",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "閉館（ニフティ表示）",
+  "id": "onsen003485"
+ },
+ {
+  "name": "民宿Aコース",
+  "address": "和歌山県西牟婁郡白浜町1091-6",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003480"
+ },
+ {
+  "name": "きのくに中津荘",
+  "address": "和歌山県日高郡日高川町大字高津尾1049",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen008642"
+ },
+ {
+  "name": "国民宿舎あらふねリゾート",
+  "address": "和歌山県東牟婁郡串本町田原",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen008362"
+ },
+ {
+  "name": "Hotel & RentaCar660",
+  "address": "和歌山県東牟婁郡那智勝浦町朝日3-7-1",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003479"
+ },
+ {
+  "name": "柳屋",
+  "address": "和歌山県東牟婁郡那智勝浦町湯川980",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen009073"
+ },
+ {
+  "name": "市江崎温泉 市江崎荘",
+  "address": "和歌山県西牟婁郡白浜町日置1573-4",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen007221"
+ },
+ {
+  "name": "高野山温泉福智院",
+  "address": "和歌山県伊都郡高野町高野山657",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen006865"
+ },
+ {
+  "name": "民宿あづまや荘",
+  "address": "和歌山県田辺市本宮町湯峰71",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen011014"
+ },
+ {
+  "name": "亀の井ホテル　那智勝浦",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦216-19",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen003452"
+ },
+ {
+  "name": "双子島荘",
+  "address": "和歌山県和歌山市雑賀崎599",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen017472"
+ },
+ {
+  "name": "サンセットすさみ",
+  "address": "和歌山県西牟婁郡すさみ町周参見5351-10",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen016129"
+ },
+ {
+  "name": "天然温泉　紀州の湯　ドーミーインＰＲＥＭＩＵＭ和歌山",
+  "address": "和歌山県和歌山市美園町3-36",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013847"
+ },
+ {
+  "name": "有軒屋旅館",
+  "address": "和歌山県田辺市龍神村龍神39",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen011586"
+ },
+ {
+  "name": "龍神温泉 上御殿",
+  "address": "和歌山県田辺市龍神村龍神42",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen010672"
+ },
+ {
+  "name": "グランパスSea",
+  "address": "和歌山県西牟婁郡白浜町1688-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen012465"
+ },
+ {
+  "name": "ガーデンホテルハナヨ",
+  "address": "和歌山県田辺市文里2丁目36-40",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen009735"
+ },
+ {
+  "name": "南紀白浜マリオットホテル",
+  "address": "和歌山県西牟婁郡白浜町2428",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen009172"
+ },
+ {
+  "name": "龍神温泉 下御殿",
+  "address": "和歌山県田辺市龍神村龍神38",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "循環あり（源泉バンク）・かけ流しの根拠なし",
+  "id": "onsen024513"
+ },
+ {
+  "name": "かなたのさと",
+  "address": "和歌山県和歌山市矢田61",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen019791"
+ },
+ {
+  "name": "椿温泉 海鮮居酒屋の宿 民宿若竹",
+  "address": "和歌山県西牟婁郡白浜町椿１０６２－８",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen019642"
+ },
+ {
+  "name": "Sauna Aalto（In the Outdoor 白浜志原海岸）",
+  "address": "和歌山県西牟婁郡白浜町日置1875",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen018423"
+ },
+ {
+  "name": "ホテルブルーハーバー（さごんの湯）",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦434-2",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen016922"
+ },
+ {
+  "name": "温泉民宿　小阪屋　元館",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦92-6",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen016054"
+ },
+ {
+  "name": "民宿ｉｎｎしらはま海の宿",
+  "address": "和歌山県西牟婁郡白浜町1393-6",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen016051"
+ },
+ {
+  "name": "ふくろう庵",
+  "address": "和歌山県西牟婁郡白浜町堅田2399-2684",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen016032"
+ },
+ {
+  "name": "メゾン白浜　磯時計",
+  "address": "和歌山県西牟婁郡白浜町3749-11",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015803"
+ },
+ {
+  "name": "白浜温泉　ホテル花てまり",
+  "address": "和歌山県西牟婁郡白浜町1657",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015667"
+ },
+ {
+  "name": "国民宿舎　ひらみ",
+  "address": "和歌山県西牟婁郡白浜町椿1063-10",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015641"
+ },
+ {
+  "name": "龍神温泉　深山荘",
+  "address": "和歌山県 / 田辺市龍神村",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015617"
+ },
+ {
+  "name": "割烹旅館　美よし荘",
+  "address": "和歌山県有田郡湯浅町別所166-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen015599"
+ },
+ {
+  "name": "ホテルハーヴェスト南紀田辺",
+  "address": "和歌山県田辺市新庄町2901-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015575"
+ },
+ {
+  "name": "くろしお想",
+  "address": "和歌山県西牟婁郡白浜町1155",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen015366"
+ },
+ {
+  "name": "国民宿舎　新和歌ロッジ",
+  "address": "和歌山県和歌山市新和歌浦2-3",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014992"
+ },
+ {
+  "name": "龍神温泉　料理旅館萬屋",
+  "address": "和歌山県田辺市龍神村龍神47",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014597"
+ },
+ {
+  "name": "和歌山マリーナシティホテル",
+  "address": "和歌山県和歌山市毛見1517",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen014211"
+ },
+ {
+  "name": "白浜温泉　ＮＥＷ　オシドリ",
+  "address": "和歌山県西牟婁郡白浜町1407",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013666"
+ },
+ {
+  "name": "紀州みなべ温泉　料理宿　朝日楼",
+  "address": "和歌山県日高郡みなべ町埴田1589-2",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013374"
+ },
+ {
+  "name": "龍神温泉　美人亭",
+  "address": "和歌山県田辺市龍神村龍神96-3",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013336"
+ },
+ {
+  "name": "白浜温泉　民宿まるき　別館",
+  "address": "和歌山県西牟婁郡白浜町3600-5",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013334"
+ },
+ {
+  "name": "海椿葉山",
+  "address": "和歌山県西牟婁郡白浜町椿1063-20",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013286"
+ },
+ {
+  "name": "龍神温泉　旅館さかい",
+  "address": "和歌山県田辺市龍神村龍神23",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013181"
+ },
+ {
+  "name": "温泉民宿　小阪屋　本館",
+  "address": "和歌山県東牟婁郡那智勝浦町北浜1-18",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013037"
+ },
+ {
+  "name": "根来温泉　國分屋",
+  "address": "和歌山県岩出市根来1446",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen013034"
+ },
+ {
+  "name": "山荘　天の里",
+  "address": "和歌山県伊都郡かつらぎ町下天野1620",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen012807"
+ },
+ {
+  "name": "灯りや",
+  "address": "和歌山県西牟婁郡白浜町2411-1",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen012802"
+ },
+ {
+  "name": "HOTEL HOLISTIC RESORT",
+  "address": "和歌山県東牟婁郡太地町太地1426",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen012298"
+ },
+ {
+  "name": "ResortHotel&Spa BlueMermaid",
+  "address": "和歌山県東牟婁郡串本町和深20-2",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen011938"
+ },
+ {
+  "name": "花いろどりの宿花游",
+  "address": "和歌山県東牟婁郡太地町くじら浜公園",
+  "source": [
+   "gensenbank",
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen011270"
+ },
+ {
+  "name": "民宿ことぶき",
+  "address": "和歌山県西牟婁郡白浜町3742-9",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen010603"
+ },
+ {
+  "name": "ポイントバケーション南紀白浜",
+  "address": "和歌山県西牟婁郡白浜町1729-5",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen019045"
+ },
+ {
+  "name": "XYZ Private spa and Seaside Resort",
+  "address": "和歌山県西牟婁郡白浜町椿1065-3",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen018931"
+ },
+ {
+  "name": "アレーズド・バレ SHIRAHAMA",
+  "address": "和歌山県西牟婁郡白浜町堅田2500-127",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen018914"
+ },
+ {
+  "name": "パンダヴィレッジ",
+  "address": "和歌山県西牟婁郡白浜町堅田2498-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen018857"
+ },
+ {
+  "name": "ブランシェット南紀白浜",
+  "address": "和歌山県西牟婁郡白浜町堅田2498-46",
+  "source": [
+   "gensenbank",
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen018767"
+ },
+ {
+  "name": "川辺の湯 安庵",
+  "address": "和歌山県岩出市中島1283-144",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen008154"
+ },
+ {
+  "name": "極楽温泉 幸の湯",
+  "address": "和歌山県岩出市中島858",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen008677"
+ },
+ {
+  "name": "野天風呂 宝の湯",
+  "address": "和歌山県御坊市湯川町財部1118-1",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen008678"
+ },
+ {
+  "name": "椿温泉 足湯",
+  "address": "和歌山県西牟婁郡白浜町椿1059番地-1",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "足湯のみ",
+  "id": "onsen008201"
+ },
+ {
+  "name": "新町温泉",
+  "address": "和歌山県和歌山市加太1070-31",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen008170"
+ },
+ {
+  "name": "梅づくし宿 五代館",
+  "address": "和歌山県西牟婁郡白浜町堅田2500-99",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen006580"
+ },
+ {
+  "name": "浜湯温泉",
+  "address": "和歌山県和歌山市和歌浦南2-4-14",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen011552"
+ },
+ {
+  "name": "今福湯",
+  "address": "和歌山県和歌山市今福3-5-7",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen011302"
+ },
+ {
+  "name": "宝湯",
+  "address": "和歌山県海南市船尾172",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen009846"
+ },
+ {
+  "name": "大正温泉",
+  "address": "和歌山県海南市船尾115-20",
+  "source": [
+   "nifty",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": "onsen009821"
+ },
+ {
+  "name": "岬波の湯",
+  "address": "和歌山県東牟婁郡太地町太地2906",
+  "source": [
+   "nifty"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": "onsen003432"
+ },
+ {
+  "name": "旅の宿 はるさめ",
+  "address": "三重県熊野市久生屋町７４８−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "桐本",
+  "address": "三重県熊野市大泊町３９−４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "鬼のさんぽみち",
+  "address": "三重県熊野市大泊町７６２−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "さざれ湯",
+  "address": "三重県桑名市下深谷部４７３３−４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "熊野倶楽部 四方八方帳場 (フロント/総合案内)",
+  "address": "三重県熊野市久生屋町１４３０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "世界遺産リゾート 熊野倶楽部",
+  "address": "三重県熊野市久生屋町１４３０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "新月庵 〜しんげつのいおり〜",
+  "address": "三重県熊野市久生屋町１４３０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ホテル花水木別館",
+  "address": "三重県桑名市長島町浦安３３３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "あたしか温泉",
+  "address": "三重県熊野市新鹿町１４９７−４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "DOGLAMPING GT HOUSE",
+  "address": "和歌山県有田郡広川町上津木１３４３−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "スカイスパ",
+  "address": "和歌山県和歌山市東蔵前丁３９ カンデオホテルズ南海和歌山",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "滝原の宿ほたるとさくら",
+  "address": "和歌山県有田郡広川町下津木１２６１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "あさぎり",
+  "address": "和歌山県有田郡有田川町清水１２２５−１",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "エスリー 和歌山駅",
+  "address": "和歌山県和歌山市友田町５丁目１８ ホテルグランヴィア和歌山 6階",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "和の酵素〜叶〜",
+  "address": "和歌山県和歌山市冬野１２６１−１０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "手平温泉",
+  "address": "和歌山県和歌山市手平３丁目３−２７",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "和歌山市立芦原共同浴場",
+  "address": "和歌山県和歌山市雄松町３丁目５０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "ゲストハウスkukuru",
+  "address": "和歌山県和歌山市黒田９７−１５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "宝栄湯",
+  "address": "和歌山県有田郡湯浅町湯浅２７１５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "有田川温泉 光の湯",
+  "address": "和歌山県有田市星尾３７−３７",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "紀州忍びの湯 二ノ丸温泉",
+  "address": "和歌山県有田郡湯浅町山田１６３８−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "和歌山加太温泉 加太海月",
+  "address": "和歌山県和歌山市加太１９０５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "天然紀三井寺温泉花の湯はやし大浴場",
+  "address": "和歌山県和歌山市紀三井寺６７３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "和歌山市立杭の瀬共同浴場",
+  "address": "和歌山県和歌山市杭ノ瀬７９−１０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "Wakanoura Nature Resort EPICHARIS",
+  "address": "和歌山県和歌山市新和歌浦２−４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "万才湯",
+  "address": "和歌山県和歌山市北中島１丁目１−２５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "VillaRyusei ~英虞湾の丘に佇む客室露天風呂の宿 (ヴィラリュウセイ）",
+  "address": "三重県志摩市阿児町鵜方３６１８−３７",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "GLAMP DOG伊勢賢島",
+  "address": "三重県志摩市阿児町神明952‐1",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "楠温泉",
+  "address": "三重県四日市市楠町南五味塚１３０８",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "the circle apartment",
+  "address": "三重県志摩市阿児町鵜方４０６７",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "グランピングリゾート GRANP（グランパ）",
+  "address": "三重県志摩市阿児町神明480番地13",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "フィオーレ志摩",
+  "address": "三重県志摩市阿児町阿児町神明１９１６−６０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "サウナ 玉の湯",
+  "address": "三重県四日市市中部４−３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "wanderlust,shima",
+  "address": "三重県志摩市阿児町国府２９９３−３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "THE HIRAMATSU HOTELS ＆ RESORTS 賢島",
+  "address": "三重県志摩市阿児町鵜方３６１８−５２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "GFC 湯の山スパシア",
+  "address": "三重県三重郡菰野町千草 西江野7054-1262",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "iki-粋- Retreat Villa",
+  "address": "三重県志摩市阿児町国府３４８３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "スパ・アルハンブラ",
+  "address": "三重県志摩市浜島町迫子2619番地1",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "宿屋まてまて",
+  "address": "三重県多気郡大台町下真手１１９８−２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "春日温泉",
+  "address": "三重県松阪市春日町３丁目７４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "グランピングヴィレッジ THANS",
+  "address": "三重県志摩市志摩町片田 字大倉5002-2",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "志摩／WAGU BEACH HOUSE Japonica",
+  "address": "三重県志摩市志摩町和具１５９３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "松阪わんわんパラダイス 森のホテルスメール",
+  "address": "三重県松阪市飯高町森２２９６−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "MOKU ISESHIMA",
+  "address": "三重県志摩市志摩町和具４４４２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "本草湯",
+  "address": "三重県多気郡多気町ヴィソン６７２−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "テルメゾン",
+  "address": "三重県鳥羽市安楽島町",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "森の湯",
+  "address": "三重県松阪市伊勢寺町",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "Tabist ヴィラダイオーリゾート 伊勢志摩",
+  "address": "三重県志摩市大王町船越２５０８−１８",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "大江戸温泉物語Premium 伊勢志摩",
+  "address": "三重県志摩市浜島町浜島１０３５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ホテル ファインガーデン松阪Ⅲ",
+  "address": "三重県松阪市曽原町７４９−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "アマネム",
+  "address": "三重県志摩市浜島町迫子2165",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "HACIENDA VISON（ハシェンダ ヴィソン）",
+  "address": "三重県多気郡多気町ヴィソン６７２ 番1 農園4",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "奥伊勢フォレストピア 宮川山荘",
+  "address": "三重県多気郡大台町薗９９３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "達磨温泉",
+  "address": "和歌山県海草郡紀美野町滝ノ川７３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "橋本市エコパーク紀望の里",
+  "address": "和歌山県橋本市高野口町大野１８０７−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "天然温泉ゆの里",
+  "address": "和歌山県橋本市神野々８９８",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "南紀白浜リゾートホテル",
+  "address": "和歌山県西牟婁郡上富田町岩崎７６８",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "とまり湯",
+  "address": "三重県鳥羽市大明東町１丁目",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "季さら Oneness",
+  "address": "三重県鳥羽市安楽島町1075ｰ13",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "TAOYA志摩",
+  "address": "三重県鳥羽市浦村町 白浜 １８２６−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "鳥羽国際ホテル 別館潮路亭",
+  "address": "三重県鳥羽市鳥羽１丁目２３−１ 潮路亭",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "大江戸温泉物語Premium 鳥羽彩朝楽",
+  "address": "三重県鳥羽市小浜町 城山 610",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "鳥羽わんわんパラダイスホテル",
+  "address": "三重県鳥羽市小浜町２７２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "天海の湯",
+  "address": "三重県鳥羽市安楽島町２１２−８",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "なか川",
+  "address": "三重県鳥羽市相差町４８０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "大江戸温泉物語Premium 白浜彩朝楽",
+  "address": "和歌山県西牟婁郡白浜町3753",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "湯崎浜広場足湯",
+  "address": "和歌山県西牟婁郡白浜町１６６７−２２ フィッシャーマンズワーフ白浜",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "大江戸温泉物語Premium 白浜御苑",
+  "address": "和歌山県西牟婁郡白浜町1011",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "TAOYA白浜千畳",
+  "address": "和歌山県西牟婁郡白浜町１６８０−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "美杉リゾート ホテル アネックス",
+  "address": "三重県津市美杉町八知5990",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "さくら湯",
+  "address": "三重県津市白塚町５１１４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "ネットワークリゾートなんせい",
+  "address": "三重県度会郡南伊勢町迫間浦１３０６−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "かわちや旅館",
+  "address": "三重県度会郡南伊勢町神前浦２４４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "さくらゆ",
+  "address": "三重県津市相生町１９４−２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "国分湯",
+  "address": "三重県津市南中央２６−５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "HOTEL R9 The Yard 津",
+  "address": "三重県津市庄田町 大師前",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "フェアフィールド･バイ･マリオット･三重熊野古道みはま",
+  "address": "三重県南牟婁郡御浜町阿田和６１１５−１３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "津市下之川住民交流センター",
+  "address": "三重県津市美杉町下之川５２９７−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "すえひろ湯",
+  "address": "三重県津市幸町１６−１８",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "ニューはまぐち屋旅館",
+  "address": "三重県度会郡南伊勢町礫浦１８４−５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "Sunset Terrace Mie",
+  "address": "三重県度会郡南伊勢町木谷６２７−１７５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "愛犬と泊まれる湯宿 野寛 伊勢鳥羽～NOKAN～",
+  "address": "三重県鳥羽市畔蛸町１２７−５３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "旅館春日",
+  "address": "三重県名張市平尾３０７３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "Villaお伽噺",
+  "address": "三重県北牟婁郡紀北町東長島３０４３−４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "美乃島",
+  "address": "三重県北牟婁郡紀北町古里１１２５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "鈴鹿サーキットホテル ノース館",
+  "address": "三重県鈴鹿市稲生町７９９２",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "はま風",
+  "address": "三重県北牟婁郡紀北町古里１０７７−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "窮楽通楽",
+  "address": "三重県北牟婁郡紀北町矢口浦1092‐3",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "スポーツガーデンMie Spo Inn",
+  "address": "三重県鈴鹿市御薗町１６６９",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "鈴鹿サーキットホテル THE MAIN",
+  "address": "三重県鈴鹿市稲生町７９９２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "Log&sauna jyouno-hama",
+  "address": "三重県北牟婁郡紀北町町東長島 城ノ浜3108−198",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "湯処 沐亭",
+  "address": "三重県北牟婁郡紀北町東長島３０４３−４",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "VILLA TSUBAKI-ヴィラ ツバキ-",
+  "address": "和歌山県西牟婁郡白浜町椿１０６５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "あきば何求庵",
+  "address": "和歌山県西牟婁郡すさみ町周参見５３４５−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "心月庵白浜",
+  "address": "和歌山県西牟婁郡白浜町椿４９２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "一棟貸し宿 小家御殿",
+  "address": "和歌山県田辺市龍神村小家２７８",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ゲストハウス＆サウナ 杜",
+  "address": "和歌山県東牟婁郡串本町串本１５１８−２ 潮崎本之宮神社",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "Mercure Wakayama Kushimoto Resort & Spa",
+  "address": "和歌山県東牟婁郡串本町サンゴ台１１８４−１０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "蘇生の湯",
+  "address": "和歌山県田辺市本宮町本宮",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "大江戸温泉物語 南紀串本",
+  "address": "和歌山県東牟婁郡串本町串本2300‐1",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "宿坊 大泰寺 ",
+  "address": "和歌山県東牟婁郡那智勝浦町下和田７７５",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "グランオーシャン伊勢志摩",
+  "address": "三重県伊勢市二見町松下１６９３−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "月夜見の座",
+  "address": "三重県伊勢市佐八町１１６５−１",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "伊勢 戸田家料唵",
+  "address": "三重県伊勢市大世古１丁目１−２０",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "メナード青山リゾート ホテルシャンベール",
+  "address": "三重県伊賀市霧生２３５６",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "伊勢準天然温泉 安土城下の湯",
+  "address": "三重県伊勢市二見町三津１２０１−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "紀南荘",
+  "address": "三重県熊野市井戸町６１４−３",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "野天もくもくの湯",
+  "address": "三重県伊賀市西湯舟３６０９",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "メナード青山リゾート 霧生温泉「雅の湯」",
+  "address": "三重県伊賀市霧生２３５６",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし（公式・口コミ・一覧に記載なし）",
+  "id": null
+ },
+ {
+  "name": "パートナーズハウスゆあさ",
+  "address": "和歌山県有田郡湯浅町山田１６３８−１",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "AbosanShiiOuberuju（アボサンシーオーベルジュ）",
+  "address": "和歌山県日高郡由良町衣奈１１０８−３７",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "Dog Villa Plumeria INAMI.(プルメリア印南)",
+  "address": "和歌山県日高郡印南町島田 由留木2161-1",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ホテル浦島日昇館",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦１１６５−２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "お宿喜作",
+  "address": "和歌山県日高郡日高川町平川８９４−１",
+  "source": [
+   "gensenbank",
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "天然地魚 紀州うつぼ料理専門 今又旅館",
+  "address": "和歌山県日高郡印南町印南１７５７−２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "大江戸温泉物語Premium 越之湯",
+  "address": "和歌山県東牟婁郡那智勝浦町湯川１１０８",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ホテル浦島",
+  "address": "和歌山県東牟婁郡那智勝浦町勝浦１１６５−２",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "Grand Mercure Wakayama Minabe Resort & Spa",
+  "address": "和歌山県日高郡みなべ町山内大目津泊り348",
+  "source": [
+   "onsenlife"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "龍神温泉 料理旅館萬屋",
+  "address": "〒645-0525 和歌山県田辺市龍神村龍神47",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "紀州温泉 雑賀の湯 双子島荘",
+  "address": "〒641-0062 和歌山市雑賀崎",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "紀州温泉「天然足赤エビの宿」 新和歌ロッジ",
+  "address": "和歌山県",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "熊野古道の宿 霧の郷たかはら",
+  "address": "〒646-1416 和歌山県田辺市中辺路町高原826",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "有田川温泉 ホテルサンシャイン",
+  "address": "〒649-0312 和歌山県有田市星尾37",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "南紀白浜温泉 料理民宿 浜ぼう",
+  "address": "和歌山県西牟婁郡白浜町49-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "南紀白浜とれとれヴィレッジ",
+  "address": "和歌山県西牟婁郡白浜町堅田2508（とれとれの湯） / 2498-1（ヴィレッジ）",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "一棟貸別荘 八角屋根の家 太地",
+  "address": "和歌山県東牟婁郡太地町太地2902-57",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ホテルルートインGrand 和歌山駅東口",
+  "address": "和歌山県和歌山市黒田二丁目2番34号",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ホテルハーヴェスト南紀田辺",
+  "address": "新庄町2901-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "フェアフィールド・バイ・マリオット 和歌山熊野古道すさみ",
+  "address": "和歌山県西牟婁郡すさみ町江住",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "わんわんパラダイス プレミア 南紀白浜",
+  "address": "南紀の台1-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "まぐろと地酒の宿 民宿わかたけ",
+  "address": "朝日3-34",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "EZRA VILLA〜SHIRAHAMA〜",
+  "address": "和歌山県西牟婁郡白浜町294-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "南鳥羽・相差 食彩の湯宿 冨久家",
+  "address": "〒517-0032 三重県鳥羽市相差町462",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "鳥羽小浜温泉 ホテル浜離宮",
+  "address": "〒517-0011 三重県鳥羽市鳥羽1-22-19",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "花の小宿 重兵衛",
+  "address": "相差町1395",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "絶景海風癒し庵 新八屋",
+  "address": "〒517-0026 三重県鳥羽市石鏡町338-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "答志島温泉 波音の宿 中村屋",
+  "address": "〒517-0002 三重県鳥羽市答志島和具",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "石鏡第一ホテル 神具良（かぐら）",
+  "address": "石鏡町338-5",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "火の谷温泉 美杉リゾート",
+  "address": "〒515-3421 三重県津市美杉町八知5990",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "湯の山温泉 渓流の宿 観光旅館 蔵之助",
+  "address": "三重県三重郡菰野町湯の山温泉8625",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "海上料亭 海楽園",
+  "address": "〒517-0015 三重県鳥羽市小浜町299",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "海を望む全室露天風呂の宿 はいふう＜渡鹿野島＞",
+  "address": "三重県志摩市磯部町渡鹿野524",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "汀渚 ばさら邸",
+  "address": "阿児町鵜方3618-74",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "旅館伝洋",
+  "address": "〒517-0032 三重県鳥羽市相差町255-2",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "御宿 The Earth",
+  "address": "〒517-0026 三重県鳥羽市石鏡町中ノ山龍の栖",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "安楽島温泉 湯元 海女乃島",
+  "address": "〒517-0021 三重県鳥羽市安楽島町1075-100",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "天然温泉と漁師の宿 浜栄",
+  "address": "相差町1483-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "天然温泉 伊勢詣の湯 スーパーホテル鈴鹿",
+  "address": "〒513-0806 三重県鈴鹿市算所1-8-24",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "天然温泉 けやきの湯 ドーミーイン津",
+  "address": "〒514-0009 三重県津市羽所町374番地",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "大江戸温泉物語Premium 伊勢志摩",
+  "address": "〒517-0404 三重県志摩市浜島町浜島1035",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "国宝専修寺に在る温泉宿 高田会館",
+  "address": "三重県津市一身田町2819",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "味の宿 みち潮",
+  "address": "相差町1522-12",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "別館すずき",
+  "address": "〒517-0032 三重県鳥羽市相差町174",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "入鹿温泉ホテル瀞流荘",
+  "address": "〒519-5417 三重県熊野市紀和町入鹿",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "伊勢志摩 TEPPANオーベルジュ CaroCaro 鳥羽浦別邸",
+  "address": "〒517-0025 三重県鳥羽市本浦温泉",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "伊勢に佇む 王朝浪漫の夢見宿 斎王の宮",
+  "address": "〒516-1102 三重県伊勢市佐八町池の上1165-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "三鈴荘",
+  "address": "三重県三重郡菰野町菰野8625",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "一楽温泉ホテル",
+  "address": "〒517-0703 三重県志摩市志摩町和具奥山2582-66",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ホテルナガシマ",
+  "address": "〒511-1192 三重県桑名市長島町浦安333",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "鳥羽オーシャンリゾート",
+  "address": "〒517-0021 鳥羽市安楽島町1061-9",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ニューハートピア温泉 天然温泉 ホテル長島",
+  "address": "〒511-1109 三重県桑名市長島町松之木604-2",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "セラピーリゾート伊勢志摩",
+  "address": "〒517-0507 三重県志摩市阿児町安乗832-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ココパリゾートクラブ",
+  "address": "三重県 津市",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "オーシャンビューの宿 旅荘 海の蝶",
+  "address": "〒519-0601 三重県伊勢市二見町松下1693-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "エクセレントゴルフクラブ 一志温泉コース",
+  "address": "三重県津市一志町波瀬長谷581",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "はなしんすい －芭新萃－",
+  "address": "〒517-0026 三重県鳥羽市石鏡町187",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "ときいろのやど さとむら 季彩の宿 沙都邑",
+  "address": "志摩市阿児町甲賀42",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "TAOYA志摩",
+  "address": "浦村町白浜1826-1",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "TAOYA南志摩",
+  "address": "三重県志摩市浜島町浜島1645",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "NEMU RESORT ネムリゾート",
+  "address": "志摩市浜島町迫子2692-3",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "KKR鳥羽 いそぶえ荘",
+  "address": "〒517-0021 三重県鳥羽市安楽島町1075",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "Bali＆Resort SAYAの風",
+  "address": "安楽島町1075-26",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "鳥羽温泉郷 戸田家",
+  "address": "〒517-0011 三重県鳥羽市鳥羽1丁目24-26",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ },
+ {
+  "name": "榊原温泉 旅館 清少納言",
+  "address": "〒514-1251 津市榊原町6010",
+  "source": [
+   "gensenbank"
+  ],
+  "verdict": "除外",
+  "reason": "かけ流しの根拠なし・日帰りの表示なし（宿泊施設）",
+  "id": null
+ }
+]
