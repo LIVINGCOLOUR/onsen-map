@@ -88,7 +88,13 @@
       .picker button small { display: block; font-size: 11px; font-weight: 600; color: var(--mut); margin-top: 2px; }
       .picker button:hover { border-color: var(--accent); }
       .picker button.all { grid-column: 1 / -1; }
-      .areabtn { color: var(--txt); }
+      .areactl {
+        border: 1px solid var(--line); background: rgba(19,28,33,.9); color: var(--txt);
+        border-radius: 999px; padding: 9px 14px; font-size: 14px; font-weight: 800;
+        box-shadow: 0 4px 14px rgba(0,0,0,.4);
+      }
+      .areactl span { font-size: 11px; font-weight: 700; color: var(--accent); margin-left: 4px; }
+      .areactl:hover { border-color: var(--accent); }
       #map { flex: 1; min-height: 320px; }
       .side {
         width: 380px; overflow-y: auto; border-left: 1px solid var(--line);
@@ -159,13 +165,14 @@
         .topbar { padding: 8px 12px; gap: 6px; position: relative; }
         .brand { font-size: 15px; }
         .brand small { display: none; }
-        .rule { margin-left: auto; }
+        .topbar { flex-wrap: wrap; }
+        .brand { flex: none; }
+        .rule { margin-left: auto; flex: none; }
         .ruletxt { display: none; }
         .rule .more { position: absolute; left: 12px; right: 12px; z-index: 1400; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px; }
-        .chips { width: 100%; min-width: 0; margin-left: 0; display: grid; grid-template-columns: auto 1fr; gap: 6px; }
-        .areabtn { grid-column: 1; grid-row: 1; }
-        .search { grid-column: 2; grid-row: 1; width: 100%; }
-        .grp { grid-column: 1 / -1; display: grid; grid-template-columns: 54px repeat(3, 1fr); gap: 6px; }
+        .search { flex: 1 1 110px; min-width: 0; width: auto; max-width: 160px; }
+        .chips { width: 100%; min-width: 0; margin-left: 0; display: grid; grid-template-columns: 1fr; gap: 6px; }
+        .grp { display: grid; grid-template-columns: 54px repeat(3, 1fr); gap: 6px; }
         .grp:last-child { grid-template-columns: 54px repeat(2, 1fr) 1fr; }
         .chip { justify-content: center; padding: 6px 4px; font-size: 13px; }
         .tabs { display: flex; }
@@ -189,10 +196,9 @@
           情報は確認日時点のもので、変わっていることがあります。行く前に施設に確かめてください。<span id="updated"></span>
         </span></details>
       </div>
+      <input class="search" id="search" type="search" placeholder="名前・地名で絞る">
       <div class="chips" id="chips">
-        <button class="chip on areabtn" id="areabtn">📍 地方を選ぶ</button>
         <span id="chipset" style="display: contents"></span>
-        <input class="search" id="search" type="search" placeholder="名前・地名で絞る">
       </div>
     </div>
     <div class="tabs" id="tabs">
@@ -204,7 +210,7 @@
       <div class="picker" id="picker" hidden>
         <div class="box">
           <h2>どのあたりの温泉を見ますか？</h2>
-          <p>選んだ地方を地図いっぱいに表示します。あとから上の「地方を選ぶ」で切り替えられます。</p>
+          <p>選んだ地方を地図いっぱいに表示します。あとから地図の右下のボタンでいつでも切り替えられます。</p>
           <div class="grid" id="pickgrid"></div>
         </div>
       </div>
@@ -326,8 +332,7 @@
         else return;
         render();
       });
-      chips.addEventListener("input", (e) => {
-        if (e.target.id !== "search") return;
+      document.getElementById("search").addEventListener("input", (e) => {
         q = e.target.value;
         render();
       });
@@ -544,7 +549,8 @@
         if (g && g.box) map.fitBounds(g.box);
         else fitTo(g ? records.filter((r) => g.prefs.includes(r.prefecture)) : records);
         picker.hidden = true;
-        document.getElementById("areabtn").textContent = "📍 " + (g ? g.label : "全国");
+        const ctl = document.getElementById("areactl");
+        if (ctl) ctl.innerHTML = "📍 " + (g ? g.label : "全国") + ' <span>地方を選ぶ</span>';
         if (push) {
           const u = new URL(location.href);
           if (g) u.searchParams.set("area", g.key); else u.searchParams.delete("area");
@@ -557,7 +563,19 @@
         if (b) goArea(b.dataset.area);
       });
       picker.addEventListener("click", (e) => { if (e.target === picker) picker.hidden = true; });
-      document.getElementById("areabtn").addEventListener("click", () => { picker.hidden = false; });
+      // 地図の右下に「地方を選ぶ」ボタン。押すと最初と同じ地方選びのパネルを出す
+      const AreaControl = L.Control.extend({
+        options: { position: "bottomright" },
+        onAdd() {
+          const b = L.DomUtil.create("button", "areactl");
+          b.id = "areactl";
+          b.textContent = "📍 地方を選ぶ";
+          L.DomEvent.disableClickPropagation(b);
+          b.addEventListener("click", () => { picker.hidden = false; });
+          return b;
+        },
+      });
+      new AreaControl().addTo(map);
 
       fetch("data.json")
         .then((res) => { if (!res.ok) throw new Error("読み込み失敗 (" + res.status + ")"); return res.json(); })
