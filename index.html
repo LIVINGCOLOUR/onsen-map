@@ -242,7 +242,26 @@
       let lastKey = "";
       let q = "";
 
-      const map = L.map("map").setView([36.37, 140.25], 8);
+      // ピンは DOM ではなく 1 枚の canvas に描く（2000 件超を DOM で持つとスマホの拡大縮小がカクつく）
+      const pinRenderer = L.canvas({ padding: 0.5, tolerance: 6 });
+      const map = L.map("map", { renderer: pinRenderer }).setView([36.37, 140.25], 8);
+      const PIN_COLOR = { none: "#3ddc97", unknown: "#ffffff", yes: "#ff6b6b" };
+      // サウナありは四角に S（canvas 用に CircleMarker の描き方だけ差し替え）
+      const SquarePin = L.CircleMarker.extend({
+        _updatePath() {
+          const rd = this._renderer;
+          if (!rd._drawing || this._empty()) return;
+          const p = this._point, r = this._radius, ctx = rd._ctx;
+          ctx.beginPath();
+          ctx.rect(p.x - r, p.y - r, r * 2, r * 2);
+          rd._fillStroke(ctx, this);
+          ctx.fillStyle = "#0b1114";
+          ctx.font = "800 11px system-ui, sans-serif";
+          ctx.textAlign = "center";
+          ctx.textBaseline = "middle";
+          ctx.fillText("S", p.x, p.y + 0.5);
+        },
+      });
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 18,
         attribution: "&copy; OpenStreetMap contributors",
@@ -268,11 +287,12 @@
         return n ? '<div class="src">根拠 ' + n + " 件" + (r.checkedAt ? "・" + esc(r.checkedAt) + " 確認" : "") + "</div>" : "";
       };
 
-      const visible = (r) => map.getBounds().contains([r.lat, r.lng]);
+      // 範囲の判定は呼び出しごとに bounds を1回だけ取る
+      const inBounds = (list) => { const b = map.getBounds(); return list.filter((r) => b.contains([r.lat, r.lng])); };
 
       // 数は「いま地図に映っている範囲」のもの
       function renderChips() {
-        const inView = records.filter(visible);
+        const inView = inBounds(records);
         const cnt = (f) => inView.filter(f).length;
         chipset.innerHTML =
           CL.map((t) => '<button class="chip' + (shownCl.has(t.key) ? " on" : "") + '" data-cl="' + t.key + '"><i style="background:' + t.color + '"></i>' + t.label + " " + cnt((r) => clOf(r) === t.key) + "</button>").join("") +
@@ -361,6 +381,7 @@
         document.body.classList.toggle("list", v === "list");
         tabs.querySelectorAll("[data-view]").forEach((b) => b.classList.toggle("on", b.dataset.view === v));
         if (v === "map") map.invalidateSize();
+        else if (records.length) renderList();
       }
 
       function select(id, pan) {
@@ -399,18 +420,16 @@
 
         markers.forEach((m) => m.remove());
         markers = new Map();
+        // 後から描いたものが上に来るので、優先度の低い順に足す
         for (const r of [...hits].reverse()) {
-          const t = clDef(r);
-          const size = sauna(r) ? 18 : clOf(r) === "unknown" ? 11 : 14;
-          const m = L.marker([r.lat, r.lng], {
-            icon: L.divIcon({
-              className: "",
-              html: '<div class="pin' + (sauna(r) ? " sauna" : "") + '" style="width:' + size + "px;height:" + size + "px;background:" + t.color + '">' + (sauna(r) ? "S" : "") + "</div>",
-              iconSize: [size, size],
-              iconAnchor: [size / 2, size / 2],
-            }),
-            zIndexOffset: (6 - rank(r)) * 200,
-          }).addTo(map);
+          const k = clOf(r);
+          const opts = {
+            renderer: pinRenderer,
+            radius: sauna(r) ? 8 : k === "unknown" ? 5 : 6.5,
+            color: "#0b1114", weight: 2, opacity: 1,
+            fillColor: PIN_COLOR[k], fillOpacity: 1,
+          };
+          const m = (sauna(r) ? new SquarePin([r.lat, r.lng], opts) : L.circleMarker([r.lat, r.lng], opts)).addTo(map);
           m.on("click", () => select(r.id, false));
           markers.set(r.id, m);
         }
@@ -418,14 +437,16 @@
         renderList();
       }
 
-      // 一覧は地図に映っている範囲だけ。地図を動かすたびに作り直す
+      // 一覧は地図に映っている範囲だけ。地図を動かすたびに作り直す（スマホで一覧タブが隠れているときは作らない）
+      const LIST_MAX = 150;
       function renderList() {
         renderChips();
-        const inView = hits.filter(visible);
-        const key = hits.length + ":" + inView.map((r) => r.id).join(",");
+        const inView = inBounds(hits);
+        tabs.querySelector('[data-view="list"]').textContent = "一覧 " + inView.length + " 件";
+        if (mobile() && !document.body.classList.contains("list")) { lastKey = ""; return; }
+        const key = hits.length + ":" + inView.length + ":" + inView.slice(0, LIST_MAX).map((r) => r.id).join(",");
         if (key === lastKey) return;
         lastKey = key;
-        tabs.querySelector('[data-view="list"]').textContent = "一覧 " + inView.length + " 件";
         if (!hits.length) {
           side.innerHTML = '<div class="empty">' + (q.trim() ? "検索に合う施設がありません。" : "表示する区分を選んでください（塩素とサウナで1つ以上ずつ）。") + "</div>";
           return;
@@ -434,7 +455,8 @@
           side.innerHTML = '<div class="empty">この範囲には該当する温泉がありません。地図を縮小するか動かしてください（全体で ' + hits.length + " 件）。</div>";
           return;
         }
-        side.innerHTML = '<div class="count">地図の範囲に ' + inView.length + " 件（全体 " + hits.length + " 件。サウナあり→なし、塩素なし→不明→ありの順）</div>" + inView.map((r) => {
+        const more = inView.length > LIST_MAX ? '<div class="empty">ほかに ' + (inView.length - LIST_MAX) + " 件あります。地図を拡大すると残りも出ます。</div>" : "";
+        side.innerHTML = '<div class="count">地図の範囲に ' + inView.length + " 件（全体 " + hits.length + " 件。サウナあり→なし、塩素なし→不明→ありの順" + (more ? "。上位 " + LIST_MAX + " 件を表示" : "") + "）</div>" + inView.slice(0, LIST_MAX).map((r) => {
           const t = clDef(r);
           return (
             '<div class="card ' + t.key + (r.id === selected ? " on" : "") + (opened.has(r.id) ? " open" : "") + '" data-id="' + esc(r.id) + '">' +
@@ -461,7 +483,7 @@
               actionsHtml(r, "根拠・詳細") +
             "</div>"
           );
-        }).join("");
+        }).join("") + more;
         if (selected && !mobile()) {
           const card = side.querySelector('.card[data-id="' + CSS.escape(selected) + '"]');
           if (card) card.scrollIntoView({ block: "nearest" });
